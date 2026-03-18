@@ -5597,7 +5597,7 @@ japanese_minamoto_uda = {
 
 10001640 = {
 	name = dynasty_name_10001640
-	culture = gilyak
+	culture = nivkh
 }
 
 10001650 = {
@@ -5767,12 +5767,12 @@ japanese_minamoto_uda = {
 
 10001714 = {
 	name = dynasty_name_10001714
-	culture = gilyak
+	culture = nivkh
 }
 
 10001715 = {
 	name = dynasty_name_10001570
-	culture = gilyak
+	culture = nivkh
 }
 
 10001716 = {
@@ -5812,22 +5812,22 @@ japanese_minamoto_uda = {
 
 10001723 = {
 	name = dynasty_name_10001723
-	culture = gilyak
+	culture = nivkh
 }
 
 10001724 = {
 	name = dynasty_name_10001724
-	culture = gilyak
+	culture = nivkh
 }
 
 10001725 = {
 	name = dynasty_name_10001725
-	culture = gilyak
+	culture = nivkh
 }
 
 10001726 = {
 	name = dynasty_name_10001726
-	culture = gilyak
+	culture = nivkh
 }
 
 10001727 = {
@@ -5847,7 +5847,7 @@ japanese_minamoto_uda = {
 
 10001730 = {
 	name = dynasty_name_10001730
-	culture = gilyak
+	culture = nivkh
 }
 
 10001731 = {
@@ -20058,101 +20058,101 @@ japanese_harusumi = {
 
 38800344 = {
 	name = dynasty_name_38800344
-	culture = gilyak
+	culture = nivkh
 }
 
 38800345 = {
 	name = dynasty_name_38800345
-	culture = gilyak
+	culture = nivkh
 }
 
 38800346 = {
 	name = dynasty_name_38800346
-	culture = gilyak
+	culture = nivkh
 }
 
 38800347 = {
 	name = dynasty_name_38800347
-	culture = gilyak
+	culture = nivkh
 }
 
 38800348 = {
 	name = dynasty_name_38800348
-	culture = gilyak
+	culture = nivkh
 }
 
 38800349 = {
 	name = dynasty_name_38800349
-	culture = gilyak
+	culture = nivkh
 }
 
 38800350 = {
 	name = dynasty_name_10001756
-	culture = gilyak
+	culture = nivkh
 }
 
 38800351 = {
 	name = dynasty_name_38800351
-	culture = gilyak
+	culture = nivkh
 }
 
 38800352 = {
 	name = dynasty_name_38800352
-	culture = gilyak
+	culture = nivkh
 }
 
 38800353 = {
 	name = dynasty_name_38800353
-	culture = gilyak
+	culture = nivkh
 }
 
 39000000 = {
 	name = dynasty_name_38600341
-	culture = gilyak
+	culture = nivkh
 }
 
 39000001 = {
 	name = dynasty_name_38600342
-	culture = gilyak
+	culture = nivkh
 }
 
 39000002 = {
 	name = dynasty_name_38600343
-	culture = gilyak
+	culture = nivkh
 }
 
 39000003 = {
 	name = dynasty_name_38600344
-	culture = gilyak
+	culture = nivkh
 }
 
 39000004 = {
 	name = dynasty_name_38600345
-	culture = gilyak
+	culture = nivkh
 }
 
 39000005 = {
 	name = dynasty_name_38600346
-	culture = gilyak
+	culture = nivkh
 }
 
 39000006 = {
 	name = dynasty_name_38600347
-	culture = gilyak
+	culture = nivkh
 }
 
 39000007 = {
 	name = dynasty_name_38600348
-	culture = gilyak
+	culture = nivkh
 }
 
 39000008 = {
 	name = dynasty_name_38600349
-	culture = gilyak
+	culture = nivkh
 }
 
 39000009 = {
 	name = dynasty_name_38600350
-	culture = gilyak
+	culture = nivkh
 }
 

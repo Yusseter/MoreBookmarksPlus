@@ -2102,104 +2102,89 @@ c_gobi_ulaan_nuur = {
 }
 
 c_gobi_ulaan_govi = {
-	#867
-	848.1.2 = {
-		liege = d_ovorkhangai
-		holder = 303220		#fictional Jakha Khereid
-		government = nomad_government
-	}
-	867.6.23 = {
-		holder = 303222		#fictional Yula_Mangus Khereid
-	}
 
-
-	900.1.2 = {
-		holder = 303256		#Habich Bagatur Borjigin
+	730.1.1 = {
+		holder = MongolNew2586  # Guochang (starts at 730 as requested)
 	}
-
-	#End of Kirghiz Khanate
-	925.1.2 = {
-		liege = e_great_liao
+	
+	762.9.24 = {
+		holder = MongolNew2587  # Duomo
 	}
-	952.1.2 = {
-		holder = 303259		#Menen Tüdün Borjigin
+	
+	798.3.6 = {
+		holder = MongolNew2588  # Nieliji
 	}
-	# Liao 镇州
-	971.1.1 = { holder = khitan0010 } #耶律速撒 Yelu Susa
-	994.1.1 = { holder = 1413646 } #蕭撻里麽 Xiao Talime or 蕭撻凛/蕭撻凜 Xiao Talin or 蕭闥覽 Xiao Talan
-	1001.1.1 = { holder = khitan0011 }
-	1013.1.1 = { liege = d_ogrash  holder = 303261 } #Rebellion #Rebellinon
-	1026.3.22 = { holder = 1413535 liege = e_great_liao } #蕭孝惠 Xiao Xiaohui or 蕭惠 Xiao Hui, Khitan name 脱古思 Tuogusi
-	1032.1.1 = { holder = 1413532 } #蕭孝友 Xiao Xiaoyou, Khitan name 撻不衍 Tabuyan
-	1038.4.4 = { holder = 1413905 } #蕭塔列葛/蕭塔烈葛 Xiao Taliege until 1043.9.29
-	1052.5.9 = { holder = 1413526 } #蕭阿剌
-	1055.9.6 = { holder = 1413527 } #蕭撒八
-	1063.1.1 = { holder = 1413543 } #蕭朮里者 Xiao Shulizhe ( Julje in Khitan) or 蕭朮哲 Xiao Shuzhe or 蕭木者 Xiao Muzhe (遼蕭和妻秦國太妃耶律氏墓誌銘), Chinese name 蕭知微 Xiao Zhiwei
-	1076.7.26 = { holder = 1413529 } #蕭余里也/蕭餘里也
-	1077.6.20 = { holder = 1413758 } #蕭撒抹 Xiao Samo
-	1080.1.1 = { holder = 1413255 } #耶律撻不也里
-	#1089.1.1 = { holder = 303208 liege = e_great_liao } #Margus Buyuruk
-	1092.1.1 = { holder = 1413584 } #耶律何魯掃古 Yelü Helu Saogu
-	1093.1.2 = { holder = 1413255 } #耶律撻不也里
-	#1093.10.28 = { holder = 303208 liege = 0 } #Margus Buyuruk
-	#1095.1.1 = { holder = 1413376 } #耶律斡特剌
-	1099.12.12 = { holder = 1413930 liege = e_great_liao } #蕭得里底 Xiao Delidi
-	1101.1.1 = { holder = 1413759 } #蕭奪剌 Xiao Duola
-	1102.1.1 = { holder = 1413930 } #蕭得里底 Xiao Delidi until 1104.8.4
-	1124.1.1 = { holder = 188905 }
-	#End of Liao Dynasty
-	1125.3.26  = {
-		holder = 303209
-		liege = d_ovorkhangai		#Kurchakus
+	
+	827.7.15 = {
+		holder = MongolNew2589  # Cunju
 	}
-	1155.1.2 = {
-		holder =  303211
+	
+	856.12.8 = {
+		holder = MongolNew2590  # Yishibo
 	}
-	#Tatars defeated by the mongols
-	1203.1.2 = {
-		liege = d_otuken
-		holder = 125501		#Genghis Khan
+	
+	885.5.31 = {
+		holder = MongolNew2591  # Jingtang
 	}
-
-	1227.12.2 = {
-		holder = 172005 # Ögedei Khan
+	
+	914.10.19 = {
+		holder = MongolNew2592  # Hege
 	}
-
-	1241.12.11 = {
-		holder = 172007 # Güyük Khan ascends the throne of China
+	
+	943.1.27 = {
+		holder = MongolNew2593  # Zhaolie
 	}
-	1248.1.1 = {
-		holder = 217265 # Möngke Khan
+	
+	972.4.12 = {
+		holder = MongolNew2594  # Kegong
 	}
-	1248.4.20 = {
-		holder = 217265 # Möngke Khan ascends the throne of China (actual coronation 1251.7.1)
+	
+	1001.9.5 = {
+		holder = MongolNew2595  # Sizhong
 	}
-	1257.12.31 = {
-		holder = 125526 #Ariq Böke, likely the one Möngke favored as successor, made governor of Mongol capital
-		liege = e_mongol_empire
+	
+	1030.2.21 = {
+		holder = MongolNew2596  # Chengyou
 	}
-	1259.8.11 = {
-		holder = 217266 # Kublai Khan
+	
+	1059.5.3 = {
+		holder = MongolNew2597  # Pusanu
 	}
-	1260.5.5 = {
-		holder = 125526 # The Toluid civil war Arig-Boge controls this area.
+	
+	1088.11.14 = {
+		holder = MongolNew2598  # Yanbao
 	}
-	1264.8.21 = {
-		holder = 217266 # civil war ends Kaidu takes over
+	
+	1117.3.22 = {
+		holder = MongolNew2599  # Congshen
 	}
-	1270.1.1 = {
-		holder = 166960
-		liege = h_china
+	
+	1146.7.9 = {
+		holder = MongolNew2600  # Cunxin
 	}
-	1288.1.1 = {
-		holder = Nomukhan1
+	
+	1175.10.16 = {
+		holder = MongolNew2601  # Jiyuan
 	}
-	1320.3.1 = {
-		#holder = 217274 # Gegeen Khan ascends the throne of China
-		holder = 244011 # The Western Governor is now holder
+	
+	1204.2.28 = {
+		holder = MongolNew2602  # Chongjin
 	}
-	1333.1.1 = {
-		holder = 244012 # The Western Governor is now holder (new character, the old one dies)
+	
+	1233.6.5 = {
+		holder = MongolNew2603  # Wenjing
+	}
+	
+	1262.11.21 = {
+		holder = MongolNew2604  # Keyang
+	}
+	
+	1291.3.18 = {
+		holder = MongolNew2605  # Bazhuo
+	}
+	
+	1320.8.7 = {
+		holder = MongolNew2606  # Yitewushi (extends beyond 1337)
 	}
 
 }
@@ -30260,86 +30245,85 @@ c_em_gobidada = {
 }
 
 c_em_kherulendada = {
-	760.1.1 = {  holder = NSteppeMB49	}
-	820.1.1 = {  holder = NSteppeMB50	}
-	840.1.1 = {  holder = NSteppeMB51	}
-	860.1.1 = {  holder = NSteppeMB52	}
-	900.1.2 = {
-		holder = 303256		#Habich Bagatur Borjigin
-	}
 
-	#End of Kirghiz Khanate
-	925.1.2 = {
-		liege = 0
+	720.1.1 = {
+		holder = MongolNew638  # Baishinkhor_Dogshin
 	}
-
-	952.1.2 = {
-		holder = 303259		#Menen T�d�n Borjigin
+	
+	787.11.4 = {
+		holder = MongolNew639  # Tumbinai_Setsen
 	}
-	992.1.2 = {
-		holder = 303260		#Hachi H�l�g Borjigin
+	
+	816.3.9 = {
+		holder = MongolNew640  # Khabul
 	}
-	999.1.1 = {
-		liege = d_ogrash	#Khan of the Khamag
-		holder = 303261		#Khaidu KHAN
+	
+	845.7.18 = {
+		holder = MongolNew641  # Ambaghai
 	}
-	1030.1.2 = {
-		liege = 0	#No Khamag Khan
-		holder = 303262		#Baishinkhor Dogshin Borjigin
+	
+	873.12.21 = {
+		holder = MongolNew642  # Khutula (eldest son)
 	}
-
-	#1066
-	1060.1.1 = {
-		holder = 303267		#Tumbinai Setsen Borjigin
+	
+	901.8.26 = {
+		holder = MongolNew644  # Khadagh (eldest son of Khutula)
 	}
-	1093.1.1 = {
-		liege = d_ogrash	#Khan of the Khamag
-		holder = 303268		#Khabul KHAN Borjigin
+	
+	930.2.15 = {
+		holder = MongolNew646  # Sorkhatu
 	}
-
-	#1125 end of Liao dynasty
-
-	1148.1.1 = {
-		holder = 303266		#Ambaghai KHAN Borjigin
+	
+	959.7.22 = {
+		holder = MongolNew648  # Teguder
 	}
-	1156.1.1 = {
-		holder = 303275		#Hotula KHAN Borjigin
+	
+	988.4.19 = {
+		holder = MongolNew650  # Tegujin
 	}
-	1160.1.1 = {
-		holder = 93055		#Yesügei Borjigin
+	
+	1017.1.30 = {
+		holder = MongolNew652  # Targhutai (eldest son)
 	}
-	1171.1.1 = {
-		holder = 125501 #Supposedly his mother took him to the mountains in hiding and he eventually became a captive of the Taichuud
-		liege = d_em_wuguguo
+	
+	1046.11.2 = {
+		holder = MongolNew655  # Subugetei
 	}
-	1189.1.1 = {
-		liege = d_em_tataria
+	
+	1075.8.14 = {
+		holder = MongolNew656  # Jebe
 	}
-	1196.1.1 = {
-		holder = 166861
+	
+	1104.3.9 = {
+		holder = MongolNew657  # Mukhulai
 	}
-	1197.1.1 = {
-		liege = k_mongolia
+	
+	1133.10.27 = {
+		holder = MongolNew658  # Chormagan
 	}
-	1215.1.1 = {
-		holder = 166952
+	
+	1162.6.11 = {
+		holder = MongolNew659  # Baiju
 	}
-	1219.1.1 = {
-		liege = e_mongol_empire
+	
+	1191.1.25 = {
+		holder = MongolNew660  # Kitbuqa
 	}
-	1253.1.1 = {
-		holder = 166967
+	
+	1220.9.14 = {
+		holder = MongolNew661  # Aju
 	}
-	1255.1.2 = {
-		holder = MongolAriq
+	
+	1249.5.29 = {
+		holder = MongolNew662  # Uriyangkhadai
 	}
-
-	1302.9.28 = {
-		holder = MongolAriq1
+	
+	1278.11.12 = {
+		holder = MongolNew663  # Nayan
 	}
-
-	1328.11.23 = {
-		holder = MongolAriq2
+	
+	1307.7.23 = {
+		holder = MongolNew664  # Togha_Teumur (extends beyond 1337)
 	}
 }
 
@@ -30515,7 +30499,7 @@ c_gobi_ulaantatar = {
 
 }
 
-d_EM_yujuelu = {
+d_EM_onon = {
 	760.1.1 = {  holder = NSteppeMB201 government = nomad_government	}
 	820.1.1 = {  holder = NSteppeMB202 }
 	840.1.1 = {  holder = NSteppeMB203	}
@@ -30596,7 +30580,7 @@ c_EM_urtolgod = {
 
 	769.1.1 = {
 		holder = MongolHerder20
-		liege = d_EM_yujuelu
+		liege = d_EM_onon
 		government = herder_government
 	}
 
@@ -30675,83 +30659,72 @@ c_EM_urtolgod = {
 
 c_EM_tsetsen = {
 
-	769.1.1 = {
-		holder = MongolHerder20
-		liege = d_EM_yujuelu
+	720.1.1 = {
+		holder = MongolNew126  # Bodonchar
+		liege = d_EM_onon
 		government = herder_government
 	}
-
-	789.5.11 = {
-		holder = MongolHerder21
+	
+	758.9.18 = {
+		holder = MongolNew127  # Bagaridai (first branch - eldest son)
+	}
+	
+	785.11.3 = {
+		holder = MongolNew129  # Sengun_Bilge
+	}
+	
+	812.5.19 = {
+		holder = MongolNew132  # Khabul
+	}
+	
+	841.3.7 = {
+		holder = MongolNew135  # Ambaghai (eldest son)
+	}
+	
+	870.4.25 = {
+		holder = MongolNew139  # Khutula
+	}
+	
+	899.11.20 = {
+		holder = MongolNew144  # Barghujin
+	}
+	
+	928.1.17 = {
+		holder = MongolNew157  # Batu (switching to Jochi line)
+	}
+	
+	990.10.22 = {
+		holder = MongolNew165  # Sartaq
+	}
+	
+	1019.9.23 = {
+		holder = MongolNew171  # Nogai
+	}
+	
+	1049.2.5 = {
+		holder = MongolNew178  # Tokhta
+	}
+	
+	1077.8.29 = {
+		holder = MongolNew182  # Uzbeg
+	}
+	
+	1107.1.23 = {
+		holder = MongolNew185  # Janibeg
+	}
+	
+	1136.4.27 = {
+		holder = MongolNew187  # Berdibeg
+	}
+	
+	1165.12.30 = {
+		holder = MongolNew189  # Kulpa
+	}
+	
+	1194.7.8 = {
+		holder = MongolNew190  # Biliktü (extends to 1239, covers 1337)
 	}
 
-	820.8.29 = {
-		holder = MongolHerder22
-	}
-
-	852.4.17 = {
-		holder = MongolHerder23
-	}
-
-	884.9.14 = {
-		holder = MongolHerder24
-	}
-
-	915.10.26 = {
-		holder = MongolHerder25
-	}
-
-	947.12.3 = {
-		holder = MongolHerder26
-	}
-
-	979.1.9 = {
-		holder = MongolHerder27
-	}
-
-	1010.6.7 = {
-		holder = MongolHerder28
-	}
-
-	1042.3.15 = {
-		holder = MongolHerder29
-	}
-
-	1074.8.20 = {
-		holder = MongolHerder30
-	}
-
-	1107.2.4 = {
-		holder = MongolHerder31
-	}
-
-	1138.10.9 = {
-		holder = MongolHerder32
-	}
-
-	1170.7.27 = {
-		holder = MongolHerder33
-	}
-
-	1203.1.20 = {
-		holder = MongolHerder34
-	}
-
-	1235.4.3 = {
-		holder = MongolHerder35
-	}
-
-	1267.9.14 = {
-		holder = MongolHerder36
-	}
-
-	1300.11.25 = {
-		holder = MongolHerder37
-	}
-
-	1332.3.2 = {
-		holder = MongolHerder38
-	}
 }
 
 d_em_wuguguo = {
@@ -30998,73 +30971,90 @@ c_em_karakopi = {
 }
 
 c_em_hepung = {
-	769.1.1 = {
-		holder = Tatar1
-		government = nomad_government
-		liege = k_gobi
-	}
 
-	798.11.22 = {
-		holder = Tatar2
+	720.1.1 = {
+		holder = MongolNew713  # Bodonchar
 	}
-
-	829.5.3 = {
-		holder = Tatar3
+	
+	758.9.18 = {
+		holder = MongolNew714  # Bagaridai
 	}
-
-	855.7.19 = {
-		holder = Tatar4
+	
+	789.11.7 = {
+		holder = MongolNew715  # Menggei
 	}
-
-	886.12.30 = {
-		holder = Tatar5
+	
+	816.8.22 = {
+		holder = MongolNew716  # Khutula
 	}
-
-	919.4.28 = {
-		holder = Tatar6
+	
+	844.2.15 = {
+		holder = MongolNew717  # Bartan (eldest son)
 	}
-
-	951.8.5 = {
-		holder = Tatar7
+	
+	873.12.3 = {
+		holder = MongolNew719  # Yesugei (eldest son of Bartan)
 	}
-
-	985.1.14 = {
-		holder = Tatar8
+	
+	901.7.28 = {
+		holder = MongolNew722  # Ambaghai (eldest son of Yesugei)
 	}
-
-	1009.3.26 = {
-		holder = Tatar9
+	
+	930.1.24 = {
+		holder = MongolNew726  # Khabul (son of Ambaghai)
 	}
-
-	1040.10.9 = {
-		holder = Tatar10
+	
+	959.8.5 = {
+		holder = MongolNew730  # Khadagh (eldest son of Khabul)
 	}
-
-	1072.6.3 = {
-		holder = Tatar11
+	
+	988.2.11 = {
+		holder = MongolNew735  # Yeke (son of Khadagh)
 	}
-
-	1104.9.17 = {
-		holder = Tatar12
+	
+	1017.9.21 = {
+		holder = MongolNew740  # Buri (eldest son of Yeke)
 	}
-
-	1136.2.11 = {
-		holder = Tatar13
+	
+	1046.6.12 = {
+		holder = MongolNew746  # Todogen (son of Buri)
 	}
-
-	1164.11.29 = {
-		holder = Tatar14
+	
+	1075.10.17 = {
+		holder = MongolNew752  # Burkhan (son of Todogen)
 	}
-
-	1191.5.18 = {
-		holder = Tatar15
+	
+	1104.12.15 = {
+		holder = MongolNew758  # Tuladai (son of Burkhan)
 	}
-	#1200
-	1204.1.2 = { liege = d_em_wuguguo	}
-	1210.1.1 = { holder = NSteppeMB312 }
-	1250.1.1 = { holder = NSteppeMB313 }
-	1300.1.1 = { holder = NSteppeMB314 }
-	1325.1.1 = { holder = NSteppeMB315 }
+	
+	1133.9.8 = {
+		holder = MongolNew764  # Nayirbukha (son of Tuladai)
+	}
+	
+	1162.11.5 = {
+		holder = MongolNew770  # Daraisung (son of Nayirbukha)
+	}
+	
+	1191.8.19 = {
+		holder = MongolNew776  # Besutei (son of Daraisung)
+	}
+	
+	1220.4.28 = {
+		holder = MongolNew778  # Nayan (son of Besutei)
+	}
+	
+	1249.11.3 = {
+		holder = MongolNew780  # Khajigin (son of Nayan)
+	}
+	
+	1278.8.22 = {
+		holder = MongolNew782  # Talabuga (son of Khajigin)
+	}
+	
+	1307.3.5 = {
+		holder = MongolNew784  # Khashin (son of Talabuga, extends to 1336)
+	}
 }
 
 c_teriqan_china = {
@@ -31225,144 +31215,371 @@ d_gobi_shatuoguo = {
 }
 
 c_gobi_abakhai = {
-	760.1.1 = {  holder = NSteppeMB163 government = nomad_government	}
-	820.1.1 = {  holder = NSteppeMB164 liege = e_mongolia	}
-	840.1.1 = {  holder = NSteppeMB165	}
-	860.1.1 = {  holder = NSteppeMB166	}
-	900.1.1 = {  holder = NSteppeMB167	}
-	930.1.1 = {  holder = NSteppeMB168 liege = 0	}
-	955.1.1 = {  holder = NSteppeMB169	}
-	980.1.1 = {  holder = NSteppeMB170	}
-	1005.1.1 = { holder = NSteppeMB171	}
-	1040.1.1 = { holder = NSteppeMB172	}
-	1070.1.1 = { holder = NSteppeMB173	}
-	1100.1.1 = { holder = NSteppeMB174	}
-	1115.1.1 = { holder = NSteppeMB175	}
-	1125.1.1 = {
-		liege = 0 #Collapse of Liao
+
+	730.1.1 = {
+		holder = MongolNew2426  # Bodonchar
+		government = nomad_government
 	}
-	1140.1.1 = { holder = NSteppeMB176	}
-	1155.1.2 = {
-		holder = 303207		#Elijai
+	
+	768.11.22 = {
+		holder = MongolNew2427  # Baishinkhor_Dogshin
 	}
-	1165.1.2 = {
-		holder = tatarmongol1
+	
+	797.6.18 = {
+		holder = MongolNew2428  # Yesugei
 	}
-	1195.1.2 = {
-		holder = tatarmongol2
+	
+	826.10.5 = {
+		holder = MongolNew2429  # Burkhan
+		liege = e_mongolia
 	}
-	#1200
-	1200.1.1 = { holder = NSteppeMB311 }
-	1210.1.1 = { holder = NSteppeMB312 }
-	1250.1.1 = { holder = NSteppeMB313 }
-	1300.1.1 = { holder = NSteppeMB314 }
-	1325.1.1 = { holder = NSteppeMB315 }
+	
+	930.1.1 = { liege = 0	}
+	
+	854.2.28 = {
+		holder = MongolNew2430  # Khabichi
+	}
+	
+	883.7.19 = {
+		holder = MongolNew2431  # Todogen
+	}
+	
+	911.12.14 = {
+		holder = MongolNew2432  # Ambaghai
+	}
+	
+	940.8.3 = {
+		holder = MongolNew2433  # Khutula
+	}
+	
+	969.4.26 = {
+		holder = MongolNew2434  # Bartan
+	}
+	
+	998.1.15 = {
+		holder = MongolNew2435  # Khabul
+	}
+	
+	1027.9.8 = {
+		holder = MongolNew2436  # Barghujin
+	}
+	
+	1056.5.22 = {
+		holder = MongolNew2437  # Munglig
+	}
+	
+	1085.11.17 = {
+		holder = MongolNew2438  # Sengun_Bilge
+	}
+	
+	1114.6.30 = {
+		holder = MongolNew2439  # Borjigidai
+	}
+	
+	1143.2.12 = {
+		holder = MongolNew2440  # Tumbinai_Setsen
+	}
+	
+	1172.9.25 = {
+		holder = MongolNew2441  # Daritai (eldest son - Branch A)
+	}
+	
+	1201.5.8 = {
+		holder = MongolNew2442  # Khuyildar
+	}
+	
+	1230.11.19 = {
+		holder = MongolNew2443  # Subetei
+	}
+	
+	1259.8.3 = {
+		holder = MongolNew2444  # Hulegu
+	}
+	
+	1288.4.29 = {
+		holder = MongolNew2445  # Ghazan
+	}
+	
+	1317.12.22 = {
+		holder = MongolNew2446  # Toghtoga (extends beyond 1337)
+	}
+
 }
 
 c_gobi_abga = {
-	760.1.1 = {  holder = NSteppeMB163 government = nomad_government	}
-	820.1.1 = {  holder = NSteppeMB164 liege = e_mongolia	}
-	840.1.1 = {  holder = NSteppeMB165	}
-	860.1.1 = {  holder = NSteppeMB166	}
-	900.1.1 = {  holder = NSteppeMB167	}
-	930.1.1 = {  holder = NSteppeMB168 liege = 0	}
-	955.1.1 = {  holder = NSteppeMB169	}
-	980.1.1 = {  holder = NSteppeMB170	}
-	1005.1.1 = { holder = NSteppeMB171	}
-	1040.1.1 = { holder = NSteppeMB172	}
-	1070.1.1 = { holder = NSteppeMB173	}
-	1100.1.1 = { holder = NSteppeMB174	}
-	1115.1.1 = { holder = NSteppeMB175	}
-	1125.1.1 = {
-		liege = 0 #Collapse of Liao
+
+	730.1.1 = {
+		holder = MongolNew2522  # Yeke
+		government = nomad_government
 	}
-	1140.1.1 = { holder = NSteppeMB176	}
-	1155.1.2 = {
-		holder = 303207		#Elijai
+	
+	793.12.7 = {
+		holder = MongolNew2523  # Khabichi
 	}
-	1165.1.2 = {
-		holder = tatarmongol1
+	
+	821.7.15 = {
+		holder = MongolNew2524  # Burkhan
+		liege = e_mongolia
 	}
-	1195.1.2 = {
-		holder = tatarmongol2
+	
+	849.4.22 = {
+		holder = MongolNew2525  # Tumen
 	}
-	#1200
-	1200.1.1 = { holder = NSteppeMB311 }
-	1210.1.1 = { holder = NSteppeMB312 }
-	1250.1.1 = { holder = NSteppeMB313 }
-	1300.1.1 = { holder = NSteppeMB314 }
-	1325.1.1 = { holder = NSteppeMB315 }
+	
+	877.10.3 = {
+		holder = MongolNew2526  # Kogsegu
+	}
+	
+	905.5.18 = {
+		holder = MongolNew2527  # Megujin
+		liege = 0
+	}
+	
+	933.1.11 = {
+		holder = MongolNew2528  # Shirgugetu
+	}
+	
+	961.8.27 = {
+		holder = MongolNew2529  # Khorchi
+	}
+	
+	989.3.5 = {
+		holder = MongolNew2530  # Bagaridai
+	}
+	
+	1018.11.19 = {
+		holder = MongolNew2531  # Todogen
+	}
+	
+	1047.2.8 = {
+		holder = MongolNew2532  # Oronartai
+	}
+	
+	1075.9.14 = {
+		holder = MongolNew2533  # Nakhu
+	}
+	
+	1103.12.30 = {
+		holder = MongolNew2534  # Chaghagan
+	}
+	
+	1132.5.7 = {
+		holder = MongolNew2535  # Habich_Baghatur
+	}
+	
+	1160.10.25 = {
+		holder = MongolNew2536  # Ambaghai
+	}
+	
+	1188.2.12 = {
+		holder = MongolNew2537  # Khabul
+	}
+	
+	1217.7.18 = {
+		holder = MongolNew2538  # Bartan
+	}
+	
+	1245.12.4 = {
+		holder = MongolNew2539  # Yesugei
+	}
+	
+	1273.8.29 = {
+		holder = MongolNew2540  # Temujin
+	}
+	
+	1301.3.16 = {
+		holder = MongolNew2541  # Jochi
+	}
+	
+	1330.10.11 = {
+		holder = MongolNew2542  # Batu (extends beyond 1337)
+	}
+
 }
 
 c_gobi_sonkhot = {
-	760.1.1 = {  holder = NSteppeMB163 government = nomad_government	}
-	820.1.1 = {  holder = NSteppeMB164 liege = e_mongolia	}
-	840.1.1 = {  holder = NSteppeMB165	}
-	860.1.1 = {  holder = NSteppeMB166	}
-	900.1.1 = {  holder = NSteppeMB167	}
-	930.1.1 = {  holder = NSteppeMB168 liege = 0	}
-	955.1.1 = {  holder = NSteppeMB169	}
-	980.1.1 = {  holder = NSteppeMB170	}
-	1005.1.1 = { holder = NSteppeMB171	}
-	1040.1.1 = { holder = NSteppeMB172	}
-	1070.1.1 = { holder = NSteppeMB173	}
-	1100.1.1 = { holder = NSteppeMB174	}
-	1115.1.1 = { holder = NSteppeMB175	}
-	1125.1.1 = {
-		liege = 0 #Collapse of Liao
+
+	730.1.1 = {
+		holder = MongolNew2474  # Bodonchar
+		government = nomad_government
 	}
-	1140.1.1 = { holder = NSteppeMB176	}
-	1155.1.2 = {
-		holder = 303207		#Elijai
+	
+	768.9.22 = {
+		holder = MongolNew2475  # Khabichi
 	}
-	1165.1.2 = {
-		holder = tatarmongol1
+	
+	795.3.11 = {
+		holder = MongolNew2476  # Bartan
 	}
-	1195.1.2 = {
-		holder = tatarmongol2
+	
+	824.6.18 = {
+		holder = MongolNew2477  # Khadagh
+		liege = e_mongolia
 	}
-	#1200
-	1200.1.1 = { holder = NSteppeMB311 }
-	1210.1.1 = { holder = NSteppeMB312 }
-	1250.1.1 = { holder = NSteppeMB313 }
-	1300.1.1 = { holder = NSteppeMB314 }
-	1325.1.1 = { holder = NSteppeMB315 }
+	
+	853.10.5 = {
+		holder = MongolNew2478  # Yesugei
+	}
+	
+	882.2.28 = {
+		holder = MongolNew2479  # Ambaghai
+	}
+	
+	911.5.14 = {
+		holder = MongolNew2480  # Khutula (Branch 1 begins)
+		liege = 0
+	}
+	
+	940.8.19 = {
+		holder = MongolNew2481  # Burkhan
+	}
+	
+	969.11.7 = {
+		holder = MongolNew2482  # Guchu
+	}
+	
+	998.4.22 = {
+		holder = MongolNew2483  # Todogen
+	}
+	
+	1027.7.9 = {
+		holder = MongolNew2484  # Arkhai
+	}
+	
+	1056.10.28 = {
+		holder = MongolNew2485  # Shiraghul
+	}
+	
+	1085.3.15 = {
+		holder = MongolNew2486  # Bagaridai
+	}
+	
+	1114.6.2 = {
+		holder = MongolNew2487  # Narin
+	}
+	
+	1143.9.20 = {
+		holder = MongolNew2488  # Kogsegu
+	}
+	
+	1172.12.8 = {
+		holder = MongolNew2489  # Merokha
+	}
+	
+	1201.5.17 = {
+		holder = MongolNew2490  # Inancha
+	}
+	
+	1230.8.25 = {
+		holder = MongolNew2491  # Chulgetei
+	}
+	
+	1259.11.9 = {
+		holder = MongolNew2492  # Nayaga
+	}
+	
+	1288.4.14 = {
+		holder = MongolNew2493  # Husun
+	}
+	
+	1317.7.23 = {
+		holder = MongolNew2494  # Yokhunan (extends beyond 1337)
+	}
+
 }
 
 c_gobi_dorngovi = {
 
-	760.1.1 = {  holder = NSteppeMB163 government = nomad_government	}
-	820.1.1 = {  holder = NSteppeMB164 liege = e_mongolia	}
-	840.1.1 = {  holder = NSteppeMB165	}
-	860.1.1 = {  holder = NSteppeMB166	}
-	900.1.1 = {  holder = NSteppeMB167	}
-	930.1.1 = {  holder = NSteppeMB168 liege = 0	}
-	955.1.1 = {  holder = NSteppeMB169	}
-	980.1.1 = {  holder = NSteppeMB170	}
-	1005.1.1 = { holder = NSteppeMB171	}
-	1040.1.1 = { holder = NSteppeMB172	}
-	1070.1.1 = { holder = NSteppeMB173	}
-	1100.1.1 = { holder = NSteppeMB174	}
-	1115.1.1 = { holder = NSteppeMB175	}
-	1125.1.1 = {
-		liege = 0 #Collapse of Liao
+	730.1.1 = {
+		holder = MongolNew2543
+		government = nomad_government
 	}
-	1140.1.1 = { holder = NSteppeMB176	}
-	1155.1.2 = {
-		holder = 303207		#Elijai
+	
+	768.9.25 = {
+		holder = MongolNew2544
 	}
-	1165.1.2 = {
-		holder = tatarmongol1
+	
+	796.11.8 = {
+		holder = MongolNew2545
 	}
-	1195.1.2 = {
-		holder = tatarmongol2
+	
+	824.3.14 = {
+		holder = MongolNew2546
+		liege = e_mongolia
 	}
-	#1200
-	1200.1.1 = { holder = NSteppeMB311 }
-	1210.1.1 = { holder = NSteppeMB312 }
-	1250.1.1 = { holder = NSteppeMB313 }
-	1300.1.1 = { holder = NSteppeMB314 }
-	1325.1.1 = { holder = NSteppeMB315 }
+	
+	852.8.30 = {
+		holder = MongolNew2547
+	}
+	
+	880.6.17 = {
+		holder = MongolNew2548
+	}
+	
+	908.12.3 = {
+		holder = MongolNew2549
+		liege = 0
+	}
+	
+	937.4.6 = {
+		holder = MongolNew2550
+	}
+	
+	965.9.21 = {
+		holder = MongolNew2551
+	}
+	
+	993.7.15 = {
+		holder = MongolNew2552
+	}
+	
+	1021.1.29 = {
+		holder = MongolNew2553
+	}
+	
+	1050.8.18 = {
+		holder = MongolNew2554
+	}
+	
+	1078.4.13 = {
+		holder = MongolNew2555
+	}
+	
+	1107.11.27 = {
+		holder = MongolNew2556
+	}
+	
+	1136.7.9 = {
+		holder = MongolNew2557
+	}
+	
+	1164.2.15 = {
+		holder = MongolNew2558
+	}
+	
+	1193.9.22 = {
+		holder = MongolNew2559
+	}
+	
+	1222.5.8 = {
+		holder = MongolNew2560
+	}
+	
+	1251.12.30 = {
+		holder = MongolNew2561
+	}
+	
+	1280.7.14 = {
+		holder = MongolNew2562
+	}
+	
+	1308.3.28 = {
+		holder = MongolNew2563
+	}
+	
+	1337.10.5 = {
+		holder = MongolNew2564
+	}
 
 }
 
@@ -31554,27 +31771,93 @@ c_murin_china = {
 }
 
 c_gobi_maominggan = {
-	760.1.1 = {  holder = NSteppeMB239 government = nomad_government	}
-	820.1.1 = {  holder = NSteppeMB240	}
-	840.1.1 = {  holder = NSteppeMB241	}
-	860.1.1 = {  holder = NSteppeMB242 liege = d_zhenwu_china	}
-	900.1.1 = {  holder = NSteppeMB243	}
-	930.1.1 = {  holder = 1412442	}
-	930.1.1 = {  liege = e_great_liao }
-	955.1.1 = {  holder = NSteppeMB245	}
-	980.1.1 = {  holder = NSteppeMB246	}
-	1005.1.1 = { holder = NSteppeMB247	}
-	1040.1.1 = { holder = NSteppeMB248	}
-	1070.1.1 = { holder = NSteppeMB249	}
-	1100.1.1 = { holder = NSteppeMB250	}
-	1115.1.1 = { holder = NSteppeMB251	}
-	1130.1.1 = {  liege = e_jurchen_china }
-	1140.1.1 = { holder = NSteppeMB252	}
-	1180.1.1 = { holder = NSteppeMB253	}
-	1210.1.1 = { holder = NSteppeMB254	}
-	1250.1.1 = { holder = NSteppeMB255	}
-	1300.1.1 = { holder = NSteppeMB256	}
-	1325.1.1 = { holder = NSteppeMB257	}
+
+	730.1.1 = {
+		holder = MongolNew2565
+		government = nomad_government
+	}
+	
+	768.9.24 = {
+		holder = MongolNew2566
+	}
+	
+	795.12.5 = {
+		holder = MongolNew2567
+	}
+	
+	823.8.14 = {
+		holder = MongolNew2568
+	}
+	
+	852.4.22 = {
+		holder = MongolNew2569
+	}
+	
+	881.10.18 = {
+		holder = MongolNew2570
+	}
+	
+	910.7.6 = {
+		holder = MongolNew2571
+		liege = k_gobi
+	}
+	
+	939.1.29 = {
+		holder = MongolNew2572
+	}
+	
+	967.11.12 = {
+		holder = MongolNew2573
+	}
+	
+	996.4.8 = {
+		holder = MongolNew2574
+	}
+	
+	1024.2.14 = {
+		holder = MongolNew2575
+	}
+	
+	1052.9.27 = {
+		holder = MongolNew2576
+	}
+	
+	1081.3.19 = {
+		holder = MongolNew2577
+	}
+	
+	1110.11.5 = {
+		holder = MongolNew2578
+	}
+	
+	1139.7.23 = {
+		holder = MongolNew2579
+	}
+	
+	1168.1.30 = {
+		holder = MongolNew2580
+	}
+	
+	1196.10.16 = {
+		holder = MongolNew2581
+	}
+	
+	1225.6.4 = {
+		holder = MongolNew2582
+	}
+	
+	1254.12.21 = {
+		holder = MongolNew2583
+	}
+	
+	1283.8.9 = {
+		holder = MongolNew2584
+	}
+	
+	1312.4.2 = {
+		holder = MongolNew2585
+	}
+
 }
 c_westsurrended_china = {
 	750.9.23 = {
@@ -31664,7 +31947,7 @@ c_westsurrended_china = {
 	}
 }
 
-d_EM_onon = {
+d_khiyat_china  = {
 
 	760.1.1 = {
 		holder = Jalair1
@@ -31751,88 +32034,94 @@ d_EM_onon = {
 
 c_EM_ononum = {
 
-	760.1.1 = {
-		holder = Jalair1
+	720.1.1 = {
+		holder = MongolNew514  # Bagaridai
+		government = herder_government
 	}
-
-	791.9.22 = {
-		holder = Jalair2
+	
+	783.11.7 = {
+		holder = MongolNew515  # Borjigidai
 	}
-
-	826.11.17 = {
-		holder = Jalair3
+	
+	812.4.19 = {
+		holder = MongolNew517  # Harchu
 	}
-
-	855.4.3 = {
-		holder = Jalair4
+	
+	839.3.11 = {
+		holder = MongolNew519  # Bartan
 	}
-
-	884.12.30 = {
-		holder = Jalair5
+	
+	868.2.23 = {
+		holder = MongolNew522  # Yesugei
 	}
-
-	912.8.6 = {
-		holder = Jalair6
+	
+	897.5.2 = {
+		holder = MongolNew526  # Khabul
 	}
-
-	945.10.29 = {
-		holder = Jalair7
+	
+	926.9.25 = {
+		holder = MongolNew531  # Khuyildar
 	}
-
-	974.7.15 = {
-		holder = Jalair8
+	
+	955.10.17 = {
+		holder = MongolNew537  # Temujin
 	}
-
-	1005.3.9 = {
-		holder = Jalair9
+	
+	984.1.25 = {
+		holder = MongolNew544  # Jochi
 	}
-
-	1037.9.28 = {
-		holder = Jalair10
+	
+	1013.8.5 = {
+		holder = MongolNew550  # Batu
 	}
-
-	1069.6.14 = {
-		holder = Jalair11
+	
+	1042.12.27 = {
+		holder = MongolNew558  # Berke
 	}
-
-	1102.11.8 = {
-		holder = Jalair12
+	
+	1071.8.2 = {
+		holder = MongolNew563  # Nogai
 	}
-
-	1134.8.23 = {
-		holder = Jalair13
+	
+	1100.10.6 = {
+		holder = MongolNew567  # Tokhta
 	}
-
-	1166.1.7 = {
-		holder = Jalair14
+	
+	1129.1.8 = {
+		holder = MongolNew570  # Uzbeg
 	}
-
-	1198.12.3 = {
-		holder = Jalair15
+	
+	1158.4.3 = {
+		holder = MongolNew573  # Janibeg
 	}
-
-	1230.3.25 = {
-		holder = Jalair16
+	
+	1187.5.29 = {
+		holder = MongolNew576  # Berdibeg
 	}
-
-	1258.5.18 = {
-		holder = Jalair17
+	
+	1216.6.24 = {
+		holder = MongolNew579  # Toghtoga
 	}
-
-	1289.5.22 = {
-		holder = Jalair18
+	
+	1256.7.22 = {
+		holder = MongolNew581  # Toghon_Temur
 	}
-
-	1317.12.3 = {
-		holder = Jalair19
+	
+	1285.4.8 = {
+		holder = MongolNew582  # Ayushiridara
+	}
+	
+	1314.9.16 = {
+		holder = MongolNew583  # Yesüder
 	}
 
 }
 
 c_EM_kizilkhentii = {
-
+	
 	760.1.1 = {
 		holder = Jalair1
+		government = nomad_government
 	}
 
 	791.9.22 = {
@@ -31889,6 +32178,10 @@ c_EM_kizilkhentii = {
 
 	1198.12.3 = {
 		holder = Jalair15
+	}
+
+	1204.1.1 = {
+		liege = k_mongolia
 	}
 
 	1230.3.25 = {
@@ -31911,508 +32204,657 @@ c_EM_kizilkhentii = {
 
 c_EM_doodonon = {
 
-	760.1.1 = {
-		holder = Jalair1
+	720.1.1 = {
+		holder = MongolNew448  # Bodonchar
 	}
-
-	791.9.22 = {
-		holder = Jalair2
+	
+	758.9.18 = {
+		holder = MongolNew449  # Khabul
 	}
-
-	826.11.17 = {
-		holder = Jalair3
+	
+	789.11.3 = {
+		holder = MongolNew450  # Ambaghai
 	}
-
-	855.4.3 = {
-		holder = Jalair4
+	
+	816.6.14 = {
+		holder = MongolNew452  # Khutula
 	}
-
-	884.12.30 = {
-		holder = Jalair5
+	
+	844.8.9 = {
+		holder = MongolNew453  # Bartan
 	}
-
-	912.8.6 = {
-		holder = Jalair6
+	
+	873.3.17 = {
+		holder = MongolNew454  # Yesugei
 	}
-
-	945.10.29 = {
-		holder = Jalair7
+	
+	901.11.24 = {
+		holder = MongolNew456  # Temujin
 	}
-
-	974.7.15 = {
-		holder = Jalair8
+	
+	930.9.8 = {
+		holder = MongolNew459  # Jochi (eldest son)
 	}
-
-	1005.3.9 = {
-		holder = Jalair9
+	
+	959.6.23 = {
+		holder = MongolNew463  # Batu
 	}
-
-	1037.9.28 = {
-		holder = Jalair10
+	
+	988.7.30 = {
+		holder = MongolNew465  # Sartak
 	}
-
-	1069.6.14 = {
-		holder = Jalair11
+	
+	1017.11.21 = {
+		holder = MongolNew466  # Berke
 	}
-
-	1102.11.8 = {
-		holder = Jalair12
+	
+	1046.1.4 = {
+		holder = MongolNew467  # Nogai
 	}
-
-	1134.8.23 = {
-		holder = Jalair13
+	
+	1075.3.12 = {
+		holder = MongolNew468  # Tokhtamis
 	}
-
-	1166.1.7 = {
-		holder = Jalair14
+	
+	1104.5.26 = {
+		holder = MongolNew469  # Edigey
 	}
-
-	1198.12.3 = {
-		holder = Jalair15
+	
+	1133.7.1 = {
+		holder = MongolNew470  # Tokhta
 	}
-
-	1230.3.25 = {
-		holder = Jalair16
+	
+	1162.9.9 = {
+		holder = MongolNew471  # Talabuga
 	}
-
-	1258.5.18 = {
-		holder = Jalair17
+	
+	1191.11.27 = {
+		holder = MongolNew472  # Baybugha
 	}
-
-	1289.5.22 = {
-		holder = Jalair18
+	
+	1220.2.13 = {
+		holder = MongolNew473  # Chaghan_Temur
 	}
-
-	1317.12.3 = {
-		holder = Jalair19
+	
+	1249.3.24 = {
+		holder = MongolNew474  # Baltychak
+	}
+	
+	1278.5.2 = {
+		holder = MongolNew475  # Neguder
+	}
+	
+	1307.7.18 = {
+		holder = MongolNew476  # Ulankhatai (extends beyond 1337)
 	}
 
 }
 
 c_EM_khoyorgol = {
 
-	760.1.1 = {
-		holder = Jalair1
+	720.1.1 = {
+		holder = MongolNew365  # Bodonchar
 	}
-
-	791.9.22 = {
-		holder = Jalair2
+	
+	758.9.24 = {
+		holder = MongolNew366  # Bagaridai
 	}
-
-	826.11.17 = {
-		holder = Jalair3
+	
+	783.11.15 = {
+		holder = MongolNew368  # Menen_TU_dU_n
 	}
-
-	855.4.3 = {
-		holder = Jalair4
+	
+	811.8.22 = {
+		holder = MongolNew370  # Khachigun
 	}
-
-	884.12.30 = {
-		holder = Jalair5
+	
+	839.7.18 = {
+		holder = MongolNew372  # Semsochule
 	}
-
-	912.8.6 = {
-		holder = Jalair6
+	
+	867.10.28 = {
+		holder = MongolNew374  # Yesugei
 	}
-
-	945.10.29 = {
-		holder = Jalair7
+	
+	895.1.21 = {
+		holder = MongolNew376  # Temujin
 	}
-
-	974.7.15 = {
-		holder = Jalair8
+	
+	924.11.8 = {
+		holder = MongolNew381  # Tolui
 	}
-
-	1005.3.9 = {
-		holder = Jalair9
+	
+	963.12.24 = {
+		holder = MongolNew391  # Khubilai
 	}
-
-	1037.9.28 = {
-		holder = Jalair10
+	
+	996.9.27 = {
+		holder = MongolNew404  # Chingkim
 	}
-
-	1069.6.14 = {
-		holder = Jalair11
+	
+	1024.11.12 = {
+		holder = MongolNew411  # Temur
 	}
-
-	1102.11.8 = {
-		holder = Jalair12
+	
+	1052.4.7 = {
+		holder = MongolNew417  # Khayishan
 	}
-
-	1134.8.23 = {
-		holder = Jalair13
+	
+	1080.1.19 = {
+		holder = MongolNew423  # Toghtoga
 	}
-
-	1166.1.7 = {
-		holder = Jalair14
+	
+	1108.4.22 = {
+		holder = MongolNew428  # Rinchenpal
 	}
-
-	1198.12.3 = {
-		holder = Jalair15
+	
+	1136.1.2 = {
+		holder = MongolNew432  # Elbeg
 	}
-
-	1230.3.25 = {
-		holder = Jalair16
+	
+	1164.3.30 = {
+		holder = MongolNew434  # Manduul
 	}
-
-	1258.5.18 = {
-		holder = Jalair17
+	
+	1192.8.5 = {
+		holder = MongolNew436  # Ligdan
 	}
-
-	1289.5.22 = {
-		holder = Jalair18
+	
+	1220.11.18 = {
+		holder = MongolNew438  # Tumen
 	}
-
-	1317.12.3 = {
-		holder = Jalair19
+	
+	1248.9.12 = {
+		holder = MongolNew440  # Esen
+	}
+	
+	1276.12.30 = {
+		holder = MongolNew442  # Adai
+	}
+	
+	1304.3.24 = {
+		holder = MongolNew444  # Delbeg
+	}
+	
+	1332.1.16 = {
+		holder = MongolNew446  # Torolchi (extends beyond 1337)
 	}
 
 }
 
 c_EM_khiltsaiz = {
 
-	760.1.1 = {
-		holder = Jalair1
+	720.1.1 = {
+		holder = MongolNew273  # Bodonchar
 	}
-
-	791.9.22 = {
-		holder = Jalair2
+	
+	738.9.25 = {
+		holder = MongolNew274  # Bagaridai
 	}
-
-	826.11.17 = {
-		holder = Jalair3
+	
+	767.2.8 = {
+		holder = MongolNew276  # Burkhan
 	}
-
-	855.4.3 = {
-		holder = Jalair4
+	
+	795.7.19 = {
+		holder = MongolNew280  # Todogen
 	}
-
-	884.12.30 = {
-		holder = Jalair5
+	
+	823.8.11 = {
+		holder = MongolNew286  # Bartan
 	}
-
-	912.8.6 = {
-		holder = Jalair6
+	
+	852.2.27 = {
+		holder = MongolNew294  # Yesugei
 	}
-
-	945.10.29 = {
-		holder = Jalair7
+	
+	881.3.15 = {
+		holder = MongolNew304  # Temujin
 	}
-
-	974.7.15 = {
-		holder = Jalair8
+	
+	910.4.14 = {
+		holder = MongolNew317  # Jochi
 	}
-
-	1005.3.9 = {
-		holder = Jalair9
+	
+	939.1.22 = {
+		holder = MongolNew327  # Batu
 	}
-
-	1037.9.28 = {
-		holder = Jalair10
+	
+	968.2.3 = {
+		holder = MongolNew336  # Tokhta
 	}
-
-	1069.6.14 = {
-		holder = Jalair11
+	
+	997.12.29 = {
+		holder = MongolNew319  # Ogodei (alternate line)
 	}
-
-	1102.11.8 = {
-		holder = Jalair12
+	
+	945.6.24 = {
+		holder = MongolNew330  # Guyug
 	}
-
-	1134.8.23 = {
-		holder = Jalair13
+	
+	974.9.21 = {
+		holder = MongolNew332  # Mongke
 	}
-
-	1166.1.7 = {
-		holder = Jalair14
+	
+	979.2.23 = {
+		holder = MongolNew333  # Khubilai
 	}
-
-	1198.12.3 = {
-		holder = Jalair15
+	
+	982.5.11 = {
+		holder = MongolNew340  # Chingkim
 	}
-
-	1230.3.25 = {
-		holder = Jalair16
+	
+	1011.11.4 = {
+		holder = MongolNew344  # Temur
 	}
-
-	1258.5.18 = {
-		holder = Jalair17
+	
+	1040.9.9 = {
+		holder = MongolNew348  # Khayishan
 	}
-
-	1289.5.22 = {
-		holder = Jalair18
+	
+	1069.10.13 = {
+		holder = MongolNew349  # Ayurbawada
 	}
-
-	1317.12.3 = {
-		holder = Jalair19
+	
+	1073.1.29 = {
+		holder = MongolNew353  # Shidibala
+	}
+	
+	1102.2.16 = {
+		holder = MongolNew355  # Togh Temur
+	}
+	
+	1130.7.19 = {
+		holder = MongolNew357  # Toghon Temur
+	}
+	
+	1159.1.28 = {
+		holder = MongolNew358  # Ayushiridara
+	}
+	
+	1188.4.14 = {
+		holder = MongolNew359  # Togus Temur
+	}
+	
+	1217.6.27 = {
+		holder = MongolNew360  # Jorightu
+	}
+	
+	1246.9.10 = {
+		holder = MongolNew361  # Elbeg
+	}
+	
+	1275.11.23 = {
+		holder = MongolNew362  # Engke
+	}
+	
+	1304.2.6 = {
+		holder = MongolNew363  # Buyan
+	}
+	
+	1333.4.20 = {
+		holder = MongolNew364  # Dayan (extends beyond 1337)
 	}
 
 }
 
 c_SW_talbai = {
 
-	760.1.1 = {  holder = NSteppeMB106	}
-	820.1.1 = {  holder = NSteppeMB107	}
-	840.1.1 = {  holder = NSteppeMB108	}
-	860.1.1 = {  holder = NSteppeMB109	}
-	900.1.1 = {  holder = NSteppeMB110	}
-	930.1.1 = {  holder = NSteppeMB111	}
-	955.1.1 = {  holder = NSteppeMB112	}
-	980.1.1 = {  holder = NSteppeMB113	}
-	1005.1.1 = { holder = NSteppeMB114	}
-	1040.1.1 = { holder = NSteppeMB115	}
-	1070.1.1 = { holder = NSteppeMB116	}
-	1100.1.1 = { holder = NSteppeMB117	}
-	1115.1.1 = { holder = NSteppeMB118	}
-	1140.1.1 = { holder = NSteppeMB119	}
-	#1150
-	1150.1.1 = { holder = NSteppeMB138	}
-	1180.1.1 = { holder = NSteppeMB139	}
-	1210.1.1 = { holder = NSteppeMB140	}
-	1250.1.1 = { holder = NSteppeMB141	}
-	1285.1.1 = { liege = k_goguryeo }
-	1300.1.1 = { holder = NSteppeMB142	}
-	1325.1.1 = { holder = NSteppeMB143	}
-
+	720.1.1 = {
+		holder = MongolNew1  # Bodonchar
+		government = herder_government
+	}
+	
+	758.9.27 = {
+		holder = MongolNew2  # Bagaridai
+	}
+	
+	783.11.5 = {
+		holder = MongolNew3  # Menen_TU_dU_n
+	}
+	
+	812.6.14 = {
+		holder = MongolNew4  # Khabul
+	}
+	
+	839.2.19 = {
+		holder = MongolNew5  # Bartan
+	}
+	
+	868.8.3 = {
+		holder = MongolNew6  # Yesugei
+	}
+	
+	897.4.11 = {
+		holder = MongolNew8  # Temujin
+	}
+	
+	925.10.6 = {
+		holder = MongolNew10  # Jochi
+	}
+	
+	952.3.1 = {
+		holder = MongolNew14  # Batu
+	}
+	
+	981.11.19 = {
+		holder = MongolNew16  # Tokhta
+	}
+	
+	1010.2.23 = {
+		holder = MongolNew18  # Tokhtamis
+	}
+	
+	1039.7.5 = {
+		holder = MongolNew20  # Ulugh
+	}
+	
+	1068.1.17 = {
+		holder = MongolNew22  # Baraq
+	}
+	
+	1097.3.28 = {
+		holder = MongolNew24  # Esen
+	}
+	
+	1126.6.22 = {
+		holder = MongolNew26  # Manduul
+	}
+	
+	1155.11.1 = {
+		holder = MongolNew28  # Altan
+	}
+	
+	1184.1.8 = {
+		holder = MongolNew30  # Buyan
+	}
+	
+	1213.5.5 = {
+		holder = MongolNew32  # Elbeg
+	}
+	
+	1242.10.14 = {
+		holder = MongolNew34  # Khubilai
+	}
+	
+	1271.2.7 = {
+		holder = MongolNew36  # Chingkim
+	}
+	
+	1300.7.18 = {
+		holder = MongolNew38  # Temur
+	}
+	
+	1329.11.28 = {
+		holder = MongolNew40  # Toghon (extends beyond 1337)
+	}
+	
 }
 
 c_EM_shilka = {
 
-	760.1.1 = {
-		holder = Jalair1
+	720.1.1 = {
+		holder = MongolNew67  # Barasen
 	}
-
-	791.9.22 = {
-		holder = Jalair2
+	
+	783.11.6 = {
+		holder = MongolNew68  # Yesugei (Main Branch)
 	}
-
-	826.11.17 = {
-		holder = Jalair3
+	
+	811.5.29 = {
+		holder = MongolNew70  # Ambaghai
 	}
-
-	855.4.3 = {
-		holder = Jalair4
+	
+	839.10.11 = {
+		holder = MongolNew71  # Bartan
 	}
-
-	884.12.30 = {
-		holder = Jalair5
+	
+	867.2.15 = {
+		holder = MongolNew72  # Khutula
 	}
-
-	912.8.6 = {
-		holder = Jalair6
+	
+	895.8.24 = {
+		holder = MongolNew74  # Todogen
 	}
-
-	945.10.29 = {
-		holder = Jalair7
+	
+	923.12.5 = {
+		holder = MongolNew75  # Boroghul
 	}
-
-	974.7.15 = {
-		holder = Jalair8
+	
+	951.4.17 = {
+		holder = MongolNew77  # Jelme
 	}
-
-	1005.3.9 = {
-		holder = Jalair9
+	
+	979.5.8 = {
+		holder = MongolNew78  # Belgutei
 	}
-
-	1037.9.28 = {
-		holder = Jalair10
+	
+	1008.7.14 = {
+		holder = MongolNew79  # Daritai
 	}
-
-	1069.6.14 = {
-		holder = Jalair11
+	
+	1036.11.19 = {
+		holder = MongolNew80  # Khubilai
 	}
-
-	1102.11.8 = {
-		holder = Jalair12
+	
+	1064.3.2 = {
+		holder = MongolNew81  # Munokhoi
 	}
-
-	1134.8.23 = {
-		holder = Jalair13
+	
+	1093.8.27 = {
+		holder = MongolNew82  # Khaidu
 	}
-
-	1166.1.7 = {
-		holder = Jalair14
+	
+	1121.10.14 = {
+		holder = MongolNew83  # Buri
 	}
-
-	1198.12.3 = {
-		holder = Jalair15
+	
+	1149.5.6 = {
+		holder = MongolNew84  # Chagatai
 	}
-
-	1230.3.25 = {
-		holder = Jalair16
+	
+	1178.7.30 = {
+		holder = MongolNew85  # Batu
 	}
-
-	1258.5.18 = {
-		holder = Jalair17
+	
+	1206.11.12 = {
+		holder = MongolNew86  # Berke
 	}
-
-	1289.5.22 = {
-		holder = Jalair18
+	
+	1234.2.28 = {
+		holder = MongolNew87  # Nogai
 	}
-
-	1317.12.3 = {
-		holder = Jalair19
+	
+	1263.6.19 = {
+		holder = MongolNew88  # Tokhta
+	}
+	
+	1291.9.5 = {
+		holder = MongolNew89  # Edigey
+	}
+	
+	1319.12.17 = {
+		holder = MongolNew90  # Togha_Teumur (extends beyond 1337)
 	}
 
 }
 c_julop_china = {
 
-	760.1.1 = {
-		holder = Jalair1
+	720.1.1 = {
+		holder = MongolNew191  # Bodonchar
+		government = herder_government
 	}
-
-	791.9.22 = {
-		holder = Jalair2
+	
+	758.9.24 = {
+		holder = MongolNew192  # Bartan
 	}
-
-	826.11.17 = {
-		holder = Jalair3
+	
+	787.11.15 = {
+		holder = MongolNew193  # Tumen
 	}
-
-	855.4.3 = {
-		holder = Jalair4
+	
+	814.8.30 = {
+		holder = MongolNew194  # Khabul
 	}
-
-	884.12.30 = {
-		holder = Jalair5
+	
+	843.2.17 = {
+		holder = MongolNew195  # Ambaghai
 	}
-
-	912.8.6 = {
-		holder = Jalair6
+	
+	872.12.3 = {
+		holder = MongolNew196  # Khutula
 	}
-
-	945.10.29 = {
-		holder = Jalair7
+	
+	900.7.26 = {
+		holder = MongolNew197  # Yesugei
 	}
-
-	974.7.15 = {
-		holder = Jalair8
+	
+	929.1.19 = {
+		holder = MongolNew198  # Temujin
 	}
-
-	1005.3.9 = {
-		holder = Jalair9
+	
+	957.10.8 = {
+		holder = MongolNew201  # Jochi (eldest son)
 	}
-
-	1037.9.28 = {
-		holder = Jalair10
+	
+	986.6.14 = {
+		holder = MongolNew205  # Batu
 	}
-
-	1069.6.14 = {
-		holder = Jalair11
+	
+	1015.9.18 = {
+		holder = MongolNew207  # Berke
 	}
-
-	1102.11.8 = {
-		holder = Jalair12
+	
+	1044.8.9 = {
+		holder = MongolNew208  # Tokhta
 	}
-
-	1134.8.23 = {
-		holder = Jalair13
+	
+	1073.1.17 = {
+		holder = MongolNew209  # Nogai
 	}
-
-	1166.1.7 = {
-		holder = Jalair14
+	
+	1101.7.28 = {
+		holder = MongolNew210  # Tokhtamis
 	}
-
-	1198.12.3 = {
-		holder = Jalair15
+	
+	1130.3.6 = {
+		holder = MongolNew211  # Edigey
 	}
-
-	1230.3.25 = {
-		holder = Jalair16
+	
+	1158.8.14 = {
+		holder = MongolNew212  # Baybugha
 	}
-
-	1258.5.18 = {
-		holder = Jalair17
+	
+	1187.2.20 = {
+		holder = MongolNew213  # Neguder
 	}
-
-	1289.5.22 = {
-		holder = Jalair18
+	
+	1215.9.25 = {
+		holder = MongolNew214  # Talabuga
 	}
-
-	1317.12.3 = {
-		holder = Jalair19
+	
+	1244.6.3 = {
+		holder = MongolNew215  # Baltychak
+	}
+	
+	1273.11.12 = {
+		holder = MongolNew216  # Arughtai
+	}
+	
+	1301.5.19 = {
+		holder = MongolNew217  # Khashin
+	}
+	
+	1330.1.28 = {
+		holder = MongolNew218  # Ulankhatai (extends beyond 1337)
 	}
 
 }
 
 c_EM_yujuelu = {
 
-	767.1.1 = {
-		holder = JadranHerder1
-		liege = d_SW_dashiweiguo
-		government = herder_government
+	720.1.1 = {
+		holder = MongolNew585  # Bagaridai (starts at 720 as requested)
 	}
-
-	787.9.23 = {
-		holder = JadranHerder2
+	
+	785.11.6 = {
+		holder = MongolNew586  # Khubilai (eldest son)
 	}
-
-	816.4.17 = {
-		holder = JadranHerder3
+	
+	812.8.14 = {
+		holder = MongolNew588  # Munokhoi
 	}
-
-	847.8.9 = {
-		holder = JadranHerder4
+	
+	841.1.19 = {
+		holder = MongolNew590  # Yesugei
 	}
-
-	879.11.30 = {
-		holder = JadranHerder5
+	
+	869.7.22 = {
+		holder = MongolNew592  # Bartan
 	}
-
-	912.2.18 = {
-		holder = JadranHerder6
+	
+	898.12.15 = {
+		holder = MongolNew594  # Ambaghai
 	}
-
-	939.7.24 = {
-		holder = JadranHerder7
+	
+	927.9.8 = {
+		holder = MongolNew596  # Khabul
 	}
-
-	970.10.16 = {
-		holder = JadranHerder8
+	
+	956.11.21 = {
+		holder = MongolNew598  # Hotula
 	}
-
-	1004.3.5 = {
-		holder = JadranHerder9
+	
+	985.8.12 = {
+		holder = MongolNew600  # Barghujin
 	}
-
-	1037.12.2 = {
-		holder = JadranHerder10
+	
+	1014.10.7 = {
+		holder = MongolNew602  # Tumenbayar
 	}
-
-	1068.5.27 = {
-		holder = JadranHerder11
+	
+	1043.1.5 = {
+		holder = MongolNew604  # Baishinqor (eldest son)
 	}
-
-	1098.11.3 = {
-		holder = JadranHerder12
+	
+	1072.9.28 = {
+		holder = MongolNew607  # Dayir
 	}
-
-	1131.8.9 = {
-		holder = JadranHerder13
+	
+	1101.2.8 = {
+		holder = MongolNew610  # Khutula
 	}
-
-	1162.4.30 = {
-		holder = JadranHerder14
+	
+	1130.10.22 = {
+		holder = MongolNew613  # Yesunge
 	}
-
-	1194.12.19 = {
-		holder = JadranHerder15
+	
+	1159.8.5 = {
+		holder = MongolNew616  # Khasar
 	}
-
-	1223.6.8 = {
-		holder = JadranHerder16
+	
+	1188.1.12 = {
+		holder = MongolNew619  # Ogodei
 	}
-
-	1255.3.24 = {
-		holder = JadranHerder17
+	
+	1217.9.15 = {
+		holder = MongolNew622  # Guyug
 	}
-
-	1287.9.16 = {
-		holder = JadranHerder18
+	
+	1246.5.11 = {
+		holder = MongolNew625  # Mongke
 	}
-
-	1318.12.11 = {
-		holder = JadranHerder19
+	
+	1275.7.3 = {
+		holder = MongolNew628  # Ariq_Boke
+	}
+	
+	1304.2.14 = {
+		holder = MongolNew631  # Melik
+	}
+	
+	1333.11.9 = {
+		holder = MongolNew634  # Toq_Temur (extends beyond 1337)
 	}
 
 }
@@ -32440,104 +32882,392 @@ c_chiya_china = {
 }
 
 c_SW_heiergun = {
-	760.1.1 = {  holder = NSteppeMB106	}
-	820.1.1 = {  holder = NSteppeMB107	}
-	840.1.1 = {  holder = NSteppeMB108	}
-	860.1.1 = {  holder = NSteppeMB109	}
-	900.1.1 = {  holder = NSteppeMB110	}
-	930.1.1 = {  holder = NSteppeMB111	}
-	955.1.1 = {  holder = NSteppeMB112	}
-	980.1.1 = {  holder = NSteppeMB113	}
-	1005.1.1 = { holder = NSteppeMB114	}
-	1040.1.1 = { holder = NSteppeMB115	}
-	1070.1.1 = { holder = NSteppeMB116	}
-	1100.1.1 = { holder = NSteppeMB117	}
-	1115.1.1 = { holder = NSteppeMB118	}
-	1140.1.1 = { holder = NSteppeMB119	}
-	#1150
-	1150.1.1 = { holder = NSteppeMB138	}
-	1180.1.1 = { holder = NSteppeMB139	}
-	1210.1.1 = { holder = NSteppeMB140	}
-	1250.1.1 = { holder = NSteppeMB141	}
+	720.1.1 = {
+		holder = JadranNew565  # Bodonchar
+		government = herder_government
+	}
+	
+	758.9.27 = {
+		holder = JadranNew566  # Bartan
+	}
+	
+	760.1.1 = {
+		liege = d_SW_dashiweiguo
+	}
+	
+	789.11.4 = {
+		holder = JadranNew567  # Khubilai
+	}
+	
+	817.5.22 = {
+		holder = JadranNew568  # Ambaghai
+	}
+	
+	846.12.30 = {
+		holder = JadranNew569  # Yesugei
+	}
+	
+	874.7.8 = {
+		holder = JadranNew570  # Khabichi
+	}
+	
+	903.2.15 = {
+		holder = JadranNew571  # Tolui
+	}
+	
+	932.9.26 = {
+		holder = JadranNew572  # Boroghul
+	}
+	
+	961.4.11 = {
+		holder = JadranNew573  # Jelme
+	}
+	
+	990.11.18 = {
+		holder = JadranNew574  # Subugetei
+	}
+	
+	1019.6.29 = {
+		holder = JadranNew575  # Jebe
+	}
+	
+	1048.1.14 = {
+		holder = JadranNew576  # Borjigidai
+	}
+	
+	1077.8.2 = {
+		holder = JadranNew577  # Khasar
+	}
+	
+	1106.3.21 = {
+		holder = JadranNew578  # Belgutei
+	}
+	
+	1135.10.9 = {
+		holder = JadranNew579  # Mukhulai
+	}
+	
+	1164.5.26 = {
+		holder = JadranNew580  # Chormagan
+	}
+	
+	1193.11.12 = {
+		holder = JadranNew581  # Ogodei
+	}
+	
+	1222.7.30 = {
+		holder = JadranNew582  # Guyug (main line)
+	}
+	
+	1251.2.18 = {
+		holder = JadranNew583  # Mongke
+	}
+	
+	1280.9.8 = {
+		holder = JadranNew584  # Ariq_Boke
+	}
+	
 	1285.1.1 = { liege = k_goguryeo }
-	1300.1.1 = { holder = NSteppeMB142	}
-	1325.1.1 = { holder = NSteppeMB143	}
+	
+	1309.4.5 = {
+		holder = JadranNew585  # Teguder
+	}
 }
 
 c_SW_mengwuo = {
-	760.1.1 = {  holder = NSteppeMB106	}
-	820.1.1 = {  holder = NSteppeMB107	}
-	840.1.1 = {  holder = NSteppeMB108	}
-	860.1.1 = {  holder = NSteppeMB109	}
-	900.1.1 = {  holder = NSteppeMB110	}
-	930.1.1 = {  holder = NSteppeMB111	}
-	955.1.1 = {  holder = NSteppeMB112	}
-	980.1.1 = {  holder = NSteppeMB113	}
-	1005.1.1 = { holder = NSteppeMB114	}
-	1040.1.1 = { holder = NSteppeMB115	}
-	1070.1.1 = { holder = NSteppeMB116	}
-	1100.1.1 = { holder = NSteppeMB117	}
-	1115.1.1 = { holder = NSteppeMB118	}
-	1140.1.1 = { holder = NSteppeMB119	}
-	#1150
-	1150.1.1 = { holder = NSteppeMB138	}
-	1180.1.1 = { holder = NSteppeMB139	}
-	1210.1.1 = { holder = NSteppeMB140	}
-	1250.1.1 = { holder = NSteppeMB141	}
+
+	720.1.1 = {
+		holder = JadranNew411
+	}
+	
+	760.1.1 = {
+		liege = d_SW_dashiweiguo
+	}
+	
+	767.11.6 = {
+		holder = JadranNew412
+	}
+	
+	795.5.14 = {
+		holder = JadranNew413
+	}
+	
+	823.12.3 = {
+		holder = JadranNew414
+	}
+	
+	851.7.29 = {
+		holder = JadranNew415
+	}
+	
+	879.2.18 = {
+		holder = JadranNew416  # Main Branch
+	}
+	
+	907.9.5 = {
+		holder = JadranNew417
+	}
+	
+	935.3.28 = {
+		holder = JadranNew418
+	}
+	
+	963.10.19 = {
+		holder = JadranNew420
+	}
+	
+	991.4.12 = {
+		holder = JadranNew422
+	}
+	
+	1019.8.21 = {
+		holder = JadranNew424
+	}
+	
+	1047.12.15 = {
+		holder = JadranNew426
+	}
+	
+	1075.5.26 = {
+		holder = JadranNew428
+	}
+	
+	1103.11.2 = {
+		holder = JadranNew430
+	}
+	
+	1131.3.5 = {
+		holder = JadranNew432
+	}
+	
+	1159.7.14 = {
+		holder = JadranNew434
+	}
+	
+	1187.12.28 = {
+		holder = JadranNew436
+	}
+	
+	1215.4.19 = {
+		holder = JadranNew438
+	}
+	
+	1243.9.25 = {
+		holder = JadranNew440
+	}
+	
+	1271.2.16 = {
+		holder = JadranNew442
+	}
+	
 	1285.1.1 = { liege = k_goguryeo }
-	1300.1.1 = { holder = NSteppeMB142	}
-	1325.1.1 = { holder = NSteppeMB143	}
+	
+	1299.6.5 = {
+		holder = JadranNew444
+	}
+	
+	1327.11.27 = {
+		holder = JadranNew446  # Extends beyond 1337
+	}
 }
 
 c_SW_heiheguo = {
-	760.1.1 = {  holder = NSteppeMB106	}
-	820.1.1 = {  holder = NSteppeMB107	}
-	840.1.1 = {  holder = NSteppeMB108	}
-	860.1.1 = {  holder = NSteppeMB109	}
-	900.1.1 = {  holder = NSteppeMB110	}
-	930.1.1 = {  holder = NSteppeMB111	}
-	955.1.1 = {  holder = NSteppeMB112	}
-	980.1.1 = {  holder = NSteppeMB113	}
-	1005.1.1 = { holder = NSteppeMB114	}
-	1040.1.1 = { holder = NSteppeMB115	}
-	1070.1.1 = { holder = NSteppeMB116	}
-	1100.1.1 = { holder = NSteppeMB117	}
-	1115.1.1 = { holder = NSteppeMB118	}
-	1140.1.1 = { holder = NSteppeMB119	}
-	#1150
-	1150.1.1 = { holder = NSteppeMB138	}
-	1180.1.1 = { holder = NSteppeMB139	}
-	1210.1.1 = { holder = NSteppeMB140	}
-	1250.1.1 = { holder = NSteppeMB141	}
+
+	720.1.1 = {
+		holder = JadranNew298  # Bodonchar
+		government = herder_government
+	}
+	
+	748.9.27 = {
+		holder = JadranNew299  # Khabichi
+	}
+	
+	760.1.1 = {
+		liege = d_SW_lingxiguo
+	}
+	
+	776.3.22 = {
+		holder = JadranNew301  # Bartan (eldest son of Khabichi)
+	}
+	
+	803.1.5 = {
+		holder = JadranNew304  # Yesu
+	}
+	
+	829.8.30 = {
+		holder = JadranNew307  # Khasar
+	}
+	
+	857.10.21 = {
+		holder = JadranNew311  # Burkhan
+	}
+	
+	884.9.3 = {
+		holder = JadranNew315  # Boroghul
+	}
+	
+	911.11.19 = {
+		holder = JadranNew320  # Subetei
+	}
+	
+	938.3.12 = {
+		holder = JadranNew325  # Chormakhan
+	}
+	
+	965.8.18 = {
+		holder = JadranNew331  # Berke
+	}
+	
+	992.10.13 = {
+		holder = JadranNew337  # Tokhtamis
+	}
+	
+	1019.11.28 = {
+		holder = JadranNew343  # Qazan
+	}
+	
+	1046.8.25 = {
+		holder = JadranNew349  # Urus
+	}
+	
+	1073.10.18 = {
+		holder = JadranNew355  # Toqtamish
+	}
+	
+	1100.12.4 = {
+		holder = JadranNew361  # Temur_Qutlugh
+	}
+	
+	1127.2.18 = {
+		holder = JadranNew367  # Shadibek
+	}
+
+	1145.1.1 = {
+		holder = MongolNew993  # Toghon
+	}
+	
+	1178.9.22 = {
+		holder = MongolNew994  # Dashi (eldest son)
+	}
+	
+	1206.11.15 = {
+		holder = MongolNew997  # Tulugun (eldest son of Dashi)
+	}
+	
+	1234.8.27 = {
+		holder = MongolNew999  # Sengnu (eldest son of Tulugun)
+	}
+	
+	1263.4.9 = {
+		holder = MongolNew1002  # Jirug (eldest son of Sengnu)
+	}
+	
 	1285.1.1 = { liege = k_goguryeo }
-	1300.1.1 = { holder = NSteppeMB142	}
-	1325.1.1 = { holder = NSteppeMB143	}
+	
+	1292.3.28 = {
+		holder = MongolNew1006  # Taugui (eldest son of Jirug)
+	}
+	
+	1324.11.22 = {
+		holder = MongolNew1011  # Nolisi (son of Taugui, extends beyond 1337)
+	}
+
 }
 
 
 c_SW_ergunia = {
-	760.1.1 = {  holder = NSteppeMB106	}
-	820.1.1 = {  holder = NSteppeMB107	}
-	840.1.1 = {  holder = NSteppeMB108	}
-	860.1.1 = {  holder = NSteppeMB109	}
-	900.1.1 = {  holder = NSteppeMB110	}
-	930.1.1 = {  holder = NSteppeMB111	}
-	955.1.1 = {  holder = NSteppeMB112	}
-	980.1.1 = {  holder = NSteppeMB113	}
-	1005.1.1 = { holder = NSteppeMB114	}
-	1040.1.1 = { holder = NSteppeMB115	}
-	1070.1.1 = { holder = NSteppeMB116	}
-	1100.1.1 = { holder = NSteppeMB117	}
-	1115.1.1 = { holder = NSteppeMB118	}
-	1140.1.1 = { holder = NSteppeMB119	}
-	#1150
-	1150.1.1 = { holder = NSteppeMB138	}
-	1180.1.1 = { holder = NSteppeMB139	}
-	1210.1.1 = { holder = NSteppeMB140	}
-	1250.1.1 = { holder = NSteppeMB141	}
-	1285.1.1 = { liege = k_goguryeo }
-	1300.1.1 = { holder = NSteppeMB142	}
-	1325.1.1 = { holder = NSteppeMB143	}
+
+	720.1.1 = {
+		holder = MongolNew787  # Bagaridai
+	}
+	
+	760.1.1 = {
+		liege = d_SW_dashiweiguo
+	}
+	
+	766.11.8 = {
+		holder = MongolNew788  # Khubilai (eldest son)
+	}
+	
+	795.6.14 = {
+		holder = MongolNew790  # Buri
+	}
+	
+	824.8.29 = {
+		holder = MongolNew791  # Chagatai
+	}
+	
+	851.2.15 = {
+		holder = MongolNew792  # Jelme
+	}
+	
+	879.9.7 = {
+		holder = MongolNew793  # Subetei
+	}
+	
+	907.3.18 = {
+		holder = MongolNew794  # Tolui
+	}
+	
+	935.7.11 = {
+		holder = MongolNew795  # Mukhulai
+	}
+	
+	963.11.24 = {
+		holder = MongolNew796  # Borjigidai
+	}
+	
+	991.5.19 = {
+		holder = MongolNew797  # Khasar
+	}
+	
+	1019.10.6 = {
+		holder = MongolNew798  # Yesugei
+	}
+	
+	1047.2.23 = {
+		holder = MongolNew799  # Belgutei
+	}
+	
+	1075.8.15 = {
+		holder = MongolNew800  # Khaidu
+	}
+	
+	1103.12.28 = {
+		holder = MongolNew801  # Jochi
+	}
+	
+	1131.4.2 = {
+		holder = MongolNew802  # Batu
+	}
+	
+	1159.9.8 = {
+		holder = MongolNew803  # Ogodei
+	}
+	
+	1187.1.15 = {
+		holder = MongolNew804  # Guyug
+	}
+	
+	1215.6.22 = {
+		holder = MongolNew805  # Mongke
+	}
+	
+	1243.10.30 = {
+		holder = MongolNew806  # Hulegu
+	}
+	
+	1271.2.7 = {
+		holder = MongolNew807  # Arghun
+	}
+	
+	1299.7.14 = {
+		holder = MongolNew808  # Ghazan
+	}
+	
+	1327.11.21 = {
+		holder = MongolNew809  # Oljaitu
+	}
 }
 
 c_SW_hulunbuir = {
@@ -32604,87 +33334,89 @@ c_SW_hulunbuir = {
 }
 
 c_SW_zhongcheziguo = {
-	769.1.1 = {
-		holder = Tatar16
-		liege = d_gobi_shatuoguo
-	}
 
-	799.8.30 = {
-		holder = Tatar17
+	720.1.1 = {
+		holder = MongolNew924  # Mongun
 	}
-
-	832.4.17 = {
-		holder = Tatar18
+	
+	758.9.25 = {
+		holder = MongolNew925  # Tadar
 	}
-
-	861.11.8 = {
-		holder = Tatar19
+	
+	787.2.6 = {
+		holder = MongolNew926  # Sholban
 	}
-
-	893.3.21 = {
-		holder = Tatar20
+	
+	816.10.14 = {
+		holder = MongolNew927  # Turgun
 	}
-
-	925.6.29 = {
-		holder = Tatar21
+	
+	844.5.30 = {
+		holder = MongolNew928  # Kaadyr_ool
 	}
-
-	957.12.2 = {
-		holder = Tatar22
+	
+	873.1.28 = {
+		holder = MongolNew929  # Tyulgyu
 	}
-
-	988.9.14 = {
-		holder = Tatar23
+	
+	901.8.17 = {
+		holder = MongolNew930  # Kann_ool (Main Branch)
 	}
-
-	1019.5.7 = {
-		holder = Tatar24
+	
+	930.4.11 = {
+		holder = MongolNew932  # Kizil_ool
 	}
-
-	1051.3.25 = {
-		holder = Tatar25
+	
+	959.7.19 = {
+		holder = MongolNew933  # Adiyiji
 	}
-
-	1082.8.17 = {
-		holder = Tatar26
+	
+	988.3.22 = {
+		holder = MongolNew934  # Bady_Drozhu
 	}
-
-	1114.2.23 = {
-		holder = Tatar27
+	
+	1017.10.5 = {
+		holder = MongolNew935  # Sayan
 	}
-
-	1145.7.30 = {
-		holder = Tatar28
+	
+	1046.6.14 = {
+		holder = MongolNew936  # Aldar
 	}
-
-	1176.10.12 = {
-		holder = Tatar29
+	
+	1075.2.8 = {
+		holder = MongolNew938  # Xirlig_ool
 	}
-
-	1176.10.12 = {
-		holder = Tatar29
+	
+	1104.4.12 = {
+		holder = MongolNew939  # Dash_demir
 	}
-
-	1197.4.16 = {
-		holder = MongolHerder53
-		government = herder_government
-		liege = d_SW_heicheziguo
+	
+	1133.11.24 = {
+		holder = MongolNew940  # Buyan
 	}
-
-	1233.2.11 = {
-		holder = MongolHerder54
+	
+	1162.7.7 = {
+		holder = MongolNew941  # Kongar_ool
 	}
-
-	1265.10.29 = {
-		holder = MongolHerder55
+	
+	1191.3.19 = {
+		holder = MongolNew942  # Orlan
 	}
-
-	1298.1.21 = {
-		holder = MongolHerder56
+	
+	1220.10.1 = {
+		holder = MongolNew943  # Salchak
 	}
-
-	1330.7.26 = {
-		holder = MongolHerder57
+	
+	1249.5.15 = {
+		holder = MongolNew946  # Kaigal_ool
+	}
+	
+	1278.2.21 = {
+		holder = MongolNew947  # Mengi
+	}
+	
+	1307.4.5 = {
+		holder = MongolNew948  # Ay_demir (extends to 1336)
 	}
 
 }
@@ -32759,279 +33491,1425 @@ c_SW_dongcheziguo = {
 }
 
 c_SW_luotuoguo = {
-	760.1.1 = {  holder = NSteppeMB259 }
-	820.1.1 = {  holder = NSteppeMB260 }
-	840.1.1 = {  holder = NSteppeMB261 }
-	860.1.1 = {  holder = NSteppeMB262 }
-	900.1.1 = {  holder = NSteppeMB263 }
-	930.1.1 = {  holder = NSteppeMB264 }
-	955.1.1 = {  holder = NSteppeMB265 }
-	980.1.1 = {  holder = NSteppeMB266 }
-	1005.1.1 = { holder = NSteppeMB267 }
-	1040.1.1 = { holder = NSteppeMB268 }
-	1070.1.1 = { holder = NSteppeMB269 }
-	1100.1.1 = { holder = NSteppeMB270 }
-	1115.1.1 = { holder = NSteppeMB271 }
-	1140.1.1 = { holder = NSteppeMB272 }
-	1180.1.1 = { holder = NSteppeMB273 }
-	1210.1.1 = { holder = NSteppeMB274 }
-	1250.1.1 = { holder = NSteppeMB275 }
-	1300.1.1 = { holder = NSteppeMB276 }
-	1325.1.1 = { holder = NSteppeMB277 }
+
+	730.1.1 = {
+		holder = MongolNew1711  # Modun (first character)
+		government = nomad_government
+	}
+	
+	768.9.17 = {
+		holder = MongolNew1712  # Urelbun (main branch)
+	}
+	
+	795.11.8 = {
+		holder = MongolNew1714  # Toghon
+	}
+	
+	823.12.14 = {
+		holder = MongolNew1715  # Qanba
+	}
+	
+	851.7.3 = {
+		holder = MongolNew1716  # Shelun
+	}
+	
+	879.2.11 = {
+		holder = MongolNew1717  # Telegetu
+	}
+	
+	907.9.25 = {
+		holder = MongolNew1718  # Miyangedei
+	}
+	
+	935.3.18 = {
+		holder = MongolNew1719  # Kuge
+	}
+	
+	964.8.5 = {
+		holder = MongolNew1720  # Senggemo
+	}
+	
+	992.11.30 = {
+		holder = MongolNew1721  # Turbun
+	}
+	
+	1021.5.14 = {
+		holder = MongolNew1722  # Nalga
+	}
+	
+	1049.10.9 = {
+		holder = MongolNew1723  # Odulhar
+	}
+	
+	1077.2.23 = {
+		holder = MongolNew1724  # Temenir
+	}
+	
+	1106.7.18 = {
+		holder = MongolNew1725  # Yunduq
+	}
+	
+	1134.12.6 = {
+		holder = MongolNew1726  # Harusaugu
+	}
+	
+	1163.5.31 = {
+		holder = MongolNew1727  # Geka
+	}
+	
+	1191.10.24 = {
+		holder = MongolNew1728  # Pusar
+	}
+	
+	1219.3.15 = {
+		holder = MongolNew1729  # Balde
+	}
+	
+	1248.8.27 = {
+		holder = MongolNew1730  # Juljen
+	}
+	
+	1276.11.2 = {
+		holder = MongolNew1731  # Esenen
+	}
+	
+	1304.2.19 = {
+		holder = MongolNew1732  # Tausuwo
+	}
+	
+	1333.5.7 = {
+		holder = MongolNew1733  # Baishiwu (extends beyond 1337)
+	}
 }
 
 c_SW_nabeiguo = {
-	760.1.1 = {  holder = NSteppeMB259 }
-	820.1.1 = {  holder = NSteppeMB260 }
-	840.1.1 = {  holder = NSteppeMB261 }
-	860.1.1 = {  holder = NSteppeMB262 }
-	900.1.1 = {  holder = NSteppeMB263 }
-	930.1.1 = {  holder = NSteppeMB264 }
-	955.1.1 = {  holder = NSteppeMB265 }
-	980.1.1 = {  holder = NSteppeMB266 }
-	1005.1.1 = { holder = NSteppeMB267 }
-	1040.1.1 = { holder = NSteppeMB268 }
-	1070.1.1 = { holder = NSteppeMB269 }
-	1100.1.1 = { holder = NSteppeMB270 }
-	1115.1.1 = { holder = NSteppeMB271 }
-	1140.1.1 = { holder = NSteppeMB272 }
-	1180.1.1 = { holder = NSteppeMB273 }
-	1210.1.1 = { holder = NSteppeMB274 }
-	1250.1.1 = { holder = NSteppeMB275 }
-	1300.1.1 = { holder = NSteppeMB276 }
-	1325.1.1 = { holder = NSteppeMB277 }
+	730.1.1 = {
+		holder = MongolNew1611  # Modu (covers the 769 bookmark)
+	}
+	
+	768.11.22 = {
+		holder = MongolNew1612  # Tolui (main branch)
+	}
+	
+	797.9.8 = {
+		holder = MongolNew1614  # Qanin (main branch)
+	}
+	
+	824.3.27 = {
+		holder = MongolNew1618  # Temer (main branch)
+	}
+	
+	851.2.4 = {
+		holder = MongolNew1623  # Jabuq (main branch)
+	}
+	
+	878.4.21 = {
+		holder = MongolNew1629  # Erhi (main branch)
+	}
+	
+	905.8.3 = {
+		holder = MongolNew1635  # Shungur (main branch)
+	}
+	
+	932.2.20 = {
+		holder = MongolNew1641  # Senggemo (main branch)
+	}
+	
+	959.9.21 = {
+		holder = MongolNew1647  # Gosam (main branch)
+	}
+	
+	986.9.19 = {
+		holder = MongolNew1653  # Arasen (main branch)
+	}
+	
+	1013.7.22 = {
+		holder = MongolNew1659  # Agua (main branch)
+	}
+	
+	1040.5.26 = {
+		holder = MongolNew1665  # Toghon (main branch)
+	}
+	
+	1072.7.30 = {
+		holder = MongolNew1671  # Gauchi (main branch)
+	}
+	
+	1106.10.5 = {
+		holder = MongolNew1676  # Abachi (main branch)
+	}
+	
+	1140.1.27 = {
+		holder = MongolNew1681  # Alie (main branch)
+	}
+	
+	1174.12.9 = {
+		holder = MongolNew1686  # Qanba (main branch)
+	}
+	
+	1208.11.21 = {
+		holder = MongolNew1691  # Mersentei (main branch)
+	}
+	
+	1242.10.4 = {
+		holder = MongolNew1696  # Aguji (main branch)
+	}
+	
+	1276.9.17 = {
+		holder = MongolNew1701  # Pusuer (main branch)
+	}
+	
+	1310.8.30 = {
+		holder = MongolNew1706  # Wumer (main branch - extends past 1337)
+	}
 }
 
 c_SW_xingnabei = {
-	760.1.1 = {  holder = NSteppeMB259 }
-	820.1.1 = {  holder = NSteppeMB260 }
-	840.1.1 = {  holder = NSteppeMB261 }
-	860.1.1 = {  holder = NSteppeMB262 }
-	900.1.1 = {  holder = NSteppeMB263 }
-	930.1.1 = {  holder = NSteppeMB264 }
-	955.1.1 = {  holder = NSteppeMB265 }
-	980.1.1 = {  holder = NSteppeMB266 }
-	1005.1.1 = { holder = NSteppeMB267 }
-	1040.1.1 = { holder = NSteppeMB268 }
-	1070.1.1 = { holder = NSteppeMB269 }
-	1100.1.1 = { holder = NSteppeMB270 }
-	1115.1.1 = { holder = NSteppeMB271 }
-	1140.1.1 = { holder = NSteppeMB272 }
-	1180.1.1 = { holder = NSteppeMB273 }
-	1210.1.1 = { holder = NSteppeMB274 }
-	1250.1.1 = { holder = NSteppeMB275 }
-	1300.1.1 = { holder = NSteppeMB276 }
-	1325.1.1 = { holder = NSteppeMB277 }
+
+	730.1.1 = {
+		holder = MongolNew1546  # Modu
+	}
+	
+	768.9.23 = {
+		holder = MongolNew1547  # Tolui (eldest son)
+	}
+	
+	795.11.14 = {
+		holder = MongolNew1549  # Quduq
+	}
+	
+	823.10.8 = {
+		holder = MongolNew1550  # Harbun
+	}
+	
+	852.7.21 = {
+		holder = MongolNew1551  # Saba
+	}
+	
+	881.4.17 = {
+		holder = MongolNew1552  # Temenir
+	}
+	
+	910.12.9 = {
+		holder = MongolNew1553  # Bailisi
+	}
+	
+	939.8.29 = {
+		holder = MongolNew1554  # Ugur
+	}
+	
+	968.5.4 = {
+		holder = MongolNew1555  # Narqu
+	}
+	
+	997.11.22 = {
+		holder = MongolNew1556  # Jirug
+	}
+	
+	1026.3.15 = {
+		holder = MongolNew1557  # Wuge
+	}
+	
+	1055.9.8 = {
+		holder = MongolNew1558  # Kaigu
+	}
+	
+	1084.6.26 = {
+		holder = MongolNew1559  # Chala
+	}
+	
+	1113.2.3 = {
+		holder = MongolNew1560  # Piedie
+	}
+	
+	1142.11.18 = {
+		holder = MongolNew1561  # Urulba
+	}
+	
+	1171.7.29 = {
+		holder = MongolNew1562  # Gauba
+	}
+	
+	1200.5.12 = {
+		holder = MongolNew1563  # Tusakha
+	}
+	
+	1229.10.23 = {
+		holder = MongolNew1564  # Shungur
+	}
+	
+	1258.8.7 = {
+		holder = MongolNew1565  # Nuguda
+	}
+	
+	1287.4.15 = {
+		holder = MongolNew1566  # Langu
+	}
+	
+	1316.12.22 = {
+		holder = MongolNew1567  # Toqosen (extends beyond 1337)
+	}
+}
+
+d_SW_qingxingan = {
+
+	730.1.1 = {
+		holder = MongolNew1366  # Modu
+	}
+	
+	745.9.28 = {
+		holder = MongolNew1367  # Sageli
+	}
+	
+	772.8.14 = {
+		holder = MongolNew1368  # Toghon
+	}
+	
+	799.11.9 = {
+		holder = MongolNew1369  # Harbun
+	}
+	
+	828.6.25 = {
+		holder = MongolNew1370  # Saba
+	}
+	
+	856.3.30 = {
+		holder = MongolNew1371  # Kuge
+	}
+	
+	885.10.18 = {
+		holder = MongolNew1372  # Dolbur
+	}
+	
+	914.5.12 = {
+		holder = MongolNew1373  # Temer
+	}
+	
+	943.2.6 = {
+		holder = MongolNew1374  # Pusar
+	}
+	
+	971.7.23 = {
+		holder = MongolNew1375  # Jange
+	}
+	
+	1000.12.15 = {
+		holder = MongolNew1376  # Qanba
+	}
+	
+	1029.9.8 = {
+		holder = MongolNew1377  # Nolisi
+	}
+	
+	1058.4.3 = {
+		holder = MongolNew1378  # Bishé
+	}
+	
+	1087.11.19 = {
+		holder = MongolNew1379  # Tugur
+	}
+	
+	1116.6.28 = {
+		holder = MongolNew1380  # Sanbar
+	}
+	
+	1145.3.5 = {
+		holder = MongolNew1381  # Eduwo
+	}
+	
+	1174.8.11 = {
+		holder = MongolNew1382  # Tolui (Main Branch)
+	}
+	
+	1203.1.18 = {
+		holder = MongolNew1383  # Kenwubu
+	}
+	
+	1232.10.7 = {
+		holder = MongolNew1384  # Liuge
+	}
+	
+	1261.5.30 = {
+		holder = MongolNew1385  # Yauge
+	}
+	
+	1290.12.24 = {
+		holder = MongolNew1386  # Gauliu
+	}
+	
+	1319.9.2 = {
+		holder = MongolNew1387  # Shelun (extends beyond 1337)
+	}
 }
 
 c_SW_xinghuangtou = {
-	760.1.1 = {  holder = NSteppeMB259 }
-	820.1.1 = {  holder = NSteppeMB260 }
-	840.1.1 = {  holder = NSteppeMB261 }
-	860.1.1 = {  holder = NSteppeMB262 }
-	900.1.1 = {  holder = NSteppeMB263 }
-	930.1.1 = {  holder = NSteppeMB264 }
-	955.1.1 = {  holder = NSteppeMB265 }
-	980.1.1 = {  holder = NSteppeMB266 }
-	1005.1.1 = { holder = NSteppeMB267 }
-	1040.1.1 = { holder = NSteppeMB268 }
-	1070.1.1 = { holder = NSteppeMB269 }
-	1100.1.1 = { holder = NSteppeMB270 }
-	1115.1.1 = { holder = NSteppeMB271 }
-	1140.1.1 = { holder = NSteppeMB272 }
-	1180.1.1 = { holder = NSteppeMB273 }
-	1210.1.1 = { holder = NSteppeMB274 }
-	1250.1.1 = { holder = NSteppeMB275 }
-	1300.1.1 = { holder = NSteppeMB276 }
-	1325.1.1 = { holder = NSteppeMB277 }
+
+	730.1.1 = {
+		holder = MongolNew1366  # Modu
+	}
+	
+	745.9.28 = {
+		holder = MongolNew1367  # Sageli
+	}
+	
+	772.8.14 = {
+		holder = MongolNew1368  # Toghon
+	}
+	
+	799.11.9 = {
+		holder = MongolNew1369  # Harbun
+	}
+	
+	828.6.25 = {
+		holder = MongolNew1370  # Saba
+	}
+	
+	856.3.30 = {
+		holder = MongolNew1371  # Kuge
+	}
+	
+	885.10.18 = {
+		holder = MongolNew1372  # Dolbur
+	}
+	
+	914.5.12 = {
+		holder = MongolNew1373  # Temer
+	}
+	
+	943.2.6 = {
+		holder = MongolNew1374  # Pusar
+	}
+	
+	971.7.23 = {
+		holder = MongolNew1375  # Jange
+	}
+	
+	1000.12.15 = {
+		holder = MongolNew1376  # Qanba
+	}
+	
+	1029.9.8 = {
+		holder = MongolNew1377  # Nolisi
+	}
+	
+	1058.4.3 = {
+		holder = MongolNew1378  # Bishé
+	}
+	
+	1087.11.19 = {
+		holder = MongolNew1379  # Tugur
+	}
+	
+	1116.6.28 = {
+		holder = MongolNew1380  # Sanbar
+	}
+	
+	1145.3.5 = {
+		holder = MongolNew1381  # Eduwo
+	}
+	
+	1174.8.11 = {
+		holder = MongolNew1382  # Tolui (Main Branch)
+	}
+	
+	1203.1.18 = {
+		holder = MongolNew1383  # Kenwubu
+	}
+	
+	1232.10.7 = {
+		holder = MongolNew1384  # Liuge
+	}
+	
+	1261.5.30 = {
+		holder = MongolNew1385  # Yauge
+	}
+	
+	1290.12.24 = {
+		holder = MongolNew1386  # Gauliu
+	}
+	
+	1319.9.2 = {
+		holder = MongolNew1387  # Shelun (extends beyond 1337)
+	}
 }
 
 c_SW_huangtouguo = {
-	760.1.1 = {  holder = NSteppeMB259 }
-	820.1.1 = {  holder = NSteppeMB260 }
-	840.1.1 = {  holder = NSteppeMB261 }
-	860.1.1 = {  holder = NSteppeMB262 }
-	900.1.1 = {  holder = NSteppeMB263 }
-	930.1.1 = {  holder = NSteppeMB264 }
-	955.1.1 = {  holder = NSteppeMB265 }
-	980.1.1 = {  holder = NSteppeMB266 }
-	1005.1.1 = { holder = NSteppeMB267 }
-	1040.1.1 = { holder = NSteppeMB268 }
-	1070.1.1 = { holder = NSteppeMB269 }
-	1100.1.1 = { holder = NSteppeMB270 }
-	1115.1.1 = { holder = NSteppeMB271 }
-	1140.1.1 = { holder = NSteppeMB272 }
-	1180.1.1 = { holder = NSteppeMB273 }
-	1210.1.1 = { holder = NSteppeMB274 }
-	1250.1.1 = { holder = NSteppeMB275 }
-	1300.1.1 = { holder = NSteppeMB276 }
-	1325.1.1 = { holder = NSteppeMB277 }
+
+	730.1.1 = {
+		holder = MongolNew1431  # Modu
+		government = nomad_government
+	}
+	
+	738.9.23 = {
+		holder = MongolNew1432  # Heden
+	}
+	
+	767.11.5 = {
+		holder = MongolNew1433  # Narar
+	}
+	
+	795.6.17 = {
+		holder = MongolNew1434  # Temer
+	}
+	
+	823.1.14 = {
+		holder = MongolNew1435  # Urduor
+	}
+	
+	851.10.28 = {
+		holder = MongolNew1436  # Badarongga
+	}
+	
+	879.4.7 = {
+		holder = MongolNew1437  # Saibao
+	}
+	
+	907.9.22 = {
+		holder = MongolNew1438  # Kuge
+	}
+	
+	935.7.18 = {
+		holder = MongolNew1439  # Chala
+	}
+	
+	963.2.11 = {
+		holder = MongolNew1440  # Temenir
+	}
+	
+	991.5.25 = {
+		holder = MongolNew1441  # Salhan
+	}
+	
+	1019.8.3 = {
+		holder = MongolNew1442  # Harusaugu
+	}
+	
+	1047.1.16 = {
+		holder = MongolNew1443  # Telegetu
+	}
+	
+	1075.11.9 = {
+		holder = MongolNew1444  # Mersentei
+	}
+	
+	1103.4.28 = {
+		holder = MongolNew1445  # Oldaghar
+	}
+	
+	1131.12.19 = {
+		holder = MongolNew1446  # Manggutai
+	}
+	
+	1159.3.8 = {
+		holder = MongolNew1447  # Sige
+	}
+	
+	1187.9.30 = {
+		holder = MongolNew1448  # Tiur
+	}
+	
+	1215.6.24 = {
+		holder = MongolNew1449  # Odulhar
+	}
+	
+	1243.1.7 = {
+		holder = MongolNew1450  # Gilig
+	}
+	
+	1271.8.16 = {
+		holder = MongolNew1451  # Tabuyer
+	}
+	
+	1299.2.22 = {
+		holder = MongolNew1452  # Qanba
+	}
+	
+	1327.11.4 = {
+		holder = MongolNew1453  # Shungur (extends beyond 1337)
+	}
 }
 
 c_SW_heilonghean = {
-	760.1.1 = {  holder = NSteppeMB106	}
-	820.1.1 = {  holder = NSteppeMB107	}
-	840.1.1 = {  holder = NSteppeMB108	}
-	860.1.1 = {  holder = NSteppeMB109	}
-	900.1.1 = {  holder = NSteppeMB110	}
-	930.1.1 = {  holder = NSteppeMB111	}
-	955.1.1 = {  holder = NSteppeMB112	}
-	980.1.1 = {  holder = NSteppeMB113	}
-	1005.1.1 = { holder = NSteppeMB114	}
-	1040.1.1 = { holder = NSteppeMB115	}
-	1070.1.1 = { holder = NSteppeMB116	}
-	1100.1.1 = { holder = NSteppeMB117	}
-	1115.1.1 = { holder = NSteppeMB118	}
-	1140.1.1 = { holder = NSteppeMB119	}
-	#1150
-	1150.1.1 = { holder = NSteppeMB138	}
-	1180.1.1 = { holder = NSteppeMB139	}
-	1210.1.1 = { holder = NSteppeMB140	}
-	1250.1.1 = { holder = NSteppeMB141	}
-	1300.1.1 = { holder = NSteppeMB142	}
-	1325.1.1 = { holder = NSteppeMB143	}
+	720.1.1 = {
+		holder = JadranNew480  # Bodonchar
+	}
+	
+	758.9.25 = {
+		holder = JadranNew481  # Bartan
+	}
+	
+	760.1.1 = {
+		liege = d_SW_puyudao
+	}
+	
+	789.11.14 = {
+		holder = JadranNew482  # Khabichi
+	}
+	
+	816.8.3 = {
+		holder = JadranNew483  # Belgutei
+	}
+	
+	845.6.18 = {
+		holder = JadranNew484  # Khutula
+	}
+	
+	874.4.22 = {
+		holder = JadranNew485  # Ambaghai
+	}
+	
+	903.1.9 = {
+		holder = JadranNew486  # Torolchi
+	}
+	
+	932.7.30 = {
+		holder = JadranNew487  # Yesugei
+	}
+	
+	961.12.16 = {
+		holder = JadranNew488  # Khubilai
+	}
+	
+	990.10.4 = {
+		holder = JadranNew489  # Daritai (eldest son)
+	}
+	
+	1019.5.23 = {
+		holder = JadranNew491  # Tughachar
+	}
+	
+	1048.7.19 = {
+		holder = JadranNew492  # Nakhu
+	}
+	
+	1077.2.26 = {
+		holder = JadranNew493  # Khorchi
+	}
+	
+	1106.9.7 = {
+		holder = JadranNew494  # Subetei
+	}
+	
+	1135.8.14 = {
+		holder = JadranNew495  # Jebe
+	}
+	
+	1145.1.1 = {
+		holder = MongolNew1176  # Toqosen
+	}
+	
+	1172.8.14 = {
+		holder = MongolNew1177  # Saibao (oldest son)
+	}
+	
+	1198.11.25 = {
+		holder = MongolNew1179  # Dolbur (oldest son of Saibao)
+	}
+	
+	1227.7.19 = {
+		holder = MongolNew1181  # Manggutai (oldest son of Dolbur)
+	}
+	
+	1258.10.7 = {
+		holder = MongolNew1184  # Salhan (oldest son of Manggutai)
+	}
+	
+	1284.9.23 = {
+		holder = MongolNew1188  # Mersentei (oldest son of Salhan)
+	}
+	
+	1285.1.1 = {
+		liege = k_goguryeo
+	}
+	
+	1312.8.14 = {
+		holder = MongolNew1193  # Tusakha (oldest son of Mersentei)
+	}
+	
+	1339.10.16 = {
+		holder = MongolNew1199  # Miyanggetu (son of Tusakha, extends beyond 1337)
+	}
+}
+
+d_SW_lingxiguo = {
+	720.1.1 = {
+		holder = JadranNew224  # Bagaridai (first holder in title history)
+		government = nomad_government
+	}
+	
+	783.11.28 = {
+		holder = JadranNew225  # Khabichi (first branch)
+	}
+	
+	811.8.14 = {
+		holder = JadranNew227  # Bartan
+	}
+	
+	839.12.3 = {
+		holder = JadranNew228  # Khuyildar
+	}
+	
+	867.4.11 = {
+		holder = JadranNew229  # Narin
+	}
+	
+	895.10.17 = {
+		holder = JadranNew230  # Bugidai
+	}
+	
+	923.6.22 = {
+		holder = JadranNew231  # Tolun
+	}
+	
+	951.3.18 = {
+		holder = JadranNew232  # Oronartai
+	}
+	
+	979.9.12 = {
+		holder = JadranNew233  # Khorilartai
+	}
+	
+	1007.5.29 = {
+		holder = JadranNew234  # Megetu
+	}
+	
+	1035.11.8 = {
+		holder = JadranNew235  # Shiregi
+	}
+	
+	1063.7.15 = {
+		holder = JadranNew236  # Khutula
+	}
+	
+	1091.3.27 = {
+		holder = JadranNew237  # Ambaghai
+	}
+	
+	1119.10.4 = {
+		holder = JadranNew238  # Khabul
+	}
+	
+	1145.1.1 = {
+		holder = MongolNew1058  # Toghon
+	}
+	
+	1177.9.22 = {
+		holder = MongolNew1059  # Shelun (eldest son)
+	}
+	
+	1203.11.15 = {
+		holder = MongolNew1061  # Temenir (eldest son of Shelun)
+	}
+	
+	1229.7.18 = {
+		holder = MongolNew1063  # Saibao (eldest son of Temenir)
+	}
+	
+	1257.10.9 = {
+		holder = MongolNew1067  # Tulugun (eldest son of Saibao)
+	}
+	
+	1285.1.1 = {
+		liege = k_goguryeo
+	}
+	
+	1288.2.16 = {
+		holder = MongolNew1072  # Gauchi (eldest son of Tulugun)
+	}
+	
+	1316.4.22 = {
+		holder = MongolNew1078  # Miyanggetu (eldest son of Gauchi)
+	}
 }
 
 c_SW_lingxiguo = {
-	760.1.1 = {  holder = NSteppeMB106	}
-	820.1.1 = {  holder = NSteppeMB107	}
-	840.1.1 = {  holder = NSteppeMB108	}
-	860.1.1 = {  holder = NSteppeMB109	}
-	900.1.1 = {  holder = NSteppeMB110	}
-	930.1.1 = {  holder = NSteppeMB111	}
-	955.1.1 = {  holder = NSteppeMB112	}
-	980.1.1 = {  holder = NSteppeMB113	}
-	1005.1.1 = { holder = NSteppeMB114	}
-	1040.1.1 = { holder = NSteppeMB115	}
-	1070.1.1 = { holder = NSteppeMB116	}
-	1100.1.1 = { holder = NSteppeMB117	}
-	1115.1.1 = { holder = NSteppeMB118	}
-	1140.1.1 = { holder = NSteppeMB119	}
-	#1150
-	1150.1.1 = { holder = NSteppeMB138	}
-	1180.1.1 = { holder = NSteppeMB139	}
-	1210.1.1 = { holder = NSteppeMB140	}
-	1250.1.1 = { holder = NSteppeMB141	}
-	1300.1.1 = { holder = NSteppeMB142	}
-	1325.1.1 = { holder = NSteppeMB143	}
+	720.1.1 = {
+		holder = JadranNew224  # Bagaridai (first holder in title history)
+		government = nomad_government
+	}
+	
+	783.11.28 = {
+		holder = JadranNew225  # Khabichi (first branch)
+	}
+	
+	811.8.14 = {
+		holder = JadranNew227  # Bartan
+	}
+	
+	839.12.3 = {
+		holder = JadranNew228  # Khuyildar
+	}
+	
+	867.4.11 = {
+		holder = JadranNew229  # Narin
+	}
+	
+	895.10.17 = {
+		holder = JadranNew230  # Bugidai
+	}
+	
+	923.6.22 = {
+		holder = JadranNew231  # Tolun
+	}
+	
+	951.3.18 = {
+		holder = JadranNew232  # Oronartai
+	}
+	
+	979.9.12 = {
+		holder = JadranNew233  # Khorilartai
+	}
+	
+	1007.5.29 = {
+		holder = JadranNew234  # Megetu
+	}
+	
+	1035.11.8 = {
+		holder = JadranNew235  # Shiregi
+	}
+	
+	1063.7.15 = {
+		holder = JadranNew236  # Khutula
+	}
+	
+	1091.3.27 = {
+		holder = JadranNew237  # Ambaghai
+	}
+	
+	1119.10.4 = {
+		holder = JadranNew238  # Khabul
+	}
+	
+	1145.1.1 = {
+		holder = MongolNew1058  # Toghon
+	}
+	
+	1177.9.22 = {
+		holder = MongolNew1059  # Shelun (eldest son)
+	}
+	
+	1203.11.15 = {
+		holder = MongolNew1061  # Temenir (eldest son of Shelun)
+	}
+	
+	1229.7.18 = {
+		holder = MongolNew1063  # Saibao (eldest son of Temenir)
+	}
+	
+	1257.10.9 = {
+		holder = MongolNew1067  # Tulugun (eldest son of Saibao)
+	}
+	
+	1285.1.1 = {
+		liege = k_goguryeo
+	}
+	
+	1288.2.16 = {
+		holder = MongolNew1072  # Gauchi (eldest son of Tulugun)
+	}
+	
+	1316.4.22 = {
+		holder = MongolNew1078  # Miyanggetu (eldest son of Gauchi)
+	}
 }
 
 c_SW_powoguo = {
-	760.1.1 = {  holder = NSteppeMB106	}
-	820.1.1 = {  holder = NSteppeMB107	}
-	840.1.1 = {  holder = NSteppeMB108	}
-	860.1.1 = {  holder = NSteppeMB109	}
-	900.1.1 = {  holder = NSteppeMB110	}
-	930.1.1 = {  holder = NSteppeMB111	}
-	955.1.1 = {  holder = NSteppeMB112	}
-	980.1.1 = {  holder = NSteppeMB113	}
-	1005.1.1 = { holder = NSteppeMB114	}
-	1040.1.1 = { holder = NSteppeMB115	}
-	1070.1.1 = { holder = NSteppeMB116	}
-	1100.1.1 = { holder = NSteppeMB117	}
-	1115.1.1 = { holder = NSteppeMB118	}
-	1140.1.1 = { holder = NSteppeMB119	}
-	#1150
-	1150.1.1 = { holder = NSteppeMB138	}
-	1180.1.1 = { holder = NSteppeMB139	}
-	1210.1.1 = { holder = NSteppeMB140	}
-	1250.1.1 = { holder = NSteppeMB141	}
-	1300.1.1 = { holder = NSteppeMB142	}
-	1325.1.1 = { holder = NSteppeMB143	}
+	720.1.1 = {
+		holder = JadranNew143  # Khabul
+		government = nomad_government
+	}
+	
+	760.1.1 = {
+		liege = d_SW_lingxiguo
+	}
+	
+	783.11.8 = {
+		holder = JadranNew144  # Ambaghai (oldest son)
+	}
+	
+	811.7.19 = {
+		holder = JadranNew146  # Khutula (son of Ambaghai)
+	}
+	
+	839.3.6 = {
+		holder = JadranNew147  # Todogen
+	}
+	
+	867.10.23 = {
+		holder = JadranNew148  # Sengun_Bilge
+	}
+	
+	895.12.17 = {
+		holder = JadranNew149  # Buyan
+	}
+	
+	923.6.9 = {
+		holder = JadranNew150  # Tumen
+	}
+	
+	951.1.27 = {
+		holder = JadranNew151  # Khubilai
+	}
+	
+	979.8.15 = {
+		holder = JadranNew152  # Daraisung
+	}
+	
+	1007.3.22 = {
+		holder = JadranNew153  # Baiju
+	}
+	
+	1035.9.8 = {
+		holder = JadranNew154  # Horkhudagh
+	}
+	
+	1063.7.30 = {
+		holder = JadranNew155  # Tegujin
+	}
+	
+	1091.12.14 = {
+		holder = JadranNew156  # Kokochu
+	}
+	
+	1119.8.26 = {
+		holder = JadranNew157  # Khasar
+	}
+	
+	1145.1.1 = {
+		holder = MongolNew1496  # Toghon
+	}
+	
+	1171.8.22 = {
+		holder = MongolNew1497  # Badarongga
+	}
+	
+	1198.11.15 = {
+		holder = MongolNew1499  # Saibao
+	}
+	
+	1225.9.8 = {
+		holder = MongolNew1501  # Dilaq
+	}
+	
+	1252.3.19 = {
+		holder = MongolNew1504  # Shungur
+	}
+	
+	1279.1.7 = {
+		holder = MongolNew1508  # Sersenge
+	}
+
+	1306.5.3 = {
+		holder = MongolNew1513  # Eursi
+	}
+	
+	1333.7.22 = {
+		holder = MongolNew1519  # Manji (extends beyond 1337)
+	}
+}
+
+d_SW_puyudao = {
+
+	730.1.1 = {
+		holder = MongolNew1236  # Modu
+	}
+	
+	738.9.24 = {
+		holder = MongolNew1237  # Toghon
+	}
+	
+	769.11.3 = {
+		holder = MongolNew1238  # Narqu (main branch)
+	}
+	
+	798.6.15 = {
+		holder = MongolNew1240  # Gauchi
+	}
+	
+	826.3.8 = {
+		holder = MongolNew1241  # Telegetu
+	}
+	
+	854.12.5 = {
+		holder = MongolNew1242  # Harbun
+	}
+	
+	882.9.11 = {
+		holder = MongolNew1243  # Chengnu
+	}
+	
+	910.4.29 = {
+		holder = MongolNew1244  # Turbun
+	}
+	
+	938.1.17 = {
+		holder = MongolNew1245  # Pusuen
+	}
+	
+	966.8.4 = {
+		holder = MongolNew1246  # Tulugun
+	}
+	
+	994.5.23 = {
+		holder = MongolNew1247  # Kenagan
+	}
+	
+	1022.10.30 = {
+		holder = MongolNew1248  # Sersenge
+	}
+	
+	1050.6.14 = {
+		holder = MongolNew1249  # Mersentei
+	}
+	
+	1078.3.7 = {
+		holder = MongolNew1250  # Heden
+	}
+	
+	1106.1.19 = {
+		holder = MongolNew1251  # Miyanggetu
+	}
+	
+	1134.9.25 = {
+		holder = MongolNew1252  # Salhan
+	}
+	
+	1162.7.2 = {
+		holder = MongolNew1253  # Urulba
+	}
+	
+	1190.4.18 = {
+		holder = MongolNew1254  # Naguji
+	}
+	
+	1218.12.9 = {
+		holder = MongolNew1255  # Gilig
+	}
+	
+	1246.10.5 = {
+		holder = MongolNew1256  # Qanba
+	}
+	
+	1274.7.21 = {
+		holder = MongolNew1257  # Odulhar
+	}
+	
+	1285.1.1 = {
+		liege = k_goguryeo
+	}
+	
+	1302.3.30 = {
+		holder = MongolNew1258  # Tusakha
+	}
+	
+	1330.12.14 = {
+		holder = MongolNew1259  # Tiande (extends beyond 1337)
+	}
 }
 
 c_SW_puyuzhou = {
-	760.1.1 = {  holder = NSteppeMB106	}
-	820.1.1 = {  holder = NSteppeMB107	}
-	840.1.1 = {  holder = NSteppeMB108	}
-	860.1.1 = {  holder = NSteppeMB109	}
-	900.1.1 = {  holder = NSteppeMB110	}
-	930.1.1 = {  holder = NSteppeMB111	}
-	955.1.1 = {  holder = NSteppeMB112	}
-	980.1.1 = {  holder = NSteppeMB113	}
-	1005.1.1 = { holder = NSteppeMB114	}
-	1040.1.1 = { holder = NSteppeMB115	}
-	1070.1.1 = { holder = NSteppeMB116	}
-	1100.1.1 = { holder = NSteppeMB117	}
-	1115.1.1 = { holder = NSteppeMB118	}
-	1140.1.1 = { holder = NSteppeMB119	}
-	#1150
-	1150.1.1 = { holder = NSteppeMB138	}
-	1180.1.1 = { holder = NSteppeMB139	}
-	1210.1.1 = { holder = NSteppeMB140	}
-	1250.1.1 = { holder = NSteppeMB141	}
-	1300.1.1 = { holder = NSteppeMB142	}
-	1325.1.1 = { holder = NSteppeMB143	}
+
+	730.1.1 = {
+		holder = MongolNew1236  # Modu
+	}
+	
+	738.9.24 = {
+		holder = MongolNew1237  # Toghon
+	}
+	
+	769.11.3 = {
+		holder = MongolNew1238  # Narqu (main branch)
+	}
+	
+	798.6.15 = {
+		holder = MongolNew1240  # Gauchi
+	}
+	
+	826.3.8 = {
+		holder = MongolNew1241  # Telegetu
+	}
+	
+	854.12.5 = {
+		holder = MongolNew1242  # Harbun
+	}
+	
+	882.9.11 = {
+		holder = MongolNew1243  # Chengnu
+	}
+	
+	910.4.29 = {
+		holder = MongolNew1244  # Turbun
+	}
+	
+	938.1.17 = {
+		holder = MongolNew1245  # Pusuen
+	}
+	
+	966.8.4 = {
+		holder = MongolNew1246  # Tulugun
+	}
+	
+	994.5.23 = {
+		holder = MongolNew1247  # Kenagan
+	}
+	
+	1022.10.30 = {
+		holder = MongolNew1248  # Sersenge
+	}
+	
+	1050.6.14 = {
+		holder = MongolNew1249  # Mersentei
+	}
+	
+	1078.3.7 = {
+		holder = MongolNew1250  # Heden
+	}
+	
+	1106.1.19 = {
+		holder = MongolNew1251  # Miyanggetu
+	}
+	
+	1134.9.25 = {
+		holder = MongolNew1252  # Salhan
+	}
+	
+	1162.7.2 = {
+		holder = MongolNew1253  # Urulba
+	}
+	
+	1190.4.18 = {
+		holder = MongolNew1254  # Naguji
+	}
+	
+	1218.12.9 = {
+		holder = MongolNew1255  # Gilig
+	}
+	
+	1246.10.5 = {
+		holder = MongolNew1256  # Qanba
+	}
+	
+	1274.7.21 = {
+		holder = MongolNew1257  # Odulhar
+	}
+	
+	1285.1.1 = {
+		liege = k_goguryeo
+	}
+	
+	1302.3.30 = {
+		holder = MongolNew1258  # Tusakha
+	}
+	
+	1330.12.14 = {
+		holder = MongolNew1259  # Tiande (extends beyond 1337)
+	}
 }
 
 c_SW_damoguo = {
-	760.1.1 = {  holder = NSteppeMB106	}
-	820.1.1 = {  holder = NSteppeMB107	}
-	840.1.1 = {  holder = NSteppeMB108	}
-	860.1.1 = {  holder = NSteppeMB109	}
-	900.1.1 = {  holder = NSteppeMB110	}
-	930.1.1 = {  holder = NSteppeMB111	}
-	955.1.1 = {  holder = NSteppeMB112	}
-	980.1.1 = {  holder = NSteppeMB113	}
-	1005.1.1 = { holder = NSteppeMB114	}
-	1040.1.1 = { holder = NSteppeMB115	}
-	1070.1.1 = { holder = NSteppeMB116	}
-	1100.1.1 = { holder = NSteppeMB117	}
-	1115.1.1 = { holder = NSteppeMB118	}
-	1140.1.1 = { holder = NSteppeMB119	}
-	#1150
-	1150.1.1 = { holder = NSteppeMB138	}
-	1180.1.1 = { holder = NSteppeMB139	}
-	1210.1.1 = { holder = NSteppeMB140	}
-	1250.1.1 = { holder = NSteppeMB141	}
-	1300.1.1 = { holder = NSteppeMB142	}
-	1325.1.1 = { holder = NSteppeMB143	}
+
+	630.1.1 = {
+		holder = JadranNew1  # Bodonchar
+	}
+	
+	668.9.25 = {
+		holder = JadranNew2  # Yesugei
+	}
+	
+	697.11.4 = {
+		holder = JadranNew3  # Khabul
+	}
+	
+	726.2.15 = {
+		holder = JadranNew4  # Ambaghai
+	}
+	
+	754.6.30 = {
+		holder = JadranNew5  # Khutula
+	}
+	
+	760.1.1 = {
+		liege = d_SW_puyudao
+	}
+	
+	783.10.18 = {
+		holder = JadranNew6  # Bartan (eldest son)
+	}
+	
+	812.8.3 = {
+		holder = JadranNew8  # Yesugei (son of Bartan)
+	}
+	
+	841.12.22 = {
+		holder = JadranNew10  # Khasar (eldest son of Yesugei)
+	}
+	
+	870.7.14 = {
+		holder = JadranNew13  # Borochu (son of Khasar)
+	}
+	
+	899.3.24 = {
+		holder = JadranNew16  # Mukhulai (son of Borochu)
+	}
+	
+	928.2.5 = {
+		holder = JadranNew19  # Boroghul (son of Mukhulai)
+	}
+	
+	957.5.3 = {
+		holder = JadranNew22  # Daritai (son of Boroghul)
+	}
+	
+	986.3.9 = {
+		holder = JadranNew25  # Nayan (son of Daritai)
+	}
+	
+	1015.11.12 = {
+		holder = JadranNew28  # Khubilai (son of Nayan)
+	}
+	
+	1044.4.5 = {
+		holder = JadranNew31  # Ariq_Boke (son of Khubilai)
+	}
+	
+	1073.1.27 = {
+		holder = JadranNew34  # Berke (son of Ariq_Boke)
+	}
+	
+	1102.2.13 = {
+		holder = JadranNew37  # Nogai (son of Berke)
+	}
+	
+	1131.10.30 = {
+		holder = JadranNew40  # Tokhtamis (son of Nogai)
+	}
+
+	1145.1.1 = {
+		holder = MongolNew1113  # Saba
+	}
+	
+	1172.9.18 = {
+		holder = MongolNew1114  # Tusakha (oldest son)
+	}
+	
+	1195.11.7 = {
+		holder = MongolNew1117  # Harusaugu (oldest son of Tusakha)
+	}
+	
+	1228.5.19 = {
+		holder = MongolNew1119  # Telegetü (oldest son of Harusaugu)
+	}
+	
+	1255.12.5 = {
+		holder = MongolNew1123  # Turbun (oldest son of Telegetü)
+	}
+	
+	1285.1.1 = {
+		liege = k_goguryeo
+	}
+	
+	1286.2.24 = {
+		holder = MongolNew1128  # Beliber (oldest son of Turbun)
+	}
+	
+	1315.1.20 = {
+		holder = MongolNew1134  # Miyanggetu (oldest son of Beliber)
+	}
 }
 
 c_SW_shanbeiguo = {
-	760.1.1 = {  holder = NSteppeMB106	}
-	820.1.1 = {  holder = NSteppeMB107	}
-	840.1.1 = {  holder = NSteppeMB108	}
-	860.1.1 = {  holder = NSteppeMB109	}
-	900.1.1 = {  holder = NSteppeMB110	}
-	930.1.1 = {  holder = NSteppeMB111	}
-	955.1.1 = {  holder = NSteppeMB112	}
-	980.1.1 = {  holder = NSteppeMB113	}
-	1005.1.1 = { holder = NSteppeMB114	}
-	1040.1.1 = { holder = NSteppeMB115	}
-	1070.1.1 = { holder = NSteppeMB116	}
-	1100.1.1 = { holder = NSteppeMB117	}
-	1115.1.1 = { holder = NSteppeMB118	}
-	1140.1.1 = { holder = NSteppeMB119	}
-	#1150
-	1150.1.1 = { holder = NSteppeMB138	}
-	1180.1.1 = { holder = NSteppeMB139	}
-	1210.1.1 = { holder = NSteppeMB140	}
-	1250.1.1 = { holder = NSteppeMB141	}
-	1300.1.1 = { holder = NSteppeMB142	}
-	1325.1.1 = { holder = NSteppeMB143	}
+
+	730.1.1 = {
+		holder = MongolNew1301  # Modu
+	}
+	
+	738.9.15 = {
+		holder = MongolNew1302  # Narar
+	}
+	
+	760.1.1 = {
+		liege = d_SW_puyudao
+	}
+	
+	767.11.22 = {
+		holder = MongolNew1304  # Odulhar
+	}
+	
+	795.3.18 = {
+		holder = MongolNew1306  # Qanba
+	}
+	
+	824.7.9 = {
+		holder = MongolNew1309  # Beliber
+	}
+	
+	853.8.4 = {
+		holder = MongolNew1312  # Mersentei
+	}
+	
+	882.3.14 = {
+		holder = MongolNew1315  # Urul
+	}
+	
+	911.1.27 = {
+		holder = MongolNew1318  # Salhan
+	}
+	
+	940.9.3 = {
+		holder = MongolNew1321  # Narqu
+	}
+	
+	969.5.29 = {
+		holder = MongolNew1324  # Jabuq
+	}
+	
+	998.11.12 = {
+		holder = MongolNew1327  # Niolaq
+	}
+	
+	1027.3.22 = {
+		holder = MongolNew1330  # Toghon
+	}
+	
+	1056.7.5 = {
+		holder = MongolNew1333  # Naguji
+	}
+	
+	1085.9.14 = {
+		holder = MongolNew1336  # Turbun
+	}
+	
+	1114.10.23 = {
+		holder = MongolNew1339  # Saibao
+	}
+	
+	1143.12.5 = {
+		holder = MongolNew1342  # Saba
+	}
+	
+	1172.1.16 = {
+		holder = MongolNew1345  # Huageli
+	}
+	
+	1201.2.25 = {
+		holder = MongolNew1349  # Moluwo
+	}
+	
+	1230.8.17 = {
+		holder = MongolNew1353  # Qurs
+	}
+	
+	1259.2.9 = {
+		holder = MongolNew1357  # Yanchege
+	}
+	
+	1285.1.1 = {
+		holder = MongolNew1357  # Yanchege
+		liege = k_goguryeo
+	}
+	
+	1289.9.4 = {
+		holder = MongolNew1361  # Helujin
+	}
+	
+	1318.2.26 = {
+		holder = MongolNew1365  # Xuegu (extends beyond 1337)
+	}
 }
 
 c_SW_gonghejiang = {
-	760.1.1 = {  holder = NSteppeMB259 }
-	820.1.1 = {  holder = NSteppeMB260 }
-	840.1.1 = {  holder = NSteppeMB261 }
-	860.1.1 = {  holder = NSteppeMB262 }
-	900.1.1 = {  holder = NSteppeMB263 }
-	930.1.1 = {  holder = NSteppeMB264 }
-	955.1.1 = {  holder = NSteppeMB265 }
-	980.1.1 = {  holder = NSteppeMB266 }
-	1005.1.1 = { holder = NSteppeMB267 }
-	1040.1.1 = { holder = NSteppeMB268 }
-	1070.1.1 = { holder = NSteppeMB269 }
-	1100.1.1 = { holder = NSteppeMB270 }
-	1115.1.1 = { holder = NSteppeMB271 }
-	1140.1.1 = { holder = NSteppeMB272 }
-	1180.1.1 = { holder = NSteppeMB273 }
-	1210.1.1 = { holder = NSteppeMB274 }
-	1250.1.1 = { holder = NSteppeMB275 }
-	1300.1.1 = { holder = NSteppeMB276 }
-	1325.1.1 = { holder = NSteppeMB277 }
+
+	730.1.1 = {
+		holder = MongolNew1926  # Modu
+	}
+	
+	760.1.1 = {
+		liege = d_SW_sushenguo
+	}
+	
+	768.9.22 = {
+		holder = MongolNew1927  # Dolbur (oldest son)
+	}
+	
+	796.11.15 = {
+		holder = MongolNew1929  # Tusakha (oldest son of Dolbur)
+	}
+	
+	824.7.30 = {
+		holder = MongolNew1931  # Harbun
+	}
+	
+	852.12.9 = {
+		holder = MongolNew1933  # Toqosen
+	}
+	
+	880.1.25 = {
+		holder = MongolNew1935  # Saba
+	}
+	
+	908.4.16 = {
+		holder = MongolNew1937  # Temer
+	}
+	
+	936.12.5 = {
+		holder = MongolNew1939  # Shungur
+	}
+	
+	964.2.13 = {
+		holder = MongolNew1941  # Bolid
+	}
+	
+	992.4.3 = {
+		holder = MongolNew1943  # Senggemo
+	}
+	
+	1020.1.8 = {
+		holder = MongolNew1945  # Tumur
+	}
+	
+	1048.3.22 = {
+		holder = MongolNew1947  # Kenagan
+	}
+	
+	1076.12.16 = {
+		holder = MongolNew1949  # Nioraqan
+	}
+	
+	1104.2.5 = {
+		holder = MongolNew1951  # Tuyug
+	}
+	
+	1132.4.19 = {
+		holder = MongolNew1953  # Siken
+	}
+	
+	1160.1.27 = {
+		holder = MongolNew1955  # Telegetu
+	}
+	
+	1188.3.8 = {
+		holder = MongolNew1957  # Puxiannu
+	}
+	
+	1216.12.1 = {
+		holder = MongolNew1959  # Yunduq
+	}
+	
+	1244.2.14 = {
+		holder = MongolNew1961  # Channur
+	}
+	
+	1272.4.6 = {
+		holder = MongolNew1963  # Salhan
+	}
+	
+	1300.1.24 = {
+		holder = MongolNew1965  # Tugulgun
+	}
+	
+	1328.3.17 = {
+		holder = MongolNew1967  # Woduwo (extends beyond 1337)
+	}
 }
 
 c_SW_jiqin_hari = {
@@ -33057,109 +34935,188 @@ c_SW_jiqin_hari = {
 }
 
 c_SW_ruzhejiang = {
-	760.1.1 = {  holder = NSteppeMB259 }
-	820.1.1 = {  holder = NSteppeMB260 }
-	840.1.1 = {  holder = NSteppeMB261 }
-	860.1.1 = {  holder = NSteppeMB262 }
-	900.1.1 = {  holder = NSteppeMB263 }
-	930.1.1 = {  holder = NSteppeMB264 }
-	955.1.1 = {  holder = NSteppeMB265 }
-	980.1.1 = {  holder = NSteppeMB266 }
-	1005.1.1 = { holder = NSteppeMB267 }
-	1040.1.1 = { holder = NSteppeMB268 }
-	1070.1.1 = { holder = NSteppeMB269 }
-	1100.1.1 = { holder = NSteppeMB270 }
-	1115.1.1 = { holder = NSteppeMB271 }
-	1140.1.1 = { holder = NSteppeMB272 }
-	1180.1.1 = { holder = NSteppeMB273 }
-	1210.1.1 = { holder = NSteppeMB274 }
-	1250.1.1 = { holder = NSteppeMB275 }
-	1300.1.1 = { holder = NSteppeMB276 }
-	1325.1.1 = { holder = NSteppeMB277 }
+
+	730.1.1 = {
+		holder = MongolNew1836  # Modu
+	}
+	
+	760.1.1 = {
+		liege = d_SW_ruzheguo
+	}
+	
+	768.9.24 = {
+		holder = MongolNew1837  # Temenir
+	}
+	
+	796.11.15 = {
+		holder = MongolNew1838  # Urlenbun
+	}
+	
+	822.7.30 = {
+		holder = MongolNew1840  # Nolisi
+	}
+	
+	851.3.19 = {
+		holder = MongolNew1842  # Bailisi
+	}
+	
+	879.12.28 = {
+		holder = MongolNew1844  # Tugur
+	}
+	
+	908.6.9 = {
+		holder = MongolNew1846  # Yenge
+	}
+	
+	936.10.15 = {
+		holder = MongolNew1848  # Toqosen
+	}
+	
+	965.4.7 = {
+		holder = MongolNew1851  # Sige
+	}
+	
+	994.8.11 = {
+		holder = MongolNew1854  # Julje
+	}
+	
+	1023.9.28 = {
+		holder = MongolNew1858  # Mersentei
+	}
+	
+	1052.11.8 = {
+		holder = MongolNew1862  # Tolui
+	}
+	
+	1083.1.26 = {
+		holder = MongolNew1867  # Sadi
+	}
+	
+	1112.3.19 = {
+		holder = MongolNew1872  # Aguchu
+	}
+	
+	1141.4.12 = {
+		holder = MongolNew1878  # Pyen
+	}
+	
+	1170.1.8 = {
+		holder = MongolNew1884  # Qanin
+	}
+	
+	1199.3.24 = {
+		holder = MongolNew1891  # Moruq
+	}
+	
+	1228.5.17 = {
+		holder = MongolNew1898  # Heden
+	}
+	
+	1257.7.11 = {
+		holder = MongolNew1905  # Odulhar
+	}
+	
+	1286.4.15 = {
+		holder = MongolNew1912  # Urulba
+	}
+	
+	1315.8.8 = {
+		holder = MongolNew1919  # Yunduq (extends beyond 1337)
+	}
 }
 
 c_SW_dongruzhe = {
-	760.1.1 = {  holder = NSteppeMB259 }
-	820.1.1 = {  holder = NSteppeMB260 }
-	840.1.1 = {  holder = NSteppeMB261 }
-	860.1.1 = {  holder = NSteppeMB262 }
-	900.1.1 = {  holder = NSteppeMB263 }
-	930.1.1 = {  holder = NSteppeMB264 }
-	955.1.1 = {  holder = NSteppeMB265 }
-	980.1.1 = {  holder = NSteppeMB266 }
-	1005.1.1 = { holder = NSteppeMB267 }
-	1040.1.1 = { holder = NSteppeMB268 }
-	1070.1.1 = { holder = NSteppeMB269 }
-	1100.1.1 = { holder = NSteppeMB270 }
-	1115.1.1 = { holder = NSteppeMB271 }
-	1140.1.1 = { holder = NSteppeMB272 }
-	1180.1.1 = { holder = NSteppeMB273 }
-	1210.1.1 = { holder = NSteppeMB274 }
-	1250.1.1 = { holder = NSteppeMB275 }
-	1300.1.1 = { holder = NSteppeMB276 }
-	1325.1.1 = { holder = NSteppeMB277 }
+
+	730.1.1 = {
+		holder = MongolNew1776  # Modu
+	}
+	
+	760.1.1 = {
+		liege = d_SW_ruzheguo
+	}
+	
+	768.3.22 = {
+		holder = MongolNew1777  # Toghon
+	}
+	
+	796.5.19 = {
+		holder = MongolNew1778  # Urelbun (First Branch)
+	}
+	
+	825.9.11 = {
+		holder = MongolNew1780  # Salhan
+	}
+	
+	853.7.6 = {
+		holder = MongolNew1781  # Heden
+	}
+	
+	881.1.14 = {
+		holder = MongolNew1782  # Bailisi
+	}
+	
+	909.10.8 = {
+		holder = MongolNew1783  # Telegetu
+	}
+	
+	938.4.25 = {
+		holder = MongolNew1784  # Nolisi
+	}
+	
+	966.2.19 = {
+		holder = MongolNew1785  # Balde
+	}
+	
+	995.7.27 = {
+		holder = MongolNew1786  # Sersenge
+	}
+	
+	1024.3.9 = {
+		holder = MongolNew1787  # Tuyug
+	}
+	
+	1052.11.1 = {
+		holder = MongolNew1788  # Nuguda
+	}
+	
+	1081.5.18 = {
+		holder = MongolNew1789  # Shungur
+	}
+	
+	1110.2.11 = {
+		holder = MongolNew1790  # Qanba
+	}
+	
+	1138.8.29 = {
+		holder = MongolNew1791  # Puguji
+	}
+	
+	1167.3.16 = {
+		holder = MongolNew1792  # Tolui
+	}
+	
+	1195.12.4 = {
+		holder = MongolNew1793  # Jabuq
+	}
+	
+	1224.6.21 = {
+		holder = MongolNew1794  # Mergentei
+	}
+	
+	1253.1.8 = {
+		holder = MongolNew1795  # Diled
+	}
+	
+	1281.9.15 = {
+		holder = MongolNew1796  # Kuge
+	}
+	
+	1310.4.5 = {
+		holder = MongolNew1797  # Tusakha (extends beyond 1337)
+	}
 }
 
 c_SW_pibeihe = {
-	760.1.1 = {
-		holder = Olkhunut1
-	}
-
-	794.8.22 = {
-		holder = Olkhunut2
-	}
-
-	821.12.4 = {
-		holder = Olkhunut3
-	}
-
-	850.6.27 = {
-		holder = Olkhunut4
-	}
-
-	883.3.16 = {
-		holder = Olkhunut5
-	}
-
-	914.10.11 = {
-		holder = Olkhunut6
-	}
-
-	944.2.5 = {
-		holder = Olkhunut7
-	}
-
-	976.12.27 = {
-		holder = Olkhunut8
-	}
-
-	1005.9.30 = {
-		holder = Olkhunut9
-	}
-
-	1039.4.18 = {
-		holder = Olkhunut10
-	}
-
-	1069.8.12 = {
-		holder = Olkhunut11
-	}
-
-	1099.3.21 = {
-		holder = Olkhunut12
-	}
-
-	1131.5.4 = {
-		holder = 166859
-	}
-	1155.1.1 = { holder = 166862 }
-	1189.1.1 = { holder = 166862M }
-	1248.1.1 = { holder = 166862M2 }
-	1272.1.1 = { holder = 166862M22 }
-	1300.1.1 = { holder = NSteppeMB104	}
-	1325.1.1 = { holder = NSteppeMB105	}
-}
-c_SW_hailar = {
 	760.1.1 = {  holder = NSteppeMB106	}
 	820.1.1 = {  holder = NSteppeMB107	}
 	840.1.1 = {  holder = NSteppeMB108	}
@@ -33180,6 +35137,100 @@ c_SW_hailar = {
 	1250.1.1 = { holder = NSteppeMB122	}
 	1300.1.1 = { holder = NSteppeMB123	}
 	1325.1.1 = { holder = NSteppeMB124	}
+}
+c_SW_hailar = {
+	720.1.1 = {
+		holder = MongolNew851  # Bodonchar
+		government = herder_government
+	}
+	
+	751.9.23 = {
+		holder = MongolNew852  # Bagaridai
+	}
+	
+	760.1.1 = {
+		liege = d_SW_dashiweiguo
+	}
+	
+	779.11.14 = {
+		holder = MongolNew853  # Khabichi
+	}
+	
+	808.6.28 = {
+		holder = MongolNew854  # Ambaghai
+	}
+	
+	837.2.17 = {
+		holder = MongolNew856  # Khabul
+	}
+	
+	865.7.30 = {
+		holder = MongolNew857  # Bartan
+	}
+	
+	894.3.21 = {
+		holder = MongolNew858  # Yesugei
+	}
+	
+	922.8.12 = {
+		holder = MongolNew859  # Temujin
+	}
+	
+	951.4.19 = {
+		holder = MongolNew860  # Jochi
+	}
+	
+	979.10.26 = {
+		holder = MongolNew861  # Batu
+	}
+	
+	1008.5.15 = {
+		holder = MongolNew862  # Orda
+	}
+	
+	1036.12.9 = {
+		holder = MongolNew863  # Sartaq
+	}
+	
+	1065.7.23 = {
+		holder = MongolNew864  # Toqta
+	}
+	
+	1094.3.4 = {
+		holder = MongolNew865  # Nogai
+	}
+	
+	1122.9.18 = {
+		holder = MongolNew866  # Edigey
+	}
+	
+	1151.4.25 = {
+		holder = MongolNew867  # Tokhtamis
+	}
+	
+	1180.11.7 = {
+		holder = MongolNew868  # Berke
+	}
+	
+	1208.6.22 = {
+		holder = MongolNew869  # Telebugha
+	}
+	
+	1237.2.9 = {
+		holder = MongolNew870  # Khoridai
+	}
+	
+	1266.8.30 = {
+		holder = MongolNew871  # Neguder
+	}
+	
+	1295.4.6 = {
+		holder = MongolNew872  # Baybugha
+	}
+	
+	1324.10.19 = {
+		holder = MongolNew873  # Shidibala (extends beyond 1337)
+	}
 }
 d_xarmoron_china = {
 	766.1.1 = { change_development_level = 12 }
@@ -34523,56 +36574,105 @@ c_LIAO_ningzhou = {
 	936.1.1 = { change_development_level = 12 }
 	1032.1.1 = { change_development_level = 16 }
 	
-	760.1.1 = {
-		holder = MBBarid1
-		liege = k_khitan_china
+	730.1.1 = {
+		holder = MongolNew2405
 	}
-	830.1.1 = {
-		holder = 1413629
+	
+	768.9.25 = {
+		holder = MongolNew2406
 	}
-	850.1.1 = {
-		holder = 1413630
+	
+	798.11.6 = {
+		holder = MongolNew2407
 	}
-	875.1.1 = {
-		holder = 1413505
+	
+	820.1.1 = {  liege = k_gobi	}
+	
+	826.5.14 = {
+		holder = MongolNew2408
 	}
-	918.12.1 = {
-		holder = 1413511
+	
+	854.3.7 = {
+		holder = MongolNew2409
 	}
-	949.2.1 = {
-		holder = 1413562
+	
+	882.9.28 = {
+		holder = MongolNew2410
 	}
-	986.1.1 = {
-		holder = 1413563
+	
+	910.4.19 = {
+		holder = MongolNew2411
 	}
-	995.1.1 = {
-		holder = 1413565
+	
+	939.1.12 = {
+		holder = MongolNew2412
 	}
-	1012.1.1 = {
-		holder = 1413566
+	
+	968.7.3 = {
+		holder = MongolNew2413
 	}
-	1039.1.1 = {
-		holder = 1413567
+	
+	997.2.24 = {
+		holder = MongolNew2414
 	}
-	1077.1.1 = {
-		holder = 1413575
+	
+	1025.9.15 = {
+		holder = MongolNew2415
 	}
-	1108.1.1 = {
-		holder = 1413577
+	
+	1054.6.8 = {
+		holder = MongolNew2416
+	}
+	
+	1083.3.19 = {
+		holder = MongolNew2417
+	}
+	
+	1111.8.26 = {
+		holder = MongolNew2418
+	}
+	
+	1140.1.1 = { liege = k_khitan_china	}
+	
+	1140.1.11 = {
+		holder = MongolNew2419
+	}
+	
+	1168.11.4 = {
+		holder = MongolNew2420
+	}
+	
+	1197.7.22 = {
+		holder = MongolNew2421
+	}
+	
+	1215.1.1 = { liege = e_mongol_empire }
+	
+	1226.2.8 = {
+		holder = MongolNew2422
+	}
+	
+	1254.10.15 = {
+		holder = MongolNew2423
+	}
+	
+	1272.1.1 = { liege = h_china }
+	
+	1283.6.30 = {
+		holder = MongolNew2424
+	}
+	
+	1285.1.1 = {
+		de_jure_liege = k_gobi
+	}
+	
+	1312.3.17 = {
+		holder = MongolNew2425
 	}
 
-	#Jin
-	1124.1.1 = { holder = jurchen232 }
-	1137.6.13 = { holder = KhitanTuliuhan13 liege = d_malgal_china } # 婁室
-	1130.1.1 = { holder = KhitanTuliuhan15 }
-	1175.1.1 = { holder = jurchen1162 }
-	1188.1.1 = { holder = jurchen1164 }
-	1233.1.1 = { holder = jurchen337 }
-
-	1248.1.1 = { holder = NSteppeMB465 }
-	1250.1.1 = { holder = NSteppeMB466 }
-	1300.1.1 = { holder = NSteppeMB467 }
-	1325.1.1 = { holder = NSteppeMB468 }
+	1320.3.1 = {
+		liege = k_mongolia
+	}
 
 }
 c_LIAO_changchun = {
@@ -35134,116 +37234,154 @@ d_malgal_china = {
 
 }
 c_SW_suihua = {
-	760.1.1 = { holder = jurchenMB4 }
-	820.1.1 = { holder = jurchenMB2 }
-	840.1.1 = { holder = jurchenMB1 }
-	867.1.1 = { liege = k_balhae }
-	900.1.1 = { holder = jurchen1 }
-	# Wanyan House
-	933.1.1 = {
-		holder = jurchen17 #函普
+	730.1.1 = {
+		holder = MongolNew2278  # Bartan (covers the 769 bookmark)
+		government = nomad_government
 	}
-	926.4.4 = { liege = e_great_liao }
-	940.1.1 = {
-		holder = jurchen18 #烏魯
+	
+	768.9.18 = {
+		holder = MongolNew2279  # Khabichi (eldest son)
 	}
-	960.1.1 = {
-		holder = jurchen19 #跋海
+	
+	795.3.14 = {
+		holder = MongolNew2281  # Toghoril (eldest son of Khabichi)
 	}
-	994.1.1 = {
-		holder = jurchen1004
-		liege = d_malgal_china
+	
+	823.8.9 = {
+		holder = MongolNew2283  # Yesugei
 	}
-	1022.1.1 = {
-		holder = jurchen1259 #謝里忽
+	
+	851.12.5 = {
+		holder = MongolNew2285  # Khubilai
 	}
-	1055.1.1 = {
-		holder = jurchen1260 #石鲁
+	
+	879.5.16 = {
+		holder = MongolNew2288  # Temujin
 	}
-	1111.1.1 = {
-		holder = jurchen1265 # 劾里钵
+	
+	908.2.13 = {
+		holder = MongolNew2291  # Chagatai
 	}
-	1135.1.1 = {
-		holder = jurchen1298
+	
+	937.10.29 = {
+		holder = MongolNew2295  # Batu
 	}
-	1148.1.1 = {
-		holder = jurchen1304
+	
+	966.1.27 = {
+		holder = MongolNew2300  # Berke
 	}
-	1202.1.1 = {
-		holder = JurchenJiagu20
+	
+	995.11.4 = {
+		holder = MongolNew2305  # Tokhtamis
 	}
-	1208.2.3 = {
-		holder = JurchenJiagu26
+	
+	1024.2.5 = {
+		holder = MongolNew2310  # Temur
 	}
-	1239.6.9 = {
-		holder = JurchenJiagu32
+	
+	1053.11.9 = {
+		holder = MongolNew2315  # Bodonchar
 	}
-	1270.7.8 = {
-		holder = JurchenJiagu38
+	
+	1082.2.20 = {
+		holder = MongolNew2330  # Ogodei
 	}
-	1301.11.21 = {
-		holder = JurchenJiagu44
+	
+	1111.11.26 = {
+		holder = MongolNew2335  # Jurchedei
 	}
-	1333.5.19 = {
-		holder = JurchenJiagu48
+	
+	1140.1.19 = {
+		holder = MongolNew2340  # Guchu
+	}
+	
+	1169.3.25 = {
+		holder = MongolNew2348  # Suyiketu
+	}
+	
+	1198.12.4 = {
+		holder = MongolNew2354  # Taghai
+	}
+	
+	1227.4.21 = {
+		holder = MongolNew2360  # Alagh
+	}
+	
+	1256.1.3 = {
+		holder = MongolNew2366  # Arasen
+	}
+	
+	1285.10.21 = {
+		holder = MongolNew2372  # Yeke
+	}
+	
+	1314.5.2 = {
+		holder = MongolNew2378  # Husun (extends beyond 1337)
 	}
 }
 c_SW_fancao = {
-	760.1.1 = { holder = jurchenMB4 }
-	820.1.1 = { holder = jurchenMB2 }
-	840.1.1 = { holder = jurchenMB1 }
-	867.1.1 = { liege = k_balhae }
-	900.1.1 = { holder = jurchen1 }
-	# Wanyan House
-	933.1.1 = {
-		holder = jurchen17 #函普
+	730.1.1 = {
+		holder = MongolNew2182  # Khabul
 	}
-	926.4.4 = { liege = e_great_liao }
-	940.1.1 = {
-		holder = jurchen18 #烏魯
+	
+	760.1.1 = {
+		liege = d_SW_sushenguo
 	}
-	960.1.1 = {
-		holder = jurchen19 #跋海
+	
+	792.10.14 = {
+		holder = MongolNew2184  # Ambaghai
 	}
-	994.1.1 = {
-		holder = PuchaMB 
-		liege = d_malgal_china
+	
+	820.4.11 = {
+		holder = MongolNew2186  # Bartan
 	}
-	1055.1.1 = {
-		holder = jurchen1109 #謝里忽
+	
+	848.11.15 = {
+		holder = MongolNew2188  # Yesugei
 	}
-	1075.1.1 = {
-		holder = jurchen1110 # 劾里钵
+	
+	876.5.19 = {
+		holder = MongolNew2190  # Temujin
 	}
-	1100.1.1 = {
-		holder = jurchen1118
+	
+	904.12.7 = {
+		holder = MongolNew2192  # Jochi
 	}
-	1120.1.1 = {
-		holder = jurchen1119
+	
+	932.6.28 = {
+		holder = MongolNew2196  # Batu
 	}
-	1135.1.1 = {
-		holder = jurchen1298
+	
+	960.9.12 = {
+		holder = MongolNew2205  # Sartak
 	}
-	1148.1.1 = {
-		holder = jurchen1304
+	
+	1008.4.3 = {
+		holder = MongolNew2211  # Berke
 	}
-	1202.1.1 = {
-		holder = JurchenJiagu20
+	
+	1052.11.13 = {
+		holder = MongolNew2215  # Mengu-Timur
 	}
-	1208.2.3 = {
-		holder = JurchenJiagu26
+	
+	1104.3.22 = {
+		holder = MongolNew2219  # Tokhta
 	}
-	1239.6.9 = {
-		holder = JurchenJiagu32
+	
+	1156.6.7 = {
+		holder = MongolNew2223  # Uzbeg
 	}
-	1270.7.8 = {
-		holder = JurchenJiagu38
+	
+	1208.7.23 = {
+		holder = MongolNew2227  # Janibeg
 	}
-	1301.11.21 = {
-		holder = JurchenJiagu44
+	
+	1260.10.2 = {
+		holder = MongolNew2231  # Berdibeg
 	}
-	1333.5.19 = {
-		holder = JurchenJiagu48
+	
+	1312.11.26 = {
+		holder = MongolNew2234  # Kulpa (extends beyond 1337)
 	}
 }
 c_udger_china = {
@@ -35508,7 +37646,7 @@ c_baishan_china = {
 	1325.11.4 = { holder = NieHanMB11 }
 }
 
-d_SW_sushenguo = {
+d_BAL_cheolli = {
 	766.1.1 = { change_development_level = 8 }
 	936.1.1 = { change_development_level = 12 }
 	1032.1.1 = { change_development_level = 16 }
@@ -35570,6 +37708,93 @@ d_SW_sushenguo = {
 	}
 	1333.5.19 = {
 		holder = JurchenJiagu48
+	}
+}
+
+d_SW_sushenguo = {
+	730.1.1 = {
+		holder = MongolNew2278  # Bartan (covers the 769 bookmark)
+		government = nomad_government
+	}
+	
+	768.9.18 = {
+		holder = MongolNew2279  # Khabichi (eldest son)
+	}
+	
+	795.3.14 = {
+		holder = MongolNew2281  # Toghoril (eldest son of Khabichi)
+	}
+	
+	823.8.9 = {
+		holder = MongolNew2283  # Yesugei
+	}
+	
+	851.12.5 = {
+		holder = MongolNew2285  # Khubilai
+	}
+	
+	879.5.16 = {
+		holder = MongolNew2288  # Temujin
+	}
+	
+	908.2.13 = {
+		holder = MongolNew2291  # Chagatai
+	}
+	
+	937.10.29 = {
+		holder = MongolNew2295  # Batu
+	}
+	
+	966.1.27 = {
+		holder = MongolNew2300  # Berke
+	}
+	
+	995.11.4 = {
+		holder = MongolNew2305  # Tokhtamis
+	}
+	
+	1024.2.5 = {
+		holder = MongolNew2310  # Temur
+	}
+	
+	1053.11.9 = {
+		holder = MongolNew2315  # Bodonchar
+	}
+	
+	1082.2.20 = {
+		holder = MongolNew2330  # Ogodei
+	}
+	
+	1111.11.26 = {
+		holder = MongolNew2335  # Jurchedei
+	}
+	
+	1140.1.19 = {
+		holder = MongolNew2340  # Guchu
+	}
+	
+	1169.3.25 = {
+		holder = MongolNew2348  # Suyiketu
+	}
+	
+	1198.12.4 = {
+		holder = MongolNew2354  # Taghai
+	}
+	
+	1227.4.21 = {
+		holder = MongolNew2360  # Alagh
+	}
+	
+	1256.1.3 = {
+		holder = MongolNew2366  # Arasen
+	}
+	
+	1285.10.21 = {
+		holder = MongolNew2372  # Yeke
+	}
+	
+	1314.5.2 = {
+		holder = MongolNew2378  # Husun (extends beyond 1337)
 	}
 }
 c_sumozhou_china = {
@@ -36186,72 +38411,255 @@ c_BAL_delizhen = {
 }
 
 c_SW_lupingyuan = {
-	760.1.1 = {  holder = NSteppeMB335 }
-	820.1.1 = {  holder = NSteppeMB336 }
-	840.1.1 = {  holder = NSteppeMB337 }
-	860.1.1 = {  holder = NSteppeMB338 }
-	900.1.1 = {  holder = NSteppeMB339 }
-	930.1.1 = {  holder = NSteppeMB340 }
-	955.1.1 = {  holder = NSteppeMB341 }
-	980.1.1 = {  holder = NSteppeMB342 }
-	1005.1.1 = { holder = NSteppeMB343 }
-	1040.1.1 = { holder = NSteppeMB344 }
-	1070.1.1 = { holder = NSteppeMB345 }
-	1100.1.1 = { holder = NSteppeMB346 }
-	1115.1.1 = { holder = NSteppeMB347 }
-	1140.1.1 = { holder = NSteppeMB348 }
-	1180.1.1 = { holder = NSteppeMB349 }
-	1210.1.1 = { holder = NSteppeMB350 }
-	1250.1.1 = { holder = NSteppeMB351 }
-	1300.1.1 = { holder = NSteppeMB352 }
-	1325.1.1 = { holder = NSteppeMB353 }
+
+	730.1.1 = {
+		holder = MongolNew2007
+	}
+	
+	760.1.1 = {
+		liege = d_SW_sushenguo
+	}
+	
+	768.9.23 = {
+		holder = MongolNew2008
+	}
+	
+	795.11.4 = {
+		holder = MongolNew2010
+	}
+	
+	823.8.7 = {
+		holder = MongolNew2012
+	}
+	
+	851.10.12 = {
+		holder = MongolNew2015
+	}
+	
+	879.11.24 = {
+		holder = MongolNew2018
+	}
+	
+	907.10.6 = {
+		holder = MongolNew2021
+	}
+	
+	935.12.28 = {
+		holder = MongolNew2025
+	}
+	
+	963.2.21 = {
+		holder = MongolNew2030
+	}
+	
+	991.8.18 = {
+		holder = MongolNew2036
+	}
+	
+	1019.7.27 = {
+		holder = MongolNew2043
+	}
+	
+	1047.8.17 = {
+		holder = MongolNew2064
+	}
+	
+	1085.10.9 = {
+		holder = MongolNew2069
+	}
+	
+	1113.12.3 = {
+		holder = MongolNew2074
+	}
+	
+	1141.8.18 = {
+		holder = MongolNew2079
+	}
+	
+	1169.5.18 = {
+		holder = MongolNew2081
+	}
+	
+	1197.11.2 = {
+		holder = MongolNew2083
+	}
+	
+	1225.3.19 = {
+		holder = MongolNew2085
+	}
+	
+	1253.9.4 = {
+		holder = MongolNew2087
+	}
+	
+	1281.12.30 = {
+		holder = MongolNew2089
+	}
+	
+	1309.3.25 = {
+		holder = MongolNew2091
+	}
 }
 
 c_BAL_west_cheolli = {
-	760.1.1 = {  holder = NSteppeMB335 }
-	820.1.1 = {  holder = NSteppeMB336 }
-	840.1.1 = {  holder = NSteppeMB337 }
-	860.1.1 = {  holder = NSteppeMB338 }
-	900.1.1 = {  holder = NSteppeMB339 }
-	930.1.1 = {  holder = NSteppeMB340 }
-	955.1.1 = {  holder = NSteppeMB341 }
-	980.1.1 = {  holder = NSteppeMB342 }
-	1005.1.1 = { holder = NSteppeMB343 }
-	1040.1.1 = { holder = NSteppeMB344 }
-	1070.1.1 = { holder = NSteppeMB345 }
-	1100.1.1 = { holder = NSteppeMB346 }
-	1115.1.1 = { holder = NSteppeMB347 }
-	1140.1.1 = { holder = NSteppeMB348 }
-	1180.1.1 = { holder = NSteppeMB349 }
-	1210.1.1 = { holder = NSteppeMB350 }
-	1250.1.1 = { holder = NSteppeMB351 }
-	1300.1.1 = { holder = NSteppeMB352 }
-	1325.1.1 = { holder = NSteppeMB353 }
+
+	760.1.1 = { holder = jurchenMB4 }
+	820.1.1 = { holder = jurchenMB2 }
+	840.1.1 = { holder = jurchenMB1 }
+	867.1.1 = { liege = k_balhae }
+	900.1.1 = { holder = jurchen1 }
+	# Wanyan House
+	933.1.1 = {
+		holder = jurchen17 #函普
+	}
+	926.4.4 = { liege = e_great_liao }
+	940.1.1 = {
+		holder = jurchen18 #烏魯
+	}
+	960.1.1 = {
+		holder = jurchen19 #跋海
+	}
+	994.1.1 = {
+		holder = jurchen1004
+		liege = d_malgal_china
+	}
+	1022.1.1 = {
+		holder = jurchen1259 #謝里忽
+	}
+	1055.1.1 = {
+		holder = jurchen1260 #石鲁
+	}
+	1111.1.1 = {
+		holder = jurchen1265 # 劾里钵
+	}
+	1135.1.1 = {
+		holder = jurchen1298
+	}
+	1148.1.1 = {
+		holder = jurchen1304
+	}
+	1202.1.1 = {
+		holder = JurchenJiagu20
+	}
+	1208.2.3 = {
+		holder = JurchenJiagu26
+	}
+	1239.6.9 = {
+		holder = JurchenJiagu32
+	}
+	1270.7.8 = {
+		holder = JurchenJiagu38
+	}
+	1301.11.21 = {
+		holder = JurchenJiagu44
+	}
+	1333.5.19 = {
+		holder = JurchenJiagu48
+	}
+	
 }
 
 c_SW_heilonglin = {
-	760.1.1 = {  holder = NSteppeMB335 }
-	820.1.1 = {  holder = NSteppeMB336 }
-	840.1.1 = {  holder = NSteppeMB337 }
-	860.1.1 = {  holder = NSteppeMB338 }
-	900.1.1 = {  holder = NSteppeMB339 }
-	930.1.1 = {  holder = NSteppeMB340 }
-	955.1.1 = {  holder = NSteppeMB341 }
-	980.1.1 = {  holder = NSteppeMB342 }
-	1005.1.1 = { holder = NSteppeMB343 }
-	1040.1.1 = { holder = NSteppeMB344 }
-	1070.1.1 = { holder = NSteppeMB345 }
-	1100.1.1 = { holder = NSteppeMB346 }
-	1115.1.1 = { holder = NSteppeMB347 }
-	1140.1.1 = { holder = NSteppeMB348 }
-	1180.1.1 = { holder = NSteppeMB349 }
-	1210.1.1 = { holder = NSteppeMB350 }
-	1250.1.1 = { holder = NSteppeMB351 }
-	1300.1.1 = { holder = NSteppeMB352 }
-	1325.1.1 = { holder = NSteppeMB353 }
+
+	730.1.1 = {
+		holder = MongolNew2092  # Bodonchar
+	}
+	
+	760.1.1 = {
+		liege = d_SW_sushenguo
+	}
+	
+	768.9.24 = {
+		holder = MongolNew2093  # Khabichi (oldest son)
+	}
+	
+	795.11.7 = {
+		holder = MongolNew2095  # Todogen (oldest son of Khabichi)
+	}
+	
+	822.7.19 = {
+		holder = MongolNew2097  # Belgutei (oldest son of Todogen)
+	}
+	
+	851.9.3 = {
+		holder = MongolNew2100  # Targhutai (oldest son of Belgutei)
+	}
+	
+	879.10.14 = {
+		holder = MongolNew2104  # Khutula (son of Targhutai)
+	}
+	
+	907.2.6 = {
+		holder = MongolNew2109  # Yesugei (son of Khutula)
+	}
+	
+	935.7.26 = {
+		holder = MongolNew2115  # Temujin (oldest son of Yesugei)
+	}
+	
+	964.8.9 = {
+		holder = MongolNew2122  # Jochi (oldest son of Temujin)
+	}
+	
+	992.11.21 = {
+		holder = MongolNew2131  # Batu (oldest son of Jochi)
+	}
+	
+	1020.7.2 = {
+		holder = MongolNew2142  # Berke (oldest son of Batu)
+	}
+	
+	1048.8.28 = {
+		holder = MongolNew2150  # Nogai (son of Berke)
+	}
+	
+	1077.9.6 = {
+		holder = MongolNew2155  # Tokhta (son of Nogai)
+	}
+	
+	1105.7.3 = {
+		holder = MongolNew2156  # Uzbek (son of Tokhtamis, from branch)
+	}
+	
+	1108.10.17 = {
+		holder = MongolNew2160  # Jani_Beg (son of Uzbek)
+	}
+	
+	1136.8.5 = {
+		holder = MongolNew2163  # Berdi_Beg (son of Jani_Beg)
+	}
+	
+	1164.5.16 = {
+		holder = MongolNew2166  # Urus (son of Berdi_Beg)
+	}
+	
+	1192.12.27 = {
+		holder = MongolNew2168  # Timur_Qutlugh (son of Urus)
+	}
+	
+	1220.5.23 = {
+		holder = MongolNew2170  # Edigu (son of Timur_Qutlugh)
+	}
+	
+	1248.10.19 = {
+		holder = MongolNew2172  # Dawlat_Berdi (son of Edigu)
+	}
+	
+	1276.4.16 = {
+		holder = MongolNew2174  # Ulugh_Muhammad (son of Dawlat_Berdi)
+	}
+	
+	1304.10.11 = {
+		holder = MongolNew2176  # Mahmud (son of Ulugh_Muhammad)
+	}
+	
+	1333.3.9 = {
+		holder = MongolNew2178  # Ahmad (extends beyond 1337)
+	}
 }
 
 c_BAL_dazhou = {
+
 	760.1.1 = {  holder = NSteppeMB335 }
 	820.1.1 = {  holder = NSteppeMB336 }
 	840.1.1 = {  holder = NSteppeMB337 }
@@ -36265,34 +38673,100 @@ c_BAL_dazhou = {
 	1070.1.1 = { holder = NSteppeMB345 }
 	1100.1.1 = { holder = NSteppeMB346 }
 	1115.1.1 = { holder = NSteppeMB347 }
-	1140.1.1 = { holder = NSteppeMB348 }
+	1140.1.1 = { holder = NSteppeMB348 liege = k_luzhen }
 	1180.1.1 = { holder = NSteppeMB349 }
 	1210.1.1 = { holder = NSteppeMB350 }
+	1220.1.1 = { liege = 0 }
 	1250.1.1 = { holder = NSteppeMB351 }
 	1300.1.1 = { holder = NSteppeMB352 }
 	1325.1.1 = { holder = NSteppeMB353 }
 }
 
 c_BAL_ilanshan = {
-	760.1.1 = {  holder = NSteppeMB335 }
-	820.1.1 = {  holder = NSteppeMB336 }
-	840.1.1 = {  holder = NSteppeMB337 }
-	860.1.1 = {  holder = NSteppeMB338 }
-	900.1.1 = {  holder = NSteppeMB339 }
-	930.1.1 = {  holder = NSteppeMB340 }
-	955.1.1 = {  holder = NSteppeMB341 }
-	980.1.1 = {  holder = NSteppeMB342 }
-	1005.1.1 = { holder = NSteppeMB343 }
-	1040.1.1 = { holder = NSteppeMB344 }
-	1070.1.1 = { holder = NSteppeMB345 }
-	1100.1.1 = { holder = NSteppeMB346 }
-	1115.1.1 = { holder = NSteppeMB347 }
-	1140.1.1 = { holder = NSteppeMB348 }
-	1180.1.1 = { holder = NSteppeMB349 }
-	1210.1.1 = { holder = NSteppeMB350 }
-	1250.1.1 = { holder = NSteppeMB351 }
-	1300.1.1 = { holder = NSteppeMB352 }
-	1325.1.1 = { holder = NSteppeMB353 }
+
+	730.1.1 = {
+		holder = MongolNew2384
+	}
+	
+	761.8.27 = {
+		holder = MongolNew2385
+	}
+	
+	790.11.4 = {
+		holder = MongolNew2386
+	}
+	
+	818.6.15 = {
+		holder = MongolNew2387
+	}
+	
+	847.2.9 = {
+		holder = MongolNew2388
+	}
+	
+	876.10.21 = {
+		holder = MongolNew2389
+	}
+	
+	905.4.30 = {
+		holder = MongolNew2390
+	}
+	
+	933.12.17 = {
+		holder = MongolNew2391
+	}
+	
+	962.7.8 = {
+		holder = MongolNew2392
+	}
+	
+	991.3.19 = {
+		holder = MongolNew2393
+	}
+	
+	1020.9.26 = {
+		holder = MongolNew2394
+	}
+	
+	1049.5.11 = {
+		holder = MongolNew2395
+	}
+	
+	1078.1.23 = {
+		holder = MongolNew2396
+	}
+	
+	1107.8.14 = {
+		holder = MongolNew2397
+	}
+	
+	1136.4.6 = {
+		holder = MongolNew2398
+	}
+	
+	1165.11.28 = {
+		holder = MongolNew2399
+	}
+	
+	1194.6.12 = {
+		holder = MongolNew2400
+	}
+	
+	1223.2.5 = {
+		holder = MongolNew2401
+	}
+	
+	1252.9.19 = {
+		holder = MongolNew2402
+	}
+	
+	1281.5.3 = {
+		holder = MongolNew2403
+	}
+	
+	1309.12.17 = {
+		holder = MongolNew2404
+	}
 }
 
 c_eman_vanda = {

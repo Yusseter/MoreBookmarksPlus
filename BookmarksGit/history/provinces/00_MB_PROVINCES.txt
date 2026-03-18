@@ -51,11 +51,10 @@
 }
 14239 = { # b_Goryeo_Seohae_Gokju
 	culture = goguryeo
-	religion = vinaya
+	religion = avatamsaka
 	holding = castle_holding
 	1000.1.1 = {
 		culture = goryeo
-		religion = avatamsaka
 	}
 }
 14240 = { # b_Goryeo_Seohae_Bongju
@@ -319,11 +318,10 @@
 }
 14225 = { # b_Goryeo_Bukgye_Gwiju
 	culture = goguryeo
-	religion = vinaya
+	religion = avatamsaka
 	holding = castle_holding
 	1000.1.1 = {
-		culture = goryeo
-		religion = avatamsaka		
+		culture = goryeo	
 	}
 }
 14226 = { # b_Goryeo_Bukgye_Seonju
@@ -400,7 +398,7 @@
 	holding = none
 }
 14301 = {	#Kushunkotan
-	culture = gilyak
+	culture = nivkh
     religion = yzng
     holding = tribal_holding
 }
@@ -576,7 +574,7 @@
 ###c_eman_nurgan
 12411 = {	#Nurgan
 	religion = yzng
-	culture = gilyak
+	culture = nivkh
 
 	holding = tribal_holding
 }
@@ -733,9 +731,6 @@
 	930.1.1 = {
 		culture = jurchen
 	}
-	1050.1.1 = {
-		culture = nanai
-	}
 }
 14382 = {	#Hulilusean
 	holding = none
@@ -766,9 +761,6 @@
 	930.1.1 = {
 		culture = jurchen
 	}
-	1050.1.1 = {
-		culture = nanai
-	}
 }
 14372 = {	#Haixidu
 	holding = none
@@ -779,9 +771,9 @@
 
 ###c_BAL_ilanshan
 14371 = {	#Ilanshan
-	religion = abkaism
-	culture = nanai
-	holding = tribal_holding
+	culture = shiwei
+	religion = eastern_tengri
+	holding = herder_holding
 }
 14373 = {	#Senlincun
 	holding = none
@@ -794,9 +786,6 @@
 	holding = tribal_holding
 	930.1.1 = {
 		culture = jurchen
-	}
-	1050.1.1 = {
-		culture = nanai
 	}
 }
 14383 = {	#Songhuajiang
@@ -814,9 +803,6 @@
 	930.1.1 = {
 		culture = jurchen
 	}
-	1050.1.1 = {
-		culture = nanai
-	}
 }
 14387 = {	#Huanghuai
 	holding = none
@@ -833,9 +819,6 @@
 	930.1.1 = {
 		culture = jurchen
 	}
-	1050.1.1 = {
-		culture = nanai
-	}
 }
 11865 = {	#Bixinjiang
 	holding = none
@@ -845,10 +828,11 @@
 ###c_BAL_dongpyeong_yizhou
 12763 = {	#Yizhou
 	culture = balhae
-	religion = vinaya
+	religion = avatamsaka
 	holding = castle_holding
 	930.1.1 = {
-		culture = nanai
+		culture = jurchen
+		religion = abkaism
 		holding = tribal_holding
 	}
 }
@@ -863,10 +847,12 @@
 ###c_BAL_jixi
 14390 = {	#Jixi
 	culture = balhae
-	religion = vinaya
+	religion = avatamsaka
 	holding = castle_holding
 	1050.1.1 = {
 		culture = jurchen
+		holding = tribal_holding
+		religion = abkaism
 	}
 }
 14391 = {	#Dongxian
@@ -883,10 +869,11 @@
 }
 14405 = {	#Huazhou
 	culture = balhae
-	religion = vinaya
+	religion = avatamsaka
 	holding = castle_holding
-	1050.1.1 = {
+	990.1.1 = {
 		culture = jurchen
+		religion = abkaism
 	}
 }
 12589 = {	#Shuaibinan
@@ -899,7 +886,7 @@
 ###c_BAL_jeongni
 12529 = {	#Dingzhou
 	culture = balhae
-	religion = vinaya
+	religion = avatamsaka
 	holding = castle_holding
 	
 	900.1.1 = {
@@ -962,11 +949,12 @@
 ###c_BAL_supin
 14392 = {	#Supin
 	culture = balhae
-	religion = vinaya
+	religion = avatamsaka
 	holding = castle_holding
 	1050.1.1 = {
-		culture = nanai
+		culture = jurchen
 		holding = tribal_holding
+		religion = abkaism
 	}
 }
 12678 = {	#Xuduohe
@@ -1007,14 +995,10 @@
 ##d_SW_heicheziguo ###################################
 ###c_SW_zhongcheziguo
 14413 = {	#Zuunbuir
-	culture = tataric
+	culture = onggirad
 	religion = eastern_tengri
-			
+
 	holding = tribal_holding
-			
-	1200.1.1 = {
-		culture = mongol
-	}
 }
 14414 = {	#Xisaiyin
 	holding = none
@@ -1104,7 +1088,7 @@
 	culture = jadran
     religion = eastern_tengri
 
-    holding = tribal_holding
+    holding = herder_holding
 	
 	1204.1.1 = {
          culture = mongol
@@ -1120,10 +1104,14 @@
 ##d_SW_dashiweiguo ###################################
 ###c_SW_pibeihe
 14437 = {	#Pibeihe
-	culture = onggirad
-	religion = eastern_tengri
+	culture = jadran
+    religion = eastern_tengri
 
-	holding = tribal_holding
+    holding = tribal_holding
+	
+	1204.1.1 = {
+         culture = mongol
+     }
 }
 14435 = {	#Genhegol
 	holding = none
@@ -1152,10 +1140,14 @@
 
 ###c_SW_hailar
 14431 = {	#Hailargol
-	culture = onggirad
-	religion = eastern_tengri
+	culture = jadran
+    religion = eastern_tengri
 
-	holding = tribal_holding
+    holding = herder_holding
+	
+	1204.1.1 = {
+         culture = mongol
+     }
 }
 14429 = {	#Gaoxuanya
 	holding = none
@@ -1172,9 +1164,9 @@
 
     holding = tribal_holding
 	
-	1204.1.1 = {
-         culture = mongol
-     }
+	1150.1.1 = {
+		culture = daur
+	}
 }
 14444 = {	#Yuancao
 	holding = none
@@ -1188,11 +1180,11 @@
 	culture = jadran
     religion = eastern_tengri
 
-    holding = tribal_holding
+    holding = herder_holding
 	
-	1204.1.1 = {
-         culture = mongol
-     }
+	1150.1.1 = {
+		culture = daur
+	}
 }
 14443 = {	#Humari
 	holding = none
@@ -1208,9 +1200,9 @@
 
     holding = tribal_holding
 	
-	1204.1.1 = {
-         culture = mongol
-     }
+	1150.1.1 = {
+		culture = daur
+	}
 }
 14448 = {	#Iskenhe
 	holding = none
@@ -1228,6 +1220,9 @@
 	culture = shiwei
 	religion = eastern_tengri
 	holding = tribal_holding
+	1150.1.1 = {
+		culture = daur
+	}
 }
 14453 = {	#Caoqiu
 	holding = none
@@ -1240,7 +1235,10 @@
 14454 = {	#Xinener
 	culture = shiwei
 	religion = eastern_tengri
-	holding = tribal_holding
+	holding = herder_holding
+	1150.1.1 = {
+		culture = daur
+	}
 }
 14455 = {	#Xinganling
 	holding = none
@@ -1250,7 +1248,7 @@
 14461 = {	#Zhongnenjiang
 	culture = shiwei
 	religion = eastern_tengri
-	holding = nomad_holding
+	holding = herder_holding
 }
 14460 = {	#Baihetudi
 	holding = none
@@ -1309,7 +1307,7 @@
 14471 = {	#Ruzhejiang
 	culture = shiwei
 	religion = eastern_tengri
-	holding = nomad_holding
+	holding = herder_holding
 }
 14470 = {	#Dalukou
 	holding = none
@@ -1337,6 +1335,9 @@
 	culture = shiwei
 	religion = eastern_tengri
 	holding = tribal_holding
+	1150.1.1 = {
+		culture = daur
+	}
 }
 14480 = {	#Xipuyu
 	holding = none
@@ -1355,9 +1356,9 @@
 
     holding = tribal_holding
 	
-	1204.1.1 = {
-         culture = mongol
-     }
+	1150.1.1 = {
+		culture = daur
+	}
 }
 14488 = {	#Xijiadamo
 	holding = none
@@ -1373,7 +1374,11 @@
 14492 = {	#Jiashanbei
 	culture = shiwei
 	religion = eastern_tengri
-	holding = nomad_holding
+	holding = herder_holding
+	
+	1150.1.1 = {
+		culture = daur
+	}
 }
 14491 = {	#Dongweian
 	holding = none
@@ -1390,11 +1395,11 @@
 	culture = jadran
     religion = eastern_tengri
 
-    holding = tribal_holding
+    holding = herder_holding
 	
-	1204.1.1 = {
-         culture = mongol
-     }
+	1150.1.1 = {
+		culture = daur
+	}
 }
 14485 = {	#Linyuan
 	holding = none
@@ -1406,9 +1411,9 @@
 ##d_SW_sushenguo ###################################
 ###c_SW_suihua
 14500 = {	#Suihua
-	religion = abkaism
-	culture = nanai
-	holding = tribal_holding
+	culture = shiwei
+	religion = eastern_tengri
+	holding = nomad_holding
 }
 14499 = {	#Lindu
 	holding = none
@@ -1422,10 +1427,9 @@
 
 ###c_SW_heilonglin
 14498 = {	#Heilonglin
-	religion = abkaism
-	culture = nanai
-
-	holding = tribal_holding
+	culture = shiwei
+	religion = eastern_tengri
+	holding = nomad_holding
 }
 14497 = {	#Longcaoan
 	holding = none
@@ -1433,9 +1437,9 @@
 
 ###c_SW_lupingyuan
 14493 = {	#Lupingyuan
-	religion = abkaism
-	culture = nanai
-	holding = tribal_holding
+	culture = shiwei
+	religion = eastern_tengri
+	holding = herder_holding
 }
 14495 = {	#Yemantudi
 	holding = none
@@ -1446,13 +1450,9 @@
 
 ###c_SW_fancao
 14502 = {	#Fancao
-	culture = mohe
+	culture = shiwei
 	religion = eastern_tengri
-	holding = tribal_holding
-	1066.1.1 = {
-		culture = jurchen
-		religion = abkaism
-	}
+	holding = nomad_holding
 }
 14503 = {	#Erliuyu
 	holding = none
@@ -1466,11 +1466,6 @@
 	culture = shiwei
 	religion = eastern_tengri
 	holding = nomad_holding
-	1066.1.1 = {
-		culture = jurchen
-		religion = abkaism
-		holding = nomad_holding
-	}
 }
 14474 = {	#Dasenlin
 	holding = none
@@ -1570,6 +1565,12 @@
 	culture = mongol
 	religion = eastern_tengri
 	holding = tribal_holding
+	1150.1.1 = {
+        culture = tajiuud
+    }
+	1204.1.1 = {
+        culture = mongol
+    }
 }
 14527 = {	#Usguitalbai
 	holding = none
@@ -1636,9 +1637,14 @@
 
 ###c_gobi_ulaantatar
 14540 = {	#b_GOBI_Khulugur
-	culture = mongol
-	religion = eastern_tengri
-	holding = tribal_holding
+	culture = tataric
+    religion = eastern_tengri
+
+    1200.1.1 = {
+        culture = mongol
+    }
+
+    holding = tribal_holding
 }
 14539 = {	#b_GOBI_Ikh_Nart
 	holding = none
@@ -1672,7 +1678,7 @@
         culture = mongol
     }
 
-    holding = tribal_holding
+    holding = herder_holding
 }
 14544 = {	#b_GOBI_Liaoli
 	holding = none
@@ -1682,11 +1688,10 @@
 14547 = {	#b_GOBI_Aibakha
 	culture = shatuo
     religion = eastern_tengri
-	holding = tribal_holding
+	holding = nomad_holding
 	
     900.1.1 = {
         religion = mahayana
-		holding = castle_holding
     }
     1000.1.1 = {
         culture = ongud
@@ -1732,9 +1737,13 @@
 ##d_gobi_ongi ###################################
 ###c_gobi_ongi_gol
 14548 = {	#b_GOBI_Deed_Ongi
-	culture = kerait
-	religion = nestorian
+	culture = qun
+	religion = eastern_tengri
 	holding = tribal_holding
+	1005.1.1 = {
+        culture = kerait
+		religion = nestorian
+    }
 }
 14549 = {	#b_GOBI_Dood_Ongi
 	holding = none
@@ -1758,11 +1767,10 @@
 14552 = {	#b_GOBI_Ochikhi
 	culture = shatuo
     religion = eastern_tengri
-	holding = tribal_holding
+	holding = herder_holding
 	
     900.1.1 = {
         religion = mahayana
-		holding = castle_holding
     }
     1000.1.1 = {
         culture = ongud
@@ -1782,7 +1790,7 @@
         culture = mongol
     }
 
-    holding = tribal_holding
+    holding = herder_holding
 }
 11832 = { # b_shimutnor_china
     culture = tataric
@@ -1840,7 +1848,7 @@
 14563 = {	#Ononum
 	culture = mongol
 	religion = eastern_tengri
-	holding = tribal_holding
+	holding = herder_holding
 }
 14564 = {	#Orgilalkham
 	holding = none
@@ -1896,7 +1904,7 @@
 14581 = {	#Shargazar
 	culture = mongol
 	religion = eastern_tengri
-	holding = tribal_holding
+	holding = herder_holding
 }
 14584 = {	#Toostoigol
 	holding = none
@@ -1936,7 +1944,7 @@
 14590 = {	#Mongotalbai
 	culture = mongol
 	religion = eastern_tengri
-	holding = tribal_holding
+	holding = herder_holding
 }
 14591 = {	#Tomorels
 	holding = none
@@ -1985,9 +1993,6 @@
 			castle_03
 		}
 	}
-	1250.1.1 = {
-		culture = daur
-	}
 }
 14606 = {	#Huaizhou
 	holding = none
@@ -2010,9 +2015,6 @@
 	1066.1.1 = {
 		religion = avatamsaka
 		holding = castle_holding
-	}
-	1250.1.1 = {
-		culture = daur
 	}
 }
 14605 = {	#Qingzhou
@@ -2053,10 +2055,6 @@
 		religion = avatamsaka
 		holding = castle_holding
 	}
-	
-	1250.1.1 = {
-		culture = daur
-	}
 }
 14637 = {	#Jiangshengzhou
 	holding = none
@@ -2073,13 +2071,14 @@
 	1066.1.1 = {
 		religion = avatamsaka
 	}
-	
-	1250.1.1 = {
-		culture = daur
-	}
 }
 14621 = {	#Baicaoer
-	holding = none
+	culture = khitan
+	religion = eastern_tengri
+	holding = nomad_holding
+	1066.1.1 = {
+		religion = avatamsaka
+	}
 }
 14622 = {	#Caoyuanan
 	holding = none
@@ -2093,10 +2092,6 @@
 	1066.1.1 = {
 		holding = castle_holding
 		religion = avatamsaka
-	}
-	
-	1250.1.1 = {
-		culture = daur
 	}
 }
 14612 = {	#Hongdali
@@ -2112,10 +2107,6 @@
 	1066.1.1 = {
 		religion = avatamsaka
 		holding = castle_holding
-	}
-	
-	1250.1.1 = {
-		culture = daur
 	}
 }
 14618 = {	#Enzhou
@@ -2136,10 +2127,6 @@
 		religion = avatamsaka
 		holding = castle_holding
 	}
-	
-	1250.1.1 = {
-		culture = daur
-	}
 }
 
 ###c_LIAO_chaoyang
@@ -2154,10 +2141,6 @@
 		religion = avatamsaka
 		holding = castle_holding
 	}
-	
-	1250.1.1 = {
-		culture = daur
-	}
 }
 
 ###c_lzj_chengdexi # LZJ CHENGDEXI
@@ -2165,10 +2148,6 @@
 	culture = khitan
 	religion = avatamsaka
 	holding = castle_holding
-	
-	1250.1.1 = {
-		culture = daur
-	}
 }
 14652 = {	# CIRLZJ LIUHETING
 	culture = han
@@ -2184,10 +2163,7 @@
 	culture = khitan
 	religion = avatamsaka
 	holding = castle_holding
-	
-	1250.1.1 = {
-		culture = daur
-	}
+
 }
 14657 = {	# CIRLZJ JIANTING
 	holding = city_holding
@@ -2203,11 +2179,8 @@
 14642 = {	#Wuzhou
 	culture = khitan
 	religion = avatamsaka
-	holding = tribal_holding
-	
-	1250.1.1 = {
-		culture = daur
-	}
+	holding = castle_holding
+
 }
 14640 = {	#Weizhou
 	holding = none
@@ -2230,10 +2203,7 @@
 	1066.1.1 = {
 		culture = khitan
 	}
-	
-	1250.1.1 = {
-		culture = daur
-	}
+
 }
 14597 = {	#Jianali
 	holding = none
@@ -2253,10 +2223,7 @@
 	1066.1.1 = {
 		culture = khitan
 	}
-	
-	1250.1.1 = {
-		culture = daur
-	}
+
 }
 14627 = {	#Fengzhou
 	holding = none
@@ -2273,10 +2240,7 @@
 	culture = khitan
 	religion = eastern_tengri
 	holding = tribal_holding
-	
-	1250.1.1 = {
-		culture = daur
-	}
+
 }
 14631 = {	#Yumitudi
 	holding = none
@@ -2292,11 +2256,8 @@
 14633 = {	#Horqin
 	culture = khitan
 	religion = eastern_tengri
-	holding = tribal_holding
-	
-	1250.1.1 = {
-		culture = daur
-	}
+	holding = nomad_holding
+
 }
 14624 = {	#Bayintailai
 	holding = none
@@ -2322,9 +2283,6 @@
 	1215.1.1 = {
 		holding = tribal_holding
 	}
-	1250.1.1 = {
-		culture = daur
-	}
 }
 14647 = {	# CIRLXJ DONGTING
 	holding = city_holding
@@ -2337,10 +2295,7 @@
 	culture = khitan
 	religion = avatamsaka
 	holding = castle_holding
-	
-	1250.1.1 = {
-		culture = daur
-	}
+
 }
 14660 = {	# CIRLZJ YUDAOKOU
 	holding = city_holding
@@ -2350,10 +2305,6 @@
 	culture = khitan
 	religion = avatamsaka
 	holding = castle_holding
-	
-	1250.1.1 = {
-		culture = daur
-	}
 }
 14645 = {	# CIRLXJ YUNYUDI
 	holding = city_holding
@@ -2706,11 +2657,11 @@
 			1050.1.1 = {
                 culture = xiang
             }
-			# Yuelu Academy
-            special_building_slot = generic_university
-            976.1.1 = {
-                special_building = generic_university
-            }			
+			## Yuelu Academy
+            #special_building_slot = generic_university
+            #976.1.1 = {
+            #    special_building = generic_university
+            #}			
         }
         12125 = { # b_yiyang_tanzhou_china
 
@@ -2905,11 +2856,11 @@
 				1000.1.1 = {
 					religion = daoxue
 				}
-				# Songyang Academy
-                special_building_slot = generic_university
-                1035.1.1 = {
-                    special_building = generic_university
-                }		
+				## Songyang Academy
+                #special_building_slot = generic_university
+                #1035.1.1 = {
+                #    special_building = generic_university
+                #}		
             }
             12774 = { # b_yangdi_yuxian_china
                 religion = zhengyi
@@ -5471,9 +5422,15 @@
 ## d_ningjiang_china
     # c_kuizhou_china
         12465 = { # b_kuizhou_fengjie_china
-            culture = yi
-			religion = bimoism
+            culture = han
+			religion = pundarika
 			holding = castle_holding
+			700.1.1 = {
+				buildings = { castle_04 }
+			}
+			1000.1.1 = {
+				religion = dhyana
+			}
         }
         12483 = { # b_wushan_china
 
@@ -5525,9 +5482,15 @@
         }
     # c_zigui_china
         12476 = { # b_zigui_china
-            culture = yi
-			religion = bimoism
+            culture = han
+			religion = pundarika
 			holding = castle_holding
+			700.1.1 = {
+				buildings = { castle_04 }
+			}
+			1000.1.1 = {
+				religion = dhyana
+			}
         }
         12491 = { # b_badong_china
 
@@ -5536,12 +5499,9 @@
     # c_shangzhou_qin_china
         12727 = { # b_shangzhou_shangluo_china
             culture = han
-			religion = avatamsaka
+			religion = vinaya
 			holding = castle_holding
 			# History
-			1000.1.1 = {
-				religion = dhyana
-			}
         }
         12709 = { # b_wuguan_china
 			holding = castle_holding
@@ -8163,7 +8123,7 @@
             religion = eastern_tengri
             culture = mongol
 
-            holding = tribal_holding
+            holding = herder_holding
         }
         12527 = { # b_nertschin_china
             holding = none
@@ -8330,16 +8290,17 @@
         12375 = { # b_baiyacheng_china
         }
         12453 = { # b_sheenzhoulejiao_china
-			culture = goguryeo
-            religion = vinaya
+			culture = khitan
+            religion = eastern_tengri
 		
-			holding = tribal_holding
+			holding = nomad_holding
 
             900.1.1 = {
                 culture = khitan
             }
             1120.1.1 = {
                 culture = jurchen
+				religion = dhyana
 				holding = castle_holding
             }
         }
@@ -8347,16 +8308,18 @@
         }
         12438 = { # b_gaimouzhou_china
 			culture = goguryeo
-            religion = vinaya
+            religion = sukhavati
 		
 			holding = castle_holding
 
             900.1.1 = {
                 culture = khitan
+				religion = avatamsaka
 				holding = tribal_holding
             }
             990.1.1 = {
                 culture = jurchen
+				religion = dhyana
 				holding = castle_holding
             }
         }
@@ -8375,7 +8338,7 @@
         }
 		14188 = { # b_anshicheng_china
             culture = goguryeo
-			religion = vinaya
+			religion = sukhavati
 			holding = castle_holding
 			1066.1.1 = {
 				culture = khitan
@@ -8384,17 +8347,22 @@
 
 			# History
 			1140.1.1 = {
-				religion = pundarika 
+				religion = sukhavati 
 				culture = han
 			}
         }
         12246 = { # b_jiananzhou_china
 			culture = goguryeo
-			religion = vinaya
+            religion = sukhavati
+			
 			holding = castle_holding
-			1066.1.1 = {
-				culture = khitan
-				religion = dhyana
+
+			900.1.1 = {
+				culture = balhae
+			}
+			1140.1.1 = {
+				religion = sukhavati 
+				culture = han
 			}
 			special_building_slot = xiuyan_mines_01
 			
@@ -8402,24 +8370,21 @@
 			867.1.1 = {
 				special_building = xiuyan_mines_01
 			}
-			1140.1.1 = {
-				religion = pundarika 
-				culture = han
-			}
         }
         12263 = { # b_hesuguan_hesqan_china
         }
     # c_jilizhou_china
         12182 = { # b_jilizhou_china
             culture = goguryeo
-			religion = vinaya
+            religion = sukhavati
+			
 			holding = castle_holding
-			1066.1.1 = {
-				culture = khitan
-				religion = dhyana
+
+			900.1.1 = {
+				culture = balhae
 			}
 			1140.1.1 = {
-				religion = pundarika 
+				religion = sukhavati 
 				culture = han
 			}
         }
@@ -8430,11 +8395,17 @@
     # c_pozhuo_china
         12238 = { # b_daxing_pozhuocheng_china
             culture = goguryeo
-            religion = vinaya
-			1140.1.1 = {
+            religion = sukhavati
+			
+			holding = castle_holding
+
+			900.1.1 = {
+				culture = balhae
 				religion = avatamsaka 
+			}
+			1140.1.1 = {
+				religion = sukhavati 
 				culture = han
-				holding = castle_holding
 			}
         }
         12145 = { # b_shicheng_shirenzhu_china
@@ -8505,31 +8476,35 @@
     # c_hwando_china
         12383 = { # b_wandushancheng_china
             culture = goguryeo
-            religion = vinaya
+            religion = sukhavati
+			holding = castle_holding
 			
-			1000.1.1 = {
+			990.1.1 = {
                 culture = jurchen
+				religion = dhyana
             }
         }
         12351 = { # b_heshenggucheng_china
         }
         12359 = { # b_qishui_china
 			culture = goguryeo
-            religion = vinaya
+            religion = sukhavati
 			
-			1000.1.1 = {
+			990.1.1 = {
                 culture = jurchen
+				religion = dhyana
             }
         }
     # c_yalu_china
         12441 = { # b_shenlu_yalufu_china
             culture = goguryeo
-            religion = vinaya
+            religion = sukhavati
 			
 			holding = castle_holding
 			
-			1000.1.1 = {
+			990.1.1 = {
                 culture = jurchen
+				religion = dhyana
             }
 			
         }
@@ -8551,20 +8526,18 @@
         }
         12191 = { # b_tenju_china
 			culture = goguryeo
-			religion = vinaya
+			religion = avatamsaka
 			holding = castle_holding
 			1000.1.1 = {
-				culture = goryeo
-				religion = avatamsaka		
+				culture = goryeo	
 			}
 		}
         12196 = { # b_uiju_china
 			culture = goguryeo
-			religion = vinaya
+			religion = avatamsaka
 			holding = castle_holding
 			1000.1.1 = {
 				culture = goryeo
-				religion = avatamsaka		
 			}
 		}
         12297 = { # b_sakachu_china
@@ -8572,11 +8545,10 @@
     # c_pyongyang
         10518 = { # b_pyongyang
            	culture = goguryeo
-			religion = vinaya
+			religion = avatamsaka
 			holding = castle_holding
 			1000.1.1 = {
-				culture = goryeo
-				religion = avatamsaka		
+				culture = goryeo	
 			}
 			867.1.1 = { #Taeha
 				special_building = generic_university
@@ -8613,7 +8585,7 @@
             #    culture = jurchen
             #}
 
-            holding = tribal_holding
+            holding = city_holding
         }
     # c_wulv_china
         12450 = { # b_liaobin_huaiyuan_china
@@ -8641,21 +8613,15 @@
         12394 = { # b_yanzicheng_china
             culture = shatuo
             religion = mahayana
-
-            900.1.1 = {
-                culture = khitan
-            }
-			936.1.1 = {
+			867.1.1 = {
                 holding = castle_holding
-            }
-            1140.1.1 = {
-                culture = ongud
             }
 			1140.1.1 = {
 					religion = kagyu 
 				}
-
-            holding = tribal_holding
+			1190.1.1 = {
+                culture = ongud
+            }
         }
         12437 = { # b_yuanyangpo_china
             holding = none
@@ -8670,16 +8636,11 @@
     # c_huhan_china
         12665 = { # b_longquanfu_yongning_china
             religion = abkaism
-            culture = balhae
-			holding = castle_holding
+            culture = mohe
+			holding = tribal_holding
 			
-			900.1.1 = {
-                religion = mahayana
-            }
-			
-			940.1.1 = { 
+			930.1.1 = { 
 				culture = jurchen
-				holding = tribal_holding
 			}
         }
         12636 = { # b_huhanhai_mohechi_china
@@ -8691,30 +8652,23 @@
     # c_mudan_china
         12693 = { # b_bozhou_bohai_china
             religion = abkaism
-            culture = balhae
-			
-			900.1.1 = {
-                religion = mahayana
-            }
+            culture = mohe
+			holding = tribal_holding
 			
 			916.1.1 = { 
 				culture = jurchen
-				holding = tribal_holding
 			}
         }
         12777 = { # b_yingzhou_bohai_china
         }
     # c_tongzhou_bohai_china
         12597 = { # b_tongzhou_bohai_china
-            religion = abkaism
+            religion = avatamsaka
             culture = balhae
-			
-			900.1.1 = {
-                religion = mahayana
-            }
-			
+
 			916.1.1 = { 
 				culture = jurchen
+				religion = abkaism
 				holding = tribal_holding
 			}
         }
@@ -8722,14 +8676,13 @@
         }
     # c_jianzhou_bohai_china
         12650 = { # b_jianzhou_dongning_china
+            religion = abkaism
             culture = balhae
-            religion = vinaya
+			holding = tribal_holding
 
-            1050.1.1 = {
+            930.1.1 = {
                 culture = jurchen
             }
-
-            holding = tribal_holding
 			
         }
         12624 = { # b_xitiantuluoguo_jianzhou_china
@@ -8739,21 +8692,19 @@
 ## d_malgal_china
     # c_achu_china
         12785 = { # b_anchuhu_wanyan_china
-            culture = nanai
-            religion = abkaism
-			
-			926.1.1 = {
-                culture = jurchen
-            }
+            culture = mohe
+			religion = abkaism
+			holding = tribal_holding
+			930.1.1 = {
+				culture = jurchen
+			}
 			1124.1.1 = {
-                religion = mahayana
+                religion = dhyana
 				holding = castle_holding
             }
 			1234.1.1 = {
 				holding = tribal_holding
             }
-
-            holding = tribal_holding
         }
         12711 = { # b_lalinriver_china
         }
@@ -8763,31 +8714,23 @@
         }
     # c_udger_china
         12838 = { # b_qujiang_balimaili_china
-			culture = nanai
-            religion = abkaism
-
-            900.1.1 = {
-                religion = mahayana
-            }
-			926.1.1 = {
-                culture = jurchen
-            }
-
-            holding = tribal_holding
+			culture = mohe
+			religion = abkaism
+			holding = tribal_holding
+			930.1.1 = {
+				culture = jurchen
+				religion = dhyana
+			}
         }
 ## d_sumo_china
     # c_baishan_china
         12480 = { # b_xiandefu_china
             religion = abkaism
             culture = balhae
-			
-			900.1.1 = {
-                religion = mahayana
-            }
-			
+			holding = tribal_holding
+
 			916.1.1 = { 
 				culture = jurchen
-				holding = tribal_holding
 			}
         }
         12559 = { # b_dunen_tumen_china
@@ -8796,14 +8739,12 @@
         }
     # c_xianzhou_sumo_china
         12561 = { # b_xianzhou_dongmou_china
-            religion = abkaism
+            religion = avatamsaka
             culture = balhae
-			
-			900.1.1 = {
-                religion = mahayana
-            }
+
 			916.1.1 = { 
 				culture = jurchen
+				religion = abkaism
 				holding = tribal_holding
 			}
 			
@@ -8816,16 +8757,14 @@
         }
     # c_sumozhou_china
         12591 = { # b_sumozhou_china
-            culture = nanai
-            religion = abkaism
-			
+            culture = mohe
+			religion = abkaism
 			holding = tribal_holding
 
-            900.1.1 = {
-                religion = mahayana
-            }
 			926.1.1 = {
                 culture = jurchen
+				holding = castle_holding
+				religion = dhyana
             }
         }
         12670 = { # b_shulan_nalihun_china
@@ -8835,13 +8774,13 @@
 ## d_SW_sushenguo
     # c_fuyu_china
         12540 = { # b_fuyufu_tongzhou_china
-            culture = goguryeo
-            religion = vinaya
+            culture = khitan
+            religion = eastern_tengri
 		
-			holding = tribal_holding
+			holding = nomad_holding
 			
 			900.1.1 = {
-                culture = khitan
+				religion = avatamsaka
             }
             #1120.1.1 = {
             #    culture = jurchen
@@ -8851,13 +8790,13 @@
         12594 = { # b_xinzhouwuchang_china
         }
         12487 = { # b_nansuzhou_xianzhou_china
-			culture = goguryeo
-            religion = vinaya
+			culture = khitan
+            religion = eastern_tengri
 		
-			holding = tribal_holding
+			holding = nomad_holding
 
             900.1.1 = {
-                culture = khitan
+				religion = avatamsaka
             }
             #1120.1.1 = {
             #    culture = jurchen
@@ -8870,7 +8809,7 @@
         12679 = { # b_huanglongfu_china
             culture = khitan
             religion = eastern_tengri
-			holding = tribal_holding
+			holding = nomad_holding
 			
 			#1140.1.1 = {
             #    culture = jurchen
@@ -8886,12 +8825,13 @@
     # c_changling_china
         12470 = { # b_huibacheng_china
             culture = goguryeo
-            religion = vinaya
+            religion = sukhavati
 
             holding = castle_holding
 			
 			990.1.1 = {
                 culture = jurchen
+				religion = dhyana
             }
 			
         }
@@ -8903,9 +8843,10 @@
     # c_longyuan_china
         12522 = { # b_longyuanfu_china
             culture = balhae
-            religion = vinaya
+            religion = avatamsaka
 
             holding = castle_holding	
+			
         }
         12457 = { # b_muzhou_pengku_china
 			holding = none
@@ -8917,7 +8858,7 @@
     # c_helan_china
         12341 = { # b_helan_yiligu_china
             culture = balhae
-            religion = vinaya
+            religion = avatamsaka
 
             holding = castle_holding
         }
@@ -8927,7 +8868,7 @@
     # c_nanhai_okjeo_china
         12228 = { # b_okjeo_wojo_nanhaifu_china
             culture = goguryeo
-            religion = vinaya
+            religion = avatamsaka
 			holding = castle_holding
 			
 			916.1.1 = { 
@@ -14191,16 +14132,14 @@ religion = tengri_pagan
 	religion = eastern_tengri
 
 	holding = tribal_holding
+	
+	1038.1.1 = {
+		culture = tangut
+		religion = avatamsaka
+	}
 
 	# History
-	800.1.1 = {
-		culture = shatuo
-		religion = nestorian
-	}
-	1000.1.1 = {
-		culture = ongud
-		#holding = castle_holding
-	}
+
 	1100.1.1 = {
 		religion = sakya
 	}
@@ -18120,13 +18059,13 @@ religion = tengri_pagan
 ###c_kuvieh #骨嵬/窟说/库页/樺太
 
 13912 = { #South Kuvieh
-    culture = gilyak
+    culture = nivkh
     religion = yzng
     holding = tribal_holding
 }
 
 13911 = { #North Kuvieh
-    culture = gilyak
+    culture = nivkh
     religion = yzng
     holding = tribal_holding
 }

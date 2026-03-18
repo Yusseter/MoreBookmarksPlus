@@ -141,8 +141,8 @@ nivkh = { # Historically spread further west into Manchuria
 	name_list = name_list_nivkh
 
 	coa_gfx = { ugro_permian_group_coa_gfx steppe_coa_gfx }
-	building_gfx = { steppe_building_gfx }
-	clothing_gfx = { northern_clothing_gfx }
+	building_gfx = { amuric_building_gfx steppe_building_gfx }
+	clothing_gfx = { nivkh_clothing_gfx mongol_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 
 	house_coa_frame = house_frame_04
@@ -248,7 +248,7 @@ yukaghir = { # Paleo-Siberian peoples limited to eastern Siberia now, but once s
 
 	coa_gfx = { ugro_permian_group_coa_gfx steppe_coa_gfx }
 	building_gfx = { steppe_building_gfx }
-	clothing_gfx = { northern_clothing_gfx }
+	clothing_gfx = { nivkh_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 
 	house_coa_frame = house_frame_04

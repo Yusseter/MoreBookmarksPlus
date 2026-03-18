@@ -19,7 +19,7 @@ bodpa = { # Tibetan
 
 	coa_gfx = { tibetan_group_coa_gfx }
 	building_gfx = { tibetan_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
+	clothing_gfx = { tangut_clothing_gfx mongol_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 
 	house_coa_frame = house_frame_28
@@ -64,7 +64,7 @@ wenmo = {
 
 	coa_gfx = { chinese_group_coa_gfx }
 	building_gfx = { tibetan_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
+	clothing_gfx = { tangut_clothing_gfx mongol_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 
 	house_coa_frame = house_frame_28
@@ -156,7 +156,7 @@ sumpa = { # Sumpa
 
 	coa_gfx = { tibetan_group_coa_gfx }
 	building_gfx = { tibetan_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
+	clothing_gfx = { tangut_clothing_gfx mongol_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 
 	house_coa_frame = house_frame_28
@@ -191,7 +191,7 @@ khampa = { #
 
 	coa_gfx = { tibetan_group_coa_gfx }
 	building_gfx = { tibetan_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
+	clothing_gfx = { tangut_clothing_gfx mongol_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 
 	house_coa_frame = house_frame_28
@@ -226,7 +226,7 @@ amdo = { #
 
 	coa_gfx = { tibetan_group_coa_gfx }
 	building_gfx = { tibetan_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
+	clothing_gfx = { tangut_clothing_gfx mongol_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 
 	house_coa_frame = house_frame_28
@@ -262,7 +262,7 @@ baima = { #
 
 	coa_gfx = { indian_coa_gfx }
 	building_gfx = { tibetan_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
+	clothing_gfx = { tangut_clothing_gfx mongol_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 
 	house_coa_frame = house_frame_28
@@ -353,7 +353,7 @@ zhangzhung = { # Zhangzhung
 
 	coa_gfx = { tibetan_group_coa_gfx }
 	building_gfx = { tibetan_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
+	clothing_gfx = { tangut_clothing_gfx mongol_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 
 	house_coa_frame = house_frame_28
@@ -388,7 +388,7 @@ kinnauri = { #
 
 	coa_gfx = { tibetan_group_coa_gfx }
 	building_gfx = { tibetan_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
+	clothing_gfx = { turkic_clothing_gfx mongol_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 
 	house_coa_frame = house_frame_28
@@ -420,7 +420,7 @@ tsangpa = { # Western and Southern Tibetic (Sherpa; Kyirong-Kagate; etc.)
 
 	coa_gfx = { tibetan_group_coa_gfx }
 	building_gfx = { tibetan_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
+	clothing_gfx = { tangut_clothing_gfx mongol_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 
 	house_coa_frame = house_frame_28
@@ -451,7 +451,7 @@ kirati = { # Kirati (Kirati; Limbu; Magar; etc.)
 
 	coa_gfx = { tibetan_group_coa_gfx }
 	building_gfx = { tibetan_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
+	clothing_gfx = { dali_clothing_gfx mongol_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 
 	house_coa_frame = house_frame_28
@@ -483,8 +483,7 @@ lhomon = { # Lhomon (Monpa; Lhoba; Kho-Bwa; Mishmi; Memba; etc.)
 
 	coa_gfx = { tibetan_group_coa_gfx }
 	building_gfx = { tibetan_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
-	clothing_gfx = { indian_clothing_gfx }
+	clothing_gfx = { dali_clothing_gfx mongol_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 
 	house_coa_frame = house_frame_28
@@ -553,8 +552,8 @@ tripuri = { # Tripuri
 
 	coa_gfx = { tibetan_group_coa_gfx }
 	building_gfx = { tibetan_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
-	unit_gfx = { mongol_unit_gfx }
+	clothing_gfx = { indian_clothing_gfx southeast_asian_clothing_gfx }
+	unit_gfx = { southeast_asian_unit_gfx indian_unit_gfx }
 
 	house_coa_frame = house_frame_28
 
@@ -589,8 +588,8 @@ meitei = { # Meitei
 
 	coa_gfx = { tibetan_group_coa_gfx }
 	building_gfx = { tibetan_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
-	unit_gfx = { mongol_unit_gfx }
+	clothing_gfx = { indian_clothing_gfx southeast_asian_clothing_gfx }
+	unit_gfx = { southeast_asian_unit_gfx indian_unit_gfx }
 
 	house_coa_frame = house_frame_28
 
@@ -627,7 +626,7 @@ zo = { #
 	coa_gfx = { tibetan_group_coa_gfx }
 	building_gfx = { tibetan_building_gfx }
 	clothing_gfx = { mongol_clothing_gfx }
-	unit_gfx = { mongol_unit_gfx }
+	unit_gfx = { southeast_asian_unit_gfx indian_unit_gfx }
 
 	house_coa_frame = house_frame_28
 
@@ -662,7 +661,7 @@ tani = { # Tani
 
 	coa_gfx = { tibetan_group_coa_gfx }
 	building_gfx = { tibetan_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
+	clothing_gfx = { dali_clothing_gfx mongol_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 
 	house_coa_frame = house_frame_28
@@ -698,7 +697,7 @@ balti = { #A Tibetan people that inhabit a large area given to the Indo Aryan Ka
 
 	coa_gfx = { tibetan_group_coa_gfx }
 	building_gfx = { tibetan_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
+	clothing_gfx = { turkic_clothing_gfx mongol_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 
 	house_coa_frame = house_frame_28
@@ -730,7 +729,7 @@ ladakhi = { #Even referenced by Paradox in the province files but just not added
 
 	coa_gfx = { tibetan_group_coa_gfx }
 	building_gfx = { tibetan_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
+	clothing_gfx = { turkic_clothing_gfx mongol_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 
 	house_coa_frame = house_frame_28
@@ -773,7 +772,7 @@ tangut = {
 
 	coa_gfx = { indian_coa_gfx }
 	building_gfx = { chinese_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
+	clothing_gfx = { tangut_clothing_gfx mongol_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 
 	house_coa_frame = house_frame_28
@@ -866,7 +865,7 @@ qiang = { # Various Qiangic linguistic tribes (Pumi; Muya; Ersu; Rgyalrong; etc.
 
 	coa_gfx = { indian_coa_gfx }
 	building_gfx = { tibetan_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
+	clothing_gfx = { tangut_clothing_gfx mongol_clothing_gfx } # Tangut is still better than having them still wear mongolian clothes
 	unit_gfx = { mongol_unit_gfx }
 
 	house_coa_frame = house_frame_28
@@ -959,7 +958,7 @@ nakhi = {
 
 	coa_gfx = { indian_coa_gfx }
 	building_gfx = { tibetan_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
+	clothing_gfx = { tangut_clothing_gfx mongol_clothing_gfx } # See above
 	unit_gfx = { mongol_unit_gfx }
 
 	house_coa_frame = house_frame_28
@@ -1057,7 +1056,7 @@ di = { #氐
 
 	coa_gfx = { mongol_coa_gfx steppe_coa_gfx }
 	building_gfx = { steppe_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
+	clothing_gfx = { tangut_clothing_gfx mongol_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
 
 	house_coa_frame = house_frame_28

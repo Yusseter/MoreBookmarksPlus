@@ -937,7 +937,7 @@ MB_culture_innovations = {
 			culture:udmurt = {
 				add_innovation = innovation_RICE_dog_sleds
 			}
-			culture:gilyak = {
+			culture:nivkh = {
 				add_innovation = innovation_RICE_dog_sleds
 			}
 
@@ -1768,19 +1768,19 @@ MB_culture_setup = {
 			set_culture = culture:khitan
 		}
 		
-		every_living_character = {
-			limit = {
-				game_start_date > 1250.1.1
-				OR = {
-					culture = culture:khitan
-					culture = culture:qitai
-				}
-				any_realm_county = {
-					any_county_province = { geographical_region = world_manchuria }
-				}
-			}
-			set_culture = culture:daur
-		}
+		#every_living_character = {
+		#	limit = {
+		#		game_start_date > 1250.1.1
+		#		OR = {
+		#			culture = culture:khitan
+		#			culture = culture:qitai
+		#		}
+		#		any_realm_county = {
+		#			any_county_province = { geographical_region = world_manchuria }
+		#		}
+		#	}
+		#	set_culture = culture:daur
+		#}
 		
 		every_living_character = {
 			limit = {
@@ -2818,6 +2818,23 @@ MB_religion_setup = {
 					set_character_faith = faith:wahbiya
 				}
 
+			}
+		}
+		
+		# Korea post 1171
+		
+		every_ruler = {
+			if = {
+				limit = {
+					AND = {
+						faith = faith:avatamsaka
+						OR = {
+							culture = culture:goguryeo
+							culture = culture:silla
+						}
+					}
+				}
+				set_character_faith = faith:dhyana
 			}
 		}
 
@@ -18044,6 +18061,9 @@ MB_set_noble_families = {
 				limit = {
 					exists = title:k_nikaea.holder
 					has_dlc_feature = roads_to_power
+					
+					game_start_date >= 1204.1.1
+					game_start_date <= 1260.1.1
 				}
 				title:k_nikaea.holder = {
 					create_noble_family_effect = { GOVERNMENT_GIVER = this }
@@ -24829,6 +24849,27 @@ MB_set_government = { # Sets governments by script. Much cleaner than doing hist
 						}
 						title_province = {
 							set_holding_type = herder_holding
+						}
+					}
+				}
+
+			}
+			
+			if = { # Make sure nomads get their proper holdings without me needing to juggle province files
+				limit = {
+					has_government = nomad_government
+					has_mpo_dlc_trigger = yes
+				}
+
+				every_held_title = {
+					if = {
+						limit = {
+							title_province = {
+								has_holding_type = tribal_holding
+							}
+						}
+						title_province = {
+							set_holding_type = nomad_holding
 						}
 					}
 				}

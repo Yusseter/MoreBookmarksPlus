@@ -53607,71 +53607,73 @@ c_xuandezhou_china = {
 	766.1.1 = { change_development_level = 8 }
 	936.1.1 = { change_development_level = 12 }
 	1032.1.1 = { change_development_level = 16 }
-
-	760.1.1 = {  holder = NSteppeMB239	}
-	820.1.1 = {  holder = NSteppeMB240	}
-	840.1.1 = {  holder = NSteppeMB241	}
-	866.3.23 = {
-		holder = 1412306 #Li Guochang
-		#liege = d_hedong_china
-		government = tribal_government
+	
+	760.1.1 = {  holder = NSteppeMB239 government = nomad_government }
+	#Tang
+	781.4.20 = { holder = 1407597 government = feudal_government } #Wang Hong
+	#782.1.1 = { holder = 0 }
+	852.1.1 = { holder = 1410925 liege = h_china } #Qibi Tong
+	#854.1.1 = { holder = 0 }
+	864.1.1 = {
+		liege = 0 name = "ANBEI"
+		government = feudal_government
 	}
-	882.1.1 = { holder = 1412310 liege = h_china } #Li Keyong(enstrong)
-	888.4.20 = { holder = longxi_li_1047 } #No Jiedushi
+	865.1.1 = { holder = 1401447 } #Gao Hong
+	870.12.6 = { holder = 1412306 } #Li Guochang
+	#Rebellion
+	878.6.13 = { liege = 0 reset_name = yes }
+	#Tang
+	879.4.5 = { holder = 1401448 liege = h_china } #Wu Shitai
+	881.1.1 = { holder = 1410404 } #Helian Duo
+	881.7.1 = { holder = 1410934 } #Qibi Zhang
+	885.1.1 = { holder = 1401449 } #Wang Bian
+	#888.4.20 = { holder = 0 }
 	893.1.1 = { holder = 1412477 } #Shi Shanyou
+	896.1.1 = { liege = k_jin_china }
 	903.6.5 = { holder = 1410935 liege = h_china } #Qibi Rang
 	903.6.20 = { holder = 1412313 liege = k_jin_china } #Li Kening
 	#Prince of Jin/Later Tang
-	908.6.2 = { holder = mayi_zhou_001 liege = d_zhenwu_china } #Zhou Dewei
-	913.1.1 = { holder = yanmen_zhang_002 } #Li Siben
-	916.1.1 = { holder = 1410401 } #Li Si'en
+	908.3.25 = { holder = mayi_zhou_001 } #Zhou Dewei
+	914.1.1 = { holder = yanmen_zhang_002 } #Li Siben
+	916.9.23 = { holder = 1410401 } #Li Si'en
+	923.1.1 = { holder = 1412319 } #Li Cunba
+	923.5.13 = { liege = h_china }
+	924.3.26 = { holder = later_tang_zhu_001 } #Zhu Shouyin
+	#925.11.27 = { holder = 0 }
+	926.6.19 = { holder = 1412423 } #An Jinquan
+	926.7.1 = { holder = 1400322 } #Zhang Wen
+	928.3.1 = { holder = qingyuan_suo_003 } #Suo Baitong
+	928.6.1 = { holder = 1400322 } #Zhang Wen
+	929.1.1 = { holder = 1410904 } #Zhang Yanqiu
+	930.1.1 = { holder = youzhou_gao_005 } #Gao Xingzhou
+	933.1.1 = { holder = 1412434 } #Yang Tan
+	935.1.10 = { holder = 1412442 liege = e_great_liao government = steppe_admin_government } #An Shuqian
+	#Later Jin
+	#937.1.23 = { holder = 0 }
 	#Liao
-	920.1.1 = { holder = 194325 liege = e_great_liao }
-	926.9.6 = { holder = 1412505 }
-	937.7.30 = { holder = 1412505 liege = d_yunzhong_china } #Zhang Yanchao de_jure_liege = d_yunzhong_china
-	946.1.1 = { holder = 1400907 } #Cui Tingxun
-	951.1.1 = { holder = 1800034 } #Gao Xun
-	958.1.1 = { holder = 1413739 } #Ala
-	969.3.12 = { holder = 1413740 } #Yelü Shanpu
-	982.1.1 = { holder = 1800050 } #Liu Yangou
-	985.8.13 = { holder = 1800110 } #Liu Jing
-	988.3.17 = { holder = 194331 } #No deputy
-	988.9.11 = { holder = 1413317 liege = d_fengzhou_china } #Yelü Mozhi
-	1000.1.1 = { holder = 1413742 liege = d_yunzhong_china } #Yelü Guoyin
-	1012.5.1 = { holder = 1800122 } #Xing Baozhi
-	1013.12.30 = { holder = 1413247 } #Yelü Huage
-	1020.1.1 = { holder = 1401695 } #Han Dening
-	1026.1.1 = { holder = 1800128 } #Zhang Jian
-	1026.3.22 = { holder = 194331 } #No deputy
-	1031.6.25 = { holder = 194332 } #No deputy
-	1044.12.1 = { holder = 1413744 } #Yelü Maliu
-	1046.7.10 = { holder = 1413137 } #Yelü Tiebu
-	1050.12.18 = { holder = 1413798 } #Xiao Dilie
-	1059.9.7 = { holder = 1413137 } #Yelü Tiebu
-	1063.8.20 = { holder = 1413746 } #Yelü Heshu
-	1067.1.5 = { holder = 1413110 } #Yelü Alian
-	1073.1.1 = { holder = 1413917 } #Xiao Yanliu
-	1076.1.13 = { holder = 1413110 } #No deputy
-	1087.1.1 = { holder = 1413413 } #Yelü Yange
-	1095.1.1 = { holder = 1413455 } #No deputy
-	1103.1.1 = { holder = 1413759 } #Xiao Duola
-	1108.1.1 = { holder = 194334 } #No deputy
-	1116.7.1 = { holder = 1413760 } #Xiao Yixue
-	1118.1.17 = { holder = 1413761 } #Xiao Chala
-	1119.9.7 = { holder = 1413120 } #Yelü Xinielie
-	1121.12.13 = { holder = 194334 } #No deputy
-	#Jin
-	1125.3.7 = { holder = jurchen25 } #宗翰
-	1126.1.1 = { holder = JurchenGuwalgiya61 liege = d_yunzhong_china }
-	1171.1.17 = { holder = JurchenGuwalgiya67 }
-	1207.2.28 = { holder = JurchenGuwalgiya73 }
-	1243.3.12 = { holder = JurchenGuwalgiya79 }
-	#Yuan
-	1279.4.2 = { holder = JurchenGuwalgiya85 }
-	1285.1.1 = {
-		de_jure_liege = d_zhenwu_china
-	}
-	1315.5.24 = { holder = JurchenGuwalgiya91 }
+	990.1.1 = {  holder = NSteppeMB246 liege = k_yinshan_china	}
+	1005.1.1 = { holder = NSteppeMB247	}
+	1040.1.1 = { holder = NSteppeMB248	}
+	1070.1.1 = { holder = NSteppeMB249	}
+	1100.1.1 = { holder = NSteppeMB250	}
+	1115.1.1 = { holder = NSteppeMB251	}
+	#Jin 西南路招讨使
+	1125.3.7 = { holder = jurchen25 liege = k_yinshan_china government = tribal_government } #宗翰
+	1125.11.7 = { holder = jurchen42 } #斡魯
+	1127.1.1 = { holder = jurchen2001 } #耶律怀义
+	1132.1.1 = { holder = jurchen26 } #秉德
+
+	#
+
+	1140.1.1 = { holder = NSteppeMB252	}
+	1180.1.1 = { holder = NSteppeMB253	}
+	1210.1.1 = { holder = NSteppeMB254	}
+	1215.1.1 = { liege = e_mongol_empire }
+	1250.1.1 = { holder = NSteppeMB255	}
+	1272.1.1 = { liege = h_china }
+	1300.1.1 = { holder = NSteppeMB256	}
+	1325.1.1 = { holder = NSteppeMB257	}
+	
 }
 
 c_yingzhou_liaoxi_china = {

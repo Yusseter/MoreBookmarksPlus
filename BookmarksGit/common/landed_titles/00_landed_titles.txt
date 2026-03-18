@@ -6268,6 +6268,14 @@ e_britannia = {
 
 			cultural_names = {
 				name_list_norse = cn_jorvik
+				name_list_geatish = cn_jorvik
+				name_list_dane = cn_jorvik
+				name_list_got = cn_jorvik
+				name_list_jute = cn_jorvik
+				name_list_geatish = cn_jorvik
+				name_list_dane = cn_jorvik
+				name_list_got = cn_jorvik
+				name_list_jute = cn_jorvik
 				name_list_norwegian = cn_jorvik
 				name_list_swedish = cn_jorvik
 				name_list_danish = cn_jorvik
@@ -6307,6 +6315,10 @@ e_britannia = {
 
 					cultural_names = {
 						name_list_norse = cn_jorvik
+						name_list_geatish = cn_jorvik
+						name_list_dane = cn_jorvik
+						name_list_got = cn_jorvik
+						name_list_jute = cn_jorvik
 						name_list_norwegian = cn_jorvik
 						name_list_swedish = cn_jorvik
 						name_list_danish = cn_jorvik
@@ -41006,6 +41018,71 @@ e_mongolia = {
 		
 		#Paradox East
 		
+		d_khiyat_china = {
+			color = { 20 87 177 }
+
+            c_EM_kizilkhentii = {
+				color = { 125 180 150 }
+
+				b_FIC_Mong_Paljigol = {
+					province = 14565
+
+					color = { 125 180 150 }
+				}
+				b_FIC_Mong_Ingedei = {
+					province = 14566
+
+					color = { 125 180 150 }
+				}
+				b_FIC_Mong_Chulereg = {
+					province = 14567
+
+					color = { 125 180 150 }
+				}
+			}
+			c_EM_doodonon = {
+				color = { 60 145 100 }
+
+				b_FIC_Mong_Doodonon = {
+					province = 14570
+
+					color = { 60 145 100 }
+				}
+				b_FIC_Mong_Kharbelcheer = {
+					province = 14569
+
+					color = { 60 145 100 }
+				}
+				b_FIC_Mong_Shitagol = {
+					province = 14568
+
+					color = { 60 145 100 }
+				}
+			}
+			
+			c_EM_khoyorgol = {
+				color = { 95 115 95 }
+
+				b_FIC_Mong_Khoyorgol = {
+					province = 14572
+
+					color = { 95 115 95 }
+				}
+				b_FIC_Mong_Zatalbar = {
+					province = 14571
+
+					color = { 95 115 95 }
+				}
+				b_FIC_Mong_Khurtskhandii = {
+					province = 14585
+
+					color = { 95 115 95 }
+				}
+			}
+			
+			
+        }
+
 		d_EM_onon = {
 			color = { 75 225 130 }
 
@@ -41060,46 +41137,7 @@ e_mongolia = {
 					color = { 50 200 50 }
 				}
 			}
-
-			c_EM_kizilkhentii = {
-				color = { 125 180 150 }
-
-				b_FIC_Mong_Paljigol = {
-					province = 14565
-
-					color = { 125 180 150 }
-				}
-				b_FIC_Mong_Ingedei = {
-					province = 14566
-
-					color = { 125 180 150 }
-				}
-				b_FIC_Mong_Chulereg = {
-					province = 14567
-
-					color = { 125 180 150 }
-				}
-			}
-
-			c_EM_doodonon = {
-				color = { 60 145 100 }
-
-				b_FIC_Mong_Doodonon = {
-					province = 14570
-
-					color = { 60 145 100 }
-				}
-				b_FIC_Mong_Kharbelcheer = {
-					province = 14569
-
-					color = { 60 145 100 }
-				}
-				b_FIC_Mong_Shitagol = {
-					province = 14568
-
-					color = { 60 145 100 }
-				}
-			}
+			
 		}
 
 		d_EM_yujuelu = {
@@ -41233,25 +41271,6 @@ e_mongolia = {
 				}
 			}
 
-			c_EM_khoyorgol = {
-				color = { 95 115 95 }
-
-				b_FIC_Mong_Khoyorgol = {
-					province = 14572
-
-					color = { 95 115 95 }
-				}
-				b_FIC_Mong_Zatalbar = {
-					province = 14571
-
-					color = { 95 115 95 }
-				}
-				b_FIC_Mong_Khurtskhandii = {
-					province = 14585
-
-					color = { 95 115 95 }
-				}
-			}
 			c_julop_china = {
 				color = { 104 119 254 }
 
@@ -45063,11 +45082,6 @@ e_great_liao = {
 
 					color = { 105 125 20 }
 				}
-				b_Liao_Huaizhou = {
-					province = 14606
-
-					color = { 105 125 20 }
-				}
 				b_Liao_Songzhanzhou = {
 					province = 14608
 
@@ -45134,11 +45148,6 @@ e_great_liao = {
 			c_LIAO_heicaoan = {
 				color = { 95 85 40 }
 
-				b_FIC_Liao_Matudi = {
-					province = 14620
-
-					color = { 95 85 40 }
-				}
 				b_FIC_Liao_Baicaoer = {
 					province = 14621
 
@@ -45148,6 +45157,11 @@ e_great_liao = {
 					province = 14622
 
 					color = { 95 85 40 }
+				}
+				b_Liao_Huaizhou = {
+					province = 14606
+
+					color = { 105 125 20 }
 				}
 			}
 
@@ -45543,6 +45557,11 @@ e_great_liao = {
 					province = 14506
 
 					color = { 215 80 80 }
+				}
+				b_FIC_Liao_Matudi = {
+					province = 14620
+
+					color = { 95 85 40 }
 				}
 				b_FIC_Amur_Shangwulu = {
 					province = 14466
@@ -90668,11 +90687,6 @@ e_jurchen_china = {
 
 					color = { 160 55 105 }
 				}
-				b_FIC_Liao_Xitielian = {
-					province = 14378
-
-					color = { 160 55 105 }
-				}
 				b_FIC_EMan_Zhongtieli = {
 					province = 14380
 
@@ -91337,11 +91351,6 @@ e_jurchen_china = {
 
                     color = { 21 21 87 }
                 }
-                b_susuhai_china = {
-                    province = 12718 
-
-                    color = { 21 21 87 }
-                }
 				b_dalugucheng_china = {
                     province = 12749 
 
@@ -91354,6 +91363,16 @@ e_jurchen_china = {
                     province = 12838 
 
                     color = { 15 15 90 }
+                }
+				b_FIC_Liao_Xitielian = {
+					province = 14378
+
+					color = { 160 55 105 }
+				}
+				b_susuhai_china = {
+                    province = 12718 
+
+                    color = { 21 21 87 }
                 }
             }
 			
@@ -93924,45 +93943,6 @@ h_china = {
 						color = { 185 255 208 }
 					}
 				}
-				c_xuandezhou_china = {
-					color = { 20 20 133 }
-	
-					b_xuande_monan_china = {
-						province = 12321
-	
-						color = { 242 205 210 }
-					}
-					b_jinheshan_china = {
-						province = 12332
-	
-						color = { 242 205 210 }
-					}
-					b_nintyninespring_china = {
-						province = 12406
-	
-						color = { 250 198 200 }
-					}
-				}
-				#Hiyaxu
-				c_qibingga_china = {
-					color = { 20 37 156 }
-	
-					b_yanzicheng_china = {
-						province = 12394
-	
-						color = { 125 85 110 }
-					}
-					b_yuanyangpo_china = {
-						province = 12437
-	
-						color = { 125 85 110 }
-					}
-					b_goupo_china = {
-						province = 12444
-	
-						color = { 110 85 125 }
-					}
-				}
 			}
 	
 			d_hezhong_china = {
@@ -95010,8 +94990,28 @@ h_china = {
 			d_zhenwu_china = {
 				color = { 20 24 119 }
 	
-				capital = c_chanyufu_china
+				capital = c_xuandezhou_china
+				
+				c_xuandezhou_china = {
+					color = { 20 20 133 }
 	
+					b_xuande_monan_china = {
+						province = 12321
+	
+						color = { 242 205 210 }
+					}
+					b_jinheshan_china = {
+						province = 12332
+	
+						color = { 242 205 210 }
+					}
+					b_nintyninespring_china = {
+						province = 12406
+	
+						color = { 250 198 200 }
+					}
+				}
+				
 				c_chanyufu_china = {
 					color = { 20 23 147 }
 	
@@ -95034,6 +95034,26 @@ h_china = {
 						province = 12270
 	
 						color = { 245 194 199 }
+					}
+				}
+				#Hiyaxu
+				c_qibingga_china = {
+					color = { 20 37 156 }
+	
+					b_yanzicheng_china = {
+						province = 12394
+	
+						color = { 125 85 110 }
+					}
+					b_yuanyangpo_china = {
+						province = 12437
+	
+						color = { 125 85 110 }
+					}
+					b_goupo_china = {
+						province = 12444
+	
+						color = { 110 85 125 }
 					}
 				}
 			}

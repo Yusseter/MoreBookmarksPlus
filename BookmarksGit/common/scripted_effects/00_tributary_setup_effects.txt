@@ -425,6 +425,9 @@ mpo_769_tributary_setup_effect = {
 		title:d_murin_china.holder = {
             break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
         }
+		title:c_em_akhulun.holder = {
+            break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
+        }
     }
 
     title:e_caspian-pontic_steppe.holder = {
@@ -6491,10 +6494,7 @@ mpo_1286_tributary_setup_effect = {
 		title:k_champa.holder = {
             break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
         }
-		title:c_SW_heiergun.holder = {
-            break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
-        }
-		
+
 		title:c_yazhou.holder = {
             break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
         }
@@ -6907,9 +6907,6 @@ mpo_1300_tributary_setup_effect = {
 		title:k_champa.holder = {
             break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
         }
-		title:c_SW_heiergun.holder = {
-            break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
-        }
 		title:c_yazhou.holder = {
             break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
         }
@@ -7320,9 +7317,6 @@ mpo_1310_tributary_setup_effect = {
 		title:k_goryeo.holder = {
             break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
         }
-		title:c_SW_heiergun.holder = {
-            break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
-        }
 		title:c_yazhou.holder = {
             break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
         }
@@ -7717,9 +7711,6 @@ mpo_1324_tributary_setup_effect = {
             break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
         }
 		title:k_goryeo.holder = {
-            break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
-        }
-		title:c_SW_heiergun.holder = {
             break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
         }
 		title:c_yazhou.holder = {
@@ -8124,9 +8115,6 @@ mpo_1337_tributary_setup_effect = {
             break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
         }
 		title:k_goryeo.holder = {
-            break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
-        }
-		title:c_SW_heiergun.holder = {
             break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
         }
 		title:c_yazhou.holder = {

@@ -1032,6 +1032,81 @@ on_game_start = {
 			}
 			
 		}										 
+		#CP8 Special Buildings  - Goes Before Holy Sites - Don't quite get the logic of some of these over giving the capitals of Liao and Xi Xia buildings.
+		
+		if = {
+			limit = { has_cp8_dlc_trigger = yes }
+			#Great Buddha of Kamakura - from the 1250s
+			if = {
+				limit = { game_start_date >= 1250.1.1 }
+				title:b_kamakura.title_province = {
+					add_special_building = buddha_kamakura_01
+				}
+			}
+			else = {
+				title:b_kamakura.title_province = { add_special_building_slot = buddha_kamakura_01 } 
+			}
+			#Kizuki Taisha
+			title:b_iishi.title_province = { add_special_building = izumo_taisha_01 }
+			#Stone Pagoda of Mireuksa
+			title:b_Goryeo_Jeolla_Jeonju.title_province = { add_special_building = stone_pagoda_01 }
+			#Tomb of a Goguryeo King
+			title:b_shenlu_yalufu_china.title_province = { add_special_building = goguryeo_tomb_01 }
+			#Iron Lion of Cangzhou - from the 950s
+			if = { limit = { game_start_date >= 1066.9.15 } title:b_cangzhouqingchi_china.title_province = { add_special_building = iron_lion_cangzhou_01 } }
+			else = { title:b_cangzhouqingchi_china.title_province = { add_special_building_slot = iron_lion_cangzhou_01 } }
+			#Temple of Confucius
+			title:b_qufu_china.title_province = { add_special_building = confucius_temple_01 }
+			#Gaocheng Observatory #NOTE: technically in continuous use from the 8th century, but the major expansion depicted is from the 1200s
+			if = { limit = { game_start_date >= 1276.1.1 } title:b_songshan_dengfeng_china.title_province = { add_special_building = dengfeng_observatory_01 } }
+			else = { title:b_songshan_dengfeng_china.title_province = { add_special_building_slot = dengfeng_observatory_01 } }
+			#Maijishan Grottoes
+			title:b_chengji_china.title_province = { add_special_building = maijishan_grottoes_01 }
+			#Yuelu Academy - from 976
+			if = { limit = { game_start_date >= 976.9.15 } title:b_changsha_tanzhou_china.title_province = { add_special_building = yuelu_academy_01 } }
+			else = { title:b_changsha_tanzhou_china.title_province = { add_special_building_slot = yuelu_academy_01 } }
+			#Imperial Citadel of Lin'an - from the 1130s-1150s
+			if = { limit = { game_start_date >= 1066.9.15 } title:b_hangzhou_qiantang_china.title_province = { add_special_building = citadel_linan_01 } } #2
+			else = { title:b_hangzhou_qiantang_china.title_province = { add_special_building_slot = citadel_linan_01 } } #2
+			#Fanfang of Guangzhou
+			title:b_guangzhou_nanhai_china.title_province = { add_special_building = fanfang_guangzhou_01 }
+			#My Son Sanctuary
+			title:b_simhapura.title_province = { add_special_building = my_son_sanctuary_01 }
+			#Ha Long Bay
+			title:b_tan_yen.title_province = { add_special_building = ha_long_bay_01 }
+			#Three Pagodas of Dali
+			title:b_yon_zon_mi.title_province = { add_special_building = three_pagodas_dali_01 }
+			#Thuriang Kilns - from the 1200s
+			if = { limit = { game_start_date >= 1250.1.1 } title:b_sukhothai.title_province = { add_special_building = thuriang_kilns_01 } } 
+			else = { title:b_sukhothai.title_province = { add_special_building_slot = thuriang_kilns_01 } }
+			#Lingapura Pyramid - from the 900s
+			if = { limit = { game_start_date >= 950.9.15 } title:b_lingapura.title_province = { add_special_building = pyramid_lingapura_01 } }
+			else = { title:b_lingapura.title_province = { add_special_building_slot = pyramid_lingapura_01 } }
+			#
+			if = { limit = { game_start_date >= 990.1.1 } title:b_pariangan.title_province = { add_special_building = muara_takus_01 } }
+			else = { title:b_pariangan.title_province = { add_special_building = muara_takus_01 } } #8
+			#Wilwatikta Palace - sometime in the mid 1300s
+			if = { limit = { game_start_date >= 1337.1.1 } title:b_JAV_Kahuripan.title_province = { add_special_building = wilwatikta_palace_01 } }
+			else = { title:b_JAV_Kahuripan.title_province = { add_special_building = wilwatikta_palace_01 } }
+			#Gunung Api
+			title:b_burune.title_province = { add_special_building = gunung_api_01 } #5
+			#Chocolate Hills
+			title:b_bo_ol.title_province = { add_special_building = chocolate_hills_01 }
+			#Sulawesi Megaliths
+			title:b_burau.title_province = { add_special_building = suwalesi_megaliths_01 } #6
+			#Temples of Angkor
+			if = {
+				limit = { game_start_date >= 1150.1.1 }
+				title:b_angkor.title_province = {
+					remove_building = angkor_wat_01
+					add_special_building = temples_angkor_02
+				}
+			}
+			else = {
+				title:b_angkor.title_province = { add_special_building = temples_angkor_01 } #7
+			}
+		}
+		
 		### RELIGIOUS THINGS ###
 		# Set up Holy Site Buildings to be buildable in Holy Sites
 		religion:islam_religion = {
