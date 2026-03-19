@@ -50892,7 +50892,7 @@ QayHerder19 = {
 ####################################### Dynasty: 2001102 #######################################
 NSteppeMB29 = {
 	name = Bilge
-	religion = tengri_pagan
+	religion = eastern_tengri
 	dynasty = 2001102
 	culture = qun
 	740.1.1={
@@ -50905,7 +50905,7 @@ NSteppeMB29 = {
 
 NSteppeMB30 = {
 	name = Kubasar
-	religion = tengri_pagan
+	religion = eastern_tengri
 	dynasty = 2001102
 	culture = qun
 	780.1.1={

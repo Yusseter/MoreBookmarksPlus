@@ -10097,55 +10097,162 @@ c_pogibi = {
 
 c_tarayka = {
 
-	#867.1.1 = { change_development_level = 1 }
-	#1066.1.1 = { change_development_level = 2 }
-
-	760.1.1 = {  holder = JapanMB10		}
-	820.1.1 = {  holder = JapanMB11		}
-	840.1.1 = {  holder = JapanMB12		}
-	860.1.1 = {  holder = JapanMB13		}
-	900.1.1 = {  holder = JapanMB14		}
-	930.1.1 = {  holder = JapanMB15		}
-	955.1.1 = {  holder = JapanMB16		}
-	980.1.1 = {  holder = JapanMB17		}
-	1005.1.1 = { holder = JapanMB18		}
-	1040.1.1 = { holder = JapanMB19		}
-	1070.1.1 = { holder = JapanMB20		}
-	1100.1.1 = { holder = JapanMB21		}
-	1115.1.1 = { holder = JapanMB22		}
-	1140.1.1 = { holder = JapanMB23		}
-	1180.1.1 = { holder = JapanMB24		}
-	1210.1.1 = { holder = JapanMB25		}
-	1250.1.1 = { holder = JapanMB26		}
-	1300.1.1 = { holder = JapanMB27		}
-	1325.1.1 = { holder = JapanMB28		}
-
+	730.1.1 = {
+		holder = EastSteppe259  # Lergan
+	}
+	
+	768.9.24 = {
+		holder = EastSteppe260  # Kekhan
+	}
+	
+	797.11.5 = {
+		holder = EastSteppe261  # Pulychkh
+	}
+	
+	826.8.19 = {
+		holder = EastSteppe262  # Atvuk
+	}
+	
+	855.2.27 = {
+		holder = EastSteppe263  # Tavtugin
+	}
+	
+	883.12.14 = {
+		holder = EastSteppe264  # Kokin
+	}
+	
+	912.6.30 = {
+		holder = EastSteppe265  # Vyskan (eldest son)
+	}
+	
+	941.4.3 = {
+		holder = EastSteppe267  # Zarun
+	}
+	
+	970.7.8 = {
+		holder = EastSteppe268  # Itkun
+	}
+	
+	999.1.22 = {
+		holder = EastSteppe269  # Longun
+	}
+	
+	1028.5.16 = {
+		holder = EastSteppe270  # Chuner
+	}
+	
+	1057.9.4 = {
+		holder = EastSteppe271  # Rsholin
+	}
+	
+	1086.12.29 = {
+		holder = EastSteppe272  # Azrun
+	}
+	
+	1115.3.17 = {
+		holder = EastSteppe273  # Palgun (eldest son)
+	}
+	
+	1144.8.10 = {
+		holder = EastSteppe275  # Tynvin
+	}
+	
+	1173.10.25 = {
+		holder = EastSteppe276  # Lants
+	}
+	
+	1202.2.6 = {
+		holder = EastSteppe277  # Memzgun
+	}
+	
+	1231.5.30 = {
+		holder = EastSteppe278  # Chalun
+	}
+	
+	1260.9.19 = {
+		holder = EastSteppe279  # Ykylak (eldest son)
+	}
+	
+	1289.1.14 = {
+		holder = EastSteppe281  # Parkizin
+	}
+	
+	1318.7.9 = {
+		holder = EastSteppe282  # Ochan (eldest son, extends beyond 1337)
+	}
 }
 
 c_kusunkotan = {
 
-	#867.1.1 = { change_development_level = 1 }
-	#1066.1.1 = { change_development_level = 2 }
-
-	760.1.1 = {  holder = JapanMB10		}
-	820.1.1 = {  holder = JapanMB11		}
-	840.1.1 = {  holder = JapanMB12		}
-	860.1.1 = {  holder = JapanMB13		}
-	900.1.1 = {  holder = JapanMB14		}
-	930.1.1 = {  holder = JapanMB15		}
-	955.1.1 = {  holder = JapanMB16		}
-	980.1.1 = {  holder = JapanMB17		}
-	1005.1.1 = { holder = JapanMB18		}
-	1040.1.1 = { holder = JapanMB19		}
-	1070.1.1 = { holder = JapanMB20		}
-	1100.1.1 = { holder = JapanMB21		}
-	1115.1.1 = { holder = JapanMB22		}
-	1140.1.1 = { holder = JapanMB23		}
-	1180.1.1 = { holder = JapanMB24		}
-	1210.1.1 = { holder = JapanMB25		}
-	1250.1.1 = { holder = JapanMB26		}
-	1300.1.1 = { holder = JapanMB27		}
-	1325.1.1 = { holder = JapanMB28		}
+	730.1.1 = {
+		holder = EastSteppe349
+	}
+	748.11.12 = {
+		holder = EastSteppe350
+	}
+	765.8.4 = {
+		holder = EastSteppe352
+	}
+	790.3.1 = {
+		holder = EastSteppe354
+	}
+	820.6.14 = {
+		holder = EastSteppe356
+	}
+	845.4.10 = {
+		holder = EastSteppe358
+	}
+	870.10.10 = {
+		holder = EastSteppe360
+	}
+	900.5.5 = {
+		holder = EastSteppe362
+	}
+	930.8.20 = {
+		holder = EastSteppe364
+	}
+	955.1.30 = {
+		holder = EastSteppe366
+	}
+	985.3.14 = {
+		holder = EastSteppe368
+	}
+	1010.2.2 = {
+		holder = EastSteppe370
+	}
+	1040.11.11 = {
+		holder = EastSteppe372
+	}
+	1070.5.25 = {
+		holder = EastSteppe374
+	}
+	1100.8.8 = {
+		holder = EastSteppe376
+	}
+	1130.3.3 = {
+		holder = EastSteppe378
+	}
+	1160.7.7 = {
+		holder = EastSteppe380
+	}
+	1190.2.2 = {
+		holder = EastSteppe382
+	}
+	1220.5.5 = {
+		holder = EastSteppe384
+	}
+	1250.8.8 = {
+		holder = EastSteppe386
+	}
+	1280.6.6 = {
+		holder = EastSteppe388
+	}
+	1310.1.30 = {
+		holder = EastSteppe390
+	}
+	1340.5.5 = {
+		holder = EastSteppe392
+	}
 
 }
 

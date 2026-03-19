@@ -6362,38 +6362,39 @@ bm_1337 = {
 
 ##Additional Bookmarks
 
-bm_633 = { #
-	start_date = 633.1.1
-	is_playable = yes
-	group = bm_group_extra
-
-	weight = {
-		value = 1
-	}
-
-}
-
-bm_700 = { #
-	start_date = 700.1.1
-	is_playable = yes
-	group = bm_group_extra
-
-	weight = {
-		value = 1
-	}
-
-}
-
-bm_745 = { #Not really a feasible date
-	start_date = 745.1.1
-	is_playable = yes
-	group = bm_group_extra
-
-	weight = {
-		value = 0
-	}
-
-}
+#Mainly since these are just literally unplayable
+#bm_633 = { #
+#	start_date = 633.1.1
+#	is_playable = yes
+#	group = bm_group_extra
+#
+#	weight = {
+#		value = 1
+#	}
+#
+#}
+#
+#bm_700 = { #
+#	start_date = 700.1.1
+#	is_playable = yes
+#	group = bm_group_extra
+#
+#	weight = {
+#		value = 1
+#	}
+#
+#}
+#
+#bm_745 = { #Not really a feasible date
+#	start_date = 745.1.1
+#	is_playable = yes
+#	group = bm_group_extra
+#
+#	weight = {
+#		value = 0
+#	}
+#
+#}
 
 bm_813 = {
 	start_date = 813.1.1
@@ -6768,13 +6769,13 @@ bm_1399 = {
 
 #Debug
 
-bm_1111 = {
-	start_date = 2.1.1
-	is_playable = yes
-	group = bm_group_extra
-
-	weight = {
-		value = 0
-	}
-
-}
+#bm_1111 = {
+#	start_date = 2.1.1
+#	is_playable = yes
+#	group = bm_group_extra
+#
+#	weight = {
+#		value = 0
+#	}
+#
+#}

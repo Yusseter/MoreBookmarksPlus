@@ -1896,6 +1896,9 @@ c_karakorum = {
 }
 
 c_gobi_ongi_gol = {
+	769.1.1 = {
+		holder = NSteppeMB29
+	}
 	#867
 	848.1.2 = {
 		liege = d_ovorkhangai
@@ -1999,6 +2002,9 @@ c_gobi_ongi_gol = {
 }
 
 c_gobi_ulaan_nuur = {
+	769.1.1 = {
+		holder = NSteppeMB29
+	}
 	#867
 	848.1.2 = {
 		liege = d_ovorkhangai
@@ -2105,6 +2111,10 @@ c_gobi_ulaan_govi = {
 
 	730.1.1 = {
 		holder = MongolNew2586  # Guochang (starts at 730 as requested)
+	}
+	
+	760.1.1 = {
+		liege = d_murin_china
 	}
 	
 	762.9.24 = {
@@ -30245,7 +30255,7 @@ c_em_gobidada = {
 }
 
 c_em_kherulendada = {
-
+	
 	720.1.1 = {
 		holder = MongolNew638  # Baishinkhor_Dogshin
 	}
@@ -30276,6 +30286,10 @@ c_em_kherulendada = {
 	
 	959.7.22 = {
 		holder = MongolNew648  # Teguder
+	}
+	
+	978.1.14 = {
+		liege = d_em_tataria
 	}
 	
 	988.4.19 = {
@@ -30314,8 +30328,16 @@ c_em_kherulendada = {
 		holder = MongolNew661  # Aju
 	}
 	
+	1227.8.18 = {
+		liege = k_mongolia
+	}
+	
 	1249.5.29 = {
 		holder = MongolNew662  # Uriyangkhadai
+	}
+	
+	1255.1.14 = {
+		liege = d_em_tataria
 	}
 	
 	1278.11.12 = {
@@ -30661,12 +30683,15 @@ c_EM_tsetsen = {
 
 	720.1.1 = {
 		holder = MongolNew126  # Bodonchar
-		liege = d_EM_onon
 		government = herder_government
 	}
 	
 	758.9.18 = {
 		holder = MongolNew127  # Bagaridai (first branch - eldest son)
+	}
+	
+	760.1.1 = {
+		liege = d_EM_yujuelu
 	}
 	
 	785.11.3 = {
@@ -31097,7 +31122,7 @@ c_manglai_china = {
 	769.1.1 = {
 		holder = TatarHerder1
 		government = herder_government
-		liege = d_gobi_shatuoguo
+		liege = d_teriqan_china
 	}
 
 	783.9.28 = {
@@ -31174,7 +31199,7 @@ c_manglai_china = {
 
 }
 
-d_gobi_shatuoguo = {
+d_teriqan_china = {
 	760.1.1 = {  holder = NSteppeMB163 government = nomad_government	}
 	820.1.1 = {  holder = NSteppeMB164 liege = e_mongolia	}
 	840.1.1 = {  holder = NSteppeMB165	}
@@ -31223,6 +31248,10 @@ c_gobi_abakhai = {
 	
 	768.11.22 = {
 		holder = MongolNew2427  # Baishinkhor_Dogshin
+	}
+	
+	769.1.1 = {
+		liege = d_teriqan_china
 	}
 	
 	797.6.18 = {
@@ -31311,6 +31340,10 @@ c_gobi_abga = {
 	730.1.1 = {
 		holder = MongolNew2522  # Yeke
 		government = nomad_government
+	}
+	
+	769.1.1 = {
+		liege = d_teriqan_china
 	}
 	
 	793.12.7 = {
@@ -31408,6 +31441,10 @@ c_gobi_sonkhot = {
 		holder = MongolNew2475  # Khabichi
 	}
 	
+	769.1.1 = {
+		liege = d_teriqan_china
+	}
+	
 	795.3.11 = {
 		holder = MongolNew2476  # Bartan
 	}
@@ -31497,6 +31534,10 @@ c_gobi_dorngovi = {
 	
 	768.9.25 = {
 		holder = MongolNew2544
+	}
+	
+	769.1.1 = {
+		liege = d_teriqan_china
 	}
 	
 	796.11.8 = {
@@ -31777,6 +31818,10 @@ c_gobi_maominggan = {
 		government = nomad_government
 	}
 	
+	760.1.1 = {
+		liege = d_murin_china
+	}
+	
 	768.9.24 = {
 		holder = MongolNew2566
 	}
@@ -32039,6 +32084,10 @@ c_EM_ononum = {
 		government = herder_government
 	}
 	
+	760.1.1 = {
+		liege = d_EM_onon
+	}
+	
 	783.11.7 = {
 		holder = MongolNew515  # Borjigidai
 	}
@@ -32212,6 +32261,10 @@ c_EM_doodonon = {
 		holder = MongolNew449  # Khabul
 	}
 	
+	760.1.1 = {
+		liege = d_khiyat_china
+	}
+	
 	789.11.3 = {
 		holder = MongolNew450  # Ambaghai
 	}
@@ -32298,6 +32351,10 @@ c_EM_khoyorgol = {
 	
 	758.9.24 = {
 		holder = MongolNew366  # Bagaridai
+	}
+	
+	760.1.1 = {
+		liege = d_khiyat_china
 	}
 	
 	783.11.15 = {
@@ -32390,6 +32447,10 @@ c_EM_khiltsaiz = {
 	
 	738.9.25 = {
 		holder = MongolNew274  # Bagaridai
+	}
+	
+	760.1.1 = {
+		liege = d_EM_wajiezi
 	}
 	
 	767.2.8 = {
@@ -32509,6 +32570,10 @@ c_SW_talbai = {
 		holder = MongolNew2  # Bagaridai
 	}
 	
+	760.1.1 = {
+		liege = d_EM_wajiezi
+	}
+	
 	783.11.5 = {
 		holder = MongolNew3  # Menen_TU_dU_n
 	}
@@ -32589,6 +32654,94 @@ c_SW_talbai = {
 		holder = MongolNew40  # Toghon (extends beyond 1337)
 	}
 	
+}
+
+d_EM_wajiezi = {
+
+	720.1.1 = {
+		holder = MongolNew67  # Barasen
+	}
+	
+	783.11.6 = {
+		holder = MongolNew68  # Yesugei (Main Branch)
+	}
+	
+	811.5.29 = {
+		holder = MongolNew70  # Ambaghai
+	}
+	
+	839.10.11 = {
+		holder = MongolNew71  # Bartan
+	}
+	
+	867.2.15 = {
+		holder = MongolNew72  # Khutula
+	}
+	
+	895.8.24 = {
+		holder = MongolNew74  # Todogen
+	}
+	
+	923.12.5 = {
+		holder = MongolNew75  # Boroghul
+	}
+	
+	951.4.17 = {
+		holder = MongolNew77  # Jelme
+	}
+	
+	979.5.8 = {
+		holder = MongolNew78  # Belgutei
+	}
+	
+	1008.7.14 = {
+		holder = MongolNew79  # Daritai
+	}
+	
+	1036.11.19 = {
+		holder = MongolNew80  # Khubilai
+	}
+	
+	1064.3.2 = {
+		holder = MongolNew81  # Munokhoi
+	}
+	
+	1093.8.27 = {
+		holder = MongolNew82  # Khaidu
+	}
+	
+	1121.10.14 = {
+		holder = MongolNew83  # Buri
+	}
+	
+	1149.5.6 = {
+		holder = MongolNew84  # Chagatai
+	}
+	
+	1178.7.30 = {
+		holder = MongolNew85  # Batu
+	}
+	
+	1206.11.12 = {
+		holder = MongolNew86  # Berke
+	}
+	
+	1234.2.28 = {
+		holder = MongolNew87  # Nogai
+	}
+	
+	1263.6.19 = {
+		holder = MongolNew88  # Tokhta
+	}
+	
+	1291.9.5 = {
+		holder = MongolNew89  # Edigey
+	}
+	
+	1319.12.17 = {
+		holder = MongolNew90  # Togha_Teumur (extends beyond 1337)
+	}
+
 }
 
 c_EM_shilka = {
@@ -32689,6 +32842,10 @@ c_julop_china = {
 		holder = MongolNew192  # Bartan
 	}
 	
+	760.1.1 = {
+		liege = d_EM_wajiezi
+	}
+	
 	787.11.15 = {
 		holder = MongolNew193  # Tumen
 	}
@@ -32767,6 +32924,94 @@ c_julop_china = {
 	
 	1330.1.28 = {
 		holder = MongolNew218  # Ulankhatai (extends beyond 1337)
+	}
+
+}
+
+d_EM_yujuelu = {
+
+	720.1.1 = {
+		holder = MongolNew585  # Bagaridai (starts at 720 as requested)
+	}
+	
+	785.11.6 = {
+		holder = MongolNew586  # Khubilai (eldest son)
+	}
+	
+	812.8.14 = {
+		holder = MongolNew588  # Munokhoi
+	}
+	
+	841.1.19 = {
+		holder = MongolNew590  # Yesugei
+	}
+	
+	869.7.22 = {
+		holder = MongolNew592  # Bartan
+	}
+	
+	898.12.15 = {
+		holder = MongolNew594  # Ambaghai
+	}
+	
+	927.9.8 = {
+		holder = MongolNew596  # Khabul
+	}
+	
+	956.11.21 = {
+		holder = MongolNew598  # Hotula
+	}
+	
+	985.8.12 = {
+		holder = MongolNew600  # Barghujin
+	}
+	
+	1014.10.7 = {
+		holder = MongolNew602  # Tumenbayar
+	}
+	
+	1043.1.5 = {
+		holder = MongolNew604  # Baishinqor (eldest son)
+	}
+	
+	1072.9.28 = {
+		holder = MongolNew607  # Dayir
+	}
+	
+	1101.2.8 = {
+		holder = MongolNew610  # Khutula
+	}
+	
+	1130.10.22 = {
+		holder = MongolNew613  # Yesunge
+	}
+	
+	1159.8.5 = {
+		holder = MongolNew616  # Khasar
+	}
+	
+	1188.1.12 = {
+		holder = MongolNew619  # Ogodei
+	}
+	
+	1217.9.15 = {
+		holder = MongolNew622  # Guyug
+	}
+	
+	1246.5.11 = {
+		holder = MongolNew625  # Mongke
+	}
+	
+	1275.7.3 = {
+		holder = MongolNew628  # Ariq_Boke
+	}
+	
+	1304.2.14 = {
+		holder = MongolNew631  # Melik
+	}
+	
+	1333.11.9 = {
+		holder = MongolNew634  # Toq_Temur (extends beyond 1337)
 	}
 
 }
@@ -33343,6 +33588,10 @@ c_SW_zhongcheziguo = {
 		holder = MongolNew925  # Tadar
 	}
 	
+	760.1.1 = {
+		liege = d_SW_heicheziguo
+	}
+	
 	787.2.6 = {
 		holder = MongolNew926  # Sholban
 	}
@@ -33497,6 +33746,10 @@ c_SW_luotuoguo = {
 		government = nomad_government
 	}
 	
+	760.1.1 = {
+		liege = d_SW_qingxingan
+	}
+	
 	768.9.17 = {
 		holder = MongolNew1712  # Urelbun (main branch)
 	}
@@ -33587,6 +33840,10 @@ c_SW_nabeiguo = {
 		holder = MongolNew1611  # Modu (covers the 769 bookmark)
 	}
 	
+	760.1.1 = {
+		liege = d_SW_qingxingan
+	}
+	
 	768.11.22 = {
 		holder = MongolNew1612  # Tolui (main branch)
 	}
@@ -33668,6 +33925,10 @@ c_SW_xingnabei = {
 
 	730.1.1 = {
 		holder = MongolNew1546  # Modu
+	}
+	
+	760.1.1 = {
+		liege = d_SW_qingxingan
 	}
 	
 	768.9.23 = {
@@ -33755,6 +34016,7 @@ d_SW_qingxingan = {
 
 	730.1.1 = {
 		holder = MongolNew1366  # Modu
+		government = nomad_government
 	}
 	
 	745.9.28 = {
@@ -33843,6 +34105,107 @@ d_SW_qingxingan = {
 }
 
 c_SW_xinghuangtou = {
+	
+	730.1.1 = {
+		holder = MongolNew1431  # Modu
+		government = nomad_government
+	}
+	
+	738.9.23 = {
+		holder = MongolNew1432  # Heden
+	}
+	
+	760.1.1 = {
+		liege = d_SW_qingxingan
+	}
+	
+	767.11.5 = {
+		holder = MongolNew1433  # Narar
+	}
+	
+	795.6.17 = {
+		holder = MongolNew1434  # Temer
+	}
+	
+	823.1.14 = {
+		holder = MongolNew1435  # Urduor
+	}
+	
+	851.10.28 = {
+		holder = MongolNew1436  # Badarongga
+	}
+	
+	879.4.7 = {
+		holder = MongolNew1437  # Saibao
+	}
+	
+	907.9.22 = {
+		holder = MongolNew1438  # Kuge
+	}
+	
+	935.7.18 = {
+		holder = MongolNew1439  # Chala
+	}
+	
+	963.2.11 = {
+		holder = MongolNew1440  # Temenir
+	}
+	
+	991.5.25 = {
+		holder = MongolNew1441  # Salhan
+	}
+	
+	1019.8.3 = {
+		holder = MongolNew1442  # Harusaugu
+	}
+	
+	1047.1.16 = {
+		holder = MongolNew1443  # Telegetu
+	}
+	
+	1075.11.9 = {
+		holder = MongolNew1444  # Mersentei
+	}
+	
+	1103.4.28 = {
+		holder = MongolNew1445  # Oldaghar
+	}
+	
+	1131.12.19 = {
+		holder = MongolNew1446  # Manggutai
+	}
+	
+	1159.3.8 = {
+		holder = MongolNew1447  # Sige
+	}
+	
+	1187.9.30 = {
+		holder = MongolNew1448  # Tiur
+	}
+	
+	1215.6.24 = {
+		holder = MongolNew1449  # Odulhar
+	}
+	
+	1243.1.7 = {
+		holder = MongolNew1450  # Gilig
+	}
+	
+	1271.8.16 = {
+		holder = MongolNew1451  # Tabuyer
+	}
+	
+	1299.2.22 = {
+		holder = MongolNew1452  # Qanba
+	}
+	
+	1327.11.4 = {
+		holder = MongolNew1453  # Shungur (extends beyond 1337)
+	}
+	
+}
+
+c_SW_huangtouguo = {
 
 	730.1.1 = {
 		holder = MongolNew1366  # Modu
@@ -33931,102 +34294,7 @@ c_SW_xinghuangtou = {
 	1319.9.2 = {
 		holder = MongolNew1387  # Shelun (extends beyond 1337)
 	}
-}
-
-c_SW_huangtouguo = {
-
-	730.1.1 = {
-		holder = MongolNew1431  # Modu
-		government = nomad_government
-	}
 	
-	738.9.23 = {
-		holder = MongolNew1432  # Heden
-	}
-	
-	767.11.5 = {
-		holder = MongolNew1433  # Narar
-	}
-	
-	795.6.17 = {
-		holder = MongolNew1434  # Temer
-	}
-	
-	823.1.14 = {
-		holder = MongolNew1435  # Urduor
-	}
-	
-	851.10.28 = {
-		holder = MongolNew1436  # Badarongga
-	}
-	
-	879.4.7 = {
-		holder = MongolNew1437  # Saibao
-	}
-	
-	907.9.22 = {
-		holder = MongolNew1438  # Kuge
-	}
-	
-	935.7.18 = {
-		holder = MongolNew1439  # Chala
-	}
-	
-	963.2.11 = {
-		holder = MongolNew1440  # Temenir
-	}
-	
-	991.5.25 = {
-		holder = MongolNew1441  # Salhan
-	}
-	
-	1019.8.3 = {
-		holder = MongolNew1442  # Harusaugu
-	}
-	
-	1047.1.16 = {
-		holder = MongolNew1443  # Telegetu
-	}
-	
-	1075.11.9 = {
-		holder = MongolNew1444  # Mersentei
-	}
-	
-	1103.4.28 = {
-		holder = MongolNew1445  # Oldaghar
-	}
-	
-	1131.12.19 = {
-		holder = MongolNew1446  # Manggutai
-	}
-	
-	1159.3.8 = {
-		holder = MongolNew1447  # Sige
-	}
-	
-	1187.9.30 = {
-		holder = MongolNew1448  # Tiur
-	}
-	
-	1215.6.24 = {
-		holder = MongolNew1449  # Odulhar
-	}
-	
-	1243.1.7 = {
-		holder = MongolNew1450  # Gilig
-	}
-	
-	1271.8.16 = {
-		holder = MongolNew1451  # Tabuyer
-	}
-	
-	1299.2.22 = {
-		holder = MongolNew1452  # Qanba
-	}
-	
-	1327.11.4 = {
-		holder = MongolNew1453  # Shungur (extends beyond 1337)
-	}
 }
 
 c_SW_heilonghean = {
@@ -36580,6 +36848,7 @@ c_LIAO_ningzhou = {
 	
 	768.9.25 = {
 		holder = MongolNew2406
+		liege = k_khitan_china
 	}
 	
 	798.11.6 = {
@@ -36632,7 +36901,7 @@ c_LIAO_ningzhou = {
 		holder = MongolNew2418
 	}
 	
-	1140.1.1 = { liege = k_khitan_china	}
+	1120.5.29 = { liege = d_xarmoron_china }
 	
 	1140.1.11 = {
 		holder = MongolNew2419
@@ -36645,8 +36914,8 @@ c_LIAO_ningzhou = {
 	1197.7.22 = {
 		holder = MongolNew2421
 	}
-	
-	1215.1.1 = { liege = e_mongol_empire }
+
+	1220.1.1 = { liege = e_mongol_empire }
 	
 	1226.2.8 = {
 		holder = MongolNew2422
@@ -36664,6 +36933,10 @@ c_LIAO_ningzhou = {
 	
 	1285.1.1 = {
 		de_jure_liege = k_gobi
+	}
+	
+	1285.1.1 = {
+		liege = k_goguryeo
 	}
 	
 	1312.3.17 = {
@@ -38367,47 +38640,185 @@ d_BAL_hoewon = {
 }
 
 c_BAL_huligai = {
-	760.1.1 = {  holder = NSteppeMB335 }
-	820.1.1 = {  holder = NSteppeMB336 }
-	840.1.1 = {  holder = NSteppeMB337 }
-	860.1.1 = {  holder = NSteppeMB338 }
-	900.1.1 = {  holder = NSteppeMB339 }
-	930.1.1 = {  holder = NSteppeMB340 }
-	955.1.1 = {  holder = NSteppeMB341 }
-	980.1.1 = {  holder = NSteppeMB342 }
-	1005.1.1 = { holder = NSteppeMB343 }
-	1040.1.1 = { holder = NSteppeMB344 }
-	1070.1.1 = { holder = NSteppeMB345 }
-	1100.1.1 = { holder = NSteppeMB346 }
-	1115.1.1 = { holder = NSteppeMB347 }
-	1140.1.1 = { holder = NSteppeMB348 }
-	1180.1.1 = { holder = NSteppeMB349 }
-	1210.1.1 = { holder = NSteppeMB350 }
-	1250.1.1 = { holder = NSteppeMB351 }
-	1300.1.1 = { holder = NSteppeMB352 }
-	1325.1.1 = { holder = NSteppeMB353 }
+
+	730.1.1 = {
+		holder = EastSteppe1397  # Udaun
+	}
+	
+	738.9.24 = {
+		holder = EastSteppe1398  # Hulujia
+	}
+	
+	766.11.3 = {
+		holder = EastSteppe1399  # Nianhan
+	}
+	
+	795.6.15 = {
+		holder = EastSteppe1400  # Sagezhou
+	}
+	
+	824.2.22 = {
+		holder = EastSteppe1401  # Tugesu
+	}
+	
+	853.9.30 = {
+		holder = EastSteppe1402  # Wolibu
+	}
+	
+	882.4.18 = {
+		holder = EastSteppe1403  # Yingge
+	}
+	
+	911.11.7 = {
+		holder = EastSteppe1404  # Mangda
+	}
+	
+	940.8.25 = {
+		holder = EastSteppe1405  # Aguo (oldest son)
+	}
+	
+	969.1.14 = {
+		holder = EastSteppe1407  # Wuzhu
+	}
+	
+	998.4.3 = {
+		holder = EastSteppe1409  # Digunai
+	}
+	
+	1027.6.9 = {
+		holder = EastSteppe1411  # Helibo (oldest son)
+	}
+	
+	1056.9.17 = {
+		holder = EastSteppe1414  # Dingju
+	}
+	
+	1085.5.8 = {
+		holder = EastSteppe1417  # Songge (oldest son)
+	}
+	
+	1114.12.24 = {
+		holder = EastSteppe1421  # Guantu (oldest son)
+	}
+	
+	1143.6.30 = {
+		holder = EastSteppe1426  # Hesun
+	}
+	
+	1172.8.18 = {
+		holder = EastSteppe1431  # Elun (oldest son)
+	}
+	
+	1201.7.28 = {
+		holder = EastSteppe1437  # Udisa_E_
+	}
+	
+	1230.4.16 = {
+		holder = EastSteppe1443  # Andahai (oldest son)
+	}
+	
+	1259.11.2 = {
+		holder = EastSteppe1450  # Yangha
+	}
+	
+	1288.6.25 = {
+		holder = EastSteppe1457  # Wolie
+	}
+	
+	1317.2.19 = {
+		holder = EastSteppe1464  # Dalunha (extends beyond 1337)
+	}
 }
 
 c_BAL_delizhen = {
-	760.1.1 = {  holder = NSteppeMB335 }
-	820.1.1 = {  holder = NSteppeMB336 }
-	840.1.1 = {  holder = NSteppeMB337 }
-	860.1.1 = {  holder = NSteppeMB338 }
-	900.1.1 = {  holder = NSteppeMB339 }
-	930.1.1 = {  holder = NSteppeMB340 }
-	955.1.1 = {  holder = NSteppeMB341 }
-	980.1.1 = {  holder = NSteppeMB342 }
-	1005.1.1 = { holder = NSteppeMB343 }
-	1040.1.1 = { holder = NSteppeMB344 }
-	1070.1.1 = { holder = NSteppeMB345 }
-	1100.1.1 = { holder = NSteppeMB346 }
-	1115.1.1 = { holder = NSteppeMB347 }
-	1140.1.1 = { holder = NSteppeMB348 }
-	1180.1.1 = { holder = NSteppeMB349 }
-	1210.1.1 = { holder = NSteppeMB350 }
-	1250.1.1 = { holder = NSteppeMB351 }
-	1300.1.1 = { holder = NSteppeMB352 }
-	1325.1.1 = { holder = NSteppeMB353 }
+
+	730.1.1 = {
+		holder = EastSteppe1471  # Hudun
+	}
+	
+	738.9.22 = {
+		holder = EastSteppe1472  # Wozhe
+	}
+	
+	769.12.7 = {
+		holder = EastSteppe1473  # Salinian
+	}
+	
+	797.6.28 = {
+		holder = EastSteppe1474  # Ulu
+	}
+	
+	825.4.15 = {
+		holder = EastSteppe1475  # Hezhenbao
+	}
+	
+	854.10.9 = {
+		holder = EastSteppe1476  # Moliye
+	}
+	
+	883.5.31 = {
+		holder = EastSteppe1477  # Nianhan
+	}
+	
+	911.12.24 = {
+		holder = EastSteppe1478  # Aguo (eldest son)
+	}
+	
+	940.7.18 = {
+		holder = EastSteppe1480  # Dingge (son of eldest)
+	}
+	
+	969.2.11 = {
+		holder = EastSteppe1482  # Hushahu (eldest son)
+	}
+	
+	998.4.22 = {
+		holder = EastSteppe1484  # Eluguan (eldest son)
+	}
+	
+	1026.9.27 = {
+		holder = EastSteppe1486  # Wugucu (eldest son)
+	}
+	
+	1055.2.15 = {
+		holder = EastSteppe1488  # Digunai (eldest son)
+	}
+	
+	1084.7.30 = {
+		holder = EastSteppe1490  # Helibo (eldest son)
+	}
+	
+	1113.5.23 = {
+		holder = EastSteppe1492  # Wuzhu (eldest son)
+	}
+	
+	1142.9.2 = {
+		holder = EastSteppe1494  # Yangha (eldest son)
+	}
+	
+	1171.6.20 = {
+		holder = EastSteppe1497  # Ningji (eldest son)
+	}
+	
+	1200.1.25 = {
+		holder = EastSteppe1499  # Yingge (eldest son)
+	}
+	
+	1229.5.30 = {
+		holder = EastSteppe1501  # Dotbi (eldest son)
+	}
+	
+	1258.2.18 = {
+		holder = EastSteppe1503  # Alubu (eldest son)
+	}
+	
+	1287.7.14 = {
+		holder = EastSteppe1505  # Wulie (eldest son)
+	}
+	
+	1316.11.22 = {
+		holder = EastSteppe1507  # Husurugai (extends to 1345, covering 1337)
+	}
 }
 
 c_SW_lupingyuan = {
@@ -38688,6 +39099,8 @@ c_BAL_ilanshan = {
 		holder = MongolNew2384
 	}
 	
+	760.1.1 = { liege = d_BAL_hoewon }
+	
 	761.8.27 = {
 		holder = MongolNew2385
 	}
@@ -38770,135 +39183,539 @@ c_BAL_ilanshan = {
 }
 
 c_eman_vanda = {
-	760.1.1 = {  holder = NSteppeMB335 }
-	820.1.1 = {  holder = NSteppeMB336 }
-	840.1.1 = {  holder = NSteppeMB337 }
-	860.1.1 = {  holder = NSteppeMB338 }
-	900.1.1 = {  holder = NSteppeMB339 }
-	930.1.1 = {  holder = NSteppeMB340 }
-	955.1.1 = {  holder = NSteppeMB341 }
-	980.1.1 = {  holder = NSteppeMB342 }
-	1005.1.1 = { holder = NSteppeMB343 }
-	1040.1.1 = { holder = NSteppeMB344 }
-	1070.1.1 = { holder = NSteppeMB345 }
-	1100.1.1 = { holder = NSteppeMB346 }
-	1115.1.1 = { holder = NSteppeMB347 }
-	1140.1.1 = { holder = NSteppeMB348 }
-	1180.1.1 = { holder = NSteppeMB349 }
-	1210.1.1 = { holder = NSteppeMB350 }
-	1250.1.1 = { holder = NSteppeMB351 }
-	1300.1.1 = { holder = NSteppeMB352 }
-	1325.1.1 = { holder = NSteppeMB353 }
+
+	730.1.1 = {
+		holder = EastSteppe566  # Nianhan
+	}
+	
+	768.9.25 = {
+		holder = EastSteppe567  # Wolibu
+	}
+	
+	797.11.6 = {
+		holder = EastSteppe568  # Hushahu
+	}
+	
+	825.8.14 = {
+		holder = EastSteppe569  # Eluguan
+	}
+	
+	853.5.30 = {
+		holder = EastSteppe570  # Sahani
+	}
+	
+	881.12.8 = {
+		holder = EastSteppe571  # Mangda (eldest son)
+	}
+	
+	910.7.19 = {
+		holder = EastSteppe573  # Ningji
+	}
+	
+	938.1.26 = {
+		holder = EastSteppe574  # Sungida
+	}
+	
+	967.9.12 = {
+		holder = EastSteppe575  # Wugucu
+	}
+	
+	996.5.3 = {
+		holder = EastSteppe576  # Jaligi
+	}
+	
+	1025.10.17 = {
+		holder = EastSteppe577  # Hadar
+	}
+	
+	1054.6.29 = {
+		holder = EastSteppe578  # Pulihei
+	}
+	
+	1083.2.11 = {
+		holder = EastSteppe579  # Labuda (eldest son)
+	}
+	
+	1112.8.24 = {
+		holder = EastSteppe581  # Baoci
+	}
+	
+	1141.6.16 = {
+		holder = EastSteppe582  # Hulun
+	}
+	
+	1170.11.28 = {
+		holder = EastSteppe583  # Digunai
+	}
+	
+	1199.7.9 = {
+		holder = EastSteppe584  # Moliye (eldest son)
+	}
+	
+	1228.1.19 = {
+		holder = EastSteppe586  # Songge
+	}
+	
+	1257.5.26 = {
+		holder = EastSteppe587  # Husurugai
+	}
+	
+	1286.10.31 = {
+		holder = EastSteppe588  # Andahai (eldest son)
+	}
+	
+	1315.7.7 = {
+		holder = EastSteppe590  # Ninggisa
+	}
+	
+	1344.9.14 = {
+		holder = EastSteppe591  # Wozhe (extends beyond 1337)
+	}
 }
 
 c_eman_nimen = {
-	760.1.1 = {  holder = NSteppeMB335 }
-	820.1.1 = {  holder = NSteppeMB336 }
-	840.1.1 = {  holder = NSteppeMB337 }
-	860.1.1 = {  holder = NSteppeMB338 }
-	900.1.1 = {  holder = NSteppeMB339 }
-	930.1.1 = {  holder = NSteppeMB340 }
-	955.1.1 = {  holder = NSteppeMB341 }
-	980.1.1 = {  holder = NSteppeMB342 }
-	1005.1.1 = { holder = NSteppeMB343 }
-	1040.1.1 = { holder = NSteppeMB344 }
-	1070.1.1 = { holder = NSteppeMB345 }
-	1100.1.1 = { holder = NSteppeMB346 }
-	1115.1.1 = { holder = NSteppeMB347 }
-	1140.1.1 = { holder = NSteppeMB348 }
-	1180.1.1 = { holder = NSteppeMB349 }
-	1210.1.1 = { holder = NSteppeMB350 }
-	1250.1.1 = { holder = NSteppeMB351 }
-	1300.1.1 = { holder = NSteppeMB352 }
-	1325.1.1 = { holder = NSteppeMB353 }
+
+	730.1.1 = {
+		holder = EastSteppe527  # Bahulu
+	}
+	
+	768.9.25 = {
+		holder = EastSteppe528  # Tugesi
+	}
+	
+	797.11.6 = {
+		holder = EastSteppe529  # Wudubu
+	}
+	
+	826.8.14 = {
+		holder = EastSteppe530  # Salinian
+	}
+	
+	854.5.3 = {
+		holder = EastSteppe531  # Hezhe
+	}
+	
+	883.12.28 = {
+		holder = EastSteppe532  # Ninggisa
+	}
+	
+	912.7.19 = {
+		holder = EastSteppe533  # Eluguan
+	}
+	
+	941.4.11 = {
+		holder = EastSteppe534  # Dorbi
+	}
+	
+	970.10.8 = {
+		holder = EastSteppe535  # Mangda
+	}
+	
+	999.3.27 = {
+		holder = EastSteppe536  # Wolibu
+	}
+	
+	1028.1.15 = {
+		holder = EastSteppe537  # Ininggia
+	}
+	
+	1056.9.2 = {
+		holder = EastSteppe538  # Nianhan
+	}
+	
+	1086.5.20 = {
+		holder = EastSteppe539  # Sahani
+	}
+	
+	1115.11.7 = {
+		holder = EastSteppe540  # Agu
+	}
+	
+	1144.8.29 = {
+		holder = EastSteppe541  # Wuzhu (eldest son)
+	}
+	
+	1173.2.16 = {
+		holder = EastSteppe544  # Hesun
+	}
+	
+	1202.12.3 = {
+		holder = EastSteppe545  # Songge
+	}
+	
+	1231.7.24 = {
+		holder = EastSteppe546  # Telin (eldest son)
+	}
+	
+	1260.3.14 = {
+		holder = EastSteppe548  # Gulan
+	}
+	
+	1289.11.19 = {
+		holder = EastSteppe549  # Labuda
+	}
+	
+	1318.8.5 = {
+		holder = EastSteppe550  # Sungida (extends beyond 1337)
+	}
 }
 
 c_eman_urehokto = {
-	760.1.1 = {  holder = NSteppeMB335 }
-	820.1.1 = {  holder = NSteppeMB336 }
-	840.1.1 = {  holder = NSteppeMB337 }
-	860.1.1 = {  holder = NSteppeMB338 }
-	900.1.1 = {  holder = NSteppeMB339 }
-	930.1.1 = {  holder = NSteppeMB340 }
-	955.1.1 = {  holder = NSteppeMB341 }
-	980.1.1 = {  holder = NSteppeMB342 }
-	1005.1.1 = { holder = NSteppeMB343 }
-	1040.1.1 = { holder = NSteppeMB344 }
-	1070.1.1 = { holder = NSteppeMB345 }
-	1100.1.1 = { holder = NSteppeMB346 }
-	1115.1.1 = { holder = NSteppeMB347 }
-	1140.1.1 = { holder = NSteppeMB348 }
-	1180.1.1 = { holder = NSteppeMB349 }
-	1210.1.1 = { holder = NSteppeMB350 }
-	1250.1.1 = { holder = NSteppeMB351 }
-	1300.1.1 = { holder = NSteppeMB352 }
-	1325.1.1 = { holder = NSteppeMB353 }
+
+	730.1.1 = {
+		holder = EastSteppe592
+	}
+	
+	768.9.17 = {
+		holder = EastSteppe593
+	}
+	
+	798.11.5 = {
+		holder = EastSteppe594
+	}
+	
+	827.6.19 = {
+		holder = EastSteppe595
+	}
+	
+	855.3.22 = {
+		holder = EastSteppe596
+	}
+	
+	884.8.11 = {
+		holder = EastSteppe597
+	}
+	
+	913.2.16 = {
+		holder = EastSteppe598
+	}
+	
+	941.10.28 = {
+		holder = EastSteppe599
+	}
+	
+	970.5.14 = {
+		holder = EastSteppe600
+	}
+	
+	999.11.3 = {
+		holder = EastSteppe601
+	}
+	
+	1028.4.27 = {
+		holder = EastSteppe602
+	}
+	
+	1057.9.18 = {
+		holder = EastSteppe603
+	}
+	
+	1086.2.9 = {
+		holder = EastSteppe604
+	}
+	
+	1115.7.23 = {
+		holder = EastSteppe605
+	}
+	
+	1144.12.15 = {
+		holder = EastSteppe606
+	}
+	
+	1173.5.29 = {
+		holder = EastSteppe609
+	}
+	
+	1201.8.14 = {
+		holder = EastSteppe610
+	}
+	
+	1230.12.28 = {
+		holder = EastSteppe611
+	}
+	
+	1259.4.21 = {
+		holder = EastSteppe612
+	}
+	
+	1287.9.5 = {
+		holder = EastSteppe614
+	}
+	
+	1316.6.24 = {
+		holder = EastSteppe615
+	}
 }
 
 c_eman_turma = {
-	760.1.1 = {  holder = NSteppeMB335 }
-	820.1.1 = {  holder = NSteppeMB336 }
-	840.1.1 = {  holder = NSteppeMB337 }
-	860.1.1 = {  holder = NSteppeMB338 }
-	900.1.1 = {  holder = NSteppeMB339 }
-	930.1.1 = {  holder = NSteppeMB340 }
-	955.1.1 = {  holder = NSteppeMB341 }
-	980.1.1 = {  holder = NSteppeMB342 }
-	1005.1.1 = { holder = NSteppeMB343 }
-	1040.1.1 = { holder = NSteppeMB344 }
-	1070.1.1 = { holder = NSteppeMB345 }
-	1100.1.1 = { holder = NSteppeMB346 }
-	1115.1.1 = { holder = NSteppeMB347 }
-	1140.1.1 = { holder = NSteppeMB348 }
-	1180.1.1 = { holder = NSteppeMB349 }
-	1210.1.1 = { holder = NSteppeMB350 }
-	1250.1.1 = { holder = NSteppeMB351 }
-	1300.1.1 = { holder = NSteppeMB352 }
-	1325.1.1 = { holder = NSteppeMB353 }
+
+	730.1.1 = {
+		holder = EastSteppe441  # Sagezhou
+	}
+	
+	763.9.18 = {
+		holder = EastSteppe442  # Helibo
+	}
+	
+	794.11.6 = {
+		holder = EastSteppe443  # Ningji (oldest son)
+	}
+	
+	821.5.14 = {
+		holder = EastSteppe445  # Daisu
+	}
+	
+	850.10.29 = {
+		holder = EastSteppe447  # Moliye
+	}
+	
+	879.1.22 = {
+		holder = EastSteppe449  # Juguta (oldest son of Moliye)
+	}
+	
+	907.3.15 = {
+		holder = EastSteppe452  # Husurugai
+	}
+	
+	936.6.25 = {
+		holder = EastSteppe455  # Songge
+	}
+	
+	964.12.29 = {
+		holder = EastSteppe458  # Wozhe (oldest son of Songge)
+	}
+	
+	993.8.6 = {
+		holder = EastSteppe462  # Yangha
+	}
+	
+	1022.11.23 = {
+		holder = EastSteppe466  # Telin
+	}
+	
+	1051.7.14 = {
+		holder = EastSteppe470  # S_igunai
+	}
+	
+	1080.2.22 = {
+		holder = EastSteppe471  # Andahai (oldest son)
+	}
+	
+	1085.8.11 = {
+		holder = EastSteppe476  # Yingge
+	}
+	
+	1114.1.6 = {
+		holder = EastSteppe480  # Hulu
+	}
+	
+	1138.10.25 = {
+		holder = EastSteppe485  # Wohu
+	}
+	
+	1167.11.11 = {
+		holder = EastSteppe491  # Barha
+	}
+	
+	1196.5.4 = {
+		holder = EastSteppe497  # S_ielihu
+	}
+	
+	1225.11.26 = {
+		holder = EastSteppe503  # Yangmudau
+	}
+	
+	1255.2.15 = {
+		holder = EastSteppe509  # Wudubu
+	}
+	
+	1284.7.2 = {
+		holder = EastSteppe515  # Sungida
+	}
+	
+	1313.10.10 = {
+		holder = EastSteppe521  # Suike (extends beyond 1337)
+	}
 }
 
 c_eman_birija = {
-	760.1.1 = {  holder = NSteppeMB335 }
-	820.1.1 = {  holder = NSteppeMB336 }
-	840.1.1 = {  holder = NSteppeMB337 }
-	860.1.1 = {  holder = NSteppeMB338 }
-	900.1.1 = {  holder = NSteppeMB339 }
-	930.1.1 = {  holder = NSteppeMB340 }
-	955.1.1 = {  holder = NSteppeMB341 }
-	980.1.1 = {  holder = NSteppeMB342 }
-	1005.1.1 = { holder = NSteppeMB343 }
-	1040.1.1 = { holder = NSteppeMB344 }
-	1070.1.1 = { holder = NSteppeMB345 }
-	1100.1.1 = { holder = NSteppeMB346 }
-	1115.1.1 = { holder = NSteppeMB347 }
-	1140.1.1 = { holder = NSteppeMB348 }
-	1180.1.1 = { holder = NSteppeMB349 }
-	1210.1.1 = { holder = NSteppeMB350 }
-	1250.1.1 = { holder = NSteppeMB351 }
-	1300.1.1 = { holder = NSteppeMB352 }
-	1325.1.1 = { holder = NSteppeMB353 }
+
+	730.1.1 = {
+		holder = EastSteppe394  # Husurugai
+	}
+	
+	768.9.23 = {
+		holder = EastSteppe395  # Wozhe
+	}
+	
+	795.11.17 = {
+		holder = EastSteppe396  # Ninggisa
+	}
+	
+	823.6.28 = {
+		holder = EastSteppe397  # Moliye
+	}
+	
+	851.3.14 = {
+		holder = EastSteppe398  # Eluguan
+	}
+	
+	880.8.7 = {
+		holder = EastSteppe399  # Dalunha
+	}
+	
+	909.4.11 = {
+		holder = EastSteppe400  # Songge (eldest son)
+	}
+	
+	937.12.23 = {
+		holder = EastSteppe402  # Helibo
+	}
+	
+	966.9.8 = {
+		holder = EastSteppe404  # Tugesu
+	}
+	
+	995.10.19 = {
+		holder = EastSteppe405  # Nianhan (eldest son)
+	}
+	
+	1024.5.12 = {
+		holder = EastSteppe408  # Wolibu
+	}
+	
+	1053.2.16 = {
+		holder = EastSteppe411  # Labuda (eldest son)
+	}
+	
+	1082.1.19 = {
+		holder = EastSteppe414  # Mutawuta
+	}
+	
+	1114.10.13 = {
+		holder = EastSteppe417  # Sonu
+	}
+	
+	1143.8.11 = {
+		holder = EastSteppe421  # Ancen
+	}
+	
+	1171.11.6 = {
+		holder = EastSteppe424  # Mentemu
+	}
+	
+	1200.9.21 = {
+		holder = EastSteppe427  # Tege
+	}
+	
+	1229.10.12 = {
+		holder = EastSteppe430  # Fanca
+	}
+	
+	1258.8.9 = {
+		holder = EastSteppe433  # Yongji
+	}
+	
+	1287.1.30 = {
+		holder = EastSteppe436  # Aluobuhua
+	}
+	
+	1316.9.2 = {
+		holder = EastSteppe439  # Wugucu
+	}
+	
+	1345.8.19 = {
+		holder = EastSteppe440  # Dingge (extends beyond 1337)
+	}
 }
 
 c_BAL_central_hoewon = {
-	760.1.1 = {  holder = NSteppeMB316 liege = d_BAL_hoewon }
-	820.1.1 = {  holder = NSteppeMB317 }
-	840.1.1 = {  holder = NSteppeMB318 }
-	860.1.1 = {  holder = NSteppeMB319 }
-	900.1.1 = {  holder = NSteppeMB320 }
-	930.1.1 = {  holder = NSteppeMB321 }
-	955.1.1 = {  holder = NSteppeMB322 }
-	980.1.1 = {  holder = NSteppeMB323 }
-	1005.1.1 = { holder = NSteppeMB324 }
-	1040.1.1 = { holder = NSteppeMB325 }
-	1070.1.1 = { holder = NSteppeMB326 }
-	1100.1.1 = { holder = NSteppeMB327 }
-	1115.1.1 = { holder = NSteppeMB328 }
-	1140.1.1 = { holder = NSteppeMB329 }
-	1180.1.1 = { holder = NSteppeMB330 }
-	1210.1.1 = { holder = NSteppeMB331 }
-	1250.1.1 = { holder = NSteppeMB332 }
-	1300.1.1 = { holder = NSteppeMB333 }
-	1325.1.1 = { holder = NSteppeMB334 }
+
+	730.1.1 = {
+		holder = EastSteppe1376
+	}
+	
+	760.1.1 = { liege = d_BAL_hoewon }
+	
+	768.9.14 = {
+		holder = EastSteppe1377
+	}
+	
+	796.11.8 = {
+		holder = EastSteppe1378
+	}
+	
+	824.7.29 = {
+		holder = EastSteppe1379
+	}
+	
+	852.12.23 = {
+		holder = EastSteppe1380
+	}
+	
+	881.4.16 = {
+		holder = EastSteppe1381
+	}
+	
+	909.9.5 = {
+		holder = EastSteppe1382
+	}
+	
+	938.3.11 = {
+		holder = EastSteppe1383
+	}
+	
+	966.12.27 = {
+		holder = EastSteppe1384
+	}
+	
+	995.6.3 = {
+		holder = EastSteppe1385
+	}
+	
+	1023.1.29 = {
+		holder = EastSteppe1386
+	}
+	
+	1051.8.22 = {
+		holder = EastSteppe1387
+	}
+	
+	1080.3.7 = {
+		holder = EastSteppe1388
+	}
+	
+	1108.10.15 = {
+		holder = EastSteppe1389
+	}
+	
+	1137.5.28 = {
+		holder = EastSteppe1390
+	}
+	
+	1166.12.10 = {
+		holder = EastSteppe1391
+	}
+	
+	1194.7.2 = {
+		holder = EastSteppe1392
+	}
+	
+	1223.2.24 = {
+		holder = EastSteppe1393
+	}
+	
+	1251.9.7 = {
+		holder = EastSteppe1394
+	}
+	
+	1280.4.19 = {
+		holder = EastSteppe1395
+	}
+	
+	1308.11.1 = {
+		holder = EastSteppe1396
+	}
 }
 
 c_BAL_south_hoewon = {
@@ -38924,178 +39741,712 @@ c_BAL_south_hoewon = {
 }
 
 c_eman_yerenhe = {
-	760.1.1 = {  holder = NSteppeMB316 liege = d_BAL_hoewon }
-	820.1.1 = {  holder = NSteppeMB317 }
-	840.1.1 = {  holder = NSteppeMB318 }
-	860.1.1 = {  holder = NSteppeMB319 }
-	900.1.1 = {  holder = NSteppeMB320 }
-	930.1.1 = {  holder = NSteppeMB321 }
-	955.1.1 = {  holder = NSteppeMB322 }
-	980.1.1 = {  holder = NSteppeMB323 }
-	1005.1.1 = { holder = NSteppeMB324 }
-	1040.1.1 = { holder = NSteppeMB325 }
-	1070.1.1 = { holder = NSteppeMB326 }
-	1100.1.1 = { holder = NSteppeMB327 }
-	1115.1.1 = { holder = NSteppeMB328 }
-	1140.1.1 = { holder = NSteppeMB329 }
-	1180.1.1 = { holder = NSteppeMB330 }
-	1210.1.1 = { holder = NSteppeMB331 }
-	1250.1.1 = { holder = NSteppeMB332 }
-	1300.1.1 = { holder = NSteppeMB333 }
-	1325.1.1 = { holder = NSteppeMB334 }
+
+	730.1.1 = {
+		holder = EastSteppe1001  # Hezhenbao
+	}
+	
+	768.9.25 = {
+		holder = EastSteppe1002  # Salinian
+	}
+	
+	795.11.14 = {
+		holder = EastSteppe1003  # Tugesu
+	}
+	
+	823.6.7 = {
+		holder = EastSteppe1004  # Wozhe
+	}
+	
+	851.2.18 = {
+		holder = EastSteppe1005  # Ningjiasu
+	}
+	
+	879.8.9 = {
+		holder = EastSteppe1006  # Labuda
+	}
+	
+	907.3.15 = {
+		holder = EastSteppe1007  # Jaligi
+	}
+	
+	935.11.28 = {
+		holder = EastSteppe1008  # Aginai
+	}
+	
+	963.7.5 = {
+		holder = EastSteppe1009  # Moliye
+	}
+	
+	991.5.20 = {
+		holder = EastSteppe1010  # Sahani
+	}
+	
+	1019.12.3 = {
+		holder = EastSteppe1011  # Wugucu
+	}
+	
+	1047.10.14 = {
+		holder = EastSteppe1012  # Eluguan
+	}
+	
+	1075.5.29 = {
+		holder = EastSteppe1013  # Songge
+	}
+	
+	1103.3.22 = {
+		holder = EastSteppe1014  # Dingge
+	}
+	
+	1131.10.8 = {
+		holder = EastSteppe1015  # Husurugai
+	}
+	
+	1159.6.25 = {
+		holder = EastSteppe1016  # Mangda
+	}
+	
+	1187.2.17 = {
+		holder = EastSteppe1017  # Wolibu
+	}
+	
+	1215.11.5 = {
+		holder = EastSteppe1018  # Digunai
+	}
+	
+	1243.8.20 = {
+		holder = EastSteppe1019  # Yawuta
+	}
+	
+	1271.4.9 = {
+		holder = EastSteppe1020  # Telin
+	}
+	
+	1299.12.27 = {
+		holder = EastSteppe1021  # Ninggisa
+	}
+	
+	1327.9.14 = {
+		holder = EastSteppe1022  # Abulang (extends beyond 1337)
+	}
 }
 
 c_eman_wuguihai = {
-	760.1.1 = {  holder = NSteppeMB316 liege = d_BAL_hoewon }
-	820.1.1 = {  holder = NSteppeMB317 }
-	840.1.1 = {  holder = NSteppeMB318 }
-	860.1.1 = {  holder = NSteppeMB319 }
-	900.1.1 = {  holder = NSteppeMB320 }
-	930.1.1 = {  holder = NSteppeMB321 }
-	955.1.1 = {  holder = NSteppeMB322 }
-	980.1.1 = {  holder = NSteppeMB323 }
-	1005.1.1 = { holder = NSteppeMB324 }
-	1040.1.1 = { holder = NSteppeMB325 }
-	1070.1.1 = { holder = NSteppeMB326 }
-	1100.1.1 = { holder = NSteppeMB327 }
-	1115.1.1 = { holder = NSteppeMB328 }
-	1140.1.1 = { holder = NSteppeMB329 }
-	1180.1.1 = { holder = NSteppeMB330 }
-	1210.1.1 = { holder = NSteppeMB331 }
-	1250.1.1 = { holder = NSteppeMB332 }
-	1300.1.1 = { holder = NSteppeMB333 }
-	1325.1.1 = { holder = NSteppeMB334 }
+
+	730.1.1 = {
+		holder = EastSteppe928  # Sahani
+	}
+	
+	768.9.23 = {
+		holder = EastSteppe929  # Wugucu
+	}
+	
+	797.11.5 = {
+		holder = EastSteppe930  # Hushahu
+	}
+	
+	825.6.14 = {
+		holder = EastSteppe931  # Nianhan (first son)
+	}
+	
+	853.3.17 = {
+		holder = EastSteppe933  # Elun
+	}
+	
+	881.12.20 = {
+		holder = EastSteppe935  # Mutalu
+	}
+	
+	910.1.9 = {
+		holder = EastSteppe937  # Labuda
+	}
+	
+	939.5.18 = {
+		holder = EastSteppe939  # Puluhu
+	}
+	
+	968.11.25 = {
+		holder = EastSteppe941  # Songge (first son)
+	}
+	
+	997.2.14 = {
+		holder = EastSteppe944  # Digunai
+	}
+	
+	1026.8.22 = {
+		holder = EastSteppe947  # Manduhe
+	}
+	
+	1055.11.30 = {
+		holder = EastSteppe950  # Wodai
+	}
+	
+	1084.2.6 = {
+		holder = EastSteppe954  # Yangmudau
+	}
+	
+	1113.3.22 = {
+		holder = EastSteppe958  # Hulijia
+	}
+	
+	1142.8.29 = {
+		holder = EastSteppe962  # Wudubu
+	}
+	
+	1171.11.8 = {
+		holder = EastSteppe967  # Wulie
+	}
+	
+	1200.1.21 = {
+		holder = EastSteppe972  # Moliye
+	}
+	
+	1229.2.28 = {
+		holder = EastSteppe977  # Wucimai
+	}
+	
+	1258.3.27 = {
+		holder = EastSteppe983  # Wennu
+	}
+	
+	1287.5.2 = {
+		holder = EastSteppe989  # Daisu
+	}
+	
+	1316.1.19 = {
+		holder = EastSteppe995  # Alubu (extends beyond 1337)
+	}
 }
 
 c_eman_heishuiyang = {
-	760.1.1 = {  holder = NSteppeMB316 liege = d_BAL_hoewon }
-	820.1.1 = {  holder = NSteppeMB317 }
-	840.1.1 = {  holder = NSteppeMB318 }
-	860.1.1 = {  holder = NSteppeMB319 }
-	900.1.1 = {  holder = NSteppeMB320 }
-	930.1.1 = {  holder = NSteppeMB321 }
-	955.1.1 = {  holder = NSteppeMB322 }
-	980.1.1 = {  holder = NSteppeMB323 }
-	1005.1.1 = { holder = NSteppeMB324 }
-	1040.1.1 = { holder = NSteppeMB325 }
-	1070.1.1 = { holder = NSteppeMB326 }
-	1100.1.1 = { holder = NSteppeMB327 }
-	1115.1.1 = { holder = NSteppeMB328 }
-	1140.1.1 = { holder = NSteppeMB329 }
-	1180.1.1 = { holder = NSteppeMB330 }
-	1210.1.1 = { holder = NSteppeMB331 }
-	1250.1.1 = { holder = NSteppeMB332 }
-	1300.1.1 = { holder = NSteppeMB333 }
-	1325.1.1 = { holder = NSteppeMB334 }
+
+	730.1.1 = {
+		holder = EastSteppe901  # Muha
+	}
+	
+	768.9.24 = {
+		holder = EastSteppe902  # Sagezhou
+	}
+	
+	797.11.15 = {
+		holder = EastSteppe903  # Helibo
+	}
+	
+	825.8.9 = {
+		holder = EastSteppe904  # Tunon
+	}
+	
+	853.3.27 = {
+		holder = EastSteppe905  # Wozhe
+	}
+	
+	881.12.18 = {
+		holder = EastSteppe906  # Nianhan
+	}
+	
+	910.6.4 = {
+		holder = EastSteppe907  # Dalunha (eldest son)
+	}
+	
+	938.1.23 = {
+		holder = EastSteppe909  # Tugesu
+	}
+	
+	967.7.30 = {
+		holder = EastSteppe910  # Sahani
+	}
+	
+	996.4.21 = {
+		holder = EastSteppe911  # Eluguan
+	}
+	
+	1024.1.11 = {
+		holder = EastSteppe912  # Jabingia
+	}
+	
+	1053.9.26 = {
+		holder = EastSteppe913  # Pulihei
+	}
+	
+	1082.6.14 = {
+		holder = EastSteppe914  # Mentemu
+	}
+	
+	1110.2.19 = {
+		holder = EastSteppe915  # Wolibu
+	}
+	
+	1139.11.5 = {
+		holder = EastSteppe916  # Sungida
+	}
+	
+	1168.7.28 = {
+		holder = EastSteppe917  # Ninggujua (eldest son)
+	}
+	
+	1197.3.17 = {
+		holder = EastSteppe919  # Hasaie
+	}
+	
+	1225.8.22 = {
+		holder = EastSteppe920  # Ilungha (eldest son)
+	}
+	
+	1254.5.11 = {
+		holder = EastSteppe923  # Labuda
+	}
+	
+	1283.2.4 = {
+		holder = EastSteppe924  # Ningji
+	}
+	
+	1312.10.19 = {
+		holder = EastSteppe925  # Abulang (eldest son)
+	}
 }
 
 c_eman_murkonno = {
-	760.1.1 = {  holder = NSteppeMB316 liege = d_BAL_hoewon }
-	820.1.1 = {  holder = NSteppeMB317 }
-	840.1.1 = {  holder = NSteppeMB318 }
-	860.1.1 = {  holder = NSteppeMB319 }
-	900.1.1 = {  holder = NSteppeMB320 }
-	930.1.1 = {  holder = NSteppeMB321 }
-	955.1.1 = {  holder = NSteppeMB322 }
-	980.1.1 = {  holder = NSteppeMB323 }
-	1005.1.1 = { holder = NSteppeMB324 }
-	1040.1.1 = { holder = NSteppeMB325 }
-	1070.1.1 = { holder = NSteppeMB326 }
-	1100.1.1 = { holder = NSteppeMB327 }
-	1115.1.1 = { holder = NSteppeMB328 }
-	1140.1.1 = { holder = NSteppeMB329 }
-	1180.1.1 = { holder = NSteppeMB330 }
-	1210.1.1 = { holder = NSteppeMB331 }
-	1250.1.1 = { holder = NSteppeMB332 }
-	1300.1.1 = { holder = NSteppeMB333 }
-	1325.1.1 = { holder = NSteppeMB334 }
+	730.1.1 = {
+		holder = EastSteppe566  # Nianhan
+	}
+	
+	768.9.25 = {
+		holder = EastSteppe567  # Wolibu
+	}
+	
+	797.11.6 = {
+		holder = EastSteppe568  # Hushahu
+	}
+	
+	825.8.14 = {
+		holder = EastSteppe569  # Eluguan
+	}
+	
+	853.5.30 = {
+		holder = EastSteppe570  # Sahani
+	}
+	
+	881.12.8 = {
+		holder = EastSteppe571  # Mangda (eldest son)
+	}
+	
+	910.7.19 = {
+		holder = EastSteppe573  # Ningji
+	}
+	
+	938.1.26 = {
+		holder = EastSteppe574  # Sungida
+	}
+	
+	967.9.12 = {
+		holder = EastSteppe575  # Wugucu
+	}
+	
+	996.5.3 = {
+		holder = EastSteppe576  # Jaligi
+	}
+	
+	1025.10.17 = {
+		holder = EastSteppe577  # Hadar
+	}
+	
+	1054.6.29 = {
+		holder = EastSteppe578  # Pulihei
+	}
+	
+	1083.2.11 = {
+		holder = EastSteppe579  # Labuda (eldest son)
+	}
+	
+	1112.8.24 = {
+		holder = EastSteppe581  # Baoci
+	}
+	
+	1141.6.16 = {
+		holder = EastSteppe582  # Hulun
+	}
+	
+	1170.11.28 = {
+		holder = EastSteppe583  # Digunai
+	}
+	
+	1199.7.9 = {
+		holder = EastSteppe584  # Moliye (eldest son)
+	}
+	
+	1228.1.19 = {
+		holder = EastSteppe586  # Songge
+	}
+	
+	1257.5.26 = {
+		holder = EastSteppe587  # Husurugai
+	}
+	
+	1286.10.31 = {
+		holder = EastSteppe588  # Andahai (eldest son)
+	}
+	
+	1315.7.7 = {
+		holder = EastSteppe590  # Ninggisa
+	}
+	
+	1344.9.14 = {
+		holder = EastSteppe591  # Wozhe (extends beyond 1337)
+	}
 }
 
 c_eman_boli = {
-	760.1.1 = {  holder = NSteppeMB316 liege = d_BAL_hoewon }
-	820.1.1 = {  holder = NSteppeMB317 }
-	840.1.1 = {  holder = NSteppeMB318 }
-	860.1.1 = {  holder = NSteppeMB319 }
-	900.1.1 = {  holder = NSteppeMB320 }
-	930.1.1 = {  holder = NSteppeMB321 }
-	955.1.1 = {  holder = NSteppeMB322 }
-	980.1.1 = {  holder = NSteppeMB323 }
-	1005.1.1 = { holder = NSteppeMB324 }
-	1040.1.1 = { holder = NSteppeMB325 }
-	1070.1.1 = { holder = NSteppeMB326 }
-	1100.1.1 = { holder = NSteppeMB327 }
-	1115.1.1 = { holder = NSteppeMB328 }
-	1140.1.1 = { holder = NSteppeMB329 }
-	1180.1.1 = { holder = NSteppeMB330 }
-	1210.1.1 = { holder = NSteppeMB331 }
-	1250.1.1 = { holder = NSteppeMB332 }
-	1300.1.1 = { holder = NSteppeMB333 }
-	1325.1.1 = { holder = NSteppeMB334 }
+
+	730.1.1 = {
+		holder = EastSteppe1023  # Agunai
+	}
+	
+	768.9.22 = {
+		holder = EastSteppe1024  # Helibo
+	}
+	
+	797.11.30 = {
+		holder = EastSteppe1025  # Sagezhou
+	}
+	
+	826.5.17 = {
+		holder = EastSteppe1026  # Wolibu
+	}
+	
+	854.12.9 = {
+		holder = EastSteppe1027  # Mangda
+	}
+	
+	883.7.25 = {
+		holder = EastSteppe1028  # Ningji
+	}
+	
+	912.3.18 = {
+		holder = EastSteppe1029  # Elun (oldest son)
+	}
+	
+	941.6.14 = {
+		holder = EastSteppe1031  # Tugesu
+	}
+	
+	970.11.21 = {
+		holder = EastSteppe1033  # Yawuta
+	}
+	
+	999.4.8 = {
+		holder = EastSteppe1035  # Salinian (oldest of 3 sons)
+	}
+	
+	1028.9.15 = {
+		holder = EastSteppe1039  # Jogosang
+	}
+	
+	1057.6.29 = {
+		holder = EastSteppe1043  # Moliye
+	}
+	
+	1086.7.6 = {
+		holder = EastSteppe1047  # Woben (oldest of 2 sons)
+	}
+	
+	1115.11.29 = {
+		holder = EastSteppe1052  # Hezhenbao
+	}
+	
+	1144.6.19 = {
+		holder = EastSteppe1057  # Pandu
+	}
+	
+	1173.12.2 = {
+		holder = EastSteppe1062  # Mentemu (oldest of 3 sons)
+	}
+	
+	1202.7.24 = {
+		holder = EastSteppe1069  # Jaligi
+	}
+	
+	1231.8.14 = {
+		holder = EastSteppe1076  # Bulo (oldest of 2 sons)
+	}
+	
+	1260.11.27 = {
+		holder = EastSteppe1084  # Aluhan
+	}
+	
+	1289.12.18 = {
+		holder = EastSteppe1092  # Ninggisa
+	}
+	
+	1318.2.9 = {
+		holder = EastSteppe1100  # Fanca
+	}
 }
 
 c_eman_mohean = {
-	760.1.1 = {  holder = NSteppeMB316 liege = d_BAL_hoewon }
-	820.1.1 = {  holder = NSteppeMB317 }
-	840.1.1 = {  holder = NSteppeMB318 }
-	860.1.1 = {  holder = NSteppeMB319 }
-	900.1.1 = {  holder = NSteppeMB320 }
-	930.1.1 = {  holder = NSteppeMB321 }
-	955.1.1 = {  holder = NSteppeMB322 }
-	980.1.1 = {  holder = NSteppeMB323 }
-	1005.1.1 = { holder = NSteppeMB324 }
-	1040.1.1 = { holder = NSteppeMB325 }
-	1070.1.1 = { holder = NSteppeMB326 }
-	1100.1.1 = { holder = NSteppeMB327 }
-	1115.1.1 = { holder = NSteppeMB328 }
-	1140.1.1 = { holder = NSteppeMB329 }
-	1180.1.1 = { holder = NSteppeMB330 }
-	1210.1.1 = { holder = NSteppeMB331 }
-	1250.1.1 = { holder = NSteppeMB332 }
-	1300.1.1 = { holder = NSteppeMB333 }
-	1325.1.1 = { holder = NSteppeMB334 }
+	730.1.1 = {
+		holder = EastSteppe1023  # Agunai
+	}
+	
+	768.9.22 = {
+		holder = EastSteppe1024  # Helibo
+	}
+	
+	797.11.30 = {
+		holder = EastSteppe1025  # Sagezhou
+	}
+	
+	826.5.17 = {
+		holder = EastSteppe1026  # Wolibu
+	}
+	
+	854.12.9 = {
+		holder = EastSteppe1027  # Mangda
+	}
+	
+	883.7.25 = {
+		holder = EastSteppe1028  # Ningji
+	}
+	
+	912.3.18 = {
+		holder = EastSteppe1029  # Elun (oldest son)
+	}
+	
+	941.6.14 = {
+		holder = EastSteppe1031  # Tugesu
+	}
+	
+	970.11.21 = {
+		holder = EastSteppe1033  # Yawuta
+	}
+	
+	999.4.8 = {
+		holder = EastSteppe1035  # Salinian (oldest of 3 sons)
+	}
+	
+	1028.9.15 = {
+		holder = EastSteppe1039  # Jogosang
+	}
+	
+	1057.6.29 = {
+		holder = EastSteppe1043  # Moliye
+	}
+	
+	1086.7.6 = {
+		holder = EastSteppe1047  # Woben (oldest of 2 sons)
+	}
+	
+	1115.11.29 = {
+		holder = EastSteppe1052  # Hezhenbao
+	}
+	
+	1144.6.19 = {
+		holder = EastSteppe1057  # Pandu
+	}
+	
+	1173.12.2 = {
+		holder = EastSteppe1062  # Mentemu (oldest of 3 sons)
+	}
+	
+	1202.7.24 = {
+		holder = EastSteppe1069  # Jaligi
+	}
+	
+	1231.8.14 = {
+		holder = EastSteppe1076  # Bulo (oldest of 2 sons)
+	}
+	
+	1260.11.27 = {
+		holder = EastSteppe1084  # Aluhan
+	}
+	
+	1289.12.18 = {
+		holder = EastSteppe1092  # Ninggisa
+	}
+	
+	1318.2.9 = {
+		holder = EastSteppe1100  # Fanca
+	}
 }
 
 c_eman_choripi = {
-	760.1.1 = {  holder = NSteppeMB316 liege = d_BAL_hoewon }
-	820.1.1 = {  holder = NSteppeMB317 }
-	840.1.1 = {  holder = NSteppeMB318 }
-	860.1.1 = {  holder = NSteppeMB319 }
-	900.1.1 = {  holder = NSteppeMB320 }
-	930.1.1 = {  holder = NSteppeMB321 }
-	955.1.1 = {  holder = NSteppeMB322 }
-	980.1.1 = {  holder = NSteppeMB323 }
-	1005.1.1 = { holder = NSteppeMB324 }
-	1040.1.1 = { holder = NSteppeMB325 }
-	1070.1.1 = { holder = NSteppeMB326 }
-	1100.1.1 = { holder = NSteppeMB327 }
-	1115.1.1 = { holder = NSteppeMB328 }
-	1140.1.1 = { holder = NSteppeMB329 }
-	1180.1.1 = { holder = NSteppeMB330 }
-	1210.1.1 = { holder = NSteppeMB331 }
-	1250.1.1 = { holder = NSteppeMB332 }
-	1300.1.1 = { holder = NSteppeMB333 }
-	1325.1.1 = { holder = NSteppeMB334 }
+
+	730.1.1 = {
+		holder = EastSteppe726  # Nianhan
+	}
+	
+	768.9.25 = {
+		holder = EastSteppe727  # Helibo
+	}
+	
+	797.11.4 = {
+		holder = EastSteppe728  # Mutalu (oldest son)
+	}
+	
+	825.6.22 = {
+		holder = EastSteppe730  # Dalunha
+	}
+	
+	853.8.15 = {
+		holder = EastSteppe732  # Sagezhou (oldest son of Dalunha)
+	}
+	
+	881.10.29 = {
+		holder = EastSteppe736  # Wolie
+	}
+	
+	909.3.27 = {
+		holder = EastSteppe740  # Tugescu
+	}
+	
+	938.4.19 = {
+		holder = EastSteppe744  # Suike
+	}
+	
+	966.6.7 = {
+		holder = EastSteppe748  # Loloho
+	}
+	
+	994.8.26 = {
+		holder = EastSteppe752  # Guantu (oldest son)
+	}
+	
+	1022.2.8 = {
+		holder = EastSteppe757  # Songge
+	}
+	
+	1050.7.1 = {
+		holder = EastSteppe762  # Nuhu
+	}
+	
+	1078.9.7 = {
+		holder = EastSteppe767  # Abulang
+	}
+	
+	1106.10.28 = {
+		holder = EastSteppe772  # Asur
+	}
+	
+	1135.3.15 = {
+		holder = EastSteppe777  # Jogosang
+	}
+	
+	1162.11.29 = {
+		holder = EastSteppe782  # Sahani
+	}
+	
+	1191.1.11 = {
+		holder = EastSteppe787  # Aguo
+	}
+	
+	1219.3.6 = {
+		holder = EastSteppe792  # Beilu
+	}
+	
+	1247.12.23 = {
+		holder = EastSteppe797  # Udaun
+	}
+	
+	1275.10.30 = {
+		holder = EastSteppe802  # Iji
+	}
+	
+	1303.9.5 = {
+		holder = EastSteppe807  # Wuzhu
+	}
+	
+	1331.11.19 = {
+		holder = EastSteppe812  # Aodi (extends beyond 1337)
+	}
 }
 c_eman_urmi = {
-	760.1.1 = {  holder = NSteppeMB316 liege = d_BAL_hoewon }
-	820.1.1 = {  holder = NSteppeMB317 }
-	840.1.1 = {  holder = NSteppeMB318 }
-	860.1.1 = {  holder = NSteppeMB319 }
-	900.1.1 = {  holder = NSteppeMB320 }
-	930.1.1 = {  holder = NSteppeMB321 }
-	955.1.1 = {  holder = NSteppeMB322 }
-	980.1.1 = {  holder = NSteppeMB323 }
-	1005.1.1 = { holder = NSteppeMB324 }
-	1040.1.1 = { holder = NSteppeMB325 }
-	1070.1.1 = { holder = NSteppeMB326 }
-	1100.1.1 = { holder = NSteppeMB327 }
-	1115.1.1 = { holder = NSteppeMB328 }
-	1140.1.1 = { holder = NSteppeMB329 }
-	1180.1.1 = { holder = NSteppeMB330 }
-	1210.1.1 = { holder = NSteppeMB331 }
-	1250.1.1 = { holder = NSteppeMB332 }
-	1300.1.1 = { holder = NSteppeMB333 }
-	1325.1.1 = { holder = NSteppeMB334 }
+
+	730.1.1 = {
+		holder = EastSteppe616  # Yangha
+	}
+	
+	768.9.27 = {
+		holder = EastSteppe617  # Hulijia
+	}
+	
+	796.11.4 = {
+		holder = EastSteppe618  # Dingge (oldest son)
+	}
+	
+	824.6.13 = {
+		holder = EastSteppe620  # Salinian
+	}
+	
+	852.10.8 = {
+		holder = EastSteppe622  # Telin
+	}
+	
+	881.12.29 = {
+		holder = EastSteppe624  # Saiha
+	}
+	
+	908.5.24 = {
+		holder = EastSteppe626  # Hezhenbao (oldest son)
+	}
+	
+	937.10.19 = {
+		holder = EastSteppe629  # Jaligi
+	}
+	
+	965.1.27 = {
+		holder = EastSteppe632  # Aluhan (oldest son)
+	}
+	
+	993.6.30 = {
+		holder = EastSteppe636  # Wozhe
+	}
+	
+	1021.12.17 = {
+		holder = EastSteppe640  # Nijeenge
+	}
+	
+	1049.7.8 = {
+		holder = EastSteppe645  # Hacaha
+	}
+	
+	1077.2.27 = {
+		holder = EastSteppe650  # Ulu (oldest son)
+	}
+	
+	1105.10.7 = {
+		holder = EastSteppe656  # Kunuma
+	}
+	
+	1133.3.18 = {
+		holder = EastSteppe663  # Aluwan
+	}
+	
+	1161.12.25 = {
+		holder = EastSteppe670  # Souru (oldest son)
+	}
+	
+	1189.9.30 = {
+		holder = EastSteppe678  # Fanca
+	}
+	
+	1218.2.7 = {
+		holder = EastSteppe687  # Dzhin
+	}
+	
+	1246.10.13 = {
+		holder = EastSteppe696  # Sonu
+	}
+	
+	1274.12.27 = {
+		holder = EastSteppe706  # Elun
+	}
+	
+	1302.4.1 = {
+		holder = EastSteppe716  # Yangdai
+	}
+	
+	1330.12.26 = {
+		holder = EastSteppe717  # Puladu (extends beyond 1337)
+	}
 }
 c_eman_beihean = {
 	760.1.1 = {  holder = NSteppeMB316 }
@@ -39120,25 +40471,90 @@ c_eman_beihean = {
 }
 
 c_eman_molihewen = {
-	760.1.1 = {  holder = NSteppeMB316 }
-	820.1.1 = {  holder = NSteppeMB317 }
-	840.1.1 = {  holder = NSteppeMB318 }
-	860.1.1 = {  holder = NSteppeMB319 }
-	900.1.1 = {  holder = NSteppeMB320 }
-	930.1.1 = {  holder = NSteppeMB321 }
-	955.1.1 = {  holder = NSteppeMB322 }
-	980.1.1 = {  holder = NSteppeMB323 }
-	1005.1.1 = { holder = NSteppeMB324 }
-	1040.1.1 = { holder = NSteppeMB325 }
-	1070.1.1 = { holder = NSteppeMB326 }
-	1100.1.1 = { holder = NSteppeMB327 }
-	1115.1.1 = { holder = NSteppeMB328 }
-	1140.1.1 = { holder = NSteppeMB329 }
-	1180.1.1 = { holder = NSteppeMB330 }
-	1210.1.1 = { holder = NSteppeMB331 }
-	1250.1.1 = { holder = NSteppeMB332 }
-	1300.1.1 = { holder = NSteppeMB333 }
-	1325.1.1 = { holder = NSteppeMB334 }
+
+	730.1.1 = {
+		holder = EastSteppe813  # Mutalu
+	}
+	
+	768.9.25 = {
+		holder = EastSteppe814  # Hezhenbao
+	}
+	
+	797.11.6 = {
+		holder = EastSteppe815  # Saiha
+	}
+	
+	826.5.14 = {
+		holder = EastSteppe816  # Ninggisa
+	}
+	
+	855.12.3 = {
+		holder = EastSteppe817  # Wolun (oldest son)
+	}
+	
+	883.7.29 = {
+		holder = EastSteppe819  # Salinian
+	}
+	
+	912.1.18 = {
+		holder = EastSteppe821  # Wolibu
+	}
+	
+	941.3.15 = {
+		holder = EastSteppe823  # Andahai (oldest son)
+	}
+	
+	970.6.8 = {
+		holder = EastSteppe826  # Sonu
+	}
+	
+	999.1.5 = {
+		holder = EastSteppe829  # Elun (oldest son)
+	}
+	
+	1028.9.30 = {
+		holder = EastSteppe833  # Mentemu
+	}
+	
+	1057.7.22 = {
+		holder = EastSteppe837  # Nianhan (oldest son)
+	}
+	
+	1086.11.9 = {
+		holder = EastSteppe842  # Hushahu
+	}
+	
+	1115.4.24 = {
+		holder = EastSteppe847  # Aluwan (oldest son)
+	}
+	
+	1144.11.5 = {
+		holder = EastSteppe853  # Wulie
+	}
+	
+	1173.7.28 = {
+		holder = EastSteppe859  # Aginai (oldest son)
+	}
+	
+	1202.1.25 = {
+		holder = EastSteppe866  # Wugunai
+	}
+	
+	1231.9.21 = {
+		holder = EastSteppe873  # Labuda (oldest son)
+	}
+	
+	1260.6.28 = {
+		holder = EastSteppe881  # Sungida
+	}
+	
+	1289.12.22 = {
+		holder = EastSteppe889  # Heda
+	}
+	
+	1318.9.4 = {
+		holder = EastSteppe897  # Aginai
+	}
 }
 
 ## d_liaodong_china
@@ -40619,32 +42035,90 @@ c_BAL_dongpyeong_yizhou = {
 }
 
 c_BAL_ningzhou = {
-	760.1.1 = { holder = NSteppeMB411 }
-	#率賓/东海女真
-	860.1.1 = { holder = 1419954 liege = k_balhae }
-	901.1.1 = { holder = 1419955 }
-	923.1.1 = { holder = 1419956 }
-	926.8.28 = { liege = 0 }
-	965.1.1 = { holder = 1419957 }
-	974.1.1 = { holder = 1419958 }
-	1011.1.1 = { holder = 1419959 }
-	1033.1.1 = { holder = 1419960 }
-	1060.1.1 = { holder = 1419961 }
-	1081.1.1 = { holder = 1419962 }
-	1104.1.1 = { holder = 1419963 }
-	#耶懶路完顏部
-	1122.12.1 = { holder = jurchen438 liege = k_luzhen  }
-	1123.1.28 = { liege = d_BAL_yeojintang }
-	1141.1.1 = { holder = jurchen431 } # 撒改
-	1150.1.1 = { holder = jurchen439 }
-	1160.1.1 = { holder = jurchen440 }
-	1180.1.1 = { holder = jurchen441 }
-	1200.1.1 = { holder = jurchen433 }
-	1206.1.1 = { holder = jurchen433M }
-	1220.1.1 = { holder = JurchenFuca47 }
-	1255.8.8 = { holder = JurchenFuca49 }
-	1283.6.1 = { holder = JurchenFuca51 }
-	1311.3.7 = { holder = JurchenFuca53 }
+
+	730.1.1 = {
+		holder = EastSteppe1332  # Hushahu
+	}
+	
+	768.9.27 = {
+		holder = EastSteppe1333  # Diligi
+	}
+	
+	797.2.5 = {
+		holder = EastSteppe1334  # Wolibu
+	}
+	
+	826.5.11 = {
+		holder = EastSteppe1335  # Sagezhou
+	}
+	
+	854.10.19 = {
+		holder = EastSteppe1336  # Tunon
+	}
+	
+	883.12.30 = {
+		holder = EastSteppe1337  # Ninggisa
+	}
+	
+	912.4.7 = {
+		holder = EastSteppe1338  # Hezhenbao
+	}
+	
+	941.8.25 = {
+		holder = EastSteppe1339  # Labuda
+	}
+	
+	969.11.12 = {
+		holder = EastSteppe1340  # Wugucu
+	}
+	
+	998.3.18 = {
+		holder = EastSteppe1341  # Eluguan
+	}
+	
+	1027.6.24 = {
+		holder = EastSteppe1342  # Salinian
+	}
+	
+	1056.9.8 = {
+		holder = EastSteppe1343  # Dorbi
+	}
+	
+	1085.1.15 = {
+		holder = EastSteppe1344  # Yangmudau
+	}
+	
+	1114.5.22 = {
+		holder = EastSteppe1345  # Sonu
+	}
+	
+	1143.8.4 = {
+		holder = EastSteppe1346  # Puladu
+	}
+	
+	1171.11.28 = {
+		holder = EastSteppe1347  # Mangda
+	}
+	
+	1200.3.12 = {
+		holder = EastSteppe1348  # Husurugai
+	}
+	
+	1229.7.19 = {
+		holder = EastSteppe1349  # Nijengen
+	}
+	
+	1257.10.30 = {
+		holder = EastSteppe1350  # Kunuma
+	}
+	
+	1286.2.6 = {
+		holder = EastSteppe1351  # Woben
+	}
+	
+	1315.4.23 = {
+		holder = EastSteppe1352  # Ilungha (extends beyond 1337)
+	}
 }
 
 c_BAL_jixi = {
@@ -40677,47 +42151,183 @@ c_BAL_jixi = {
 }
 
 c_BAL_north_anwon = {
-	760.1.1 = {  holder = NSteppeMB354 liege = d_BAL_yeojintang }
-	820.1.1 = {  holder = NSteppeMB355 }
-	840.1.1 = {  holder = NSteppeMB356 }
-	860.1.1 = {  holder = NSteppeMB357 }
-	900.1.1 = {  holder = NSteppeMB358 }
-	930.1.1 = {  holder = NSteppeMB359 }
-	955.1.1 = {  holder = NSteppeMB360 }
-	980.1.1 = {  holder = NSteppeMB361 }
-	1005.1.1 = { holder = NSteppeMB362 }
-	1040.1.1 = { holder = NSteppeMB363 }
-	1070.1.1 = { holder = NSteppeMB364 }
-	1100.1.1 = { holder = NSteppeMB365 }
-	1115.1.1 = { holder = NSteppeMB366 }
-	1140.1.1 = { holder = NSteppeMB367 }
-	1180.1.1 = { holder = NSteppeMB368 }
-	1210.1.1 = { holder = NSteppeMB369 }
-	1250.1.1 = { holder = NSteppeMB370 }
-	1300.1.1 = { holder = NSteppeMB371 }
-	1325.1.1 = { holder = NSteppeMB372 }
+
+	730.1.1 = {
+		holder = EastSteppe1183
+	}
+	
+	768.9.5 = {
+		holder = EastSteppe1184
+	}
+	
+	797.3.14 = {
+		holder = EastSteppe1185
+	}
+	
+	826.6.29 = {
+		holder = EastSteppe1186
+	}
+	
+	855.12.3 = {
+		holder = EastSteppe1187
+	}
+	
+	884.5.19 = {
+		holder = EastSteppe1189
+	}
+	
+	913.2.21 = {
+		holder = EastSteppe1191
+	}
+	
+	942.7.16 = {
+		holder = EastSteppe1192
+	}
+	
+	971.1.28 = {
+		holder = EastSteppe1193
+	}
+	
+	1000.6.14 = {
+		holder = EastSteppe1195
+	}
+	
+	1029.9.5 = {
+		holder = EastSteppe1197
+	}
+	
+	1058.2.11 = {
+		holder = EastSteppe1198
+	}
+	
+	1087.8.19 = {
+		holder = EastSteppe1201
+	}
+	
+	1116.11.17 = {
+		holder = EastSteppe1204
+	}
+	
+	1145.3.26 = {
+		holder = EastSteppe1205
+	}
+	
+	1174.7.12 = {
+		holder = EastSteppe1207
+	}
+	
+	1202.6.5 = {
+		holder = EastSteppe1209
+	}
+	
+	1231.5.1 = {
+		holder = EastSteppe1210
+	}
+	
+	1260.10.15 = {
+		holder = EastSteppe1212
+	}
+	
+	1289.1.11 = {
+		holder = EastSteppe1214
+	}
+	
+	1318.11.7 = {
+		holder = EastSteppe1215
+	}
 }
 
 c_BAL_east_hoewon = {
-	760.1.1 = {  holder = NSteppeMB354 liege = d_BAL_yeojintang }
-	820.1.1 = {  holder = NSteppeMB355 }
-	840.1.1 = {  holder = NSteppeMB356 }
-	860.1.1 = {  holder = NSteppeMB357 }
-	900.1.1 = {  holder = NSteppeMB358 }
-	930.1.1 = {  holder = NSteppeMB359 }
-	955.1.1 = {  holder = NSteppeMB360 }
-	980.1.1 = {  holder = NSteppeMB361 }
-	1005.1.1 = { holder = NSteppeMB362 }
-	1040.1.1 = { holder = NSteppeMB363 }
-	1070.1.1 = { holder = NSteppeMB364 }
-	1100.1.1 = { holder = NSteppeMB365 }
-	1115.1.1 = { holder = NSteppeMB366 }
-	1140.1.1 = { holder = NSteppeMB367 }
-	1180.1.1 = { holder = NSteppeMB368 }
-	1210.1.1 = { holder = NSteppeMB369 }
-	1250.1.1 = { holder = NSteppeMB370 }
-	1300.1.1 = { holder = NSteppeMB371 }
-	1325.1.1 = { holder = NSteppeMB372 }
+
+	730.1.1 = {
+		holder = EastSteppe1354
+	}
+	
+	741.9.25 = {
+		holder = EastSteppe1355
+	}
+	
+	760.1.1 = { liege = d_BAL_hoewon }
+	
+	768.3.7 = {
+		holder = EastSteppe1356
+	}
+	
+	799.11.15 = {
+		holder = EastSteppe1357
+	}
+	
+	827.5.22 = {
+		holder = EastSteppe1358
+	}
+	
+	856.12.8 = {
+		holder = EastSteppe1359
+	}
+	
+	885.9.17 = {
+		holder = EastSteppe1360
+	}
+	
+	914.6.14 = {
+		holder = EastSteppe1361
+	}
+	
+	943.2.25 = {
+		holder = EastSteppe1362
+	}
+	
+	972.10.7 = {
+		holder = EastSteppe1363
+	}
+	
+	1001.8.2 = {
+		holder = EastSteppe1364
+	}
+	
+	1030.5.19 = {
+		holder = EastSteppe1365
+	}
+	
+	1059.3.11 = {
+		holder = EastSteppe1366
+	}
+	
+	1088.11.26 = {
+		holder = EastSteppe1367
+	}
+	
+	1117.9.5 = {
+		holder = EastSteppe1368
+	}
+	
+	1146.7.18 = {
+		holder = EastSteppe1369
+	}
+	
+	1175.4.30 = {
+		holder = EastSteppe1370
+	}
+	
+	1204.2.14 = {
+		holder = EastSteppe1371
+	}
+	
+	1232.11.23 = {
+		holder = EastSteppe1372
+	}
+	
+	1261.8.8 = {
+		holder = EastSteppe1373
+	}
+	
+	1290.5.22 = {
+		holder = EastSteppe1374
+	}
+	
+	1319.3.7 = {
+		holder = EastSteppe1375
+	}
 }
 
 c_BAL_jeongni = {
@@ -40743,69 +42353,268 @@ c_BAL_jeongni = {
 }
 
 c_BAL_heuksu_anwon = {
-	760.1.1 = {  holder = NSteppeMB354 }
-	820.1.1 = {  holder = NSteppeMB355 }
-	840.1.1 = {  holder = NSteppeMB356 }
-	860.1.1 = {  holder = NSteppeMB357 }
-	900.1.1 = {  holder = NSteppeMB358 }
-	930.1.1 = {  holder = NSteppeMB359 }
-	955.1.1 = {  holder = NSteppeMB360 }
-	980.1.1 = {  holder = NSteppeMB361 }
-	1005.1.1 = { holder = NSteppeMB362 }
-	1040.1.1 = { holder = NSteppeMB363 }
-	1070.1.1 = { holder = NSteppeMB364 }
-	1100.1.1 = { holder = NSteppeMB365 }
-	1115.1.1 = { holder = NSteppeMB366 }
-	1140.1.1 = { holder = NSteppeMB367 }
-	1180.1.1 = { holder = NSteppeMB368 }
-	1210.1.1 = { holder = NSteppeMB369 }
-	1250.1.1 = { holder = NSteppeMB370 }
-	1300.1.1 = { holder = NSteppeMB371 }
-	1325.1.1 = { holder = NSteppeMB372 }
+
+	730.1.1 = {
+		holder = EastSteppe1103
+	}
+	
+	768.9.25 = {
+		holder = EastSteppe1104
+	}
+	
+	797.11.6 = {
+		holder = EastSteppe1105
+	}
+	
+	826.8.14 = {
+		holder = EastSteppe1107
+	}
+	
+	855.12.8 = {
+		holder = EastSteppe1109
+	}
+	
+	884.2.11 = {
+		holder = EastSteppe1110
+	}
+	
+	913.9.19 = {
+		holder = EastSteppe1111
+	}
+	
+	942.5.28 = {
+		holder = EastSteppe1113
+	}
+	
+	971.11.4 = {
+		holder = EastSteppe1115
+	}
+	
+	1000.6.29 = {
+		holder = EastSteppe1118
+	}
+	
+	1029.12.26 = {
+		holder = EastSteppe1121
+	}
+	
+	1058.8.11 = {
+		holder = EastSteppe1125
+	}
+	
+	1087.2.3 = {
+		holder = EastSteppe1129
+	}
+	
+	1116.1.11 = {
+		holder = EastSteppe1134
+	}
+	
+	1145.2.27 = {
+		holder = EastSteppe1139
+	}
+	
+	1174.11.29 = {
+		holder = EastSteppe1145
+	}
+	
+	1203.1.4 = {
+		holder = EastSteppe1152
+	}
+	
+	1232.10.25 = {
+		holder = EastSteppe1159
+	}
+	
+	1261.12.7 = {
+		holder = EastSteppe1166
+	}
+	
+	1290.8.20 = {
+		holder = EastSteppe1173
+	}
+	
+	1319.3.2 = {
+		holder = EastSteppe1180
+	}
 }
 
 c_BAL_north_anbyeon = {
-	760.1.1 = {  holder = NSteppeMB354 }
-	820.1.1 = {  holder = NSteppeMB355 }
-	840.1.1 = {  holder = NSteppeMB356 }
-	860.1.1 = {  holder = NSteppeMB357 }
-	900.1.1 = {  holder = NSteppeMB358 }
-	930.1.1 = {  holder = NSteppeMB359 }
-	955.1.1 = {  holder = NSteppeMB360 }
-	980.1.1 = {  holder = NSteppeMB361 }
-	1005.1.1 = { holder = NSteppeMB362 }
-	1040.1.1 = { holder = NSteppeMB363 }
-	1070.1.1 = { holder = NSteppeMB364 }
-	1100.1.1 = { holder = NSteppeMB365 }
-	1115.1.1 = { holder = NSteppeMB366 }
-	1140.1.1 = { holder = NSteppeMB367 }
-	1180.1.1 = { holder = NSteppeMB368 }
-	1210.1.1 = { holder = NSteppeMB369 }
-	1250.1.1 = { holder = NSteppeMB370 }
-	1300.1.1 = { holder = NSteppeMB371 }
-	1325.1.1 = { holder = NSteppeMB372 }
+
+	730.1.1 = {
+		holder = EastSteppe1216  # Salinian
+	}
+	
+	768.9.25 = {
+		holder = EastSteppe1217  # Hushahu
+	}
+	
+	797.11.8 = {
+		holder = EastSteppe1218  # Niljenga
+	}
+	
+	826.8.17 = {
+		holder = EastSteppe1219  # Wolun
+	}
+	
+	854.4.30 = {
+		holder = EastSteppe1220  # Eluguan
+	}
+	
+	883.12.6 = {
+		holder = EastSteppe1221  # Bahai
+	}
+	
+	911.7.19 = {
+		holder = EastSteppe1222  # Tugesu
+	}
+	
+	940.3.24 = {
+		holder = EastSteppe1223  # Sungida
+	}
+	
+	968.10.15 = {
+		holder = EastSteppe1224  # Ningji
+	}
+	
+	997.5.8 = {
+		holder = EastSteppe1225  # Dalunha
+	}
+	
+	1025.1.29 = {
+		holder = EastSteppe1226  # Hudun
+	}
+	
+	1054.9.11 = {
+		holder = EastSteppe1227  # Wugucu
+	}
+	
+	1083.6.4 = {
+		holder = EastSteppe1228  # Hezhe
+	}
+	
+	1111.2.17 = {
+		holder = EastSteppe1229  # Digunai
+	}
+	
+	1140.8.30 = {
+		holder = EastSteppe1230  # Shigunai
+	}
+	
+	1169.4.21 = {
+		holder = EastSteppe1231  # Manduhe
+	}
+	
+	1197.11.14 = {
+		holder = EastSteppe1232  # Aguo (first son)
+	}
+	
+	1226.7.5 = {
+		holder = EastSteppe1235  # Yawuta
+	}
+	
+	1255.1.27 = {
+		holder = EastSteppe1236  # Sagezhou
+	}
+	
+	1283.9.15 = {
+		holder = EastSteppe1237  # Elun (first son)
+	}
+	
+	1312.5.6 = {
+		holder = EastSteppe1239  # Wolibu
+	}
 }
 
 c_BAL_anbyeon = {
-	760.1.1 = {  holder = NSteppeMB354 }
-	820.1.1 = {  holder = NSteppeMB355 }
-	840.1.1 = {  holder = NSteppeMB356 }
-	860.1.1 = {  holder = NSteppeMB357 }
-	900.1.1 = {  holder = NSteppeMB358 }
-	930.1.1 = {  holder = NSteppeMB359 }
-	955.1.1 = {  holder = NSteppeMB360 }
-	980.1.1 = {  holder = NSteppeMB361 }
-	1005.1.1 = { holder = NSteppeMB362 }
-	1040.1.1 = { holder = NSteppeMB363 }
-	1070.1.1 = { holder = NSteppeMB364 }
-	1100.1.1 = { holder = NSteppeMB365 }
-	1115.1.1 = { holder = NSteppeMB366 }
-	1140.1.1 = { holder = NSteppeMB367 }
-	1180.1.1 = { holder = NSteppeMB368 }
-	1210.1.1 = { holder = NSteppeMB369 }
-	1250.1.1 = { holder = NSteppeMB370 }
-	1300.1.1 = { holder = NSteppeMB371 }
-	1325.1.1 = { holder = NSteppeMB372 }
+
+	730.1.1 = {
+		holder = EastSteppe1240  # Abulang
+	}
+	
+	768.9.23 = {
+		holder = EastSteppe1241  # Daijuhu
+	}
+	
+	797.11.5 = {
+		holder = EastSteppe1242  # Husurugai
+	}
+	
+	826.2.14 = {
+		holder = EastSteppe1243  # Sagezhou
+	}
+	
+	854.7.17 = {
+		holder = EastSteppe1244  # Wugucu (oldest son)
+	}
+	
+	883.1.29 = {
+		holder = EastSteppe1246  # Ninggisa
+	}
+	
+	912.4.18 = {
+		holder = EastSteppe1248  # Mutalu (oldest son)
+	}
+	
+	941.2.21 = {
+		holder = EastSteppe1250  # Telin (oldest son)
+	}
+	
+	970.3.7 = {
+		holder = EastSteppe1253  # Eluguan
+	}
+	
+	999.12.28 = {
+		holder = EastSteppe1256  # Songge
+	}
+	
+	1028.9.11 = {
+		holder = EastSteppe1260  # Dingge
+	}
+	
+	1057.3.19 = {
+		holder = EastSteppe1264  # Salinian
+	}
+	
+	1086.10.7 = {
+		holder = EastSteppe1269  # Tugesu
+	}
+	
+	1115.1.16 = {
+		holder = EastSteppe1274  # Wolie
+	}
+	
+	1144.4.13 = {
+		holder = EastSteppe1275  # Nanhe (oldest son)
+	}
+	
+	1148.11.26 = {
+		holder = EastSteppe1281  # Helibo
+	}
+	
+	1177.11.8 = {
+		holder = EastSteppe1287  # Woye
+	}
+	
+	1206.9.22 = {
+		holder = EastSteppe1294  # Aluobuhua
+	}
+	
+	1235.11.18 = {
+		holder = EastSteppe1301  # Wudubu (oldest son)
+	}
+	
+	1264.9.14 = {
+		holder = EastSteppe1309  # Yongji
+	}
+	
+	1293.6.25 = {
+		holder = EastSteppe1317  # Alihan
+	}
+	
+	1323.3.5 = {
+		holder = EastSteppe1325  # Yansun
+	}
 }
 
 d_liaoxi_china = { #辽西/平卢/平盧軍
@@ -41018,141 +42827,519 @@ c_eman_amgun = {
 }
 
 c_eman_nurgan = {
-	760.1.1 = {  holder = NSteppeMB10	}
-	820.1.1 = {  holder = NSteppeMB11	}
-	840.1.1 = {  holder = NSteppeMB12	}
-	860.1.1 = {  holder = NSteppeMB13	}
-	900.1.1 = {  holder = NSteppeMB14	}
-	930.1.1 = {  holder = NSteppeMB15	}
-	955.1.1 = {  holder = NSteppeMB16	}
-	980.1.1 = {  holder = NSteppeMB17	}
-	1005.1.1 = { holder = NSteppeMB18	}
-	1040.1.1 = { holder = NSteppeMB19	}
-	1070.1.1 = { holder = NSteppeMB20	}
-	1100.1.1 = { holder = NSteppeMB21	}
-	1115.1.1 = { holder = NSteppeMB22	}
-	1140.1.1 = { holder = NSteppeMB23	}
-	1180.1.1 = { holder = NSteppeMB24	}
-	1210.1.1 = { holder = NSteppeMB25	}
-	1250.1.1 = { holder = NSteppeMB26	}
-	1285.1.1 = { liege = 0 }
-	1300.1.1 = { holder = NSteppeMB27	}
-	1325.1.1 = { holder = NSteppeMB28	}
+
+	730.1.1 = {
+		holder = EastSteppe213  # Tavtugin
+	}
+	
+	761.9.24 = {
+		holder = EastSteppe214  # Kekhan
+	}
+	
+	789.11.5 = {
+		holder = EastSteppe215  # Urkayn
+	}
+	
+	818.7.14 = {
+		holder = EastSteppe216  # Pulychkh
+	}
+	
+	847.2.23 = {
+		holder = EastSteppe217  # Longun
+	}
+	
+	875.9.8 = {
+		holder = EastSteppe218  # Azrun
+	}
+	
+	904.4.12 = {
+		holder = EastSteppe219  # Vyskan
+	}
+	
+	932.8.19 = {
+		holder = EastSteppe220  # Memzgun
+	}
+	
+	961.1.26 = {
+		holder = EastSteppe221  # Chalun (eldest son)
+	}
+	
+	989.6.4 = {
+		holder = EastSteppe224  # Ezdanok
+	}
+	
+	1018.11.30 = {
+		holder = EastSteppe225  # Palgun
+	}
+	
+	1047.7.15 = {
+		holder = EastSteppe226  # Kenran (eldest son)
+	}
+	
+	1076.2.8 = {
+		holder = EastSteppe228  # Luzgin
+	}
+	
+	1105.6.5 = {
+		holder = EastSteppe229  # Napuin
+	}
+	
+	1134.11.18 = {
+		holder = EastSteppe230  # Khaylin (eldest son)
+	}
+	
+	1163.4.9 = {
+		holder = EastSteppe233  # Parkizin
+	}
+	
+	1192.12.14 = {
+		holder = EastSteppe234  # Tynvin
+	}
+	
+	1221.8.2 = {
+		holder = EastSteppe235  # Kokin (eldest son)
+	}
+	
+	1250.1.28 = {
+		holder = EastSteppe237  # Chuner
+	}
+	
+	1279.9.10 = {
+		holder = EastSteppe238  # Smedun
+	}
+	
+	1308.3.5 = {
+		holder = EastSteppe239  # Vadun
+	}
+	
+	1337.10.23 = {
+		holder = EastSteppe240  # Atvuk (extends beyond 1337)
+	}
 }
 
 c_eman_tugur = {
-	760.1.1 = {  holder = NSteppeMB10	}
-	820.1.1 = {  holder = NSteppeMB11	}
-	840.1.1 = {  holder = NSteppeMB12	}
-	860.1.1 = {  holder = NSteppeMB13	}
-	900.1.1 = {  holder = NSteppeMB14	}
-	930.1.1 = {  holder = NSteppeMB15	}
-	955.1.1 = {  holder = NSteppeMB16	}
-	980.1.1 = {  holder = NSteppeMB17	}
-	1005.1.1 = { holder = NSteppeMB18	}
-	1040.1.1 = { holder = NSteppeMB19	}
-	1070.1.1 = { holder = NSteppeMB20	}
-	1100.1.1 = { holder = NSteppeMB21	}
-	1115.1.1 = { holder = NSteppeMB22	}
-	1140.1.1 = { holder = NSteppeMB23	}
-	1180.1.1 = { holder = NSteppeMB24	}
-	1210.1.1 = { holder = NSteppeMB25	}
-	1250.1.1 = { holder = NSteppeMB26	}
-	1285.1.1 = { liege = 0 }
-	1300.1.1 = { holder = NSteppeMB27	}
-	1325.1.1 = { holder = NSteppeMB28	}
+
+	730.1.1 = {
+		holder = EastSteppe187  # Tolvin
+	}
+	
+	768.9.25 = {
+		holder = EastSteppe188  # Kenran
+	}
+	
+	797.11.6 = {
+		holder = EastSteppe189  # Pulychkh
+	}
+	
+	825.8.14 = {
+		holder = EastSteppe190  # Azmun
+	}
+	
+	854.2.19 = {
+		holder = EastSteppe191  # Luzgin
+	}
+	
+	883.9.7 = {
+		holder = EastSteppe192  # Vyskhan
+	}
+	
+	912.6.30 = {
+		holder = EastSteppe193  # Rsholin
+	}
+	
+	941.12.18 = {
+		holder = EastSteppe194  # Chalun (oldest son)
+	}
+	
+	970.9.4 = {
+		holder = EastSteppe196  # Ezdanok
+	}
+	
+	999.11.23 = {
+		holder = EastSteppe197  # Khaylin
+	}
+	
+	1028.7.11 = {
+		holder = EastSteppe198  # Memzgun
+	}
+	
+	1057.1.29 = {
+		holder = EastSteppe199  # Ukrin (oldest son)
+	}
+	
+	1086.10.19 = {
+		holder = EastSteppe201  # Kekhan
+	}
+	
+	1115.2.14 = {
+		holder = EastSteppe202  # Longun
+	}
+	
+	1144.8.2 = {
+		holder = EastSteppe203  # Azrun
+	}
+	
+	1173.1.20 = {
+		holder = EastSteppe204  # Parkizin (oldest son)
+	}
+	
+	1202.9.7 = {
+		holder = EastSteppe207  # Itkun
+	}
+	
+	1232.4.16 = {
+		holder = EastSteppe208  # Yudin
+	}
+	
+	1261.11.2 = {
+		holder = EastSteppe209  # Ochan (oldest son)
+	}
+	
+	1290.7.21 = {
+		holder = EastSteppe211  # Pungat
+	}
+	
+	1319.12.13 = {
+		holder = EastSteppe212  # Zarun (extends beyond 1337)
+	}
 }
 
 c_eman_yam_alin = {
-	760.1.1 = {  holder = NSteppeMB10	}
-	820.1.1 = {  holder = NSteppeMB11	}
-	840.1.1 = {  holder = NSteppeMB12	}
-	860.1.1 = {  holder = NSteppeMB13	}
-	900.1.1 = {  holder = NSteppeMB14	}
-	930.1.1 = {  holder = NSteppeMB15	}
-	955.1.1 = {  holder = NSteppeMB16	}
-	980.1.1 = {  holder = NSteppeMB17	}
-	1005.1.1 = { holder = NSteppeMB18	}
-	1040.1.1 = { holder = NSteppeMB19	}
-	1070.1.1 = { holder = NSteppeMB20	}
-	1100.1.1 = { holder = NSteppeMB21	}
-	1115.1.1 = { holder = NSteppeMB22	}
-	1140.1.1 = { holder = NSteppeMB23	}
-	1180.1.1 = { holder = NSteppeMB24	}
-	1210.1.1 = { holder = NSteppeMB25	}
-	1250.1.1 = { holder = NSteppeMB26	}
-	1285.1.1 = { liege = 0 }
-	1300.1.1 = { holder = NSteppeMB27	}
-	1325.1.1 = { holder = NSteppeMB28	}
+
+	730.1.1 = {
+		holder = EastSteppe1  # Ukrin
+	}
+	
+	761.9.24 = {
+		holder = EastSteppe2  # Chalun
+	}
+	
+	790.7.8 = {
+		holder = EastSteppe3  # Memzgun
+	}
+	
+	819.4.15 = {
+		holder = EastSteppe4  # Rsholin
+	}
+	
+	847.10.3 = {
+		holder = EastSteppe5  # Vadun
+	}
+	
+	875.5.28 = {
+		holder = EastSteppe6  # Kekhan
+	}
+	
+	902.12.11 = {
+		holder = EastSteppe7  # Pilgun
+	}
+	
+	930.7.19 = {
+		holder = EastSteppe8  # Azrun
+	}
+	
+	958.2.26 = {
+		holder = EastSteppe9  # Longun
+	}
+	
+	985.9.8 = {
+		holder = EastSteppe10  # Tavtugin
+	}
+	
+	1013.4.20 = {
+		holder = EastSteppe11  # Nyengun
+	}
+	
+	1041.11.2 = {
+		holder = EastSteppe12  # Kokin
+	}
+	
+	1069.6.14 = {
+		holder = EastSteppe13  # Chuner
+	}
+	
+	1097.1.27 = {
+		holder = EastSteppe14  # Vyskan
+	}
+	
+	1124.8.9 = {
+		holder = EastSteppe15  # Palgun
+	}
+	
+	1152.3.22 = {
+		holder = EastSteppe16  # Itkun
+	}
+	
+	1180.10.5 = {
+		holder = EastSteppe17  # Zarun
+	}
+	
+	1208.5.17 = {
+		holder = EastSteppe18  # Luzgin
+	}
+	
+	1236.11.30 = {
+		holder = EastSteppe19  # Kenran
+	}
+	
+	1264.7.12 = {
+		holder = EastSteppe20  # Pulychkh
+	}
+	
+	1292.2.25 = {
+		holder = EastSteppe21  # Tynvin
+	}
+	
+	1320.9.8 = {
+		holder = EastSteppe22  # Ykylak (extends beyond 1337)
+	}
 }
 
 c_eman_kerin = {
-	760.1.1 = {  holder = NSteppeMB10	}
-	820.1.1 = {  holder = NSteppeMB11	}
-	840.1.1 = {  holder = NSteppeMB12	}
-	860.1.1 = {  holder = NSteppeMB13	}
-	900.1.1 = {  holder = NSteppeMB14	}
-	930.1.1 = {  holder = NSteppeMB15	}
-	955.1.1 = {  holder = NSteppeMB16	}
-	980.1.1 = {  holder = NSteppeMB17	}
-	1005.1.1 = { holder = NSteppeMB18	}
-	1040.1.1 = { holder = NSteppeMB19	}
-	1070.1.1 = { holder = NSteppeMB20	}
-	1100.1.1 = { holder = NSteppeMB21	}
-	1115.1.1 = { holder = NSteppeMB22	}
-	1140.1.1 = { holder = NSteppeMB23	}
-	1180.1.1 = { holder = NSteppeMB24	}
-	1210.1.1 = { holder = NSteppeMB25	}
-	1250.1.1 = { holder = NSteppeMB26	}
-	1285.1.1 = { liege = 0 }
-	1300.1.1 = { holder = NSteppeMB27	}
-	1325.1.1 = { holder = NSteppeMB28	}
+
+	730.1.1 = {
+		holder = EastSteppe103  # Memzgun
+	}
+	
+	768.9.23 = {
+		holder = EastSteppe104  # Tolvin
+	}
+	
+	797.11.5 = {
+		holder = EastSteppe105  # Kekhan
+	}
+	
+	825.8.14 = {
+		holder = EastSteppe106  # Ukrin
+	}
+	
+	854.2.19 = {
+		holder = EastSteppe107  # Vyskan
+	}
+	
+	883.9.7 = {
+		holder = EastSteppe108  # Luzgin
+	}
+	
+	912.6.28 = {
+		holder = EastSteppe109  # Parkizin
+	}
+	
+	941.12.15 = {
+		holder = EastSteppe110  # Chuner (eldest son)
+	}
+	
+	970.9.2 = {
+		holder = EastSteppe112  # Rsholin (son of Chuner)
+	}
+	
+	999.1.8 = {
+		holder = EastSteppe114  # Yudin (son of Rsholin)
+	}
+	
+	1028.2.25 = {
+		holder = EastSteppe116  # Chalun (eldest of 3 sons)
+	}
+	
+	1057.7.21 = {
+		holder = EastSteppe120  # Ezdanok (son of Chalun)
+	}
+	
+	1086.12.3 = {
+		holder = EastSteppe124  # Pilgun (eldest of 2 sons)
+	}
+	
+	1115.9.11 = {
+		holder = EastSteppe129  # Palgun (son of Pilgun)
+	}
+	
+	1144.10.28 = {
+		holder = EastSteppe134  # Lergan (eldest of 2 sons)
+	}
+	
+	1173.12.8 = {
+		holder = EastSteppe140  # Urkayn (son of Lergan)
+	}
+	
+	1202.10.22 = {
+		holder = EastSteppe148  # Rsholin (son of Urkayn)
+	}
+	
+	1232.4.19 = {
+		holder = EastSteppe156  # Chalun (eldest of 2 sons)
+	}
+	
+	1260.7.12 = {
+		holder = EastSteppe165  # Itkun (son of Chalun)
+	}
+	
+	1290.4.5 = {
+		holder = EastSteppe175  # Pungat (son of Itkun)
+	}
+	
+	1319.2.18 = {
+		holder = EastSteppe183  # Kokin (son of Pungat)
+	}
 }
 
 c_eman_khadul = {
-	760.1.1 = {  holder = NSteppeMB10	}
-	820.1.1 = {  holder = NSteppeMB11	}
-	840.1.1 = {  holder = NSteppeMB12	}
-	860.1.1 = {  holder = NSteppeMB13	}
-	900.1.1 = {  holder = NSteppeMB14	}
-	930.1.1 = {  holder = NSteppeMB15	}
-	955.1.1 = {  holder = NSteppeMB16	}
-	980.1.1 = {  holder = NSteppeMB17	}
-	1005.1.1 = { holder = NSteppeMB18	}
-	1040.1.1 = { holder = NSteppeMB19	}
-	1070.1.1 = { holder = NSteppeMB20	}
-	1100.1.1 = { holder = NSteppeMB21	}
-	1115.1.1 = { holder = NSteppeMB22	}
-	1140.1.1 = { holder = NSteppeMB23	}
-	1180.1.1 = { holder = NSteppeMB24	}
-	1210.1.1 = { holder = NSteppeMB25	}
-	1250.1.1 = { holder = NSteppeMB26	}
-	1285.1.1 = { liege = 0 }
-	1300.1.1 = { holder = NSteppeMB27	}
-	1325.1.1 = { holder = NSteppeMB28	}
+	730.1.1 = {
+		holder = EastSteppe285
+	}
+	755.2.10 = {
+		holder = EastSteppe288
+	}
+	782.5.15 = {
+		holder = EastSteppe291
+	}
+	815.11.20 = {
+		holder = EastSteppe294
+	}
+	840.8.29 = {
+		holder = EastSteppe297
+	}
+	870.3.14 = {
+		holder = EastSteppe300
+	}
+	898.1.12 = {
+		holder = EastSteppe303
+	}
+	925.6.19 = {
+		holder = EastSteppe306
+	}
+	950.9.10 = {
+		holder = EastSteppe309
+	}
+	982.4.17 = {
+		holder = EastSteppe312
+	}
+	1010.2.25 = {
+		holder = EastSteppe315
+	}
+	1040.8.30 = {
+		holder = EastSteppe318
+	}
+	1065.5.15 = {
+		holder = EastSteppe321
+	}
+	1095.9.19 = {
+		holder = EastSteppe324
+	}
+	1125.1.11 = {
+		holder = EastSteppe327
+	}
+	1150.4.12 = {
+		holder = EastSteppe330
+	}
+	1185.7.22 = {
+		holder = EastSteppe333
+	}
+	1215.3.14 = {
+		holder = EastSteppe336
+	}
+	1245.5.25 = {
+		holder = EastSteppe339
+	}
+	1275.9.12 = {
+		holder = EastSteppe342
+	}
+	1305.1.20 = {
+		holder = EastSteppe345
+	}
+	1335.2.14 = {
+		holder = EastSteppe348
+	}
 }
 
 c_eman_tudali = {
-	760.1.1 = {  holder = NSteppeMB10	}
-	820.1.1 = {  holder = NSteppeMB11	}
-	840.1.1 = {  holder = NSteppeMB12	}
-	860.1.1 = {  holder = NSteppeMB13	}
-	900.1.1 = {  holder = NSteppeMB14	}
-	930.1.1 = {  holder = NSteppeMB15	}
-	955.1.1 = {  holder = NSteppeMB16	}
-	980.1.1 = {  holder = NSteppeMB17	}
-	1005.1.1 = { holder = NSteppeMB18	}
-	1040.1.1 = { holder = NSteppeMB19	}
-	1070.1.1 = { holder = NSteppeMB20	}
-	1100.1.1 = { holder = NSteppeMB21	}
-	1115.1.1 = { holder = NSteppeMB22	}
-	1140.1.1 = { holder = NSteppeMB23	}
-	1180.1.1 = { holder = NSteppeMB24	}
-	1210.1.1 = { holder = NSteppeMB25	}
-	1250.1.1 = { holder = NSteppeMB26	}
-	1285.1.1 = { liege = 0 }
-	1300.1.1 = { holder = NSteppeMB27	}
-	1325.1.1 = { holder = NSteppeMB28	}
+
+	730.1.1 = {
+		holder = EastSteppe23  # Memzgun
+	}
+	
+	765.9.28 = {
+		holder = EastSteppe24  # Kekhan
+	}
+	
+	791.4.17 = {
+		holder = EastSteppe25  # Tolvin
+	}
+	
+	819.12.5 = {
+		holder = EastSteppe26  # Urkayn
+	}
+	
+	847.7.19 = {
+		holder = EastSteppe27  # Vyskan
+	}
+	
+	873.2.26 = {
+		holder = EastSteppe28  # Luzgin
+	}
+	
+	900.10.11 = {
+		holder = EastSteppe29  # Chalun (oldest son)
+	}
+	
+	928.3.23 = {
+		holder = EastSteppe31  # Palgun
+	}
+	
+	955.9.8 = {
+		holder = EastSteppe33  # Rsholin (oldest son of Palgun)
+	}
+	
+	983.5.2 = {
+		holder = EastSteppe37  # Kokin
+	}
+	
+	1011.4.22 = {
+		holder = EastSteppe41  # Longun
+	}
+	
+	1039.10.4 = {
+		holder = EastSteppe45  # Kaskazik
+	}
+	
+	1067.2.15 = {
+		holder = EastSteppe49  # Ezdanok (oldest son)
+	}
+	
+	1095.1.6 = {
+		holder = EastSteppe54  # Uryam
+	}
+	
+	1123.2.11 = {
+		holder = EastSteppe59  # Azrun
+	}
+	
+	1151.5.1 = {
+		holder = EastSteppe64  # Azmun (oldest son)
+	}
+	
+	1179.1.3 = {
+		holder = EastSteppe70  # Luzgin
+	}
+	
+	1207.10.6 = {
+		holder = EastSteppe76  # Kenran
+	}
+	
+	1235.8.12 = {
+		holder = EastSteppe82  # Chuner
+	}
+	
+	1263.3.21 = {
+		holder = EastSteppe88  # Parkizin
+	}
+	
+	1291.1.30 = {
+		holder = EastSteppe94  # Mufchik
+	}
+	
+	1319.11.12 = {
+		holder = EastSteppe100  # Changin (extends beyond 1337)
+	}
 }
 
 c_lotan_china = {

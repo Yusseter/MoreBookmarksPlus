@@ -133,7 +133,7 @@ name_list_jurchen = {
 	}
 
 	male_names = {			
-		Abaohan Abulang Agu Aguda_963F_9AA8_6253 Agunai Aguo Aha Ahacu Ahai Ahaibaifu AiS_I_ AiS_I_ha Ajungha AlbasE_ri Ali Alihan Alihemen Alin Alu Alubu Aludai Aluhan Aluobuhua Aluwan Ancen Ancu Andahai Aodi Asur AS_entan AS_I_ngha
+		Abaohan Abulang Agu Agunai Aguo Aha Ahacu Ahai Ahaibaifu AiS_I_ AiS_I_ha Ajungha AlbasE_ri Ali Alihan Alihemen Alin Alu Alubu Aludai Aluhan Aluobuhua Aluwan Ancen Ancu Andahai Aodi Asur AS_entan AS_I_ngha
 		Bahai Bahei Bahulu Baifu Baoci Baohuoli Barha Beilu Biefoga Bugil Bulo BulE_gE_maihu Cala Cangho Caoha CenhulagE_ Cotoya Cunggelo CE_gE_ CE_jE_ CE_ndapan CE_nhulagE_
 		Daijuhu Daisu Dalunha DaS_I_n Digunai Diku Dili Diligi Dingge Dingju DiS_un Dorbi Dumu DuS_i Dzhin Ecu Eiyeku EiE_lu Eliduo Elu Elubu Eluguan Elun Fanca Fannu FE_nsI_
 		GiahucI_ Giohua Gioli Guantu Gulan GuS_a GE_cI_buhua GE_jeE_ Hacaha Hadar Hanpu HanS_I_ HasaiE_ HaE_u Heda Hela Helibo Hesun Heye Hezhe Hezhenbao HeS_i HeS_itan HuboS_u Hudun Huihou Hulijia Hulu Hulubu Hushahu Hushida Husurugai HusurE_gai Hutunla Hutuwa HuC_ienu HuS_a
@@ -543,6 +543,37 @@ name_list_nivkh = {
 		"dynn_Vadyo"
 		"dynn_Vankho"
 		"dynn_Vavlya"
+		"dynn_Sangi"
+ 		"dynn_Ykhmif"
+ 		"dynn_Taksami"
+ 		"dynn_Limanzo"
+ 		"dynn_Akhmalkh"
+ 		"dynn_Imgi"
+ 		"dynn_Yz"
+ 		"dynn_Yzng"
+ 		"dynn_Gashil"
+ 		"dynn_Agnyun"
+ 		"dynn_Chir_Unvd"
+ 		"dynn_Cham"
+ 		"dynn_Nyavan"
+ 		"dynn_Kughi"
+ 		"dynn_Nurgan"
+ 		"dynn_Tyr"
+ 		"dynn_Laigun"
+ 		"dynn_Vovkuk"
+ 		"dynn_Muvchik"
+ 		"dynn_Rybnoe"
+ 		"dynn_Ulita"
+ 		"dynn_Hurjun"
+ 		"dynn_Tengi"
+ 		"dynn_Vidain"
+ 		"dynn_Khadzigan"
+ 		"dynn_Miglut"
+ 		"dynn_Tim"
+ 		"dynn_Kulpin"
+ 		"dynn_Churka"
+ 		"dynn_Tidip"
+ 		"dynn_Pimgun"
 	}
 	
 	cadet_dynasty_names = {
@@ -569,6 +600,37 @@ name_list_nivkh = {
 		"dynn_Vadyo"
 		"dynn_Vankho"
 		"dynn_Vavlya"
+		"dynn_Sangi"
+ 		"dynn_Ykhmif"
+ 		"dynn_Taksami"
+ 		"dynn_Limanzo"
+ 		"dynn_Akhmalkh"
+ 		"dynn_Imgi"
+ 		"dynn_Yz"
+ 		"dynn_Yzng"
+ 		"dynn_Gashil"
+ 		"dynn_Agnyun"
+ 		"dynn_Chir_Unvd"
+ 		"dynn_Cham"
+ 		"dynn_Nyavan"
+ 		"dynn_Kughi"
+ 		"dynn_Nurgan"
+ 		"dynn_Tyr"
+ 		"dynn_Laigun"
+ 		"dynn_Vovkuk"
+ 		"dynn_Muvchik"
+ 		"dynn_Rybnoe"
+ 		"dynn_Ulita"
+ 		"dynn_Hurjun"
+ 		"dynn_Tengi"
+ 		"dynn_Vidain"
+ 		"dynn_Khadzigan"
+ 		"dynn_Miglut"
+ 		"dynn_Tim"
+ 		"dynn_Kulpin"
+ 		"dynn_Churka"
+ 		"dynn_Tidip"
+ 		"dynn_Pimgun"
 	}
 	
 	male_names = {			
@@ -849,7 +911,7 @@ name_list_mohe = {
 	}
 	
 	male_names = {			
-		Abaohan Abulang Agu Aguda_963F_9AA8_6253 Agunai Aguo Aha Ahacu Ahai Ahaibaifu AiS_I_ AiS_I_ha Ajungha AlbasE_ri Ali Alihan Alihemen Alin Alu Alubu Aludai Aluhan Aluobuhua Aluwan Ancen Ancu Andahai Aodi Asur AS_entan AS_I_ngha
+		Abaohan Abulang Agu Agunai Aguo Aha Ahacu Ahai Ahaibaifu AiS_I_ AiS_I_ha Ajungha AlbasE_ri Ali Alihan Alihemen Alin Alu Alubu Aludai Aluhan Aluobuhua Aluwan Ancen Ancu Andahai Aodi Asur AS_entan AS_I_ngha
 		Bahai Bahei Bahulu Baifu Baoci Baohuoli Barha Beilu Biefoga Bugil Bulo BulE_gE_maihu Cala Cangho Caoha CenhulagE_ Cotoya Cunggelo CE_gE_ CE_jE_ CE_ndapan CE_nhulagE_
 		Daijuhu Daisu Dalunha DaS_I_n Digunai Diku Dili Diligi Dingge Dingju DiS_un Dorbi Dumu DuS_i Dzhin Ecu Eiyeku EiE_lu Eliduo Elu Elubu Eluguan Elun Fanca Fannu FE_nsI_
 		GiahucI_ Giohua Gioli Guantu Gulan GuS_a GE_cI_buhua GE_jeE_ Hacaha Hadar Hanpu HanS_I_ HasaiE_ HaE_u Heda Hela Helibo Hesun Heye Hezhe Hezhenbao HeS_i HeS_itan HuboS_u Hudun Huihou Hulijia Hulu Hulubu Hushahu Hushida Husurugai HusurE_gai Hutunla Hutuwa HuC_ienu HuS_a
