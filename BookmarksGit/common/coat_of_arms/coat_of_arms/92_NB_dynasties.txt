@@ -56510,5 +56510,1307 @@ ge_845B_10 = {
 	}
 }
 
+1000062005 ={
+	pattern="pattern_solid.dds"
+	color1=red
+	colored_emblem={
+		color1=white
+		texture="ce_seal_frame_full.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=red
+		texture="ce_seal_name_jin_91d1.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+}
+korean_gim_gimhae={
+	pattern="pattern_solid.dds"
+	color1=black
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_pictorial_frame_oval.dds"
+		instance={
+			scale={ 0.850000 0.850000 }
+		}
+	}
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_name_jin_91d1.dds"
+		instance={
+			scale={ 0.800000 0.800000 }
+		}
+	}
+}
+korean_mun_nampyeong={
+	pattern="pattern_solid.dds"
+	color1=red
+	colored_emblem={
+		color1=white
+		texture="ce_seal_frame_full.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=red
+		texture="ce_seal_name_wen_6587.dds"
+		instance={
+			scale={ 0.650000 0.650000 }
+		}
+	}
+}
+korean_im_jangheung={
+	pattern="pattern_solid.dds"
+	color1=red_dark
+	colored_emblem={
+		color1=white
+		texture="ce_seal_frame_full.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=red_dark
+		texture="ce_seal_name_ren_4efb.dds"
+		instance={
+			scale={ 0.800000 0.800000 }
+		}
+	}
+}
+1000027813={
+	pattern="pattern_solid.dds"
+	color1=blue
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_frame_full.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=blue
+		texture="ce_seal_name_jiang_59dc.dds"
+		instance={
+			position={ 0.350000 0.500000 }
+			scale={ 0.450000 0.600000 }
+		}
+	}
+	colored_emblem={
+		color1=blue
+		texture="ce_seal_pictorial_vertical_dragon.dds"
+		instance={
+			position={ 0.650000 0.500000 }
+			scale={ 0.650000 0.650000 }
+		}
+	}
+}
+1000062003={
+	pattern="pattern_solid.dds"
+	color1=yellow
+	colored_emblem={
+		color1=blue
+		texture="ce_seal_pictorial_frame_oval_full.dds"
+		instance={
+			scale={ 0.850000 0.850000 }
+		}
+	}
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_name_po_6734.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+}
+korean_i_jeonju={
+	pattern="pattern_solid.dds"
+	color1=red
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_frame_divided.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=red
+		texture="ce_seal_name_li_674e.dds"
+		instance={
+			position={ 0.330000 0.500000 }
+			scale={ 0.450000 0.600000 }
+		}
+	}
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_pictorial_vertical_deer.dds"
+		instance={
+			position={ 0.660000 0.500000 }
+			scale={ 0.650000 0.650000 }
+		}
+	}
+}
+korean_i_jeongseon={
+	pattern="pattern_solid.dds"
+	color1=blue
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_frame_divided.dds"
+		instance={
+			scale={ -0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_name_li_674e.dds"
+		instance={
+			position={ 0.340000 0.500000 }
+			scale={ 0.450000 0.600000 }
+		}
+	}
+	colored_emblem={
+		color1=blue
+		texture="ce_seal_pictorial_vertical_goat.dds"
+		instance={
+			position={ 0.670000 0.500000 }
+			scale={ 0.650000 0.650000 }
+		}
+	}
+}
 
+korean_gim_silla={
+	pattern="pattern_solid.dds"
+	color1=red
+	colored_emblem={
+		color1=white
+		texture="ce_seal_frame_full.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=red
+		texture="ce_seal_name_jin_91d1.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+}
+korean_gim_gimhae={
+	pattern="pattern_solid.dds"
+	color1=black
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_pictorial_frame_oval.dds"
+		instance={
+			scale={ 0.850000 0.850000 }
+		}
+	}
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_name_jin_91d1.dds"
+		instance={
+			scale={ 0.800000 0.800000 }
+		}
+	}
+}
+korean_mun_gangneung={
+	pattern="pattern_solid.dds"
+	color1=red
+	colored_emblem={
+		color1=white
+		texture="ce_seal_frame_full.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=red
+		texture="ce_seal_name_wen_6587.dds"
+		instance={
+			scale={ 0.650000 0.650000 }
+		}
+	}
+}
+1000155182={
+	pattern="pattern_solid.dds"
+	color1=red_dark
+	colored_emblem={
+		color1=white
+		texture="ce_seal_frame_full.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=red_dark
+		texture="ce_seal_name_ren_4efb.dds"
+		instance={
+			scale={ 0.800000 0.800000 }
+		}
+	}
+}
+korean_gang_jinju={
+	pattern="pattern_solid.dds"
+	color1=blue
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_frame_full.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=blue
+		texture="ce_seal_name_jiang_59dc.dds"
+		instance={
+			position={ 0.350000 0.500000 }
+			scale={ 0.450000 0.600000 }
+		}
+	}
+	colored_emblem={
+		color1=blue
+		texture="ce_seal_pictorial_vertical_dragon.dds"
+		instance={
+			position={ 0.650000 0.500000 }
+			scale={ 0.650000 0.650000 }
+		}
+	}
+}
+korean_bak_milyang={
+	pattern="pattern_solid.dds"
+	color1=yellow
+	colored_emblem={
+		color1=blue
+		texture="ce_seal_pictorial_frame_oval_full.dds"
+		instance={
+			scale={ 0.850000 0.850000 }
+		}
+	}
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_name_po_6734.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+}
+korean_i_jeonju={
+	pattern="pattern_solid.dds"
+	color1=red
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_frame_divided.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=red
+		texture="ce_seal_name_li_674e.dds"
+		instance={
+			position={ 0.330000 0.500000 }
+			scale={ 0.450000 0.600000 }
+		}
+	}
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_pictorial_vertical_deer.dds"
+		instance={
+			position={ 0.660000 0.500000 }
+			scale={ 0.650000 0.650000 }
+		}
+	}
+}
+korean_i_jeongseon={
+	pattern="pattern_solid.dds"
+	color1=blue
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_frame_divided.dds"
+		instance={
+			scale={ -0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_name_li_674e.dds"
+		instance={
+			position={ 0.340000 0.500000 }
+			scale={ 0.450000 0.600000 }
+		}
+	}
+	colored_emblem={
+		color1=blue
+		texture="ce_seal_pictorial_vertical_goat.dds"
+		instance={
+			position={ 0.670000 0.500000 }
+			scale={ 0.650000 0.650000 }
+		}
+	}
+}
+hchar_nammhae={
+	pattern="pattern_solid.dds"
+	color1=white
+	colored_emblem={
+		color1=red_dark
+		texture="ce_seal_frame_full.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=white
+		texture="ce_seal_pictorial_central_tiger.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+}
+korean_song={
+	pattern="pattern_solid.dds"
+	color1=red
+	colored_emblem={
+		color1=white
+		texture="ce_seal_frame.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=white
+		texture="ce_seal_name_song_5b8b.dds"
+		instance={
+			scale={ 0.650000 0.650000 }
+		}
+	}
+}
+korean_jeong_haeju={
+	pattern="pattern_solid.dds"
+	color1=green
+	color2=yellow
+	color3=white
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_pictorial_frame_flower.dds"
+		instance={
+			scale={ 0.750000 0.750000 }
+		}
+	}
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_name_zhao_8d99.dds"
+		instance={
+			scale={ 0.550000 0.550000 }
+		}
+	}
+}
+korean_chae_pyeonggang={
+	pattern="pattern_solid.dds"
+	color1=red
+	colored_emblem={
+		color1=white
+		texture="ce_seal_frame.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=white
+		texture="ce_seal_name_cai_8521.dds"
+		instance={
+			scale={ 0.600000 0.600000 }
+		}
+	}
+}
+korean_gyeong_cheongju={
+	pattern="pattern_solid.dds"
+	color1=blue
+	colored_emblem={
+		color1=white
+		texture="ce_seal_frame_full.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=blue
+		texture="ce_seal_name_qing_6176.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+}
+korean_yun_papyeong={
+	pattern="pattern_solid.dds"
+	color1=red
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_frame_full.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=red
+		texture="ce_seal_name_yin_5c39.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+}
+korean_mun_gangneung={
+	pattern="pattern_solid.dds"
+	color1=blue
+	colored_emblem={
+		color1=white
+		texture="ce_seal_frame_full.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=blue
+		texture="ce_seal_name_wen_6587.dds"
+		instance={
+			position={ 0.350000 0.500000 }
+			scale={ 0.450000 0.600000 }
+		}
+	}
+	colored_emblem={
+		color1=blue
+		texture="ce_seal_pictorial_vertical_horse.dds"
+		instance={
+			position={ 0.650000 0.500000 }
+			scale={ 0.650000 0.650000 }
+		}
+	}
+}
+korean_i_gyeongwon={
+	pattern="pattern_solid.dds"
+	color1=black
+	color2=white
+	color3=white
+	colored_emblem={
+		color1=white
+		texture="ce_seal_pictorial_frame_flower.dds"
+		instance={
+			scale={ 0.750000 0.750000 }
+		}
+	}
+	colored_emblem={
+		color1=white
+		texture="ce_seal_name_li_674e.dds"
+		instance={
+			scale={ 0.550000 0.550000 }
+		}
+	}
+}
+korean_baek_daeheung={
+	pattern="pattern_solid.dds"
+	color1=blue
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_pictorial_frame_gourd_full.dds"
+		instance={
+			scale={ 0.750000 0.750000 }
+		}
+	}
+	colored_emblem={
+		color1=blue
+		texture="ce_seal_name_bai_767d.dds"
+		instance={
+			scale={ 0.650000 0.650000 }
+		}
+	}
+}
+korean_choe_ubong={
+	pattern="pattern_solid.dds"
+	color1=blue
+	colored_emblem={
+		color1=white
+		texture="ce_seal_frame.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=white
+		texture="ce_seal_name_cui_5d14.dds"
+		instance={
+			position={ 0.350000 0.500000 }
+			scale={ 0.450000 0.600000 }
+		}
+	}
+	colored_emblem={
+		color1=white
+		texture="ce_seal_pictorial_vertical_rooster.dds"
+		instance={
+			position={ 0.650000 0.500000 }
+			scale={ 0.650000 0.650000 }
+		}
+	}
+}
+korean_choe_jiksan={
+	pattern="pattern_solid.dds"
+	color1=blue
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_frame_divided.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=blue
+		texture="ce_seal_name_cui_5d14.dds"
+		instance={
+			position={ 0.330000 0.500000 }
+			scale={ 0.450000 0.600000 }
+		}
+	}
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_pictorial_vertical_rooster.dds"
+		instance={
+			position={ 0.660000 0.500000 }
+			scale={ 0.650000 0.650000 }
+		}
+	}
+}
+korean_gang_geumcheon = {
+	pattern="pattern_solid.dds"
+	color1=yellow
+	colored_emblem={
+		color1=red
+		texture="ce_seal_frame_full.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_name_jiang_59dc.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+}
+korean_choe_dongju={
+	pattern="pattern_solid.dds"
+	color1=blue
+	colored_emblem={
+		color1=white
+		texture="ce_seal_name_cui_5d14.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+}
+korean_choe_haeju = {
+	pattern="pattern_solid.dds"
+	color1=green
+	colored_emblem={
+		color1=red_dark
+		texture="ce_seal_frame_full.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=green
+		texture="ce_seal_name_cui_5d14.dds"
+		instance={
+			scale={ 0.650000 0.650000 }
+		}
+	}
+}
+korean_yang_anak={
+	pattern="pattern_solid.dds"
+	color1=red
+	colored_emblem={
+		color1=white
+		texture="ce_seal_frame.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=white
+		texture="ce_seal_name_yang_694a.dds"
+		instance={
+			scale={ 0.650000 0.650000 }
+		}
+	}
+}
+korean_hong_namyang={
+	pattern="pattern_solid.dds"
+	color1=red
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_frame_full.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=red
+		texture="ce_seal_name_hong_6d2a.dds"
+		instance={
+			scale={ 0.650000 0.650000 }
+		}
+	}
+}
+
+korean_gim_yeonggwang={
+	color1=red
+	colored_emblem={
+		color1=white
+		texture="ce_seal_frame.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=white
+		texture="ce_seal_name_jin_91d1.dds"
+		instance={
+			scale={ 0.650000 0.650000 }
+		}
+	}
+}
+korean_i_suju={
+	color1=blue
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_frame.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_name_li_674e.dds"
+		instance={
+			scale={ 0.600000 0.600000 }
+		}
+	}
+}
+hchar_gim={
+	pattern="pattern_solid.dds"
+	color1=black
+	colored_emblem={
+		color1=white
+		texture="ce_seal_frame_full.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=black
+		texture="ce_seal_name_jin_91d1.dds"
+		instance={
+			scale={ 0.70000 0.70000 }
+		}
+	}
+}
+korean_gim_gwangsan={
+	pattern="pattern_solid.dds"
+	color1=red_dark
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_frame_divided.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=red_dark
+		texture="ce_seal_name_jin_91d1.dds"
+		instance={
+			position={ 0.330000 0.500000 }
+			scale={ 0.60000 0.600000 }
+		}
+	}
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_pictorial_vertical_swallow.dds"
+		instance={
+			position={ 0.660000 0.500000 }
+			scale={ 0.650000 0.650000 }
+		}
+	}
+}
+korean_seo_icheon={
+	pattern="pattern_solid.dds"
+	color1=blue
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_frame.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_pictorial_vertical_horse.dds"
+		instance={
+			position={ 0.350000 0.500000 }
+			scale={ -0.650000 0.650000 }
+		}
+	}
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_name_xu_5f90.dds"
+		instance={
+			position={ 0.650000 0.500000 }
+			scale={ 0.450000 0.600000 }
+		}
+	}
+}
+korean_choe_gyeongju={
+	pattern="pattern_solid.dds"
+	color1=orange
+	colored_emblem={
+		color1=white
+		texture="ce_seal_frame_full.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=orange
+		texture="ce_seal_name_cui_5d14.dds"
+		instance={
+			scale={ 0.650000 0.650000 }
+		}
+	}
+}
+korean_gim_eonyang={
+	pattern="pattern_solid.dds"
+	color1=blue
+	colored_emblem={
+		color1=white
+		texture="ce_seal_frame.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=white
+		texture="ce_seal_name_jin_91d1.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+}
+korean_du_dureung = {
+	pattern="pattern_solid.dds"
+	color1=black
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_pictorial_frame_oval_full.dds"
+		instance={
+			scale={ 0.750000 0.750000 }
+		}
+	}
+	colored_emblem={
+		color1=black
+		texture="ce_seal_name_du_675c.dds"
+		instance={
+			scale={ 0.550000 0.550000 }
+		}
+	}
+}
+korean_bak_seungju={
+	pattern="pattern_solid.dds"
+	color1=black
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_frame.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_name_po_6734.dds"
+		instance={
+			position={ 0.40000 0.500000 }
+			scale={ 0.450000 0.600000 }
+		}
+	}
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_pictorial_vertical_snake.dds"
+		instance={
+			position={ 0.650000 0.500000 }
+			scale={ 0.450000 0.600000 }
+		}
+	}
+}
+korean_o_naju={
+	pattern="pattern_solid.dds"
+	color1=red
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_frame.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_name_wu_5433.dds"
+		instance={
+			scale={ 0.650000 0.650000 }
+		}
+	}
+}
+korean_han_daeheung={
+	pattern="pattern_solid.dds"
+	color1=blue
+	colored_emblem={
+		color1=white
+		texture="ce_seal_name_han_97d3.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+}
+korean_wu_mokcheon={
+	pattern="pattern_solid.dds"
+	color1=blue
+	colored_emblem={
+		color1=white
+		texture="ce_seal_frame.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=white
+		texture="ce_seal_name_yu_4e8e.dds"
+		instance={
+			scale={ 0.600000 0.600000 }
+		}
+	}
+}
+korean_bak_juksan={
+	pattern="pattern_solid.dds"
+	color1=black
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_frame_full.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=black
+		texture="ce_seal_name_po_6734.dds"
+		instance={
+			position={ 0.350000 0.500000 }
+			scale={ 0.450000 0.600000 }
+		}
+	}
+	colored_emblem={
+		color1=black
+		texture="ce_seal_pictorial_vertical_dragon.dds"
+		instance={
+			position={ 0.650000 0.500000 }
+			scale={ 0.650000 0.650000 }
+		}
+	}
+}
+korean_yu_chungju={
+	pattern="pattern_solid.dds"
+	color1=black
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_frame.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_name_liu_5289.dds"
+		instance={
+			scale={ 0.650000 0.650000 }
+		}
+	}
+}
+korean_yang_wonju={
+	pattern="pattern_solid.dds"
+	color1=black
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_frame_full.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=black
+		texture="ce_seal_name_liang_6881.dds"
+		instance={
+			position={ 0.350000 0.500000 }
+			scale={ 0.450000 0.600000 }
+		}
+	}
+	colored_emblem={
+		color1=black
+		texture="ce_seal_pictorial_vertical_pig.dds"
+		instance={
+			position={ 0.650000 0.500000 }
+			scale={ 0.650000 0.650000 }
+		}
+	}
+}
+korean_gim_gangneung={
+	pattern="pattern_solid.dds"
+	color1=black
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_frame_divided.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=black
+		texture="ce_seal_pictorial_vertical_rabbit.dds"
+		instance={
+			position={ 0.335000 0.500000 }
+			scale={ -0.650000 0.650000 }
+		}
+	}
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_name_jin_91d1.dds"
+		instance={
+			position={ 0.655000 0.500000 }
+			scale={ 0.450000 0.600000 }
+		}
+	}
+}
+korean_bak_pyeongsan={
+	pattern="pattern_solid.dds"
+	color1=red
+	colored_emblem={
+		color1=white
+		texture="ce_seal_pictorial_frame_oval_full.dds"
+		instance={
+			scale={ 0.750000 0.750000 }
+		}
+	}
+	colored_emblem={
+		color1=red
+		texture="ce_seal_name_po_6734.dds"
+		instance={
+			scale={ 0.550000 0.550000 }
+		}
+	}
+}
+hchar_yang_kil={
+	pattern="pattern_solid.dds"
+	color1=red
+	colored_emblem={
+		color1=white
+		texture="ce_seal_name_liang_6881.dds"
+		instance={
+			scale={ 0.650000 0.650000 }
+		}
+	}
+	colored_emblem={
+		color1=white
+		texture="ce_seal_pictorial_frame_circle.dds"
+		instance={
+			scale={ 0.750000 0.750000 }
+		}
+	}
+}
+korean_bak_silla={
+	pattern="pattern_solid.dds"
+	color1=blue
+	colored_emblem={
+		color1=white
+		texture="ce_seal_name_po_6734.dds"
+		instance={
+			scale={ 0.650000 0.650000 }
+		}
+	}
+	colored_emblem={
+		color1=white
+		texture="ce_seal_pictorial_frame_circle.dds"
+		instance={
+			scale={ 0.750000 0.750000 }
+		}
+	}
+}
+korean_gim_yeonan={
+	pattern="pattern_solid.dds"
+	color1=black
+	colored_emblem={
+		color1=white
+		texture="ce_seal_name_jin_91d1.dds"
+		instance={
+			scale={ 0.650000 0.650000 }
+		}
+	}
+	colored_emblem={
+		color1=white
+		texture="ce_seal_pictorial_frame_circle.dds"
+		instance={
+			scale={ 0.750000 0.750000 }
+		}
+	}
+}
+korean_go_jeju={
+	pattern="pattern_solid.dds"
+	color1=blue
+	colored_emblem={
+		color1=white
+		texture="ce_seal_frame_full.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=blue
+		texture="ce_seal_name_gao_9ad8.dds"
+		instance={
+			scale={ 0.650000 0.650000 }
+		}
+	}
+}
+korean_bak_ulleong={
+	pattern="pattern_solid.dds"
+	color1=red
+	colored_emblem={
+		color1=white
+		texture="ce_seal_pictorial_frame_circle_full.dds"
+		instance={
+			scale={ 0.750000 0.750000 }
+		}
+	}
+	colored_emblem={
+		color1=red
+		texture="ce_seal_name_po_6734.dds"
+		instance={
+			scale={ 0.650000 0.650000 }
+		}
+	}
+}
+korean_jeong_haeju={
+	pattern="pattern_solid.dds"
+	color1=black
+	colored_emblem={
+		color1=white
+		texture="ce_seal_frame_full.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=black
+		texture="ce_seal_name_zheng_912d.dds"
+		instance={
+			scale={ 0.650000 0.650000 }
+		}
+	}
+}
+korean_gim_ulleong={
+	pattern="pattern_solid.dds"
+	color1=black
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_name_jin_91d1.dds"
+		instance={
+			scale={ 0.750000 0.750000 }
+		}
+	}
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_frame.dds"
+		instance={
+			scale={ 0.750000 0.750000 }
+		}
+	}
+}
+korean_jo_hanyang={
+	pattern="pattern_solid.dds"
+	color1=red
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_frame_divided.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=red
+		texture="ce_seal_pictorial_vertical_rooster.dds"
+		instance={
+			position={ 0.335000 0.500000 }
+			scale={ -0.650000 0.650000 }
+		}
+	}
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_name_zhao_8d99.dds"
+		instance={
+			position={ 0.655000 0.500000 }
+			scale={ 0.400000 0.600000 }
+		}
+	}
+}
+korean_jo_wonju={
+	pattern="pattern_solid.dds"
+	color1=green
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_pictorial_frame_circle.dds"
+		instance={
+			scale={ 0.750000 0.750000 }
+		}
+	}
+	colored_emblem={
+		color1=yellow
+		texture="ce_seal_name_zhao_8d99.dds"
+		instance={
+			scale={ 0.550000 0.550000 }
+		}
+	}
+}
+
+korean_gwak_cheongju={
+	pattern="pattern_solid.dds"
+	color1=black
+	color2=white
+	color3=white
+	colored_emblem={
+		color1=white
+		texture="ce_seal_frame.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=white
+		texture="ce_seal_name_guo_90ed.dds"
+		instance={
+			scale={ 0.600000 0.600000 }
+		}
+	}
+}
+korean_gwon_andong={
+	pattern="pattern_solid.dds"
+	color1=black
+	colored_emblem={
+		color1=white
+		texture="ce_seal_name_quan_6b0a.dds"
+		instance={
+			position={ 0.350000 0.500000 }
+			scale={ 0.450000 0.600000 }
+		}
+	}
+	colored_emblem={
+		color1=white
+		texture="ce_seal_pictorial_vertical_deer.dds"
+		instance={
+			position={ 0.650000 0.500000 }
+			scale={ -0.650000 0.650000 }
+		}
+	}
+}
+korean_wang_seohae={
+	pattern="pattern_solid.dds"
+	color1=black
+	colored_emblem={
+		color1=white
+		texture="ce_seal_frame_divided.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=black
+		texture="ce_seal_pictorial_vertical_horse.dds"
+		instance={
+			position={ 0.335000 0.500000 }
+			scale={ -0.650000 0.650000 }
+		}
+	}
+	colored_emblem={
+		color1=white
+		texture="ce_seal_name_wang_738b.dds"
+		instance={
+			position={ 0.655000 0.500000 }
+			scale={ 0.450000 0.600000 }
+		}
+	}
+}
+
+
+korean_wang_goryeo = {
+	pattern = "pattern_solid.dds"
+	color1 = white
+	colored_emblem = {
+		color1 = red
+		texture = "ce_seal_frame_full.dds"
+		instance = {
+			scale = { 0.8 0.8 }
+		}
+	}
+	colored_emblem = {
+		color1 = white
+		texture = "ce_seal_frame.dds"
+		instance = {
+			scale = { 0.75 0.75 }
+		}
+	}
+	colored_emblem = {
+		color1 = white
+		texture = "ce_seal_pictorial_vertical_dragon.dds"
+		instance = {
+			scale = { 0.65 0.65 }
+			position = { 0.65 0.5 }
+		}
+	}
+	colored_emblem = {
+		color1 = white
+		texture = "ce_seal_name_wang_738b.dds"
+		instance = {
+			scale = { 0.5 0.75 }
+			position = { 0.35 0.5 }
+		}
+	}
+}
+
+korean_wang = korean_wang_goryeo
+
+1000049543={
+	pattern="pattern_solid.dds"
+	color1=red_dark
+	colored_emblem={
+		color1=white
+		texture="ce_seal_frame_full.dds"
+		instance={
+			scale={ 0.700000 0.700000 }
+		}
+	}
+	colored_emblem={
+		color1=red_dark
+		texture="ce_seal_name_da_5927.dds"
+		instance={
+			scale={ 0.650000 0.650000 }
+		}
+	}
+}
 #END ADDED

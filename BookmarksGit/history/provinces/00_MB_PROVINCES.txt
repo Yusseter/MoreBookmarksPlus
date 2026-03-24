@@ -14,7 +14,7 @@
 }
 14206 = { # b_Goryeo_Donggye_Deungju
 	culture = silla
-	religion = avatamsaka
+	religion = mu
 	holding = castle_holding
 	1000.1.1 = {
 		culture = goryeo
@@ -28,8 +28,8 @@
 }
 14209 = { # b_Goryeo_Donggye_Ulleung
 	culture = silla
-	religion = avatamsaka
-	holding = castle_holding
+	religion = mu
+	holding = tribal_holding
 	1000.1.1 = {
 		culture = goryeo
 	}
@@ -167,6 +167,9 @@
 	1000.1.1 = {
 		culture = goryeo
 	}
+	1140.1.1 = {
+		religion = dhyana 
+	}
 }
 14270 = { # b_Goryeo_Jeolla_Mupung
 	holding = city_holding
@@ -182,7 +185,7 @@
 }
 14274 = { # b_Goryeo_Jeolla_Boseong
 	culture = baekje
-	religion = dhyana
+	religion = sukhavati
 	holding = castle_holding
 	1000.1.1 = {
 		culture = goryeo
@@ -242,6 +245,9 @@
 	holding = castle_holding
 	1000.1.1 = {
 		culture = goryeo
+	}
+	1140.1.1 = {
+		religion = dhyana 
 	}
 }
 14288 = { # b_Goryeo_Gyeongsang_Yeongju
@@ -322,6 +328,9 @@
 	holding = castle_holding
 	1000.1.1 = {
 		culture = goryeo	
+	}
+	1140.1.1 = {
+		religion = dhyana 
 	}
 }
 14226 = { # b_Goryeo_Bukgye_Seonju
@@ -711,9 +720,10 @@
 12906 = {	#Delizhen
 	culture = mohe
 	religion = abkaism
-	holding = tribal_holding
+	holding = castle_holding
 	930.1.1 = {
 		culture = jurchen
+		holding = tribal_holding
 	}
 }
 14378 = {	#Xitielian
@@ -827,12 +837,11 @@
 ##d_BAL_dongpyeong ###################################
 ###c_BAL_dongpyeong_yizhou
 12763 = {	#Yizhou
-	culture = balhae
-	religion = avatamsaka
+	culture = mohe
+	religion = abkaism
 	holding = castle_holding
 	930.1.1 = {
 		culture = jurchen
-		religion = abkaism
 		holding = tribal_holding
 	}
 }
@@ -846,13 +855,11 @@
 
 ###c_BAL_jixi
 14390 = {	#Jixi
-	culture = balhae
-	religion = avatamsaka
-	holding = castle_holding
-	1050.1.1 = {
+	culture = mohe
+	religion = abkaism
+	holding = tribal_holding
+	930.1.1 = {
 		culture = jurchen
-		holding = tribal_holding
-		religion = abkaism
 	}
 }
 14391 = {	#Dongxian
@@ -865,15 +872,20 @@
 ##d_BAL_yeojintang ###################################
 ###c_BAL_solbin
 14379 = {	#Jianzhou
-	holding = none
+	culture = mohe
+	religion = abkaism
+	holding = tribal_holding
+	930.1.1 = {
+		culture = jurchen
+	}
 }
 14405 = {	#Huazhou
-	culture = balhae
-	religion = avatamsaka
+	culture = mohe
+	religion = abkaism
 	holding = castle_holding
-	990.1.1 = {
+	930.1.1 = {
 		culture = jurchen
-		religion = abkaism
+		holding = tribal_holding
 	}
 }
 12589 = {	#Shuaibinan
@@ -885,22 +897,25 @@
 
 ###c_BAL_jeongni
 12529 = {	#Dingzhou
-	culture = balhae
-	religion = avatamsaka
+	culture = mohe
+	religion = abkaism
 	holding = castle_holding
-	
-	900.1.1 = {
-		culture = udege
-		religion = abkaism
-	}
-			
+	930.1.1 = {
+		culture = jurchen
+		holding = tribal_holding
+	}	
 }
 			
 14404 = {	#Yongmingcheng
 	holding = none
 }
 12533 = {	#Dinglian
-	holding = none
+	culture = mohe
+	religion = abkaism
+	holding = tribal_holding
+	930.1.1 = {
+		culture = jurchen
+	}
 }
 14403 = {	#Shanganjugu
 	holding = none
@@ -911,6 +926,9 @@
 	culture = udege
 	religion = abkaism
 	holding = castle_holding
+	930.1.1 = {
+		holding = tribal_holding
+	}
 }
 14400 = {	#Silata'an
 	holding = none
@@ -924,6 +942,9 @@
 	culture = udege
 	religion = abkaism
 	holding = castle_holding
+	930.1.1 = {
+		holding = tribal_holding
+	}
 }
 14399 = {	#Zhenzhuhai
 	holding = none
@@ -937,7 +958,10 @@
 11855 = {	#Ningzhou
 	culture = udege
 	religion = abkaism
-	holding = tribal_holding
+	holding = castle_holding
+	930.1.1 = {
+		holding = tribal_holding
+	}
 }
 14395 = {	#Qingshancun
 	holding = none
@@ -948,13 +972,11 @@
 
 ###c_BAL_supin
 14392 = {	#Supin
-	culture = balhae
-	religion = avatamsaka
-	holding = castle_holding
-	1050.1.1 = {
+	culture = mohe
+	religion = abkaism
+	holding = tribal_holding
+	930.1.1 = {
 		culture = jurchen
-		holding = tribal_holding
-		religion = abkaism
 	}
 }
 12678 = {	#Xuduohe
@@ -1581,17 +1603,17 @@
 
 ###c_em_akhulun
 14533 = {	#Ulanhulud
-	culture = mongol
+	culture = tataric
     religion = eastern_tengri
 
-    holding = tribal_holding
-	
-	1150.1.1 = {
+    1150.1.1 = {
         culture = tajiuud
     }
 	1204.1.1 = {
         culture = mongol
     }
+
+    holding = tribal_holding
 }
 14538 = {	#Tsagaanuur
 	holding = none
@@ -1740,7 +1762,7 @@
 	culture = qun
 	religion = eastern_tengri
 	holding = tribal_holding
-	1005.1.1 = {
+	930.1.1 = {
         culture = kerait
 		religion = nestorian
     }
@@ -1754,7 +1776,7 @@
 	culture = qun
 	religion = eastern_tengri
 	holding = tribal_holding
-	1005.1.1 = {
+	930.1.1 = {
         culture = kerait
 		religion = nestorian
     }
@@ -2011,7 +2033,7 @@
 14610 = {	#Raozhou
 	culture = khitan
 	religion = eastern_tengri
-	holding = tribal_holding
+	holding = nomad_holding
 	1066.1.1 = {
 		religion = avatamsaka
 		holding = castle_holding
@@ -2088,7 +2110,7 @@
 14611 = {	#Dalinuor
 	culture = khitan
 	religion = eastern_tengri
-	holding = tribal_holding
+	holding = nomad_holding
 	1066.1.1 = {
 		holding = castle_holding
 		religion = avatamsaka
@@ -2104,7 +2126,7 @@
 	culture = khitan
 	religion = eastern_tengri
 	holding = tribal_holding
-	1066.1.1 = {
+	930.1.1 = {
 		religion = avatamsaka
 		holding = castle_holding
 	}
@@ -2320,7 +2342,7 @@
 	culture = qun
 	religion = eastern_tengri
 	holding = nomad_holding
-	1005.1.1 = {
+	930.1.1 = {
         culture = kerait
 		religion = nestorian
     }
@@ -8101,10 +8123,7 @@
             culture = qun
             religion = eastern_tengri
 
-            900.1.1 = {
-                culture = barsil
-            }
-            1000.1.1 = {
+            930.1.1 = {
                 culture = ongud
             }
 			1020.1.2 = {
@@ -8136,7 +8155,7 @@
             religion = bugaism
             culture = evenk
 
-            holding = tribal_holding
+            holding = nomad_holding
         }
         12686 = { # b_chiya_china
             holding = none
@@ -8252,10 +8271,7 @@
             culture = qun
             religion = eastern_tengri
 
-            900.1.1 = {
-                culture = barsil
-            }
-            1000.1.1 = {
+            950.1.1 = {
                 culture = ongud
             }
 			1020.1.2 = {
@@ -8269,10 +8285,7 @@
             culture = qun
             religion = eastern_tengri
 
-            900.1.1 = {
-                culture = barsil
-            }
-            1000.1.1 = {
+            950.1.1 = {
                 culture = ongud
             }
 			1020.1.2 = {
@@ -8531,6 +8544,9 @@
 			1000.1.1 = {
 				culture = goryeo	
 			}
+			1140.1.1 = {
+				religion = dhyana 
+			}
 		}
         12196 = { # b_uiju_china
 			culture = goguryeo
@@ -8538,6 +8554,9 @@
 			holding = castle_holding
 			1000.1.1 = {
 				culture = goryeo
+			}
+			1140.1.1 = {
+				religion = dhyana 
 			}
 		}
         12297 = { # b_sakachu_china
@@ -8635,12 +8654,16 @@
 ## d_balhae_china
     # c_huhan_china
         12665 = { # b_longquanfu_yongning_china
-            religion = abkaism
-            culture = mohe
-			holding = tribal_holding
+            religion = avatamsaka
+            culture = balhae
+			holding = castle_holding
 			
-			930.1.1 = { 
+			916.1.1 = { 
 				culture = jurchen
+				religion = abkaism
+			}
+			950.1.1 = { 
+				holding = tribal_holding
 			}
         }
         12636 = { # b_huhanhai_mohechi_china
@@ -8676,14 +8699,12 @@
         }
     # c_jianzhou_bohai_china
         12650 = { # b_jianzhou_dongning_china
-            religion = abkaism
-            culture = balhae
+			culture = mohe
+			religion = abkaism
 			holding = tribal_holding
-
-            930.1.1 = {
-                culture = jurchen
-            }
-			
+			930.1.1 = {
+				culture = jurchen
+			}
         }
         12624 = { # b_xitiantuluoguo_jianzhou_china
         }
@@ -8694,9 +8715,10 @@
         12785 = { # b_anchuhu_wanyan_china
             culture = mohe
 			religion = abkaism
-			holding = tribal_holding
+			holding = castle_holding
 			930.1.1 = {
 				culture = jurchen
+				holding = tribal_holding
 			}
 			1124.1.1 = {
                 religion = dhyana
@@ -8759,11 +8781,10 @@
         12591 = { # b_sumozhou_china
             culture = mohe
 			religion = abkaism
-			holding = tribal_holding
+			holding = castle_holding
 
 			926.1.1 = {
                 culture = jurchen
-				holding = castle_holding
 				religion = dhyana
             }
         }
@@ -8897,7 +8918,7 @@
             culture = evenk
             religion = bugaism
 
-            holding = tribal_holding
+            holding = herder_holding
         }
         12511 = { # b_holuhotom_china
             holding = none
@@ -8912,7 +8933,7 @@
 	culture = yeniseian
 	religion = kuptyng
 	
-	#holding = xx
+	holding = nomad_holding
 	
 	# History
 }
@@ -8960,7 +8981,7 @@
 	culture = yakut
 	religion = siberian_pagan
 	
-	#holding = xx
+	holding = nomad_holding
 	
 	# History
 	#xx.x.x = {
@@ -9029,7 +9050,7 @@
 	culture = kott
 	religion = kuptyng
 	
-	#holding = xx
+	holding = herder_holding
 	
 	# History
 }
@@ -9059,7 +9080,7 @@
 	culture = yeniseian
 	religion = kuptyng
 	
-	#holding = xx
+	holding = nomad_holding
 	
 	# History
 }
@@ -9125,7 +9146,7 @@
 	culture = yeniseian
 	religion = kuptyng
 	
-	#holding = xx
+	holding = nomad_holding
 	
 	# History
 	#1000.1.2 = {
@@ -9158,7 +9179,7 @@
 	culture = kott
 	religion = kuptyng
 	
-	#holding = xx
+	holding = herder_holding
 	
 	# History
 	#1000.1.2 = {
@@ -9227,7 +9248,7 @@
 	culture = kott
 	religion = kuptyng
 	
-	#holding = xx
+	holding = nomad_holding
 	
 	# History
 	#xx.x.x = {
@@ -9314,7 +9335,7 @@
 	culture = kott
 	religion = kuptyng
 	
-	#holding = xx
+	holding = nomad_holding
 	
 	# History
 	#xx.x.x = {
@@ -9347,7 +9368,7 @@
 	culture = kott
 	religion = kuptyng
 	
-	#holding = xx
+	holding = nomad_holding
 	
 	# History
 	#xx.x.x = {
@@ -9416,7 +9437,7 @@
 	culture = kott
 	religion = kuptyng
 	
-	#holding = xx
+	holding = nomad_holding
 	
 	# History
 	#xx.x.x = {
@@ -9447,9 +9468,9 @@
 	
 	# Misc
 	culture = yakut
-	religion = eastern_tengri
+	religion = siberian_pagan
 	
-	#holding = xx
+	holding = herder_holding
 	
 	# History
 	#xx.x.x = {
@@ -9501,9 +9522,9 @@
 	
 	# Misc
 	culture = yakut
-	religion = eastern_tengri
+	religion = siberian_pagan
 	
-	#holding = xx
+	holding = herder_holding
 	
 	# History
 	#xx.x.x = {
@@ -9572,10 +9593,10 @@
 7768 = {	# 7768 - Kitoi
 	
 	# Misc
-	culture = tumed
-	religion = eastern_tengri
+	culture = yakut
+	religion = siberian_pagan
 	
-	#holding = xx
+	holding = nomad_holding
 	
 	# History
 	#xx.x.x = {
@@ -9608,7 +9629,7 @@
 	culture = yakut
 	religion = siberian_pagan
 	
-	#holding = xx
+	holding = herder_holding
 	
 	# History
 	#xx.x.x = {
@@ -9639,14 +9660,10 @@
 	
 	# Misc
 	culture = yakut
-	religion = eastern_tengri
+	religion = siberian_pagan
 	
-	#holding = xx
-	
-	# History
-	#xx.x.x = {
-	#	x.x
-	#}
+	holding = nomad_holding
+
 	1220.1.1 = {
 		culture = buryat
 	}
@@ -9813,8 +9830,8 @@
 7708 = {	#Kotera
 	#Named after local river
 	culture = evenk
-	religion = siberian_pagan
-	holding = tribal_holding
+	religion = bugaism
+	holding = nomad_holding
 }
 7709 = {	#Gants Khondii
 	#Entirely fictional
@@ -9832,8 +9849,8 @@
 ###c_vitim
 7714 = {	#Vitim
 	culture = evenk
-	religion = siberian_pagan
-	holding = tribal_holding
+	religion = bugaism
+	holding = herder_holding
 }
 7712 = {	#Vitimkhad
 	#Entirely fictional
@@ -9848,8 +9865,8 @@
 7715 = {	#Chuulunuruu
 	#Entirely fictional
 	culture = evenk
-	religion = siberian_pagan
-	holding = tribal_holding
+	religion = bugaism
+	holding = herder_holding
 }
 7716 = {	#Chonoshud
 	#Entirely fictional
@@ -9865,7 +9882,7 @@
 	#Named after local river
 	culture = yakut
 	religion = siberian_pagan
-	holding = tribal_holding
+	holding = herder_holding
 }
 7718 = {	#Alskholoi
 	#Entirely fictional
@@ -9878,7 +9895,7 @@
 	#Named after local river
 	culture = yakut
 	religion = siberian_pagan
-	holding = tribal_holding
+	holding = nomad_holding
 }
 7722 = {	#Cherskogo
 	#Named after local mountain
@@ -9894,7 +9911,7 @@
 	#Entirely fictional
 	culture = yakut
 	religion = siberian_pagan
-	holding = tribal_holding
+	holding = herder_holding
 }
 7724 = {	#Daoroouul
 	#Entirely fictional
@@ -9915,8 +9932,9 @@
 7778 = {	#Olkhon
 	#The island is an important place for siberian shamanism
 	culture = yakut
-	religion = eastern_tengri
-	holding = tribal_holding
+	religion = siberian_pagan
+	
+	holding = nomad_holding
 	
 	1220.1.1 = {
 		culture = buryat
@@ -9934,9 +9952,14 @@
 
 ###c_irkutsk	#called Erhüü ingame
 7780 = {	#Irkutsk
-	culture = tumed
-	religion = eastern_tengri
-	holding = tribal_holding
+	culture = yakut
+	religion = siberian_pagan
+	
+	holding = herder_holding
+
+	1220.1.1 = {
+		culture = buryat
+	}
 }
 7775 = {	#Osa_MON
 	#Named after local river
@@ -9951,7 +9974,7 @@
 7727 = {	#Ryty
 	culture = yakut
 	religion = siberian_pagan
-	holding = tribal_holding
+	holding = nomad_holding
 }
 7728 = {	#Berikul
 	#Named after local lake
@@ -10281,13 +10304,13 @@
 1273 = {	# 1273 - Turgay
 	
 	# Misc
-	culture = kimek
+	culture = pecheneg
 	religion = tengri_pagan
 	
 	#holding = castle_holding
 	
 	# History
-	769.1.1 = {
+	930.1.1 = {
 		culture = cuman
 	}
 	1066.1.2 = {
@@ -10305,13 +10328,13 @@
 7261 = {	#Chumkar Kia
 	#As "Choumkar Kia" on map BBB, between Aral Sea & "Tourgaï"
 	# Misc
-	culture = kimek
+	culture = pecheneg
 	religion = tengri_pagan
 	
 	#holding = castle_holding
 	
 	# History
-	769.1.1 = {
+	930.1.1 = {
 		culture = cuman
 	}
 	1066.1.2 = {
@@ -10324,13 +10347,13 @@
 7256 = {	# 7256 - Tumar
 	
 	# Misc
-	culture = kimek
+	culture = pecheneg
 	religion = tengri_pagan
 	
 	#holding = castle_holding
 	
 	# History
-	769.1.1 = {
+	950.1.1 = {
 		culture = cuman
 	}
 	1066.1.2 = {
@@ -10351,13 +10374,13 @@
 7257 = {	# 7257 - Murun Tomis
 	
 	# Misc
-	culture = kimek
+	culture = pecheneg
 	religion = tengri_pagan
 	
 	#holding = castle_holding
 	
 	# History
-	769.1.1 = {
+	930.1.1 = {
 		culture = cuman
 	}
 	1066.1.2 = {
@@ -10374,13 +10397,13 @@
 7263 = {	# 7263 - Jilali
 	
 	# Misc
-	culture = kimek
+	culture = pecheneg
 	religion = tengri_pagan
 	
 	#holding = castle_holding
 	
 	# History
-	769.1.1 = {
+	930.1.1 = {
 		culture = cuman
 	}
 	1066.1.2 = {
@@ -10397,13 +10420,13 @@
 7266 = {	# 7266 - Ulu Jitanjik
 	
 	# Misc
-	culture = kimek
+	culture = pecheneg
 	religion = tengri_pagan
 	
 	#holding = castle_holding
 	
-	# History
-	769.1.1 = {
+	# Histor
+	930.1.1 = {
 		culture = cuman
 	}
 	1066.1.2 = {
@@ -10488,6 +10511,7 @@
 	#holding = castle_holding
 	
 	# History
+	1045.1.1 = { culture = khanty religion = siberian_pagan } 
 	 
 }
 7019 = {	#Uktuz
@@ -10542,6 +10566,8 @@
 	#holding = castle_holding
 	
 	# History
+	
+	1045.1.1 = { culture = khanty religion = siberian_pagan } 
 
 }
 7018 = {	#Mostovskoye
@@ -10577,12 +10603,15 @@
 7042 = {	# 7042 - Karu Samys
 	
 	# Misc
-	culture = cuman
+	culture = pecheneg
 	religion = tengri_pagan
 	
 	#holding = castle_holding
 	
 	# History
+	930.1.1 = {
+		culture = cuman
+	}
 	
 	1066.1.2 = {
 		culture = kipchak
@@ -10591,12 +10620,15 @@
 7277 = {	#Chubar Kul
 	#Lake "Tchoubar Koul" on map BBB just south-west of lake Teniz
 	# Misc
-	culture = cuman
+	culture = pecheneg
 	religion = tengri_pagan
 	
 	#holding = castle_holding
 	
 	# History
+	930.1.1 = {
+		culture = cuman
+	}
 	
 	1066.1.2 = {
 		culture = kipchak
@@ -10620,10 +10652,15 @@
 7282 = {	# 7282 - Eghiz Kara
 	
 	# Misc
-	culture = cuman
+	culture = pecheneg
 	religion = tengri_pagan
 	
 	#holding = castle_holding
+	
+	# History
+	950.1.1 = {
+		culture = cuman
+	}
 	1066.1.2 = {
 		culture = kipchak
 	}
@@ -10650,11 +10687,15 @@
 7272 = {	# 7272 - Ulytau
 	
 	# Misc
-	culture = cuman
+	culture = pecheneg
 	religion = tengri_pagan
 	
 	#holding = castle_holding
-
+	
+	# History
+	950.1.1 = {
+		culture = cuman
+	}
 	1066.1.2 = {
 		culture = kipchak
 	}
@@ -10677,10 +10718,15 @@
 7274 = {	# 7274 - Kaska
 	
 	# Misc
-	culture = cuman
+	culture = pecheneg
 	religion = tengri_pagan
 	
 	#holding = castle_holding
+	
+	# History
+	930.1.1 = {
+		culture = cuman
+	}
 
 	1066.1.2 = {
 		culture = kipchak
@@ -10694,11 +10740,15 @@
 7275 = {	#Kaptadyr
 	#As "Kaptadyrskoï" on map BBB, south-west of lake Teniz
 	# Misc
-	culture = cuman
+	culture = pecheneg
 	religion = tengri_pagan
 	
 	#holding = castle_holding
-
+	
+	# History
+	930.1.1 = {
+		culture = cuman
+	}
 	1066.1.2 = {
 		culture = kipchak
 	}
@@ -10840,7 +10890,7 @@
 	culture = laktan
 	religion = tengri_pagan
 	
-	#holding = castle_holding
+	holding = nomad_holding
 	
 	# History
 
@@ -10907,9 +10957,13 @@
 	culture = uyghur
 	religion = manichean
 	holding = castle_holding
-	954.2.22 = {
-		religion = vajrayana
-	}
+	930.1.1 = {
+        culture = basmyl
+        religion = nestorian
+    }
+	1250.1.1 = {
+        religion = vajrayana
+    }
 }
 7463 = {	#Beilu
 	holding = none
@@ -10954,6 +11008,13 @@
 	900.2.22 = {
 		holding = castle_holding
 	}
+	930.1.1 = {
+        culture = basmyl
+        religion = nestorian
+    }
+	1250.1.1 = {
+        religion = vajrayana
+    }
 }
 7470 = {	#Liaotun
 	holding = none
@@ -11004,14 +11065,8 @@
     religion = tengri_pagan
 
     900.1.1 = {
-        culture = basmyl
-        religion = nestorian
-    }
-    1050.1.1 = {
-        culture = qun
-    }
-    1150.1.1 = {
         culture = naiman
+        religion = nestorian
     }
 }
 7473 = {	#Kulris
@@ -11042,11 +11097,7 @@
 	culture = ograk
     religion = tengri_pagan
 
-    900.1.1 = {
-        culture = basmyl
-        religion = nestorian
-    }
-    1050.1.1 = {
+    930.1.1 = {
         culture = naiman
         religion = nestorian
     }
@@ -11083,14 +11134,8 @@
     religion = tengri_pagan
 
     900.1.1 = {
-        culture = basmyl
-        religion = nestorian
-    }
-    1050.1.1 = {
-        culture = qun
-    }
-    1150.1.1 = {
         culture = naiman
+        religion = nestorian
     }
 }
 7484 = {	#Bostal
@@ -11117,7 +11162,7 @@
 		culture = uyghur
 		religion = vajrayana
 	}
-	1050.1.2 = {
+	930.1.2 = {
 		culture = naiman
 		religion = nestorian
 	}
@@ -11147,7 +11192,7 @@
 		culture = uyghur
 		religion = vajrayana
 	}
-	1050.1.2 = {
+	930.1.2 = {
 		culture = naiman
 		religion = nestorian
 	}
@@ -11246,11 +11291,10 @@
 	# Misc
 	culture = basmyl
     religion = tengri_pagan
+	
+	holding = nomad_holding
 
-    900.1.1 = {
-        religion = nestorian
-    }
-    1050.1.1 = {
+    930.1.1 = {
         culture = naiman
         religion = nestorian
     }
@@ -11279,12 +11323,10 @@
 	#As "Chara adsirgan" on map AAA, south of "Naiman minggan Gobi"
 	culture = basmyl
     religion = tengri_pagan
+	
+	holding = nomad_holding
 
-    900.1.1 = {
-        culture = qun
-        religion = nestorian
-    }
-    1050.1.1 = {
+    930.1.1 = {
         culture = naiman
         religion = nestorian
     }
@@ -11304,16 +11346,9 @@
 	#On map AAA, south of Naiman minggan Gobi
 	culture = basmyl
     religion = tengri_pagan
-	holding = tribal_holding
+	holding = nomad_holding
 	
-	900.2.22 = {
-		holding = castle_holding
-	}
-    900.1.1 = {
-        culture = qun
-		religion = nestorian
-    }
-    1050.1.1 = {
+    930.1.1 = {
         culture = naiman
         religion = nestorian
     }
@@ -11338,6 +11373,9 @@
 	holding = castle_holding
 	
 	# History
+	1000.1.1 = {
+		culture = goryeo
+	}
 
 }
 
@@ -11626,7 +11664,7 @@
 #b_yosn
 13601 = {
 	culture = baekje
-	religion = dhyana	#가지산문 Ga-zi-san-mum, Famous Dhyana school.
+	religion = sukhavati
 	holding = castle_holding
 	1000.1.1 = {
 		culture = goryeo
@@ -11660,6 +11698,9 @@
 	644.1.1 = {
 		special_building = hwangnyongsa_01
 	}
+	1000.1.1 = {
+		culture = goryeo
+	}
 	1140.1.1 = {
 		religion = dhyana 
 	}
@@ -11671,6 +11712,9 @@
 	holding = castle_holding
 	1000.1.1 = {
 		culture = goryeo
+	}
+	1140.1.1 = {
+		religion = dhyana 
 	}
 }
 #b_SeokguramGrotto
@@ -11686,6 +11730,9 @@
     culture = silla
 	religion = vinaya
 	holding = castle_holding
+	1000.1.1 = {
+		culture = goryeo
+	}
 	1140.1.1 = {
 		religion = dhyana 
 	}
@@ -11702,6 +11749,9 @@
     culture = silla
 	religion = vinaya
 	holding = castle_holding
+	1000.1.1 = {
+		culture = goryeo
+	}
 	1140.1.1 = {
 		religion = avatamsaka 
 	}
@@ -11736,6 +11786,9 @@
 	1000.1.1 = {
 		culture = goryeo
 	}
+	1140.1.1 = {
+		religion = dhyana 
+	}
 }
 
 #c_juliezhou #居烈州/菁州/康州
@@ -11746,6 +11799,9 @@
 	holding = castle_holding
 	1000.1.1 = {
 		culture = goryeo
+	}
+	1140.1.1 = {
+		religion = dhyana 
 	}
 }
 #b_sachon
@@ -11805,7 +11861,7 @@
 	#Named after local river
 	culture = yenisei_kirghiz
     religion = ulganism
-	holding = tribal_holding
+	holding = herder_holding
 }
 7644 = {	#Yezagash
 	#Named after local river
@@ -11869,7 +11925,7 @@
 	#Named after local lake
 	culture = yenisei_kirghiz
     religion = ulganism
-	holding = tribal_holding
+	holding = herder_holding
 }
 7659 = {	#Amyl
 	#Named after local river
@@ -11890,7 +11946,7 @@
 7663 = {	#Kuznetsk
 	culture = shor
     religion = ulganism
-	holding = tribal_holding
+	holding = herder_holding
 }
 7661 = {	#Kuztom
 	#Entirely fictional
@@ -11920,7 +11976,7 @@
 7668 = {	#Abaza
 	culture = shor
     religion = ulganism
-	holding = tribal_holding
+	holding = herder_holding
 }
 7666 = {	#Khartomor Uul
 	holding = none
@@ -12078,11 +12134,10 @@
 	# Misc
 	culture = kimek
 	religion = tengri_pagan
-	holding = tribal_holding
-	1050.1.2 = {
+	holding = nomad_holding
+	930.1.2 = {
 		culture = naiman
 		religion = nestorian
-		holding = castle_holding
 	}
 }
 7350 = {	#Bukhtarma
@@ -12638,8 +12693,7 @@
 	religion = ulganism
 	
 	# History
-	
-	1227.1.1 = { religion = ulganism }
+
 	1313.1.1 = { religion = ashari }
 }
 7413 = {	#Chumych	#Fictional, based on local river
@@ -12666,7 +12720,7 @@
 7422 = {	#Sorok	#Fictional
 	culture = kirghiz
 	religion = ulganism
-	holding = tribal_holding
+	holding = herder_holding
 }
 7423 = {	#Our	#Fictional, based on local river
 	holding = none
@@ -12746,7 +12800,7 @@
 	culture = kirghiz
 	religion = ulganism
 	
-	#holding = castle_holding
+	holding = herder_holding
 	
 	# History
 
@@ -12766,13 +12820,13 @@
 	culture = az
 	religion = ulganism
 	
-	#holding = castle_holding
+	holding = nomad_holding
 	
 	# History
-	1250.1.2 = {
-		culture = oirat
-		religion = ulganism
-	}
+	#1250.1.2 = {
+	#	culture = oirat
+	#	religion = ulganism
+	#}
 
 }
 7411 = {	#Ongutai	#Fictional
@@ -12822,9 +12876,9 @@
 
 ###c_kiia
 7432 = {	#Kiia	#Fictional, based on local river
-	culture = samoyed
-	religion = kuptyng
-	holding = tribal_holding
+	culture = kirghiz
+	religion = ulganism
+	holding = herder_holding
 }
 7434 = {	#Krolu	#Fictional, based on local mountain
 	holding = none
@@ -12850,7 +12904,9 @@
 7443 = {	#Kojuk	#Fictional, based on local river
 	culture = kirghiz
 	religion = ulganism
-	holding = tribal_holding
+	
+	holding = herder_holding
+	
 }
 7441 = {	#Biriku	#AKA Birikoulskoie
 	holding = none
@@ -12859,8 +12915,10 @@
 ###c_chulym
 7439 = {	#Chulym_bis	#Fictional, based on local river
 	culture = kirghiz
-	religion = kuptyng
-	holding = tribal_holding
+	religion = ulganism
+	
+	holding = nomad_holding
+	
 }
 7440 = {	#Chet	#Fictional, based on local river
 	holding = none
@@ -12873,7 +12931,8 @@
 1205 = {	#Narim	#AKA Narym
 	culture = samoyed
 	religion = kuptyng
-	holding = tribal_holding
+	
+	holding = herder_holding
 }
 7444 = {	#Tym	#Fictional, based on local river
 	holding = none
@@ -12889,7 +12948,8 @@
 7448 = {	#Sochur	#Fictional, based on local river
 	culture = samoyed
 	religion = kuptyng
-	holding = tribal_holding
+	
+	holding = nomad_holding
 }
 7447 = {	#Jorugul	#Fictional
 	holding = none
@@ -12899,7 +12959,8 @@
 7449 = {	#Yenisei	#AKA Yeniseysk
 	culture = yeniseian
 	religion = kuptyng
-	holding = tribal_holding
+	
+	holding = nomad_holding
 }
 7450 = {	#Yahtin	#Fictional
 	holding = none
@@ -12913,7 +12974,9 @@
 7368 = {	#Vasyugan	#Based on the local Vasyugan Mire
 	culture = samoyed
 	religion = kuptyng
-	holding = tribal_holding
+	
+	holding = nomad_holding
+	
 }
 7372 = {	#Parabel	#Fictional, based on local river
 	holding = none
@@ -12929,7 +12992,9 @@
 7367 = {	#Umiai	#Fictional
 	culture = samoyed
 	religion = kuptyng
-	holding = tribal_holding
+	
+	holding = herder_holding
+	
 }
 7366 = {	#Sayak	#Fictional
 	holding = none
@@ -12942,7 +13007,9 @@
 7363 = {	#Tartas_SIB	#Fictional, based on local river
 	culture = khanty
 	religion = siberian_pagan
-	holding = tribal_holding
+	
+	holding = herder_holding
+	
 }
 7365 = {	#Om	#Fictional, based on local river
 	holding = none
@@ -12955,7 +13022,9 @@
 7360 = {	#Chich	#Fictional, based on local river
 	culture = khanty
 	religion = siberian_pagan
-	holding = tribal_holding
+	
+	holding = herder_holding
+	
 }
 7361 = {	#Olyn	#Fictional
 	holding = none
@@ -12973,7 +13042,7 @@
 	culture = samoyed
 	religion = kuptyng
 	
-	#holding = castle_holding
+	holding = herder_holding
 	
 	# History
 
@@ -12997,7 +13066,7 @@
 	culture = samoyed
 	religion = kuptyng
 	
-	#holding = castle_holding
+	holding = nomad_holding
 	
 	# History
 
@@ -13019,7 +13088,7 @@
 	culture = samoyed
 	religion = kuptyng
 	
-	#holding = castle_holding
+	holding = nomad_holding
 	
 	# History
 
@@ -13035,7 +13104,9 @@
 7375 = {	#Igaran	#Fictional
 	culture = samoyed
 	religion = kuptyng
-	holding = tribal_holding
+	
+	holding = nomad_holding
+	
 }
 7376 = {	#Iau	#Fictional, based on local river
 	holding = none
@@ -13052,7 +13123,7 @@
 	culture = samoyed
 	religion = kuptyng
 	
-	#holding = castle_holding
+	holding = herder_holding
 	
 	# History
 
@@ -13070,10 +13141,9 @@
 	culture = laktan
 	religion = tengri_pagan
 	
-	#holding = castle_holding
+	holding = nomad_holding
 	
 	# History
-	1238.1.1 = { culture = samoyed religion = kuptyng } 
 
 }
 7394 = {	#Kuria	#Fictional, based on local river
@@ -13094,7 +13164,7 @@
 	culture = kirghiz
 	religion = ulganism
 	
-	#holding = castle_holding
+	holding = herder_holding
 	
 	# History
 
@@ -13115,9 +13185,9 @@
 	
 	# Misc
 	culture = laktan
-	religion = ulganism
+	religion = tengri_pagan
 	
-	#holding = castle_holding
+	holding = herder_holding
 	
 	# History
 }
@@ -13136,8 +13206,9 @@
 	# Misc
 	culture = laktan
 	religion = tengri_pagan
+	
+	holding = herder_holding
 	# History
-	1238.1.1 = { culture = samoyed } 
 
 
 }
@@ -13786,7 +13857,9 @@ religion = tengri_pagan
 7006 = {	#Sibir	#AKA Qashliq, Isker or Sibier
 	culture = khanty
 	religion = siberian_pagan
-	holding = tribal_holding
+	
+	holding = nomad_holding
+	
 }
 7008 = {	#Asmaak
 	#Can be found on maps of Tartaria by Nicolas Witsen, on the map's south of Tobol and Dolgujar
@@ -13801,7 +13874,8 @@ religion = tengri_pagan
 898 = {		#Tobol	AKA Tobolsk
 	culture = khanty
 	religion = siberian_pagan
-	holding = tribal_holding
+	
+	holding = nomad_holding
 }
 7002 = {	#Koshley Vosh
 	#Can be found in eastern Konda province from a map of Yugra in the XVth
@@ -13820,7 +13894,8 @@ religion = tengri_pagan
 7000 = {	#Demiianka	AKA Demyanka river
 	culture = khanty
 	religion = siberian_pagan
-	holding = tribal_holding
+	
+	holding = nomad_holding
 }
 7005 = {	#Selinga
 	#Can be found on map of Tartaria by Nicolas Witsen, on the yellow-red border, east of Tobol, south of Uluskate
@@ -13832,7 +13907,9 @@ religion = tengri_pagan
 	#Can be found only as "Bardak's capital" in Bardak province from a map of Yugra in the XVth
 	culture = khanty
 	religion = siberian_pagan
-	holding = tribal_holding
+	
+	holding = herder_holding
+	
 }
 7007 = {	#Berisiy
 	#Can be found on map of Tartaria by Nicolas Witsen, east of Dolganjar (almost on the same horizontal axis)
@@ -13878,7 +13955,7 @@ religion = tengri_pagan
 	culture = khanty
 	religion = siberian_pagan
 	
-	#holding = castle_holding
+	holding = herder_holding
 	
 	# History
 
@@ -13905,7 +13982,7 @@ religion = tengri_pagan
 	culture = khanty
 	religion = siberian_pagan
 	
-	#holding = castle_holding
+	holding = nomad_holding
 	
 	# History
 
@@ -13931,7 +14008,7 @@ religion = tengri_pagan
 	culture = khanty
 	religion = siberian_pagan
 	
-	#holding = castle_holding
+	holding = nomad_holding
 	
 	# History
 
@@ -13953,7 +14030,7 @@ religion = tengri_pagan
 	culture = khanty
 	religion = siberian_pagan
 	
-	#holding = castle_holding
+	holding = herder_holding
 	
 	# History
 
@@ -13977,7 +14054,7 @@ religion = tengri_pagan
 	culture = laktan
 	religion = tengri_pagan
 	
-	#holding = castle_holding
+	holding = nomad_holding
 	
 	# History
 
@@ -14004,7 +14081,7 @@ religion = tengri_pagan
 	culture = laktan
 	religion = tengri_pagan
 	
-	#holding = castle_holding
+	holding = herder_holding
 	
 	# History
 
@@ -14031,7 +14108,7 @@ religion = tengri_pagan
 	culture = laktan
 	religion = tengri_pagan
 	
-	#holding = castle_holding
+	holding = nomad_holding
 	
 	# History
 }
@@ -14758,12 +14835,16 @@ religion = tengri_pagan
 ###c_mazongshan
 9489 = {	#  Mazongshan
 	# Misc
-	culture = yughur
-	religion = manichean #mahayana
+	culture = tangut
+	religion = melieism
 	
 	holding = tribal_holding #nomad
 	
 	# History
+	894.1.1 = {
+		culture = yughur
+		religion = manichean
+	}
 	1032.1.1 = {
 		culture = tangut
 		religion = melieism
@@ -14947,7 +15028,7 @@ religion = tengri_pagan
 	culture = khanty
 	religion = siberian_pagan
 	
-	#holding = castle_holding
+	holding = nomad_holding
 	
 	# History
 
@@ -14974,7 +15055,7 @@ religion = tengri_pagan
 	culture = khanty
 	religion = siberian_pagan
 	
-	#holding = castle_holding
+	holding = herder_holding
 	
 	# History
 
@@ -14992,7 +15073,8 @@ religion = tengri_pagan
 	#Can be seen as a principality/province of Yugra, as well as a city
 	culture = khanty
 	religion = siberian_pagan
-	holding = tribal_holding
+	
+	holding = nomad_holding
 }
 5881 = {	#Tura Kala
 	#mostly placeholder
@@ -15008,7 +15090,9 @@ religion = tengri_pagan
 	#Can be found as a settlement in the west of Tabary province of Yugra
 	culture = khanty
 	religion = siberian_pagan
-	holding = tribal_holding
+	
+	holding = nomad_holding
+	
 }
 5880 = {	#Verkhoturye
 	holding = none
@@ -15020,7 +15104,8 @@ religion = tengri_pagan
 892 = {		#Tselym-Balyn
 	culture = khanty
 	religion = siberian_pagan
-	holding = tribal_holding
+	
+	holding = nomad_holding
 }
 5877 = {	#Chukas Vosh
 	#Can be found as a settlement in the east of Konda province of Yugra
@@ -15036,7 +15121,8 @@ religion = tengri_pagan
 	#Can be found as a settlement in the center of Konda province of Yugra
 	culture = khanty
 	religion = siberian_pagan
-	holding = tribal_holding
+	
+	holding = herder_holding
 }
 5867 = {	#Kari Pospat Vosh
 	#Can be found as a settlement in the center of Konda province of Yugra
@@ -15052,7 +15138,9 @@ religion = tengri_pagan
 	#Can be found as a settlement in the south of Konda province of Yugra
 	culture = khanty
 	religion = siberian_pagan
-	holding = tribal_holding
+	
+	holding = nomad_holding
+	
 }
 5869 = {	# Kandiskaya
 	#ficitonal, named after lake of the same name
@@ -15065,7 +15153,9 @@ religion = tengri_pagan
 	#Province, river and city, now in the oblast of Sverdlovsk, north of Tyumen & Yekaterinburg
 	culture = khanty
 	religion = siberian_pagan
-	holding = tribal_holding
+	
+	holding = nomad_holding
+	
 }
 5872 = {	#Sosva
 	#ficitonal, named after river of the same name
@@ -15079,7 +15169,8 @@ religion = tengri_pagan
 5874 = {	#Koshuki
 	culture = khanty
 	religion = siberian_pagan
-	holding = tribal_holding
+	
+	holding = nomad_holding
 }
 5875 = {	#Alymka
 	#ficitonal, named after lake of the same name
@@ -15096,7 +15187,9 @@ religion = tengri_pagan
 893 = {		#Surgut
 	culture = khanty
 	religion = siberian_pagan
-	holding = tribal_holding
+	
+	holding = nomad_holding
+	
 }
 890 = {		#Khanty-Mansiisk	AKA Khanty-Mansiysk
 	holding = none
@@ -15111,7 +15204,9 @@ religion = tengri_pagan
 	#Can be found as a settlement in the south of Koda province of Yugra
 	culture = khanty
 	religion = siberian_pagan
-	holding = tribal_holding
+	
+	holding = nomad_holding
+	
 }
 5866 = {	#Belogorye
 	#Mostly placeholder
@@ -15123,7 +15218,9 @@ religion = tengri_pagan
 	#Can be found as a settlement in the east of Koda province of Yugra
 	culture = khanty
 	religion = siberian_pagan
-	holding = tribal_holding
+	
+	holding = herder_holding
+	
 }
 5898 = {	#Atlym
 	#Can be found as several settlements (Big and Little Atlym) in the east of Koda province of Yugra
@@ -15702,11 +15799,8 @@ religion = tengri_pagan
 			longhouses_01
 		}
 	}
-	
-	900.1.1 = {
-        culture = tongra
-    }
-    1005.1.1 = {
+
+    930.1.1 = {
         culture = kerait
 		religion = eastern_tengri
     }
@@ -15759,10 +15853,7 @@ religion = tengri_pagan
 	culture = uyghur
     religion = ulganism
 
-    900.1.1 = {
-        culture = tongra
-    }
-    1005.1.1 = {
+    930.1.1 = {
         culture = kerait
 		religion = eastern_tengri
     }
@@ -15805,10 +15896,7 @@ religion = tengri_pagan
 	culture = uyghur
     religion = ulganism
 
-    900.1.1 = {
-        culture = tongra
-    }
-    1005.1.1 = {
+    930.1.1 = {
         culture = merkit
 		religion = eastern_tengri
     }
@@ -15990,10 +16078,7 @@ religion = tengri_pagan
 	culture = uyghur
     religion = ulganism
 
-    900.1.1 = {
-        culture = tongra
-    }
-    1005.1.1 = {
+    930.1.1 = {
         culture = kerait
 		religion = eastern_tengri
     }
@@ -16025,13 +16110,12 @@ religion = tengri_pagan
     900.1.1 = {
         culture = qun
     }
-    1005.1.1 = {
+    930.1.1 = {
         culture = kerait
+		religion = nestorian
     }
 	holding = tribal_holding
-	1020.1.2 = {
-		religion = nestorian
-	}
+
 }
 7568 = {	#Taatsiin Tsagaan
 	#Named after local lake
@@ -16051,13 +16135,11 @@ religion = tengri_pagan
     900.1.1 = {
         culture = qun
     }
-    1005.1.1 = {
+    930.1.1 = {
         culture = kerait
+		religion = nestorian
     }
 	holding = tribal_holding
-	1020.1.2 = {
-		religion = nestorian
-	}
 }
 7565 = {	#Tuin
 	#Named after local river
@@ -16077,13 +16159,11 @@ religion = tengri_pagan
     900.1.1 = {
         culture = qun
     }
-    1005.1.1 = {
+    930.1.1 = {
         culture = kerait
+		religion = nestorian
     }
 	holding = tribal_holding
-	1020.1.2 = {
-		religion = nestorian
-	}
 }
 7563 = {	#Boon Tsagaan
 	#Named after local lake
@@ -16098,17 +16178,15 @@ religion = tengri_pagan
 7559 = {	#Khasagt Khairkhan
 	culture = bayirku
     religion = ulganism
-
-    900.1.1 = {
+	
+	900.1.1 = {
         culture = qun
     }
-    1005.1.1 = {
+    930.1.1 = {
         culture = kerait
+		religion = nestorian
     }
 	holding = tribal_holding
-	1020.1.2 = {
-		religion = nestorian
-	}
 }
 7560 = {	#Gegeen
 	#Named after local lake
@@ -16128,10 +16206,6 @@ religion = tengri_pagan
     religion = ulganism
 
     900.1.1 = {
-        culture = naiman
-        religion = nestorian
-    }
-    1050.1.1 = {
         culture = dukha
         religion = ulganism
     }
@@ -16151,17 +16225,13 @@ religion = tengri_pagan
 	#Named after local lake
 	culture = siqar
     religion = ulganism
+	holding = herder_holding
 
     900.1.1 = {
-        culture = naiman
-        religion = nestorian
-    }
-    1050.1.1 = {
         culture = dukha
         religion = ulganism
     }
-	
-	holding = tribal_holding
+
 }
 7575 = {	#Telmen
 	#Named after local lake
@@ -16227,10 +16297,6 @@ religion = tengri_pagan
     religion = ulganism
 
     900.1.1 = {
-        culture = naiman
-        religion = nestorian
-    }
-    1050.1.1 = {
         culture = dukha
         religion = ulganism
     }
@@ -16348,7 +16414,7 @@ religion = tengri_pagan
 	culture = basmyl
     religion = ulganism
 
-    900.1.1 = {
+    850.1.1 = {
         culture = cik
         religion = ulganism
     }
@@ -16399,7 +16465,7 @@ religion = tengri_pagan
 	culture = basmyl
     religion = ulganism
 
-    900.1.1 = {
+    850.1.1 = {
         culture = cik
         religion = ulganism
     }
@@ -16480,15 +16546,11 @@ religion = tengri_pagan
 	   
 	culture = basmyl
     religion = ulganism
+	holding = herder_holding
 
-    1050.1.1 = {
+    850.1.1 = {
         culture = az
     }
-	1175.1.1 = {
-        culture = oirat
-    }
- 
-	holding = tribal_holding
 
 }
 7612 = {	#Tsagan Shibetu
@@ -94483,17 +94545,17 @@ religion = catholic
 	culture = mordvin
 	religion = moksha_pagan
 	holding = tribal_holding
-	1300.1.1 = {
-		culture = mishar
-	}
+	#1300.1.1 = {
+	#	culture = mishar
+	#}
 }
 5384 = {	#Serdosk
 	culture = mordvin
 	religion = moksha_pagan
 	holding = tribal_holding
-	1300.1.1 = {
-		culture = mishar
-	}
+	#1300.1.1 = {
+	#	culture = mishar
+	#}
 }
 5387 = {	#Kirsanov
 	holding = none
@@ -95769,7 +95831,7 @@ religion = tengri_pagan
 	#holding = castle_holding
 	
 	# History
-	900.1.1 = {
+	930.1.1 = {
 		culture = cuman
 	}
 	1066.1.2 = {
@@ -95841,7 +95903,7 @@ religion = tengri_pagan
 	#holding = castle_holding
 	
 	# History
-	900.1.1 = {
+	950.1.1 = {
 		culture = cuman
 	}
 	1066.1.2 = {
@@ -98067,10 +98129,6 @@ religion = tengri_pagan
 	culture = udmurt
 	religion = udmurt_pagan
 	holding = tribal_holding
-	965.1.2 = {
-		culture = bolghar
-		religion = ashari
-	}
 	1300.1.1 = {
 		culture = kazani
 	}
@@ -98816,7 +98874,7 @@ religion = tengri_pagan
 	culture = komi
 	religion = komi_pagan
 	
-	#holding = castle_holding
+	holding = tribal_holding
 	
 	# History
 }
@@ -98840,7 +98898,7 @@ religion = tengri_pagan
 	culture = komi
 	religion = komi_pagan
 	
-	#holding = castle_holding
+	holding = tribal_holding
 	
 	# History
 }
@@ -98865,7 +98923,7 @@ religion = tengri_pagan
 	culture = komi
 	religion = komi_pagan
 	
-	#holding = castle_holding
+	holding = tribal_holding
 	
 	# History
 }
@@ -98888,7 +98946,7 @@ religion = tengri_pagan
 	culture = komi
 	religion = komi_pagan
 	
-	#holding = castle_holding
+	holding = tribal_holding
 	
 	# History
 }
@@ -98910,7 +98968,9 @@ religion = tengri_pagan
 889 = {		#Ural	AKA Uralsk
 	culture = komi
 	religion = komi_pagan
+	
 	holding = tribal_holding
+	
 }
 5453 = {	#Vilva	fictional, based on river of the same name
 	holding = none
@@ -98927,7 +98987,7 @@ religion = tengri_pagan
 	culture = komi
 	religion = komi_pagan
 	
-	#holding = castle_holding
+	holding = tribal_holding
 	
 	# History
 }
@@ -98948,7 +99008,9 @@ religion = tengri_pagan
 	#Can be found on maps of Volga Bulgaria
 	culture = komi
 	religion = komi_pagan
+	
 	holding = tribal_holding
+	
 }
 5456 = {	#Shimal
 	#Can be found on maps of Volga Bulgaria
@@ -98964,6 +99026,7 @@ religion = tengri_pagan
 	#Can be found on maps of Volga Bulgaria
 	culture = udmurt
 	religion = udmurt_pagan
+	
 	holding = tribal_holding
 }
 5458 = {	#Kasib
@@ -98980,6 +99043,7 @@ religion = tengri_pagan
 5461 = {	#Palniki
 	culture = udmurt
 	religion = udmurt_pagan
+	
 	holding = tribal_holding
 }
 5462 = {	#Lolog	fictional, based on river of the same name
@@ -98997,7 +99061,6 @@ religion = tengri_pagan
 	culture = udmurt
 	religion = udmurt_pagan
 	
-	#holding = castle_holding
 	holding = tribal_holding
 	
 	# History
@@ -99018,8 +99081,6 @@ religion = tengri_pagan
 	religion = udmurt_pagan
 	
 	holding = tribal_holding
-	
-	#holding = castle_holding
 	
 	# History
 }
@@ -99958,8 +100019,9 @@ religion = orthodox
 	culture = cik
 	religion = ulganism
 	holding = tribal_holding
-	1150.1.2 = {
+	930.1.2 = {
 		culture = oirat
+		holding = nomad_holding
 	}
 }
 7617 = {	#Saryg-sep
@@ -99977,8 +100039,9 @@ religion = orthodox
 	culture = cik
 	religion = ulganism
 	holding = tribal_holding
-	1150.1.2 = {
+	930.1.2 = {
 		culture = oirat
+		holding = nomad_holding
 	}
 }
 7620 = {	#Ikh Nogoon
@@ -100094,7 +100157,7 @@ religion = orthodox
 	#Completely fictional
 	culture = az
 	religion = ulganism
-	holding = tribal_holding
+	holding = herder_holding
 }
 7636 = {	#Sutkhol
 	#Named after local lake

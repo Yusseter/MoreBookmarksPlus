@@ -28091,16 +28091,6 @@ dali_duan = {
 	culture = ryukyuan
 }
 
-1000027100 = {
-	name = "dynn_Wang"
-	culture = silla
-}
-
-1000027101 = {
-	name = "dynn_Yi"
-	culture = silla
-}
-
 1000027304 = {
 	name = "dynn_Kamachat"
 	culture = atayal
@@ -29084,86 +29074,6 @@ dali_duan = {
 1000027692 = {
 	name = "dynn_Dagon"
 	culture = mon
-}
-
-1000027800 = {
-	name = "dynn_Gangnam"
-	culture = silla
-}
-
-1000027801 = {
-	name = "dynn_Won"
-	culture = silla
-}
-
-1000027802 = {
-	name = "dynn_Na"
-	culture = silla
-}
-
-1000027803 = {
-	name = "dynn_Hwang"
-	culture = silla
-}
-
-1000027804 = {
-	name = "dynn_Hae"
-	culture = silla
-}
-
-1000027805 = {
-	name = "dynn_Buk"
-	culture = silla
-}
-
-1000027806 = {
-	name = "dynn_Dong"
-	culture = silla
-}
-
-1000027807 = {
-	name = "dynn_Go"
-	culture = silla
-}
-
-1000027808 = {
-	name = "dynn_Cheong"
-	culture = silla
-}
-
-1000027809 = {
-	name = "dynn_Chi"
-	culture = silla
-}
-
-1000027810 = {
-	name = "dynn_San"
-	culture = silla
-}
-
-1000027811 = {
-	name = "dynn_Jeon"
-	culture = silla
-}
-
-1000027812 = {
-	name = "dynn_Sung"
-	culture = silla
-}
-
-1000027813 = {
-	name = "dynn_Gang"
-	culture = silla
-}
-
-1000027814 = {
-	name = "dynn_Yan"
-	culture = silla
-}
-
-1000027815 = {
-	name = "dynn_Jeju"
-	culture = silla
 }
 
 1000028200 = {
@@ -43708,136 +43618,6 @@ KhitanYuling = {
 	culture = gaelic
 }
 
-1000062001 = {
-	name = "dynn_Go"
-	culture = goguryeo
-}
-
-1000062002 = {
-	name = "dynn_Hae"
-	culture = goguryeo
-}
-
-1000062003 = {
-	name = "dynn_Bak"
-	culture = silla
-}
-
-1000062004 = {
-	name = "dynn_Seok"
-	culture = silla
-}
-
-1000062005 = {
-	name = "dynn_Gim"
-	culture = silla
-}
-
-1000062006 = {
-	name = "dynn_Gung"
-	culture = silla
-}
-
-1000062007 = {
-	name = "dynn_Ri"
-	culture = silla
-}
-
-1000062008 = {
-	name = "dynn_Gyeon"
-	culture = silla
-}
-
-1000062009 = {
-	name = "dynn_Wang"
-	culture = goguryeo
-}
-
-1000062010 = {
-	name = "dynn_Bak"
-	culture = silla
-}
-
-1000062011 = {
-	name = "dynn_Ji_kor"
-	culture = silla
-}
-
-1000062012 = {
-	name = "dynn_Jin_kor"
-	culture = silla
-}
-
-1000062013 = {
-	name = "dynn_Geum"
-	culture = goguryeo
-}
-
-1000062014 = {
-	name = "dynn_Ryu"
-	culture = goguryeo
-}
-
-1000062015 = {
-	name = "dynn_Ryong_kor"
-	culture = goguryeo
-}
-
-1000062016 = {
-	name = "dynn_Han_kor"
-	culture = goguryeo
-}
-
-1000062017 = {
-	name = "dynn_O_kor2"
-	culture = goguryeo
-}
-
-1000062018 = {
-	name = "dynn_Ryeon"
-	culture = goguryeo
-}
-
-1000062019 = {
-	name = "dynn_Ryu"
-	culture = goguryeo
-}
-
-1000062020 = {
-	name = "dynn_Hwangbo"
-	culture = goguryeo
-}
-
-1000062022 = {
-	name = "dynn_Pyeong"
-	culture = goguryeo
-}
-
-1000062023 = {
-	name = "dynn_Gwan"
-	culture = goguryeo
-}
-
-1000062024 = {
-	name = "dynn_Wang_kor"
-	culture = goguryeo
-}
-
-1000062025 = {
-	name = "dynn_Gim"
-	culture = goguryeo
-}
-
-1000062026 = {
-	name = "dynn_Wang_kor"
-	culture = goguryeo
-}
-
-1000062027 = {
-	name = "dynn_Yu_kor"
-	culture = goguryeo
-}
-
 1000064000 = {
 	name = "dynn_Blosseville"
 	prefix = "dynnp_de"
@@ -43892,31 +43672,6 @@ KhitanYuling = {
 	culture = italian
 }
 
-1000078000 = {
-	name = "dynn_Gim"
-	culture = silla
-}
-
-1000078001 = {
-	name = "dynn_Bak"
-	culture = silla
-}
-
-1000078002 = {
-	name = "dynn_Dae"
-	culture = silla
-}
-
-1000078003 = {
-	name = "dynn_Gyeon"
-	culture = silla
-}
-
-1000078004 = {
-	name = "dynn_Gung"
-	culture = silla
-}
-
 1000078073 = {
 	name = "dynn_Kuye"
 	culture = ainu
@@ -43930,11 +43685,6 @@ KhitanYuling = {
 1000078075 = {
 	name = "dynn_Eiso"
 	culture = ryukyuan
-}
-
-1000078079 = {
-	name = "dynn_Gim"
-	culture = silla
 }
 
 1000078080 = {
@@ -53364,191 +53114,6 @@ KhitanYuling = {
 	culture = jeju
 }
 
-1000155003 = {
-	name = "dynn_Bak"
-	culture = silla
-}
-
-1000155004 = {
-	name = "dynn_Suk"
-	culture = silla
-}
-
-1000155005 = {
-	name = "dynn_Bae"
-	culture = silla
-}
-
-1000155006 = {
-	name = "dynn_Sul"
-	culture = silla
-}
-
-1000155007 = {
-	name = "dynn_Yi"
-	culture = silla
-}
-
-1000155008 = {
-	name = "dynn_Choe"
-	culture = silla
-}
-
-1000155009 = {
-	name = "dynn_Son"
-	culture = silla
-}
-
-1000155010 = {
-	name = "dynn_Jeong"
-	culture = silla
-}
-
-1000155011 = {
-	name = "dynn_Gim"
-	culture = silla
-}
-
-1000155012 = {
-	name = "dynn_Yi"
-	culture = silla
-}
-
-1000155013 = {
-	name = "dynn_Heo"
-	culture = silla
-}
-
-1000155014 = {
-	name = "dynn_Sin"
-	culture = silla
-}
-
-1000155015 = {
-	name = "dynn_Yeom"
-	culture = silla
-}
-
-1000155016 = {
-	name = "dynn_Jung"
-	culture = silla
-}
-
-1000155017 = {
-	name = "dynn_Na"
-	culture = silla
-}
-
-1000155018 = {
-	name = "dynn_Hae"
-	culture = goguryeo
-}
-
-1000155019 = {
-	name = "dynn_Mo"
-	culture = goguryeo
-}
-
-1000155020 = {
-	name = "dynn_Go"
-	culture = goguryeo
-}
-
-1000155021 = {
-	name = "dynn_Yalu"
-	culture = goguryeo
-}
-
-1000155022 = {
-	name = "dynn_Ye"
-	culture = goguryeo
-}
-
-1000155023 = {
-	name = "dynn_Go"
-	culture = silla
-}
-
-1000155024 = {
-	name = "dynn_Yeon"
-	culture = silla
-}
-
-1000155025 = {
-	name = "dynn_Bu"
-	culture = silla
-}
-
-1000155026 = {
-	name = "dynn_Song"
-	culture = silla
-}
-
-1000155027 = {
-	name = "dynn_Hae"
-	culture = silla
-}
-
-1000155028 = {
-	name = "dynn_Yi"
-	culture = silla
-}
-
-1000155029 = {
-	name = "dynn_Mu"
-	culture = silla
-}
-
-1000155030 = {
-	name = "dynn_Chu"
-	culture = silla
-}
-
-1000155031 = {
-	name = "dynn_Wang"
-	culture = silla
-}
-
-1000155032 = {
-	name = "dynn_Myeongnim"
-	culture = silla
-}
-
-1000155033 = {
-	name = "dynn_U"
-	culture = silla
-}
-
-1000155034 = {
-	name = "dynn_Eul"
-	culture = silla
-}
-
-1000155035 = {
-	name = "dynn_Yu"
-	culture = silla
-}
-
-1000155036 = {
-	name = "dynn_Sim"
-	culture = silla
-}
-
-1000155037 = {
-	name = "dynn_Chang"
-	culture = silla
-}
-
-1000155038 = {
-	name = "dynn_Eulji"
-	culture = silla
-}
-
-1000155039 = {
-	name = "dynn_Gang"
-	culture = silla
-}
-
 1000155040 = {
 	name = "dynn_Geolsa"
 	culture = udege
@@ -53599,989 +53164,9 @@ KhitanYuling = {
 	culture = udege
 }
 
-1000155050 = {
-	name = "dynn_Jang"
-	culture = silla
-}
-
-1000155051 = {
-	name = "dynn_Yeol"
-	culture = silla
-}
-
-1000155052 = {
-	name = "dynn_Oh"
-	culture = silla
-}
-
-1000155053 = {
-	name = "dynn_goguryeo"
-	culture = goguryeo
-}
-
-1000155054 = {
-	name = "dynn_Biryu"
-	culture = goguryeo
-}
-
 1000155055 = {
 	name = "dynn_Zhang"
 	culture = han
-}
-
-1000155056 = {
-	name = "dynn_Jin"
-	culture = goguryeo
-}
-
-1000155057 = {
-	name = "dynn_Hae"
-	culture = goguryeo
-}
-
-1000155058 = {
-	name = "dynn_Gye"
-	culture = goguryeo
-}
-
-1000155059 = {
-	name = "dynn_Gwisil"
-	culture = goguryeo
-}
-
-1000155060 = {
-	name = "dynn_Gim"
-	culture = silla
-}
-
-1000155061 = {
-	name = "dynn_Ga"
-	culture = silla
-}
-
-1000155062 = {
-	name = "dynn_Gan"
-	culture = silla
-}
-
-1000155063 = {
-	name = "dynn_Gal"
-	culture = silla
-}
-
-1000155064 = {
-	name = "dynn_Gam"
-	culture = silla
-}
-
-1000155065 = {
-	name = "dynn_Gang"
-	culture = silla
-}
-
-1000155066 = {
-	name = "dynn_Gangjeon"
-	culture = silla
-}
-
-1000155067 = {
-	name = "dynn_Gae"
-	culture = silla
-}
-
-1000155068 = {
-	name = "dynn_Gyeon"
-	culture = silla
-}
-
-1000155069 = {
-	name = "dynn_Gyeong"
-	culture = silla
-}
-
-1000155070 = {
-	name = "dynn_Gye"
-	culture = silla
-}
-
-1000155071 = {
-	name = "dynn_Gok"
-	culture = silla
-}
-
-1000155072 = {
-	name = "dynn_Gong"
-	culture = silla
-}
-
-1000155073 = {
-	name = "dynn_Gwak"
-	culture = silla
-}
-
-1000155074 = {
-	name = "dynn_Gyo"
-	culture = silla
-}
-
-1000155075 = {
-	name = "dynn_Gu"
-	culture = silla
-}
-
-1000155076 = {
-	name = "dynn_Guk"
-	culture = silla
-}
-
-1000155077 = {
-	name = "dynn_Gun"
-	culture = silla
-}
-
-1000155078 = {
-	name = "dynn_Gung"
-	culture = silla
-}
-
-1000155079 = {
-	name = "dynn_Gwok"
-	culture = silla
-}
-
-1000155080 = {
-	name = "dynn_Gwon"
-	culture = silla
-}
-
-1000155081 = {
-	name = "dynn_Gwon"
-	culture = silla
-}
-
-1000155082 = {
-	name = "dynn_Heun"
-	culture = silla
-}
-
-1000155083 = {
-	name = "dynn_Geun"
-	culture = silla
-}
-
-1000155084 = {
-	name = "dynn_Geum"
-	culture = silla
-}
-
-1000155085 = {
-	name = "dynn_Gil"
-	culture = silla
-}
-
-1000155086 = {
-	name = "dynn_Gi"
-	culture = silla
-}
-
-1000155087 = {
-	name = "dynn_Na"
-	culture = silla
-}
-
-1000155088 = {
-	name = "dynn_Nan"
-	culture = silla
-}
-
-1000155089 = {
-	name = "dynn_Nam"
-	culture = silla
-}
-
-1000155090 = {
-	name = "dynn_Namgung"
-	culture = silla
-}
-
-1000155091 = {
-	name = "dynn_Nang"
-	culture = silla
-}
-
-1000155092 = {
-	name = "dynn_Nae"
-	culture = silla
-}
-
-1000155093 = {
-	name = "dynn_No"
-	culture = silla
-}
-
-1000155094 = {
-	name = "dynn_Noe"
-	culture = silla
-}
-
-1000155095 = {
-	name = "dynn_Nu"
-	culture = silla
-}
-
-1000155096 = {
-	name = "dynn_Dan"
-	culture = silla
-}
-
-1000155097 = {
-	name = "dynn_Dam"
-	culture = silla
-}
-
-1000155098 = {
-	name = "dynn_Dang"
-	culture = silla
-}
-
-1000155099 = {
-	name = "dynn_Do"
-	culture = silla
-}
-
-1000155100 = {
-	name = "dynn_Dokgo"
-	culture = silla
-}
-
-1000155101 = {
-	name = "dynn_Don"
-	culture = silla
-}
-
-1000155102 = {
-	name = "dynn_Dongbang"
-	culture = silla
-}
-
-1000155103 = {
-	name = "dynn_Du"
-	culture = silla
-}
-
-1000155104 = {
-	name = "dynn_Ryu"
-	culture = silla
-}
-
-1000155105 = {
-	name = "dynn_Ma"
-	culture = silla
-}
-
-1000155106 = {
-	name = "dynn_Man"
-	culture = silla
-}
-
-1000155107 = {
-	name = "dynn_Mae"
-	culture = silla
-}
-
-1000155108 = {
-	name = "dynn_Maeng"
-	culture = silla
-}
-
-1000155109 = {
-	name = "dynn_Myeong"
-	culture = silla
-}
-
-1000155110 = {
-	name = "dynn_Mo"
-	culture = silla
-}
-
-1000155111 = {
-	name = "dynn_Mok"
-	culture = silla
-}
-
-1000155112 = {
-	name = "dynn_Myo"
-	culture = silla
-}
-
-1000155113 = {
-	name = "dynn_Muk"
-	culture = silla
-}
-
-1000155114 = {
-	name = "dynn_Mun"
-	culture = silla
-}
-
-1000155115 = {
-	name = "dynn_Mi"
-	culture = silla
-}
-
-1000155116 = {
-	name = "dynn_Min"
-	culture = silla
-}
-
-1000155117 = {
-	name = "dynn_Bak"
-	culture = silla
-}
-
-1000155118 = {
-	name = "dynn_Ban"
-	culture = silla
-}
-
-1000155119 = {
-	name = "dynn_Bang"
-	culture = silla
-}
-
-1000155120 = {
-	name = "dynn_Bae"
-	culture = silla
-}
-
-1000155121 = {
-	name = "dynn_Baek"
-	culture = silla
-}
-
-1000155122 = {
-	name = "dynn_Beom"
-	culture = silla
-}
-
-1000155123 = {
-	name = "dynn_Byeon"
-	culture = silla
-}
-
-1000155124 = {
-	name = "dynn_Bok"
-	culture = silla
-}
-
-1000155125 = {
-	name = "dynn_Bong"
-	culture = silla
-}
-
-1000155126 = {
-	name = "dynn_Bu"
-	culture = silla
-}
-
-1000155127 = {
-	name = "dynn_Bi"
-	culture = silla
-}
-
-1000155128 = {
-	name = "dynn_Bin"
-	culture = silla
-}
-
-1000155129 = {
-	name = "dynn_Bing"
-	culture = silla
-}
-
-1000155130 = {
-	name = "dynn_Sa"
-	culture = silla
-}
-
-1000155131 = {
-	name = "dynn_Sagong"
-	culture = silla
-}
-
-1000155132 = {
-	name = "dynn_Sam"
-	culture = silla
-}
-
-1000155133 = {
-	name = "dynn_Sang"
-	culture = silla
-}
-
-1000155134 = {
-	name = "dynn_Seo"
-	culture = silla
-}
-
-1000155135 = {
-	name = "dynn_Seok"
-	culture = silla
-}
-
-1000155136 = {
-	name = "dynn_Seon"
-	culture = silla
-}
-
-1000155137 = {
-	name = "dynn_Seonu"
-	culture = silla
-}
-
-1000155138 = {
-	name = "dynn_Seol"
-	culture = silla
-}
-
-1000155139 = {
-	name = "dynn_Seong"
-	culture = silla
-}
-
-1000155140 = {
-	name = "dynn_So"
-	culture = silla
-}
-
-1000155141 = {
-	name = "dynn_Sobang"
-	culture = silla
-}
-
-1000155142 = {
-	name = "dynn_Son"
-	culture = silla
-}
-
-1000155143 = {
-	name = "dynn_Song"
-	culture = silla
-}
-
-1000155144 = {
-	name = "dynn_Su"
-	culture = silla
-}
-
-1000155145 = {
-	name = "dynn_Sun"
-	culture = silla
-}
-
-1000155146 = {
-	name = "dynn_Seung"
-	culture = silla
-}
-
-1000155147 = {
-	name = "dynn_Si"
-	culture = silla
-}
-
-1000155148 = {
-	name = "dynn_Sin"
-	culture = silla
-}
-
-1000155149 = {
-	name = "dynn_Sim"
-	culture = silla
-}
-
-1000155150 = {
-	name = "dynn_Sip"
-	culture = silla
-}
-
-1000155151 = {
-	name = "dynn_A"
-	culture = silla
-}
-
-1000155152 = {
-	name = "dynn_An"
-	culture = silla
-}
-
-1000155153 = {
-	name = "dynn_Ae"
-	culture = silla
-}
-
-1000155154 = {
-	name = "dynn_Ya"
-	culture = silla
-}
-
-1000155155 = {
-	name = "dynn_Yang"
-	culture = silla
-}
-
-1000155156 = {
-	name = "dynn_Eo"
-	culture = silla
-}
-
-1000155157 = {
-	name = "dynn_Eogeum"
-	culture = silla
-}
-
-1000155158 = {
-	name = "dynn_Eom"
-	culture = silla
-}
-
-1000155159 = {
-	name = "dynn_Yeom"
-	culture = silla
-}
-
-1000155160 = {
-	name = "dynn_Yeo"
-	culture = silla
-}
-
-1000155161 = {
-	name = "dynn_Yeon"
-	culture = silla
-}
-
-1000155162 = {
-	name = "dynn_Yeop"
-	culture = silla
-}
-
-1000155163 = {
-	name = "dynn_Yeong"
-	culture = silla
-}
-
-1000155164 = {
-	name = "dynn_Ye"
-	culture = silla
-}
-
-1000155165 = {
-	name = "dynn_O"
-	culture = silla
-}
-
-1000155166 = {
-	name = "dynn_Ok"
-	culture = silla
-}
-
-1000155167 = {
-	name = "dynn_On"
-	culture = silla
-}
-
-1000155168 = {
-	name = "dynn_Ong"
-	culture = silla
-}
-
-1000155169 = {
-	name = "dynn_Yo"
-	culture = silla
-}
-
-1000155170 = {
-	name = "dynn_Yong"
-	culture = silla
-}
-
-1000155171 = {
-	name = "dynn_U"
-	culture = silla
-}
-
-1000155172 = {
-	name = "dynn_Un"
-	culture = silla
-}
-
-1000155173 = {
-	name = "dynn_Won"
-	culture = silla
-}
-
-1000155174 = {
-	name = "dynn_Wi"
-	culture = silla
-}
-
-1000155175 = {
-	name = "dynn_Yu"
-	culture = silla
-}
-
-1000155176 = {
-	name = "dynn_Yuk"
-	culture = silla
-}
-
-1000155177 = {
-	name = "dynn_Yun"
-	culture = silla
-}
-
-1000155178 = {
-	name = "dynn_Eun"
-	culture = silla
-}
-
-1000155179 = {
-	name = "dynn_Eum"
-	culture = silla
-}
-
-1000155180 = {
-	name = "dynn_Yin"
-	culture = silla
-}
-
-1000155181 = {
-	name = "dynn_Yim"
-	culture = silla
-}
-
-1000155182 = {
-	name = "dynn_Im"
-	culture = silla
-}
-
-1000155183 = {
-	name = "dynn_Ja"
-	culture = silla
-}
-
-1000155184 = {
-	name = "dynn_Jang"
-	culture = silla
-}
-
-1000155185 = {
-	name = "dynn_Janggok"
-	culture = silla
-}
-
-1000155186 = {
-	name = "dynn_Jeo"
-	culture = silla
-}
-
-1000155187 = {
-	name = "dynn_Jeon"
-	culture = silla
-}
-
-1000155188 = {
-	name = "dynn_Jeom"
-	culture = silla
-}
-
-1000155189 = {
-	name = "dynn_Jeong"
-	culture = silla
-}
-
-1000155190 = {
-	name = "dynn_Je"
-	culture = silla
-}
-
-1000155191 = {
-	name = "dynn_Jegal"
-	culture = silla
-}
-
-1000155192 = {
-	name = "dynn_Jo"
-	culture = silla
-}
-
-1000155193 = {
-	name = "dynn_Jong"
-	culture = silla
-}
-
-1000155194 = {
-	name = "dynn_Jwa"
-	culture = silla
-}
-
-1000155195 = {
-	name = "dynn_Ju"
-	culture = silla
-}
-
-1000155196 = {
-	name = "dynn_Jun"
-	culture = silla
-}
-
-1000155197 = {
-	name = "dynn_Jeup"
-	culture = silla
-}
-
-1000155198 = {
-	name = "dynn_Jeung"
-	culture = silla
-}
-
-1000155199 = {
-	name = "dynn_Ji"
-	culture = silla
-}
-
-1000155200 = {
-	name = "dynn_Jin"
-	culture = silla
-}
-
-1000155201 = {
-	name = "dynn_Cha"
-	culture = silla
-}
-
-1000155202 = {
-	name = "dynn_Chang"
-	culture = silla
-}
-
-1000155203 = {
-	name = "dynn_Chae"
-	culture = silla
-}
-
-1000155204 = {
-	name = "dynn_Cheon"
-	culture = silla
-}
-
-1000155205 = {
-	name = "dynn_Cho"
-	culture = silla
-}
-
-1000155206 = {
-	name = "dynn_Choe"
-	culture = silla
-}
-
-1000155207 = {
-	name = "dynn_Chu"
-	culture = silla
-}
-
-1000155208 = {
-	name = "dynn_Tak"
-	culture = silla
-}
-
-1000155209 = {
-	name = "dynn_Tan"
-	culture = silla
-}
-
-1000155210 = {
-	name = "dynn_Tae"
-	culture = silla
-}
-
-1000155211 = {
-	name = "dynn_Pan"
-	culture = silla
-}
-
-1000155212 = {
-	name = "dynn_Paeng"
-	culture = silla
-}
-
-1000155213 = {
-	name = "dynn_Pyeon"
-	culture = silla
-}
-
-1000155214 = {
-	name = "dynn_Pyeong"
-	culture = silla
-}
-
-1000155215 = {
-	name = "dynn_Po"
-	culture = silla
-}
-
-1000155216 = {
-	name = "dynn_Pyo"
-	culture = silla
-}
-
-1000155217 = {
-	name = "dynn_Pung"
-	culture = silla
-}
-
-1000155218 = {
-	name = "dynn_Pi"
-	culture = silla
-}
-
-1000155219 = {
-	name = "dynn_Pil"
-	culture = silla
-}
-
-1000155220 = {
-	name = "dynn_Ha"
-	culture = silla
-}
-
-1000155221 = {
-	name = "dynn_Hak"
-	culture = silla
-}
-
-1000155222 = {
-	name = "dynn_Han"
-	culture = silla
-}
-
-1000155223 = {
-	name = "dynn_Han"
-	culture = silla
-}
-
-1000155224 = {
-	name = "dynn_Ham"
-	culture = silla
-}
-
-1000155225 = {
-	name = "dynn_Hae"
-	culture = silla
-}
-
-1000155226 = {
-	name = "dynn_Heo"
-	culture = silla
-}
-
-1000155227 = {
-	name = "dynn_Hyeon"
-	culture = silla
-}
-
-1000155228 = {
-	name = "dynn_Ho"
-	culture = silla
-}
-
-1000155229 = {
-	name = "dynn_Hong"
-	culture = silla
-}
-
-1000155230 = {
-	name = "dynn_Hwa"
-	culture = silla
-}
-
-1000155231 = {
-	name = "dynn_Hwan"
-	culture = silla
-}
-
-1000155232 = {
-	name = "dynn_Hwang"
-	culture = silla
-}
-
-1000155233 = {
-	name = "dynn_Hwangbo"
-	culture = silla
-}
-
-1000155234 = {
-	name = "dynn_Hu"
-	culture = silla
-}
-
-1000155235 = {
-	name = "dynn_Heung"
-	culture = silla
-}
-
-1000155236 = {
-	name = "dynn_Sin"
-	culture = silla
-}
-
-1000155237 = {
-	name = "dynn_Seo"
-	culture = silla
-}
-
-1000155238 = {
-	name = "dynn_Choe"
-	culture = silla
-}
-
-1000155239 = {
-	name = "dynn_Choe"
-	culture = silla
-}
-
-1000155240 = {
-	name = "dynn_Choe"
-	culture = silla
-}
-
-1000155241 = {
-	name = "dynn_Gim"
-	culture = silla
-}
-
-1000155242 = {
-	name = "dynn_Yi"
-	culture = silla
-}
-
-1000155243 = {
-	name = "dynn_Bojo"
-	culture = silla
-}
-
-1000155244 = {
-	name = "dynn_Jeong"
-	culture = silla
-}
-
-1000155245 = {
-	name = "dynn_Yi"
-	culture = silla
-}
-
-1000155246 = {
-	name = "dynn_Yi"
-	culture = silla
 }
 
 1000193465 = {
@@ -55031,37 +53616,37 @@ Khatagin = {
 
 KorChoe = {
 	name = "dynn_Choe"
-	culture = goguryeo
+	culture = goryeo
 }
 
 KorChong = {
 	name = "dynn_Chong"
-	culture = goguryeo
+	culture = goryeo
 }
 
 KorIm = {
 	name = "dynn_KorIm"
-	culture = goguryeo
+	culture = goryeo
 }
 
 KorKim = {
 	name = "dynn_Kim"
-	culture = goguryeo
+	culture = goryeo
 }
 
 KorKyong = {
 	name = "dynn_Kyong"
-	culture = goguryeo
+	culture = goryeo
 }
 
 KorYI = {
 	name = "dynn_Yi"
-	culture = goguryeo
+	culture = goryeo
 }
 
 KorYi2 = {
 	name = "dynn_Yi"
-	culture = goguryeo
+	culture = goryeo
 }
 
 LiangHan = {
@@ -58047,21 +56632,6 @@ giyagu_naluhui = {
 	culture = "jurchen"
 }
 
-go00 = {
-	name = "dynn_Gao"
-	culture = goguryeo
-}
-
-go01 = {
-	name = "dynn_Kim" #
-	culture = silla
-}
-
-go02 = {
-	name = "dynn_Wang"
-	culture = "goguryeo"
-}
-
 go03 = {
 	name = "dynn_Kim" #
 	culture = "jeju"
@@ -58074,7 +56644,7 @@ godescalcidi = {
 
 goguryeo_go_dyn = {
 	name = "dynn_Go"
-	culture = goguryeo
+	culture = goryeo
 }
 
 golden = {
@@ -66828,4 +65398,1441 @@ he_4F55_30 = {
 gao_9AD8_8 = {
 	name = "dynn_Gao_9AD8"
 	culture = han
+}
+
+# Korea
+
+1000155151 = {
+    name = "dynn_A"
+    culture = goryeo
+}
+
+1000155153 = {
+    name = "dynn_Ae"
+    culture = goryeo
+}
+
+1000155152 = { # Yangju
+    name = "dynn_An" 
+    culture = goryeo
+}
+
+1000155005 = {
+    name = "dynn_Bae"
+    culture = goryeo
+}
+
+1000155120 = {
+    name = "dynn_Bae"
+    culture = goryeo
+}
+
+1000155121 = {
+    name = "dynn_Baek"
+    culture = goryeo
+}
+
+1000062003 = { # Chunju
+    name = "dynn_Bak"
+    culture = goryeo
+}
+
+1000062010 = {
+    name = "dynn_Bak"
+    culture = goryeo
+}
+
+1000078001 = {
+    name = "dynn_Bak"
+    culture = goryeo
+}
+
+1000155003 = {
+    name = "dynn_Bak"
+    culture = goryeo
+}
+
+1000155117 = {
+    name = "dynn_Bak"
+    culture = goryeo
+}
+
+1000155118 = {
+    name = "dynn_Ban"
+    culture = goryeo
+}
+
+1000155119 = {
+    name = "dynn_Bang"
+    culture = goryeo
+}
+
+1000155122 = {
+    name = "dynn_Beom"
+    culture = goryeo
+}
+
+1000155127 = {
+    name = "dynn_Bi"
+    culture = goryeo
+}
+
+1000155128 = {
+    name = "dynn_Bin"
+    culture = goryeo
+}
+
+1000155129 = {
+    name = "dynn_Bing"
+    culture = goryeo
+}
+
+1000155054 = {
+    name = "dynn_Biryu"
+    culture = goryeo
+}
+
+1000155243 = {
+    name = "dynn_Bojo"
+    culture = goryeo
+}
+
+1000155124 = {
+    name = "dynn_Bok"
+    culture = goryeo
+}
+
+1000155125 = {
+    name = "dynn_Bong"
+    culture = goryeo
+}
+
+1000155025 = {
+    name = "dynn_Bu"
+    culture = goryeo
+}
+
+1000155126 = {
+    name = "dynn_Bu"
+    culture = goryeo
+}
+
+1000027805 = {
+    name = "dynn_Buk"
+    culture = goryeo
+}
+
+1000155123 = {
+    name = "dynn_Byeon"
+    culture = goryeo
+}
+
+1000155201 = {
+    name = "dynn_Cha"
+    culture = goryeo
+}
+
+1000155203 = {
+    name = "dynn_Chae"
+    culture = goryeo
+}
+
+1000155037 = {
+    name = "dynn_Chang"
+    culture = goryeo
+}
+
+1000155202 = {
+    name = "dynn_Chang"
+    culture = goryeo
+}
+
+1000155204 = {
+    name = "dynn_Cheon"
+    culture = goryeo
+}
+
+1000027808 = {
+    name = "dynn_Cheong"
+    culture = goryeo
+}
+
+1000027809 = {
+    name = "dynn_Chi"
+    culture = goryeo
+}
+
+1000155205 = {
+    name = "dynn_Cho"
+    culture = goryeo
+}
+
+1000155008 = { # Jeonju
+    name = "dynn_Choe"
+    culture = goryeo
+}
+
+1000155206 = { # Gyoju
+    name = "dynn_Choe"
+    culture = goryeo
+}
+
+1000155238 = {
+    name = "dynn_Choe"
+    culture = goryeo
+}
+
+1000155239 = {
+    name = "dynn_Choe"
+    culture = goryeo
+}
+
+1000155240 = {
+    name = "dynn_Choe"
+    culture = goryeo
+}
+
+1000155030 = {
+    name = "dynn_Chu"
+    culture = goryeo
+}
+
+1000155207 = {
+    name = "dynn_Chu"
+    culture = goryeo
+}
+
+1000078002 = {
+    name = "dynn_Dae"
+    culture = goryeo
+}
+
+1000155097 = {
+    name = "dynn_Dam"
+    culture = goryeo
+}
+
+1000155096 = {
+    name = "dynn_Dan"
+    culture = goryeo
+}
+
+1000155098 = {
+    name = "dynn_Dang"
+    culture = goryeo
+}
+
+1000155099 = {
+    name = "dynn_Do"
+    culture = goryeo
+}
+
+1000155100 = {
+    name = "dynn_Dokgo"
+    culture = goryeo
+}
+
+1000155101 = {
+    name = "dynn_Don"
+    culture = goryeo
+}
+
+1000027806 = {
+    name = "dynn_Dong"
+    culture = goryeo
+}
+
+1000155102 = {
+    name = "dynn_Dongbang"
+    culture = goryeo
+}
+
+1000155103 = {
+    name = "dynn_Du"
+    culture = goryeo
+}
+
+1000155156 = {
+    name = "dynn_Eo"
+    culture = goryeo
+}
+
+1000155157 = {
+    name = "dynn_Eogeum"
+    culture = goryeo
+}
+
+1000155158 = {
+    name = "dynn_Eom"
+    culture = goryeo
+}
+
+1000155034 = {
+    name = "dynn_Eul"
+    culture = goryeo
+}
+
+1000155038 = {
+    name = "dynn_Eulji"
+    culture = goryeo
+}
+
+1000155179 = {
+    name = "dynn_Eum"
+    culture = goryeo
+}
+
+1000155178 = {
+    name = "dynn_Eun"
+    culture = goryeo
+}
+
+1000155061 = {
+    name = "dynn_Ga"
+    culture = goryeo
+}
+
+1000155067 = {
+    name = "dynn_Gae"
+    culture = goryeo
+}
+
+1000155063 = {
+    name = "dynn_Gal"
+    culture = goryeo
+}
+
+1000155064 = {
+    name = "dynn_Gam"
+    culture = goryeo
+}
+
+1000155062 = {
+    name = "dynn_Gan"
+    culture = goryeo
+}
+
+1000027813 = {
+    name = "dynn_Gang"
+    culture = goryeo
+}
+
+1000155039 = {
+    name = "dynn_Gang"
+    culture = goryeo
+}
+
+1000155065 = {
+    name = "dynn_Gang"
+    culture = goryeo
+}
+
+1000155066 = {
+    name = "dynn_Gangjeon"
+    culture = goryeo
+}
+
+1000027800 = {
+    name = "dynn_Gangnam"
+    culture = goryeo
+}
+
+go00 = {
+    name = "dynn_Gao"
+    culture = goryeo
+}
+
+1000062013 = {
+    name = "dynn_Geum"
+    culture = goryeo
+}
+
+1000155084 = {
+    name = "dynn_Geum"
+    culture = goryeo
+}
+
+1000155083 = {
+    name = "dynn_Geun"
+    culture = goryeo
+}
+
+1000155086 = {
+    name = "dynn_Gi"
+    culture = goryeo
+}
+
+1000155085 = {
+    name = "dynn_Gil"
+    culture = goryeo
+}
+
+1000062005 = {
+    name = "dynn_Gim"
+    culture = goryeo
+}
+
+1000062025 = {
+    name = "dynn_Gim"
+    culture = goryeo
+}
+
+1000078000 = {
+    name = "dynn_Gim"
+    culture = goryeo
+}
+
+1000078079 = {
+    name = "dynn_Gim"
+    culture = goryeo
+}
+
+1000155011 = {
+    name = "dynn_Gim"
+    culture = goryeo
+}
+
+1000155060 = {
+    name = "dynn_Gim"
+    culture = goryeo
+}
+
+1000155241 = {
+    name = "dynn_Gim"
+    culture = goryeo
+}
+
+1000027807 = {
+    name = "dynn_Go"
+    culture = goryeo
+}
+
+1000062001 = {
+    name = "dynn_Go"
+    culture = goryeo
+}
+
+1000155020 = {
+    name = "dynn_Go"
+    culture = goryeo
+}
+
+1000155023 = {
+    name = "dynn_Go"
+    culture = goryeo
+}
+
+1000155053 = {
+    name = "dynn_goguryeo"
+    culture = goryeo
+}
+
+1000155071 = {
+    name = "dynn_Gok"
+    culture = goryeo
+}
+
+1000155072 = {
+    name = "dynn_Gong"
+    culture = goryeo
+}
+
+1000155075 = {
+    name = "dynn_Gu"
+    culture = goryeo
+}
+
+1000155076 = {
+    name = "dynn_Guk"
+    culture = goryeo
+}
+
+1000155077 = {
+    name = "dynn_Gun"
+    culture = goryeo
+}
+
+1000062006 = {
+    name = "dynn_Gung"
+    culture = goryeo
+}
+
+1000078004 = {
+    name = "dynn_Gung"
+    culture = goryeo
+}
+
+1000155078 = {
+    name = "dynn_Gung"
+    culture = goryeo
+}
+
+1000155073 = {
+    name = "dynn_Gwak"
+    culture = goryeo
+}
+
+1000062023 = {
+    name = "dynn_Gwan"
+    culture = goryeo
+}
+
+1000155059 = {
+    name = "dynn_Gwisil"
+    culture = goryeo
+}
+
+1000155079 = {
+    name = "dynn_Gwok"
+    culture = goryeo
+}
+
+1000155080 = { # Geongju
+    name = "dynn_Gwon"
+    culture = goryeo
+}
+
+1000155081 = {
+    name = "dynn_Gwon"
+    culture = goryeo
+}
+
+1000155058 = {
+    name = "dynn_Gye"
+    culture = goryeo
+}
+
+1000155070 = {
+    name = "dynn_Gye"
+    culture = goryeo
+}
+
+1000062008 = {
+    name = "dynn_Gyeon"
+    culture = goryeo
+}
+
+1000078003 = {
+    name = "dynn_Gyeon"
+    culture = goryeo
+}
+
+1000155068 = {
+    name = "dynn_Gyeon"
+    culture = goryeo
+}
+
+1000155069 = {
+    name = "dynn_Gyeong"
+    culture = goryeo
+}
+
+1000155074 = {
+    name = "dynn_Gyo"
+    culture = goryeo
+}
+
+1000155220 = {
+    name = "dynn_Ha"
+    culture = goryeo
+}
+
+1000027804 = {
+    name = "dynn_Hae"
+    culture = goryeo
+}
+
+1000062002 = {
+    name = "dynn_Hae"
+    culture = goryeo
+}
+
+1000155018 = {
+    name = "dynn_Hae"
+    culture = goryeo
+}
+
+1000155027 = {
+    name = "dynn_Hae"
+    culture = goryeo
+}
+
+1000155057 = {
+    name = "dynn_Hae"
+    culture = goryeo
+}
+
+1000155225 = {
+    name = "dynn_Hae"
+    culture = goryeo
+}
+
+1000155221 = {
+    name = "dynn_Hak"
+    culture = goryeo
+}
+
+1000155224 = {
+    name = "dynn_Ham"
+    culture = goryeo
+}
+
+1000155222 = { # Anbyeon
+    name = "dynn_Han"
+    culture = goryeo
+}
+
+1000155223 = {
+    name = "dynn_Han"
+    culture = goryeo
+}
+
+1000062016 = {
+    name = "dynn_Han_kor"
+    culture = goryeo
+}
+
+1000155013 = {
+    name = "dynn_Heo"
+    culture = goryeo
+}
+
+1000155226 = {
+    name = "dynn_Heo"
+    culture = goryeo
+}
+
+1000155082 = {
+    name = "dynn_Heun"
+    culture = goryeo
+}
+
+1000155235 = {
+    name = "dynn_Heung"
+    culture = goryeo
+}
+
+1000155228 = {
+    name = "dynn_Ho"
+    culture = goryeo
+}
+
+1000155229 = {
+    name = "dynn_Hong"
+    culture = goryeo
+}
+
+1000155234 = {
+    name = "dynn_Hu"
+    culture = goryeo
+}
+
+1000155230 = {
+    name = "dynn_Hwa"
+    culture = goryeo
+}
+
+1000155231 = {
+    name = "dynn_Hwan"
+    culture = goryeo
+}
+
+1000027803 = {
+    name = "dynn_Hwang"
+    culture = goryeo
+}
+
+1000155232 = {
+    name = "dynn_Hwang"
+    culture = goryeo
+}
+
+1000062020 = {
+    name = "dynn_Hwangbo"
+    culture = goryeo
+}
+
+1000155233 = {
+    name = "dynn_Hwangbo"
+    culture = goryeo
+}
+
+1000155227 = {
+    name = "dynn_Hyeon"
+    culture = goryeo
+}
+
+1000155182 = {
+    name = "dynn_Im"
+    culture = goryeo
+}
+
+1000155182_Jinju = {
+    name = "dynn_Im"
+    culture = goryeo
+}
+
+1000155183 = {
+    name = "dynn_Ja"
+    culture = goryeo
+}
+
+1000155050 = {
+    name = "dynn_Jang"
+    culture = goryeo
+}
+
+1000155184 = {
+    name = "dynn_Jang"
+    culture = goryeo
+}
+
+1000155185 = {
+    name = "dynn_Janggok"
+    culture = goryeo
+}
+
+1000155190 = {
+    name = "dynn_Je"
+    culture = goryeo
+}
+
+1000155191 = {
+    name = "dynn_Jegal"
+    culture = goryeo
+}
+
+1000027815 = {
+    name = "dynn_Jeju"
+    culture = goryeo
+}
+
+1000155186 = {
+    name = "dynn_Jeo"
+    culture = goryeo
+}
+
+1000155188 = {
+    name = "dynn_Jeom"
+    culture = goryeo
+}
+
+1000027811 = { # Inje
+    name = "dynn_Jeon"
+    culture = goryeo
+}
+
+1000155187 = {
+    name = "dynn_Jeon"
+    culture = goryeo
+}
+
+1000155010 = { # Jinju
+    name = "dynn_Jeong"
+    culture = goryeo
+}
+
+1000155189 = {
+    name = "dynn_Jeong"
+    culture = goryeo
+}
+
+1000155244 = {
+    name = "dynn_Jeong"
+    culture = goryeo
+}
+
+1000155198 = {
+    name = "dynn_Jeung"
+    culture = goryeo
+}
+
+1000155197 = {
+    name = "dynn_Jeup"
+    culture = goryeo
+}
+
+1000155199 = {
+    name = "dynn_Ji"
+    culture = goryeo
+}
+
+1000062011 = {
+    name = "dynn_Ji_kor"
+    culture = goryeo
+}
+
+1000155056 = {
+    name = "dynn_Jin"
+    culture = goryeo
+}
+
+1000155200 = {
+    name = "dynn_Jin"
+    culture = goryeo
+}
+
+1000062012 = {
+    name = "dynn_Jin_kor"
+    culture = goryeo
+}
+
+1000155192 = { # Gwangju
+    name = "dynn_Jo"
+    culture = goryeo
+}
+
+1000155193 = {
+    name = "dynn_Jong"
+    culture = goryeo
+}
+
+1000155195 = {
+    name = "dynn_Ju"
+    culture = goryeo
+}
+
+1000155196 = {
+    name = "dynn_Jun"
+    culture = goryeo
+}
+
+1000155016 = {
+    name = "dynn_Jung"
+    culture = goryeo
+}
+
+1000155194 = {
+    name = "dynn_Jwa"
+    culture = goryeo
+}
+
+go01 = {
+    name = "dynn_Kim"
+    culture = goryeo
+}
+
+1000155105 = {
+    name = "dynn_Ma"
+    culture = goryeo
+}
+
+1000155107 = {
+    name = "dynn_Mae"
+    culture = goryeo
+}
+
+1000155108 = {
+    name = "dynn_Maeng"
+    culture = goryeo
+}
+
+1000155106 = {
+    name = "dynn_Man"
+    culture = goryeo
+}
+
+1000155115 = {
+    name = "dynn_Mi"
+    culture = goryeo
+}
+
+1000155116 = {
+    name = "dynn_Min"
+    culture = goryeo
+}
+
+1000155019 = {
+    name = "dynn_Mo"
+    culture = goryeo
+}
+
+1000155110 = {
+    name = "dynn_Mo"
+    culture = goryeo
+}
+
+1000155111 = {
+    name = "dynn_Mok"
+    culture = goryeo
+}
+
+1000155029 = {
+    name = "dynn_Mu"
+    culture = goryeo
+}
+
+1000155113 = {
+    name = "dynn_Muk"
+    culture = goryeo
+}
+
+1000155114 = {
+    name = "dynn_Mun"
+    culture = goryeo
+}
+
+1000155109 = {
+    name = "dynn_Myeong"
+    culture = goryeo
+}
+
+1000155032 = {
+    name = "dynn_Myeongnim"
+    culture = goryeo
+}
+
+1000155112 = {
+    name = "dynn_Myo"
+    culture = goryeo
+}
+
+1000027802 = {
+    name = "dynn_Na"
+    culture = goryeo
+}
+
+1000155017 = {
+    name = "dynn_Na"
+    culture = goryeo
+}
+
+1000155087 = {
+    name = "dynn_Na"
+    culture = goryeo
+}
+
+1000155092 = {
+    name = "dynn_Nae"
+    culture = goryeo
+}
+
+1000155089 = {
+    name = "dynn_Nam"
+    culture = goryeo
+}
+
+1000155090 = {
+    name = "dynn_Namgung"
+    culture = goryeo
+}
+
+1000155088 = {
+    name = "dynn_Nan"
+    culture = goryeo
+}
+
+1000155091 = {
+    name = "dynn_Nang"
+    culture = goryeo
+}
+
+1000155093 = {
+    name = "dynn_No"
+    culture = goryeo
+}
+
+1000155094 = {
+    name = "dynn_Noe"
+    culture = goryeo
+}
+
+1000155095 = {
+    name = "dynn_Nu"
+    culture = goryeo
+}
+
+1000155165 = {
+    name = "dynn_O"
+    culture = goryeo
+}
+
+1000062017 = {
+    name = "dynn_O_kor2"
+    culture = goryeo
+}
+
+1000155052 = {
+    name = "dynn_Oh"
+    culture = goryeo
+}
+
+1000155166 = {
+    name = "dynn_Ok"
+    culture = goryeo
+}
+
+1000155167 = {
+    name = "dynn_On"
+    culture = goryeo
+}
+
+1000155168 = {
+    name = "dynn_Ong"
+    culture = goryeo
+}
+
+1000155212 = {
+    name = "dynn_Paeng"
+    culture = goryeo
+}
+
+1000155211 = {
+    name = "dynn_Pan"
+    culture = goryeo
+}
+
+1000155218 = {
+    name = "dynn_Pi"
+    culture = goryeo
+}
+
+1000155219 = {
+    name = "dynn_Pil"
+    culture = goryeo
+}
+
+1000155215 = {
+    name = "dynn_Po"
+    culture = goryeo
+}
+
+1000155217 = {
+    name = "dynn_Pung"
+    culture = goryeo
+}
+
+1000155213 = {
+    name = "dynn_Pyeon"
+    culture = goryeo
+}
+
+1000062022 = { # Yeongwon
+    name = "dynn_Pyeong"
+    culture = goryeo
+}
+
+1000155214 = {
+    name = "dynn_Pyeong"
+    culture = goryeo
+}
+
+1000155216 = {
+    name = "dynn_Pyo"
+    culture = goryeo
+}
+
+1000062007 = {
+    name = "dynn_Ri"
+    culture = goryeo
+}
+
+1000062018 = {
+    name = "dynn_Ryeon"
+    culture = goryeo
+}
+
+1000062015 = {
+    name = "dynn_Ryong_kor"
+    culture = goryeo
+}
+
+1000062014 = {
+    name = "dynn_Ryu"
+    culture = goryeo
+}
+
+1000062019 = {
+    name = "dynn_Ryu"
+    culture = goryeo
+}
+
+1000155104 = {
+    name = "dynn_Ryu"
+    culture = goryeo
+}
+
+1000155130 = {
+    name = "dynn_Sa"
+    culture = goryeo
+}
+
+1000155131 = {
+    name = "dynn_Sagong"
+    culture = goryeo
+}
+
+1000155132 = {
+    name = "dynn_Sam"
+    culture = goryeo
+}
+
+1000027810 = {
+    name = "dynn_San"
+    culture = goryeo
+}
+
+1000155133 = {
+    name = "dynn_Sang"
+    culture = goryeo
+}
+
+1000155134 = {
+    name = "dynn_Seo"
+    culture = goryeo
+}
+
+1000155237 = {
+    name = "dynn_Seo"
+    culture = goryeo
+}
+
+1000062004 = {
+    name = "dynn_Seok"
+    culture = goryeo
+}
+
+1000155135 = {
+    name = "dynn_Seok"
+    culture = goryeo
+}
+
+1000155138 = {
+    name = "dynn_Seol"
+    culture = goryeo
+}
+
+1000155136 = {
+    name = "dynn_Seon"
+    culture = goryeo
+}
+
+1000155139 = {
+    name = "dynn_Seong"
+    culture = goryeo
+}
+
+1000155137 = {
+    name = "dynn_Seonu"
+    culture = goryeo
+}
+
+1000155146 = {
+    name = "dynn_Seung"
+    culture = goryeo
+}
+
+1000155147 = {
+    name = "dynn_Si"
+    culture = goryeo
+}
+
+1000155036 = {
+    name = "dynn_Sim"
+    culture = goryeo
+}
+
+1000155149 = {
+    name = "dynn_Sim"
+    culture = goryeo
+}
+
+1000155014 = { # Taeju
+    name = "dynn_Sin"
+    culture = goryeo
+}
+
+1000155148 = {
+    name = "dynn_Sin"
+    culture = goryeo
+}
+
+1000155236 = {
+    name = "dynn_Sin"
+    culture = goryeo
+}
+
+1000155150 = {
+    name = "dynn_Sip"
+    culture = goryeo
+}
+
+1000155140 = {
+    name = "dynn_So"
+    culture = goryeo
+}
+
+1000155141 = {
+    name = "dynn_Sobang"
+    culture = goryeo
+}
+
+1000155009 = {
+    name = "dynn_Son"
+    culture = goryeo
+}
+
+1000155142 = {
+    name = "dynn_Son"
+    culture = goryeo
+}
+
+1000155026 = {
+    name = "dynn_Song"
+    culture = goryeo
+}
+
+1000155143 = {
+    name = "dynn_Song"
+    culture = goryeo
+}
+
+1000155144 = {
+    name = "dynn_Su"
+    culture = goryeo
+}
+
+1000155004 = {
+    name = "dynn_Suk"
+    culture = goryeo
+}
+
+1000155006 = {
+    name = "dynn_Sul"
+    culture = goryeo
+}
+
+1000155145 = {
+    name = "dynn_Sun"
+    culture = goryeo
+}
+
+1000027812 = {
+    name = "dynn_Sung"
+    culture = goryeo
+}
+
+1000155210 = {
+    name = "dynn_Tae"
+    culture = goryeo
+}
+
+1000155208 = {
+    name = "dynn_Tak"
+    culture = goryeo
+}
+
+1000155209 = {
+    name = "dynn_Tan"
+    culture = goryeo
+}
+
+1000155033 = {
+    name = "dynn_U"
+    culture = goryeo
+}
+
+1000155171 = {
+    name = "dynn_U"
+    culture = goryeo
+}
+
+1000155172 = {
+    name = "dynn_Un"
+    culture = goryeo
+}
+
+1000027100 = {
+    name = "dynn_Wang"
+    culture = goryeo
+}
+
+1000062009 = {
+    name = "dynn_Wang"
+    culture = goryeo
+}
+
+1000155031 = {
+    name = "dynn_Wang"
+    culture = goryeo
+}
+
+go02 = {
+    name = "dynn_Wang"
+    culture = "goguryeo"
+}
+
+1000062024 = {
+    name = "dynn_Wang_kor"
+    culture = goryeo
+}
+
+1000062026 = {
+    name = "dynn_Wang_kor"
+    culture = goryeo
+}
+
+1000155174 = {
+    name = "dynn_Wi"
+    culture = goryeo
+}
+
+1000027801 = {
+    name = "dynn_Won"
+    culture = goryeo
+}
+
+1000155173 = {
+    name = "dynn_Won"
+    culture = goryeo
+}
+
+1000155154 = {
+    name = "dynn_Ya"
+    culture = goryeo
+}
+
+1000155021 = {
+    name = "dynn_Yalu"
+    culture = goryeo
+}
+
+1000027814 = {
+    name = "dynn_Yan"
+    culture = goryeo
+}
+
+1000155155 = {
+    name = "dynn_Yang"
+    culture = goryeo
+}
+
+1000155022 = {
+    name = "dynn_Ye"
+    culture = goryeo
+}
+
+1000155164 = {
+    name = "dynn_Ye"
+    culture = goryeo
+}
+
+1000155160 = {
+    name = "dynn_Yeo"
+    culture = goryeo
+}
+
+1000155051 = {
+    name = "dynn_Yeol"
+    culture = goryeo
+}
+
+1000155015 = {
+    name = "dynn_Yeom"
+    culture = goryeo
+}
+
+1000155159 = {
+    name = "dynn_Yeom"
+    culture = goryeo
+}
+
+1000155024 = {
+    name = "dynn_Yeon"
+    culture = goryeo
+}
+
+1000155161 = {
+    name = "dynn_Yeon"
+    culture = goryeo
+}
+
+1000155163 = {
+    name = "dynn_Yeong"
+    culture = goryeo
+}
+
+1000155162 = {
+    name = "dynn_Yeop"
+    culture = goryeo
+}
+
+1000027101 = { # Goseong
+    name = "dynn_Yi"
+    culture = goryeo
+}
+
+1000155007 = {
+    name = "dynn_Yi"
+    culture = goryeo
+}
+
+1000155012 = {
+    name = "dynn_Yi"
+    culture = goryeo
+}
+
+1000155028 = {
+    name = "dynn_Yi"
+    culture = goryeo
+}
+
+1000155242 = {
+    name = "dynn_Yi"
+    culture = goryeo
+}
+
+1000155245 = {
+    name = "dynn_Yi"
+    culture = goryeo
+}
+
+1000155246 = {
+    name = "dynn_Yi"
+    culture = goryeo
+}
+
+1000155181 = {
+    name = "dynn_Yim"
+    culture = goryeo
+}
+
+1000155180 = {
+    name = "dynn_Yin"
+    culture = goryeo
+}
+
+1000155169 = {
+    name = "dynn_Yo"
+    culture = goryeo
+}
+
+1000155170 = {
+    name = "dynn_Yong"
+    culture = goryeo
+}
+
+1000155035 = {
+    name = "dynn_Yu"
+    culture = goryeo
+}
+
+1000155175 = {
+    name = "dynn_Yu"
+    culture = goryeo
+}
+
+1000155176 = {
+    name = "dynn_Yuk"
+    culture = goryeo
+}
+
+1000155177 = {
+    name = "dynn_Yun"
+    culture = goryeo
+}
+
+1000062027 = {
+    name = "dynn_Yu_kor"
+    culture = goryeo
 }

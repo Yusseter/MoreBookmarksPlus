@@ -1,4 +1,4 @@
-﻿#==================================================================================================#
+﻿#==================================================================================================#{
 ################################################## CULTURE: ANATOLIAN_TURKISH
 #==================================================================================================#
 
@@ -2772,127 +2772,6 @@ Yakuposman = {
 	892.1.1 = {
 		death = yes
 	}
-}
-
-#==================================================================================================#
-################################################## CULTURE: BARSIL
-#==================================================================================================#
-
-################################################# No Dynasty #################################################
-NSteppeMB68 = {
-	name = MA_nglik
-	religion = tengri_pagan
-	culture = barsil
-	740.1.1={
-		birth = yes
-	}
-	820.1.1={
-		death = yes
-	}
-}
-
-NSteppeMB69 = {
-	name = C_or
-	religion = tengri_pagan
-	culture = barsil
-	780.1.1={
-		birth = yes
-	}
-	840.1.1={
-		death = yes
-	}
-	father = NSteppeMB68
-}
-
-NSteppeMB70 = {
-	name = Irdimin
-	religion = tengri_pagan
-	culture = barsil
-	820.1.1={
-		birth = yes
-	}
-	860.1.1={
-		death = yes
-	}
-	father = NSteppeMB69
-}
-
-NSteppeMB71 = {
-	name = Yur_Temur
-	religion = tengri_pagan
-	culture = barsil
-	845.1.1={
-		birth = yes
-	}
-	900.1.1={
-		death = yes
-	}
-	father = NSteppeMB70
-}
-
-NSteppeMB72 = {
-	name = Asalup
-	religion = tengri_pagan
-	culture = barsil
-	860.1.1={
-		birth = yes
-	}
-	930.1.1={
-		death = yes
-	}
-	father = NSteppeMB71
-}
-
-NSteppeMB73 = {
-	name = Tutuk
-	religion = tengri_pagan
-	culture = barsil
-	885.1.1={
-		birth = yes
-	}
-	955.1.1={
-		death = yes
-	}
-	father = NSteppeMB72
-}
-
-NSteppeMB74 = {
-	name = Saru
-	religion = tengri_pagan
-	culture = barsil
-	905.1.1={
-		birth = yes
-	}
-	980.1.1={
-		death = yes
-	}
-	father = NSteppeMB73
-}
-
-NSteppeMB75 = {
-	name = Turghun
-	religion = tengri_pagan
-	culture = barsil
-	930.1.1={
-		birth = yes
-	}
-	1005.1.1={
-		death = yes
-	}
-	father = NSteppeMB74
-}
-
-NSteppeMB76 = {
-	name = Pantekin
-	religion = tengri_pagan
-	culture = barsil
-	960.1.1={
-		birth = yes
-	}
-	1040.1.1={
-		death = yes
-	}
-	father = NSteppeMB75
 }
 
 #==================================================================================================#
@@ -40348,7 +40227,7 @@ Karabas5 = {
 261083 = {
 	name = "Sanaan"
 	dynasty = 1062521
-	religion = tengri_pagan
+	religion = ulganism
 	culture = kirghiz
 	895.1.1 = {
 		birth = yes
@@ -40361,7 +40240,7 @@ Karabas5 = {
 991kirghiz2 = {
 	name = "Inek"
 	dynasty = 1062521
-	religion = tengri_pagan
+	religion = ulganism
 	culture = kirghiz
 	father = 261083
 	935.1.1 = {
@@ -58025,140 +57904,6 @@ Karagas3 = {
 	1081.12.1 = {
 		death = yes
 	}
-}
-
-#==================================================================================================#
-################################################## CULTURE: TONGRA
-#==================================================================================================#
-
-################################################# No Dynasty #################################################
-NSteppeMB49 = {
-	name = Khuyildar
-	religion = eastern_tengri
-	culture = tongra
-	740.1.1={
-		birth = yes
-	}
-	820.1.1={
-		death = yes
-	}
-}
-
-NSteppeMB50 = {
-	name = Turghun
-	religion = eastern_tengri
-	culture = tongra
-	780.1.1={
-		birth = yes
-	}
-	840.1.1={
-		death = yes
-	}
-	father = NSteppeMB49
-}
-
-NSteppeMB51 = {
-	name = Asep
-	religion = eastern_tengri
-	culture = tongra
-	820.1.1={
-		birth = yes
-	}
-	860.1.1={
-		death = yes
-	}
-	father = NSteppeMB50
-}
-
-NSteppeMB52 = {
-	name = Irdimin
-	religion = eastern_tengri
-	culture = tongra
-	845.1.1={
-		birth = yes
-	}
-	900.1.1={
-		death = yes
-	}
-	father = NSteppeMB51
-}
-
-NSteppeMB53 = {
-	name = MA_nglik
-	religion = eastern_tengri
-	culture = tongra
-	860.1.1={
-		birth = yes
-	}
-	930.1.1={
-		death = yes
-	}
-	father = NSteppeMB52
-}
-
-NSteppeMB54 = {
-	name = Kiriltugh
-	religion = eastern_tengri
-	culture = tongra
-	885.1.1={
-		birth = yes
-	}
-	955.1.1={
-		death = yes
-	}
-	father = NSteppeMB53
-}
-
-NSteppeMB55 = {
-	name = TO_rtogul
-	religion = eastern_tengri
-	culture = tongra
-	905.1.1={
-		birth = yes
-	}
-	980.1.1={
-		death = yes
-	}
-	father = NSteppeMB54
-}
-
-NSteppeMB56 = {
-	name = Kubasar
-	religion = eastern_tengri
-	culture = tongra
-	930.1.1={
-		birth = yes
-	}
-	1005.1.1={
-		death = yes
-	}
-	father = NSteppeMB55
-}
-
-NSteppeMB57 = {
-	name = C_or
-	religion = eastern_tengri
-	culture = tongra
-	960.1.1={
-		birth = yes
-	}
-	1040.1.1={
-		death = yes
-	}
-	father = NSteppeMB56
-}
-
-NSteppeMB58 = {
-	name = Bilge
-	religion = eastern_tengri
-	culture = tongra
-	990.1.1={
-		birth = yes
-	}
-	1070.1.1={
-		death = yes
-	}
-	father = NSteppeMB57
 }
 
 #==================================================================================================#
@@ -87201,8 +86946,8 @@ fictional_buryats_21 = { #fic herder 1178
 80000021 = {
 	name = "Kuntuvdi"
 	dynasty = 2001156 #dynn_Enisey_Kyrgyz
-	religion = tengri_pagan
-	culture = yeniseian
+	religion = ulganism
+	culture = yenisei_kirghiz
 	father = 303243
 	900.2.13 = {
 		birth = yes
@@ -87215,8 +86960,8 @@ fictional_buryats_21 = { #fic herder 1178
 80000022 = {
 	name = "Sugr"
 	dynasty = 2001156 #dynn_Enisey_Kyrgyz
-	religion = tengri_pagan
-	culture = yeniseian
+	religion = ulganism
+	culture = yenisei_kirghiz
 	father = 80000021
 	950.2.13 = {
 		birth = yes
@@ -87229,8 +86974,8 @@ fictional_buryats_21 = { #fic herder 1178
 80000023 = {
 	name = "Kozel"
 	dynasty = 2001156 #dynn_Enisey_Kyrgyz
-	religion = tengri_pagan
-	culture = yeniseian
+	religion = ulganism
+	culture = yenisei_kirghiz
 	father = 80000022
 	990.2.13 = {
 		birth = yes
@@ -87244,7 +86989,7 @@ fictional_buryats_21 = { #fic herder 1178
 	name = "Kokotoy"
 	dna = bookmark_nomads_kokotoy_303244
 	dynasty = 2001156 #dynn_Enisey_Kyrgyz
-	religion = tengri_pagan
+	religion = ulganism
 	culture = yenisei_kirghiz
 	father = 80000023
 	martial = 9
@@ -88219,3 +87964,4 @@ yughur0046 = {
 	}
 }
 
+#}

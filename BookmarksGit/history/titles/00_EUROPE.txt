@@ -127717,10 +127717,10 @@ c_murom = {
 c_gorodez = {
 	769.1.1 = {
 		holder = 769steppe24
+		liege = d_martyuba
 	}
 	860.1.1 = {
-		liege = d_mordvinia
-		holder = 1233697
+		holder = NorthTribals1525
 	}
 	897.1.1 = {
 		holder = 160125

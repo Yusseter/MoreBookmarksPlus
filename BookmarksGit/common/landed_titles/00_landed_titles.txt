@@ -5760,7 +5760,7 @@ e_britannia = {
 						limit = { is_ai = yes }
 						NOT = { exists = title:k_england }
 					}
-					faith = { religion_tag = christianity_religion }
+					#faith = { religion_tag = christianity_religion }
 			}
 
 			cultural_names = {
@@ -5929,7 +5929,7 @@ e_britannia = {
 						limit = { is_ai = yes }
 						NOT = { exists = title:k_england }
 					}
-					faith = { religion_tag = christianity_religion }
+					#faith = { religion_tag = christianity_religion }
 			}
 
 			c_bedford = {
@@ -6263,7 +6263,7 @@ e_britannia = {
 						limit = { is_ai = yes }
 						NOT = { exists = title:k_england }
 					}
-					faith = { religion_tag = christianity_religion }
+					#faith = { religion_tag = christianity_religion }
 			}
 
 			cultural_names = {
@@ -6458,7 +6458,7 @@ e_britannia = {
 						limit = { is_ai = yes }
 						NOT = { exists = title:k_england }
 					}
-					faith = { religion_tag = christianity_religion }
+					#faith = { religion_tag = christianity_religion }
 			}
 
 			capital = c_norfolk # Norwich
@@ -6560,7 +6560,7 @@ e_britannia = {
 						limit = { is_ai = yes }
 						NOT = { exists = title:k_england }
 					}
-					faith = { religion_tag = christianity_religion }
+					#faith = { religion_tag = christianity_religion }
 			}
 
 			c_lincolnshire = {
@@ -6707,7 +6707,7 @@ e_britannia = {
 						limit = { is_ai = yes }
 						NOT = { exists = title:k_england }
 					}
-					faith = { religion_tag = christianity_religion }
+					#faith = { religion_tag = christianity_religion }
 			}
 
 			ai_primary_priority = {
@@ -6827,7 +6827,7 @@ e_britannia = {
 						limit = { is_ai = yes }
 						NOT = { exists = title:k_england }
 					}
-					faith = { religion_tag = christianity_religion }
+					#faith = { religion_tag = christianity_religion }
 			}
 
 			c_gloucestershire = {
@@ -6936,7 +6936,7 @@ e_britannia = {
 						limit = { is_ai = yes }
 						NOT = { exists = title:k_england }
 					}
-					faith = { religion_tag = christianity_religion }
+					#faith = { religion_tag = christianity_religion }
 			}
 
 			c_kent = {
@@ -7035,7 +7035,7 @@ e_britannia = {
 						limit = { is_ai = yes }
 						NOT = { exists = title:k_england }
 					}
-					faith = { religion_tag = christianity_religion }
+					#faith = { religion_tag = christianity_religion }
 			}
 
 			ai_primary_priority = {
@@ -7159,7 +7159,7 @@ e_britannia = {
 						limit = { is_ai = yes }
 						NOT = { exists = title:k_england }
 					}
-					faith = { religion_tag = christianity_religion }
+					#faith = { religion_tag = christianity_religion }
 			}
 
 			ai_primary_priority = {
@@ -40032,28 +40032,6 @@ e_kirghiz_khanate = {
 
 				}
 			}
-			c_biia = {
-				color = { 20 20 58 }
-
-				b_biia = {
-					province = 1132
-
-					color = { 165 140 240 }
-
-				}
-				b_chumych = {
-					province = 7413
-
-					color = { 165 140 240 }
-
-				}
-				b_yeshil_chumych = {
-					province = 7414
-
-					color = { 165 140 240 }
-
-				}
-			}
 			c_torema = {
 				color = { 22 10 42 }
 
@@ -40187,6 +40165,28 @@ e_kirghiz_khanate = {
 					province = 7409
 
 					color = { 190 170 205 }
+				}
+			}
+			c_biia = {
+				color = { 20 20 58 }
+
+				b_biia = {
+					province = 1132
+
+					color = { 165 140 240 }
+
+				}
+				b_chumych = {
+					province = 7413
+
+					color = { 165 140 240 }
+
+				}
+				b_yeshil_chumych = {
+					province = 7414
+
+					color = { 165 140 240 }
+
 				}
 			}
 		}
@@ -90861,17 +90861,11 @@ e_jurchen_china = {
 			}
 		}
 		
-		d_BAL_yeojintang = {
-			#this duchy packages a lot of Balhae "provinces" together for gameplay reasons
-			#thus, we give it a name that should somewhat mean "land of the Jurchens", since they are more or less from there
-			color = { 90 140 200 }
-
+		d_BAL_shuaibin = { # Shuaibin
+		
+			color = { 75 130 200 }
+			
 			capital = c_BAL_solbin
-
-			cultural_names = {
-				name_list_korean = cn_solbin_anwon
-				name_list_balhae = cn_solbin_anwon
-			}
 
 			c_BAL_solbin = {	#Shuaibin
 				color = { 80 130 190 }
@@ -90891,13 +90885,18 @@ e_jurchen_china = {
 
 					color = { 80 130 190 }
 				}
-				b_Liao_Jianzhou2 = {
-					province = 14379
+				b_FIC_EMan_Shuaibinan = {
+					province = 12589
 
 					color = { 80 130 190 }
 				}
-				b_FIC_EMan_Shuaibinan = {
-					province = 12589
+			}
+			
+			c_BAL_solbin2 = {
+				color = { 80 130 190 }
+
+				b_Liao_Jianzhou2 = {
+					province = 14379
 
 					color = { 80 130 190 }
 				}
@@ -90907,6 +90906,15 @@ e_jurchen_china = {
 					color = { 80 130 190 }
 				}
 			}
+		
+		}
+		
+		d_BAL_yeojintang = { # I always hate how Paradox does provinces (I mean just look at the mess that is Anatolia in vanilla). They literally only needed to add 2 more counties to be able to properly detail the Balhae provinces here. This is now Dingli
+			#this duchy packages a lot of Balhae "provinces" together for gameplay reasons
+			#thus, we give it a name that should somewhat mean "land of the Jurchens", since they are more or less from there
+			color = { 90 140 200 }
+
+			capital = c_BAL_jeongni
 
 			c_BAL_jeongni = {	#Dingli
 				color = { 100 145 180 }
@@ -90931,6 +90939,11 @@ e_jurchen_china = {
 
 					color = { 100 145 180 }
 				}
+			}
+			
+			c_BAL_jeongni2 = {
+				color = { 100 145 180 }
+
 				b_FIC_EMan_Dinglian = {
 					province = 12533
 
@@ -90942,7 +90955,13 @@ e_jurchen_china = {
 					color = { 100 145 180 }
 				}
 			}
+		}
+		
+		d_BAL_anbian = { # Anbian
+			color = { 110 100 200 }
 
+			capital = c_BAL_anbyeon
+			
 			c_BAL_anbyeon = {	#Anbian
 				color = { 45 145 210 }
 
@@ -90997,6 +91016,7 @@ e_jurchen_china = {
 					color = { 30 100 160 }
 				}
 			}
+
 		}
 
 		d_BAL_anwon = {	#Anyuan
