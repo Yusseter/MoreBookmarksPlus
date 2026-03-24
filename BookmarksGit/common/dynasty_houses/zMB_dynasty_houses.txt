@@ -5431,3 +5431,13 @@ house_sailendra_sanjaya = { #Sanjaya
 	name = "dynn_Sanjaya"
 	dynasty = 1000027650 #Sailendra/Shailendra
 }
+
+house_Tae_Balhae = { #Tae
+	name = "dynn_Tae"
+	dynasty = 1000049543
+}
+
+house_gim_gwangsan = { #Gim Gwangsan
+	name = "dynn_Gim"
+	dynasty = 1000062005
+}

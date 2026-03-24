@@ -532,6 +532,18 @@ MB_culture_traditions = {
 			remove_culture_tradition = tradition_isolationist
 			add_culture_tradition = tradition_tabari_isolation
 		}
+		
+		#Tribes of the North
+		culture:evenk = { add_culture_tradition = tradition_forest_folk }
+		
+		culture:evenk = { add_culture_tradition = tradition_forest_folk }
+		culture:yukaghir = { add_culture_tradition = tradition_forest_folk }
+		culture:nanai = { add_culture_tradition = tradition_forest_folk }
+		culture:nivkh = { add_culture_tradition = tradition_forest_folk }
+		culture:evenk = { add_culture_tradition = tradition_forest_folk }
+		culture:evenk = { add_culture_tradition = tradition_forest_folk }
+		culture:evenk = { add_culture_tradition = tradition_forest_folk }
+		
 	}
 
 }
@@ -1781,6 +1793,72 @@ MB_culture_setup = {
 		#	}
 		#	set_culture = culture:daur
 		#}
+		
+		every_living_character = {
+			limit = {
+				game_start_date = 769.1.1
+				culture = culture:cuman
+				any_realm_county = {
+					any_county_province = { geographical_region = dlc_mpo_steppe_western_steppe }
+				}
+			}
+			set_culture = culture:pecheneg
+		}
+		
+		if = {
+			limit = {
+				game_start_date = 769.1.1
+			}
+
+			title:c_tumar = {
+				set_county_culture = culture:pecheneg
+			}
+			title:c_aral_karakum = {
+				set_county_culture = culture:pecheneg
+			}
+			title:c_ulytau = {
+				set_county_culture = culture:pecheneg
+			}
+			title:c_eghiz_kara = {
+				set_county_culture = culture:pecheneg
+			}
+		}
+		
+		every_living_character = {
+			limit = {
+				game_start_date = 867.1.1
+				culture = culture:cuman
+				any_realm_county = {
+					any_county_province = { geographical_region = dlc_mpo_steppe_western_steppe }
+				}
+			}
+			set_culture = culture:turkish
+		}
+		
+		if = {
+			limit = {
+				game_start_date = 867.1.1
+			}
+
+			title:c_tumar = {
+				set_county_culture = culture:turkish
+			}
+			title:c_aral_karakum = {
+				set_county_culture = culture:turkish
+			}
+			title:c_ulytau = {
+				set_county_culture = culture:turkish
+			}
+			title:c_eghiz_kara = {
+				set_county_culture = culture:turkish
+			}
+			title:c_kos_uba = {
+				set_county_culture = culture:turkish
+			}
+			title:c_mugodzhar_hills = {
+				set_county_culture = culture:turkish
+			}
+		}
 		
 		every_living_character = {
 			limit = {
@@ -18152,6 +18230,32 @@ MB_set_noble_families = {
 			}
 			
 			#Korea
+			
+			if = {
+				limit = {
+					exists = title:e_goryeo.holder
+					has_tgp_dlc_trigger = yes
+				}
+				title:e_goryeo.holder = {
+					create_noble_family_effect = { GOVERNMENT_GIVER = this }
+				}
+			}
+			if = {
+				limit = {
+					exists = title:e_goryeo.holder
+				}
+				title:e_goryeo.holder ?= {
+					every_vassal_or_below = {
+						limit = {
+							highest_held_title_tier >= tier_county
+							has_government = meritocratic_government
+							has_tgp_dlc_trigger = yes
+							is_house_head = yes
+						}
+						create_noble_family_effect = { GOVERNMENT_GIVER = this }
+					}
+				}
+			}
 			
 			if = {
 				limit = {

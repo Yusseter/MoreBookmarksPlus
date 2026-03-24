@@ -26877,7 +26877,7 @@
  dynn_Wolgast: "Wolgast"
  dynn_Wolin: "Wolin"
  dynn_Wolini: "Wolini"
- dynn_Won: "Won"
+ dynn_Won: "Wŏn"
  dynn_Wone: "Wone"
  dynn_Wongay: "Wongay"
  dynn_Wongian: "Wongian"
@@ -28537,6 +28537,7 @@
  dynn_MirimanidzeA:0 "Mirimanidze"
  dynn_SzolnakH: "Szolnak"
  dynn_japanese_taira_ise: "Ise"
+ dynn_Wonju_kor: "Wonju"
  
 ################################################################################
 # Other / Not Properly formatted (need fixed)

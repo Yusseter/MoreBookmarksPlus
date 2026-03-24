@@ -40,6 +40,9 @@
 udege = {
 	color = udege
 	
+	created = 750.1.1
+	parents = { mohe }
+	
 	name_order_convention = dynasty_always_first
 	
 	ethos = ethos_spiritual
@@ -161,6 +164,9 @@ evenk = {  #鄂温克
 nanai = {
 	color = nanai
 
+	created = 750.1.1
+	parents = { mohe }
+	
 	ethos = ethos_bellicose
 	heritage = heritage_tungusic
 	language = language_nanai
