@@ -48948,13 +48948,30 @@ d_gaeseong = { #高句丽
 	1105.10.10 = { holder = 1900675 } #Yejong, Wang U
 	1122.5.15 = { holder = 1900748 } #Injong, Wang Hae
 	1146.4.10 = { holder = 1900753 } #Uijong, Wang Hyeon
-	1170.10.13 = { holder = 1900755 } #Myeongjong, Wang Ho
-	1197.11.4 = { holder = 1900757 } #Sinjong, Wang Tak
-	1204.2.15 = { holder = 1900783 } #Huijong, Wang Yeong
-	1212.1.30 = { holder = 1900773 } #Gangjong, Wang O
-	1213.8.26 = { holder = gaeseong_wang_268 } #Gojong, Wang Cheol
-	1259.7.21 = { holder = gaeseong_wang_271 } #Wonjong, Wang Sik
-	#1271.2.19 = { liege = h_china } #Vassalized/made tributary by the Yuan Dynasty
+	
+	#Military Dictatorship
+	1170.10.10 = { holder = UiBang }
+	1175.1.1 = { holder = Chong0 }
+	1179.10.18 = { holder = Kyong0 }
+	1183.8.4 = { holder = UiMin0 }
+	#Choe Clan Military Dictatorship
+	1196.5.7 = { holder = ChoeClan1 }
+	1219.10.29 = { holder = ChoeClan2 }
+	1249.12.10 = { holder = ChoeClan3 }
+	1257.5.17 = { holder = ChoeClan4 }
+	#Last 3 Dictators
+	1258.1.1 = { holder = KorKim1 }
+	1268.1.1 = { holder = KorIm1 }
+	1270.1.1 = { holder = KorIm2 }
+	#End of Military Dictatorship
+	
+	##1170.10.13 = { holder = 1900755 } #Myeongjong, Wang Ho
+	##1197.11.4 = { holder = 1900757 } #Sinjong, Wang Tak
+	##1204.2.15 = { holder = 1900783 } #Huijong, Wang Yeong
+	##1212.1.30 = { holder = 1900773 } #Gangjong, Wang O
+	##1213.8.26 = { holder = gaeseong_wang_268 } #Gojong, Wang Cheol
+	##1259.7.21 = { holder = gaeseong_wang_271 } #Wonjong, Wang Sik
+	###1271.2.19 = { liege = h_china } #Vassalized/made tributary by the Yuan Dynasty
 	1274.7.23 = { holder = gaeseong_wang_304 } #Chungryeol, Wang Chun
 	1298.3.2 = { holder = gaeseong_wang_311 } #Chungseon, Wang Jang
 	1298.11.26 = { holder = gaeseong_wang_304 } #Chungryeol, Wang Chun
@@ -49046,12 +49063,31 @@ c_gaeseong = { #汉山州/汉州/京畿道
 	1105.10.10 = { holder = 1900675 } #Yejong, Wang U
 	1122.5.15 = { holder = 1900748 } #Injong, Wang Hae
 	1146.4.10 = { holder = 1900753 } #Uijong, Wang Hyeon
-	1170.10.13 = { holder = 1900755 } #Myeongjong, Wang Ho
-	1197.11.4 = { holder = 1900757 } #Sinjong, Wang Tak
-	1204.2.15 = { holder = 1900783 } #Huijong, Wang Yeong
-	1212.1.30 = { holder = 1900773 } #Gangjong, Wang O
-	1213.8.26 = { holder = gaeseong_wang_268 } #Gojong, Wang Cheol
-	1259.7.21 = { holder = gaeseong_wang_271 } #Wonjong, Wang Sik
+	
+	#Military Dictatorship
+	1170.10.10 = { holder = UiBang }
+	1175.1.1 = { holder = Chong0 }
+	1179.10.18 = { holder = Kyong0 }
+	1183.8.4 = { holder = UiMin0 }
+	#Choe Clan Military Dictatorship
+	1196.5.7 = { holder = ChoeClan1 }
+	1219.10.29 = { holder = ChoeClan2 }
+	1249.12.10 = { holder = ChoeClan3 }
+	1257.5.17 = { holder = ChoeClan4 }
+	#Last 3 Dictators
+	1258.1.1 = { holder = KorKim1 }
+	1268.1.1 = { holder = KorIm1 }
+	1270.1.1 = { holder = KorIm2 }
+	#End of Military Dictatorship
+	
+	##1170.10.13 = { holder = 1900755 } #Myeongjong, Wang Ho
+	##1197.11.4 = { holder = 1900757 } #Sinjong, Wang Tak
+	##1204.2.15 = { holder = 1900783 } #Huijong, Wang Yeong
+	##1212.1.30 = { holder = 1900773 } #Gangjong, Wang O
+	##1213.8.26 = { holder = gaeseong_wang_268 } #Gojong, Wang Cheol
+	##1259.7.21 = { holder = gaeseong_wang_271 } #Wonjong, Wang Sik
+	###1271.2.19 = { liege = h_china } #Vassalized/made tributary by the Yuan Dynasty
+
 	1274.7.23 = { holder = gaeseong_wang_304 } #Chungryeol, Wang Chun
 	1298.3.2 = { holder = gaeseong_wang_311 } #Chungseon, Wang Jang
 	1298.11.26 = { holder = gaeseong_wang_304 } #Chungryeol, Wang Chun
@@ -49772,68 +49808,68 @@ c_hwangju = { #黄海道
 	903.1.1 = { holder = 1900143 }
 	#Goryeo
 	930.1.1 = {
-		holder = GoryeoKorea978
+		holder = GoryeoKorea1414  # Heon_gang
 		liege = d_haeju
 	}
 	
-	951.8.29 = {
-		holder = GoryeoKorea979
+	926.8.30 = {
+		holder = GoryeoKorea1415  # Mun_seong
 	}
 	
-	980.1.18 = {
-		holder = GoryeoKorea980
+	955.3.8 = {
+		holder = GoryeoKorea1416  # Ja_gyeom
 	}
 	
-	1009.4.3 = {
-		holder = GoryeoKorea981
+	984.12.19 = {
+		holder = GoryeoKorea1417  # Yeong_gwang
 	}
 	
-	1038.7.26 = {
-		holder = GoryeoKorea982
+	1013.9.11 = {
+		holder = GoryeoKorea1418  # Gwang_jong
 	}
 	
-	1067.2.15 = {
-		holder = GoryeoKorea983
+	1042.6.22 = {
+		holder = GoryeoKorea1419  # Chung_sun
 	}
 	
-	1096.10.12 = {
-		holder = GoryeoKorea984
+	1071.11.17 = {
+		holder = GoryeoKorea1420  # In_jong (eldest son)
 	}
 	
-	1125.5.8 = {
-		holder = GoryeoKorea985
+	1100.7.3 = {
+		holder = GoryeoKorea1422  # Ui_jong
 	}
 	
-	1154.12.24 = {
-		holder = GoryeoKorea986
+	1129.5.6 = {
+		holder = GoryeoKorea1423  # Ja_in
 	}
 	
-	1183.8.17 = {
-		holder = GoryeoKorea987
+	1158.10.14 = {
+		holder = GoryeoKorea1424  # Myeong_jong
 	}
 	
-	1213.3.6 = {
-		holder = GoryeoKorea989
+	1187.8.21 = {
+		holder = GoryeoKorea1425  # Sin_jong
 	}
 	
-	1241.6.30 = {
-		holder = GoryeoKorea992
+	1216.12.29 = {
+		holder = GoryeoKorea1426  # Chung_heon (eldest son)
 	}
 	
-	1271.2.27 = {
-		holder = GoryeoKorea997
+	1245.7.11 = {
+		holder = GoryeoKorea1428  # Won_jong
 	}
 	
-	1300.1.19 = {
-		holder = GoryeoKorea1003
+	1274.11.25 = {
+		holder = GoryeoKorea1429  # Chung_gyeong
 	}
 	
-	1330.2.3 = {
-		holder = GoryeoKorea1010
+	1303.6.19 = {
+		holder = GoryeoKorea1430  # Eung_chu
 	}
 	
-	1359.10.22 = {
-		holder = GoryeoKorea1018
+	1332.9.5 = {
+		holder = GoryeoKorea1431  # Ji_won (extends beyond 1337)
 	}
 }
 
@@ -49942,52 +49978,68 @@ c_gokju = { #黄海道
 	896.1.1 = { liege = k_majin } #Wang Geon - made Seongju
 	903.1.1 = { holder = 1900143 }
 	#Goryeo
-	935.12.1 = { holder = 1900573 liege = e_goryeo } #Taejo, Wang Geon
-	943.7.4 = { holder = 1900580 }
-	945.10.23 = { holder = 1900587 }
-	949.4.13 = { holder = 1900590 }
-	975.7.4 = { holder = 1900596 }
-	981.8.13 = { holder = 1900609 }
-	997.11.29 = { holder = 1900601 }
-	1009.3.2 = { holder = 1900614 }
-	1031.6.17 = { holder = 1900648 }
-	1034.10.31 = { holder = 1900650 }
-	1046.6.24 = { holder = 1900651 }
-	1083.9.2 = { holder = 1900667 }
-	1083.12.5 = { holder = 1900668 }
-	1094.6.17 = { holder = 1900669 }
-	1095.11.7 = { holder = 1900674 }
-	1105.10.10 = { holder = 1900675 }
-	1122.5.15 = { holder = 1900748 }
-	1146.4.10 = { holder = 1900753 }
-	#Military Dictatorship
-	1170.10.10 = { holder = UiBang }
-	1175.1.1 = { holder = Chong0 }
-	1179.10.18 = { holder = Kyong0 }
-	1183.8.4 = { holder = UiMin0 }
-	#Choe Clan Military Dictatorship
-	1196.5.7 = { holder = ChoeClan1 }
-	1219.10.29 = { holder = ChoeClan2 }
-	1249.12.10 = { holder = ChoeClan3 }
-	1257.5.17 = { holder = ChoeClan4 }
-	#Last 3 Dictators
-	1258.1.1 = { holder = KorKim1 }
-	1268.1.1 = { holder = KorIm1 }
-	1270.1.1 = { holder = KorIm2 }
-	#End of Military Dictatorship
-	1271.7.21 = { holder = gaeseong_wang_271 } #Wonjong, Wang Sik
-	1274.7.23 = { holder = gaeseong_wang_304 } #Chungryeol, Wang Chun
-	1298.3.2 = { holder = gaeseong_wang_311 } #Chungseon, Wang Jang
-	1298.11.26 = { holder = gaeseong_wang_304 } #Chungryeol, Wang Chun
-	1308.7.30 = { holder = gaeseong_wang_311 } #Chungseon, Wang Jang
-	1313.4.20 = { holder = gaeseong_wang_324 } #Chungsuk, Wang Do
-	1344.1.30 = { holder = gaeseong_wang_330 } #Chungmok, Wang Heun
-	1348.12.25 = { holder = gaeseong_wang_331 } #Chungjeong, Wang Jeo
-	1352.3.23 = { holder = gaeseong_wang_329 } #Gongmin, Wang Jeon
-	1374.10.27 = { holder = gaeseong_wang_334 } #Wang U
-	1388.12.29 = { holder = gaeseong_wang_335 } #Wang Chang
-	1389.12.2 = { holder = gaeseong_wang_220 } #Gongyang, Wang Yo
-	#
+	# Title History for Goguryeo/Goryeo Characters
+
+	930.1.1 = {
+		holder = GoryeoKorea1455  # Sin_mun 
+		liege = e_goryeo
+	}
+	
+	954.10.3 = {
+		holder = GoryeoKorea1456  # Gwang_jong
+	}
+	
+	983.5.19 = {
+		holder = GoryeoKorea1457  # Jeong_jong
+	}
+	
+	1012.8.25 = {
+		holder = GoryeoKorea1458  # Seong_jong
+	}
+	
+	1041.11.2 = {
+		holder = GoryeoKorea1459  # Hyeon_jong
+	}
+	
+	1070.4.17 = {
+		holder = GoryeoKorea1460  # Mun_jong
+	}
+	
+	1099.7.8 = {
+		holder = GoryeoKorea1461  # Sun_jong
+	}
+	
+	1128.12.19 = {
+		holder = GoryeoKorea1463  # Heon_jong
+	}
+	
+	1157.5.23 = {
+		holder = GoryeoKorea1464  # In_jong
+	}
+	
+	1186.3.9 = {
+		holder = GoryeoKorea1465  # Ui_jong
+	}
+	
+	1215.8.17 = {
+		holder = GoryeoKorea1466  # Myeong_jong
+	}
+	
+	1244.11.26 = {
+		holder = GoryeoKorea1467  # Sin_jong
+	}
+	
+	1273.2.14 = {
+		holder = GoryeoKorea1468  # Hui_jong
+	}
+	
+	1302.9.5 = {
+		holder = GoryeoKorea1469  # Gang_jong
+	}
+	
+	1331.4.22 = {
+		holder = GoryeoKorea1470  # Won_jong
+	}
 }
 
 c_pyeongju = { #黄海道

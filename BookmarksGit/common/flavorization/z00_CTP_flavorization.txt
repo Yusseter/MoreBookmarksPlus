@@ -8099,6 +8099,17 @@ empire_han = {
 		top_liege = no
 	}
 }
+empire_han2 = {
+	type = title
+	tier = hegemony
+	titles = { h_china }
+	priority = 200
+	governments = { feudal_government administrative_government clan_government tribal_government nomad_government herder_government republic_government steppe_admin_government meritocratic_government celestial_government }
+	name_lists = { name_list_han name_list_shatuo name_list_yi name_list_bai name_list_yi name_list_mongol name_list_chagatai name_list_tatar }
+	flavourization_rules = { 
+		top_liege = no
+	}
+}
 title_prince_male_han = {
 	type = character
 	gender = male

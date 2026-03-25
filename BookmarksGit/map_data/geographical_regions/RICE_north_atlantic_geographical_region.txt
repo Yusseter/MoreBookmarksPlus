@@ -60,7 +60,7 @@ RICE_atlantic_region = {
 	}
 	#duchies = {
 		# custom_west_francia_minus_mediterranean
-		#d_anjou d_normandy d_brittany
+		#d_anjou d_normandy d_brittany d_lower_brittany
 		# d_berry d_orleans d_champagne d_valois d_bar
 
 		# world_europe_west_germania

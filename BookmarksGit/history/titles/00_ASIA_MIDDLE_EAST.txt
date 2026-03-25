@@ -22,11 +22,12 @@
 
 ###START PERSIA###
 
-e_parthia = {
+e_persia = {
 
 	#Arascids
 	-141.1.1 = {
 		holder = ArsacidDynn005  #Mithridates I "the Great" (Conquest of Babylon as start of empire)
+		name = PARTHIAN
 	}
 	-132.1.1 = { holder = ArsacidDynn006 } #Phraates II
 	-127.1.1 = { holder = ArsacidDynn007 } #Artabanus I
@@ -63,13 +64,11 @@ e_parthia = {
 	226.1.1 = {
 		holder = 0
 	}
-
-}
-
-e_sassani = {
-
+	
+	#Sassanids
+	
 	225.12.31 = {
-		insert_title_history = e_parthia
+		name = SASANIAN 
 	}
 	226.1.1 = {
 		holder = 159601 # Ardashir I
@@ -164,15 +163,8 @@ e_sassani = {
 	651.1.1 = {
 		holder = 0
 	}
-
-}
-
-e_persia = {
-
+	
 	# Buyids
-	933.12.31 = {
-		insert_title_history = e_sassani
-	}
 	934.1.1 = {
 		holder = 1231062
 		name = BUYID
@@ -251,7 +243,7 @@ e_persia = {
 	1260.1.1 = {
 		holder = 478011
 		government = tribal_government
-		name = ILKHANATE
+		reset_name = yes
 		effect = { set_capital_county = title:c_maragha set_coa = e_ilkhanate set_color_from_title = title:e_ilkhanate }
 	}
 	1265.2.8 = {
@@ -291,19 +283,6 @@ e_persia = {
 	}
 
 }
-
-e_persia2 = {
-
-	1.1.1 = {
-		government = clan_government
-	}
-	1227.1.1 = {
-		insert_title_history = e_persia
-		effect = { set_coa = e_persia set_color_from_title = title:e_persia }
-	}
-
-}
-
 
 k_persia = {
 	#867.1.1 = {	change_development_level = 7 }

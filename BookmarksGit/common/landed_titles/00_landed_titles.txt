@@ -2323,7 +2323,7 @@ e_hre = {
 
 		definite_form = yes
 		ruler_uses_title_name = no
-	can_use_nomadic_naming = no
+		can_use_nomadic_naming = no
 		capital = c_lubeck # Lübeck
 	}
 
@@ -14887,7 +14887,7 @@ h_roman_empire = {
 	}
 }
 
-h_eastern_roman_empire = {
+h_eastern_roman_empire = { 
 	color = { 150 35 165 }
 
 	capital = c_byzantion # Constantinople
@@ -48838,6 +48838,60 @@ e_tokhara = { # To represent the region being a borderlands between India and Ir
 				}
 			}
 
+		}
+	}
+}
+
+
+# Abbasid Caliphate
+k_sunni = {
+	color = { 55 145 30 }
+	
+	capital = c_baghdad
+	can_be_named_after_dynasty = no
+	landless = yes
+	figurehead = yes
+	allow_domicile = no
+	always_follows_primary_heir = yes
+	definite_form = yes
+
+	can_create = { always = no }
+
+	# Ceremonial Liege/Regent in personal relation summary
+	# (reminder: the ceremonial liege if mechanically a vassal of the ceremonial regent)
+	#
+	# Scopes
+	# ------
+	# root: Inspected character (who holds this title).
+	# target: Character we are evaluating relationships to (usually local player).
+	# title: This title (held by inspected character).
+	# liege: Inspected characters liege.
+	# vassal: Vassal who matches the trigger below, if any.
+	#
+	# Alternate descriptions are provided to trim the extra "Your" before this entry in the summary.
+	#
+	personal_relation_entry = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					exists = scope:target
+					scope:liege ?= scope:target
+				}
+				desc = japan_personal_relation_ceremonial_liege_same
+			}
+			triggered_desc = {
+				trigger = { exists = scope:liege }
+				desc = japan_personal_relation_ceremonial_liege_other
+			}
+		}
+	}
+
+	ai_primary_priority = {
+		if = {
+			limit = {
+				culture = { has_cultural_pillar = heritage_arabic }
+			}
+			add = @correct_culture_primary_score
 		}
 	}
 }
@@ -91438,6 +91492,8 @@ h_china = {
 	color = { 230 180 10 }
 
 	capital = c_bianzhou # Kaifeng
+	
+	definite_form = yes
 
 	can_create = {
 		custom_tooltip = {

@@ -7,12 +7,24 @@
 KnightCulture = {
 	type = character
 	
+	
+	text = {
+		trigger = {
+			culture = { has_cultural_pillar = language_japonic }
+		}
+		localization_key = knight_bushi
+	}
+	
+	
 #####################################
 ## Goidelic group
 #####################################
 	text = {
 		trigger = {
-			culture = { has_cultural_pillar = heritage_goidelic }
+			OR = {
+				culture = { has_name_list = name_list_irish }
+				culture = { has_name_list = name_list_gaelic }
+			}
 		}
 		localization_key = knight_irish_gaelic
 	}
@@ -162,6 +174,12 @@ KnightCulture = {
 			OR = {
 				culture = { has_name_list = name_list_swedish }
 				culture = { has_name_list = name_list_danish }
+				culture = { has_name_list = name_list_jute }
+				culture = { has_name_list = name_list_svear }
+				culture = { has_name_list = name_list_geatish }
+				culture = { has_name_list = name_list_dane }
+				culture = { has_name_list = name_list_got }
+				culture = { has_name_list = name_list_sitonian }
 			}
 		}
 		localization_key = knight_swedish_danish
@@ -588,6 +606,7 @@ KnightCulture = {
 				culture = { has_name_list = name_list_karluk }
 				culture = { has_name_list = name_list_uyghur }
 				culture = { has_name_list = name_list_yughur }
+				culture = { has_name_list = name_list_pecheneg }
 			}
 		}
 		localization_key = knight_turkish_one
@@ -634,7 +653,11 @@ KnightCulture = {
 #####################################
 	text = {
 		trigger = {
-			culture = { has_name_list = name_list_persian }
+			OR = {
+				culture = { has_name_list = name_list_persian }
+				culture = { has_name_list = name_list_persian_turkish_anatolian }
+				culture = { has_name_list = name_list_persian_turkish }
+			}
 		}
 		localization_key = knight_persian
 	}
@@ -695,7 +718,10 @@ KnightCultureNoTooltip = {
 #####################################
 	text = {
 		trigger = {
-			culture = { has_cultural_pillar = heritage_goidelic }
+			OR = {
+				culture = { has_name_list = name_list_irish }
+				culture = { has_name_list = name_list_gaelic }
+			}
 		}
 		localization_key = knight_no_tooltip_irish_gaelic
 	}
@@ -835,7 +861,6 @@ KnightCultureNoTooltip = {
 		trigger = {
 			OR = {
 				culture = { has_name_list = name_list_norse }
-				culture = { has_name_list = name_list_norwegian }
 			}
 		}
 		localization_key = knight_no_tooltip_norse_norwegian
@@ -845,6 +870,12 @@ KnightCultureNoTooltip = {
 			OR = {
 				culture = { has_name_list = name_list_swedish }
 				culture = { has_name_list = name_list_danish }
+				culture = { has_name_list = name_list_jute }
+				culture = { has_name_list = name_list_svear }
+				culture = { has_name_list = name_list_geatish }
+				culture = { has_name_list = name_list_dane }
+				culture = { has_name_list = name_list_got }
+				culture = { has_name_list = name_list_sitonian }
 			}
 		}
 		localization_key = knight_no_tooltip_swedish_danish
@@ -1267,6 +1298,7 @@ KnightCultureNoTooltip = {
 				culture = { has_name_list = name_list_karluk }
 				culture = { has_name_list = name_list_uyghur }
 				culture = { has_name_list = name_list_yughur }
+				culture = { has_name_list = name_list_pecheneg }
 			}
 		}
 		localization_key = knight_no_tooltip_turkish_one
@@ -1313,7 +1345,11 @@ KnightCultureNoTooltip = {
 #####################################
 	text = {
 		trigger = {
-			culture = { has_name_list = name_list_persian }
+			OR = {
+				culture = { has_name_list = name_list_persian }
+				culture = { has_name_list = name_list_persian_turkish_anatolian }
+				culture = { has_name_list = name_list_persian_turkish }
+			}
 		}
 		localization_key = knight_no_tooltip_persian
 	}
@@ -1375,7 +1411,10 @@ KnightCultureNoTooltipLowercase = {
 #####################################
 	text = {
 		trigger = {
-			culture = { has_cultural_pillar = heritage_goidelic }
+			OR = {
+				culture = { has_name_list = name_list_irish }
+				culture = { has_name_list = name_list_gaelic }
+			}
 		}
 		localization_key = knight_lower_irish_gaelic
 	}
@@ -1525,6 +1564,12 @@ KnightCultureNoTooltipLowercase = {
 			OR = {
 				culture = { has_name_list = name_list_swedish }
 				culture = { has_name_list = name_list_danish }
+				culture = { has_name_list = name_list_jute }
+				culture = { has_name_list = name_list_svear }
+				culture = { has_name_list = name_list_geatish }
+				culture = { has_name_list = name_list_dane }
+				culture = { has_name_list = name_list_got }
+				culture = { has_name_list = name_list_sitonian }
 			}
 		}
 		localization_key = knight_lower_swedish_danish
@@ -1950,6 +1995,7 @@ KnightCultureNoTooltipLowercase = {
 				culture = { has_name_list = name_list_karluk }
 				culture = { has_name_list = name_list_uyghur }
 				culture = { has_name_list = name_list_yughur }
+				culture = { has_name_list = name_list_pecheneg }
 			}
 		}
 		localization_key = knight_lower_turkish_one
@@ -1995,7 +2041,11 @@ KnightCultureNoTooltipLowercase = {
 #####################################
 	text = {
 		trigger = {
-			culture = { has_name_list = name_list_persian }
+			OR = {
+				culture = { has_name_list = name_list_persian }
+				culture = { has_name_list = name_list_persian_turkish_anatolian }
+				culture = { has_name_list = name_list_persian_turkish }
+			}
 		}
 		localization_key = knight_lower_persian
 	}
@@ -2056,7 +2106,10 @@ KnightCulturePlural = {
 #####################################
 	text = {
 		trigger = {
-			culture = { has_cultural_pillar = heritage_goidelic }
+			OR = {
+				culture = { has_name_list = name_list_irish }
+				culture = { has_name_list = name_list_gaelic }
+			}
 		}
 		localization_key = knight_plural_irish_gaelic
 	}
@@ -2206,6 +2259,12 @@ KnightCulturePlural = {
 			OR = {
 				culture = { has_name_list = name_list_swedish }
 				culture = { has_name_list = name_list_danish }
+				culture = { has_name_list = name_list_jute }
+				culture = { has_name_list = name_list_svear }
+				culture = { has_name_list = name_list_geatish }
+				culture = { has_name_list = name_list_dane }
+				culture = { has_name_list = name_list_got }
+				culture = { has_name_list = name_list_sitonian }
 			}
 		}
 		localization_key = knight_plural_swedish_danish
@@ -2631,6 +2690,7 @@ KnightCulturePlural = {
 				culture = { has_name_list = name_list_karluk }
 				culture = { has_name_list = name_list_uyghur }
 				culture = { has_name_list = name_list_yughur }
+				culture = { has_name_list = name_list_pecheneg }
 			}
 		}
 		localization_key = knight_plural_turkish_one
@@ -2676,7 +2736,11 @@ KnightCulturePlural = {
 #####################################
 	text = {
 		trigger = {
-			culture = { has_name_list = name_list_persian }
+			OR = {
+				culture = { has_name_list = name_list_persian }
+				culture = { has_name_list = name_list_persian_turkish_anatolian }
+				culture = { has_name_list = name_list_persian_turkish }
+			}
 		}
 		localization_key = knight_plural_persian
 	}
@@ -2738,7 +2802,10 @@ KnightCulturePluralNoTooltip = {
 #####################################
 	text = {
 		trigger = {
-			culture = { has_cultural_pillar = heritage_goidelic }
+			OR = {
+				culture = { has_name_list = name_list_irish }
+				culture = { has_name_list = name_list_gaelic }
+			}
 		}
 		localization_key = knight_plural_no_tooltip_irish_gaelic
 	}
@@ -2888,6 +2955,12 @@ KnightCulturePluralNoTooltip = {
 			OR = {
 				culture = { has_name_list = name_list_swedish }
 				culture = { has_name_list = name_list_danish }
+				culture = { has_name_list = name_list_jute }
+				culture = { has_name_list = name_list_svear }
+				culture = { has_name_list = name_list_geatish }
+				culture = { has_name_list = name_list_dane }
+				culture = { has_name_list = name_list_got }
+				culture = { has_name_list = name_list_sitonian }
 			}
 		}
 		localization_key = knight_plural_no_tooltip_swedish_danish
@@ -3314,6 +3387,7 @@ KnightCulturePluralNoTooltip = {
 				culture = { has_name_list = name_list_karluk }
 				culture = { has_name_list = name_list_uyghur }
 				culture = { has_name_list = name_list_yughur }
+				culture = { has_name_list = name_list_pecheneg }
 			}
 		}
 		localization_key = knight_plural_no_tooltip_turkish_one
@@ -3359,7 +3433,11 @@ KnightCulturePluralNoTooltip = {
 #####################################
 	text = {
 		trigger = {
-			culture = { has_name_list = name_list_persian }
+			OR = {
+				culture = { has_name_list = name_list_persian }
+				culture = { has_name_list = name_list_persian_turkish_anatolian }
+				culture = { has_name_list = name_list_persian_turkish }
+			}
 		}
 		localization_key = knight_plural_no_tooltip_persian
 	}
@@ -3420,7 +3498,10 @@ KnightCulturePluralNoTooltipLowercase = {
 #####################################
 	text = {
 		trigger = {
-			culture = { has_cultural_pillar = heritage_goidelic }
+			OR = {
+				culture = { has_name_list = name_list_irish }
+				culture = { has_name_list = name_list_gaelic }
+			}
 		}
 		localization_key = knight_plural_lower_irish_gaelic
 	}
@@ -3570,6 +3651,12 @@ KnightCulturePluralNoTooltipLowercase = {
 			OR = {
 				culture = { has_name_list = name_list_swedish }
 				culture = { has_name_list = name_list_danish }
+				culture = { has_name_list = name_list_jute }
+				culture = { has_name_list = name_list_svear }
+				culture = { has_name_list = name_list_geatish }
+				culture = { has_name_list = name_list_dane }
+				culture = { has_name_list = name_list_got }
+				culture = { has_name_list = name_list_sitonian }
 			}
 		}
 		localization_key = knight_plural_lower_swedish_danish
@@ -3995,6 +4082,7 @@ KnightCulturePluralNoTooltipLowercase = {
 				culture = { has_name_list = name_list_karluk }
 				culture = { has_name_list = name_list_uyghur }
 				culture = { has_name_list = name_list_yughur }
+				culture = { has_name_list = name_list_pecheneg }
 			}
 		}
 		localization_key = knight_plural_lower_turkish_one
@@ -4040,7 +4128,11 @@ KnightCulturePluralNoTooltipLowercase = {
 #####################################
 	text = {
 		trigger = {
-			culture = { has_name_list = name_list_persian }
+			OR = {
+				culture = { has_name_list = name_list_persian }
+				culture = { has_name_list = name_list_persian_turkish_anatolian }
+				culture = { has_name_list = name_list_persian_turkish }
+			}
 		}
 		localization_key = knight_plural_lower_persian
 	}

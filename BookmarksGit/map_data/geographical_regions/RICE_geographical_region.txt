@@ -183,7 +183,7 @@ RICE_distant_from_galicia_region = {
 
 RICE_brittany_horse_region = {
 	duchies = {
-		d_brittany d_poitou d_aquitaine d_anjou d_bourbon d_berry d_normandy d_alencon
+		d_brittany d_lower_brittany d_poitou d_aquitaine d_anjou d_bourbon d_berry d_normandy d_alencon
 	}
 }
 
@@ -225,7 +225,7 @@ RICE_northern_europe_region = {
 		# Volga Bulgaria
 		d_volga_bulgaria d_kazan d_voronezh d_mordvinia d_chuvashia #d_bashkiria d_khopyor d_ural d_udmurtia d_martyuba d_uraltau d_aqtobe d_jalmat d_vogulia d_perm
 		# world_europe_west_francia
-		d_berry d_anjou d_normandy d_orleans d_champagne d_valois d_burgundy d_bar d_aquitaine d_armagnac d_gascogne d_poitou d_auvergne d_bourbon d_brittany d_upper_burgundy d_transjurania #d_brabant d_flanders
+		d_berry d_anjou d_normandy d_orleans d_champagne d_valois d_burgundy d_bar d_aquitaine d_armagnac d_gascogne d_poitou d_auvergne d_bourbon d_brittany d_lower_brittany d_upper_burgundy d_transjurania #d_brabant d_flanders
 		
 		d_alencon d_blois d_nevers d_archreims d_artois d_flanders d_limousin
 	}
@@ -252,17 +252,17 @@ RICE_greater_normandy_region = {
 		# k_frisia
 		d_holland
 		# k_brittany
-		d_brittany
+		d_brittany d_lower_brittany
 	}
 }
 
 
-RICE_normandy_and_brittany_region = {
+RICE_normandy_and_brittany d_lower_brittany_region = {
 	duchies = {
 		# k_francia
 		d_normandy d_anjou
 		# k_brittany
-		d_brittany
+		d_brittany d_lower_brittany
 	}
 }
 

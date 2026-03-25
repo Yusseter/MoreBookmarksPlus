@@ -1,4 +1,4 @@
-#Development File
+#Development File #{
 #Doing development by itself here for easier organization and editing
 #
 #
@@ -902,23 +902,23 @@
 	}
 
 	k_rum = { #Not used. Use Anatolia instead.
-	20.1.1 = { change_development_level = 6 }
-	1000.1.1 = { change_development_level = 9 }
-	1124.1.1 = { change_development_level = 11}
-	1166.1.1 = { change_development_level = 15 }
-	1204.1.1 = { change_development_level = 20 }
-	1241.1.1 = { change_development_level = 24 }
-	1310.1.1 = { change_development_level = 30 }
+	20.1.1 = { change_development_level = 5 }
+	1000.1.1 = { change_development_level = 8 }
+	1124.1.1 = { change_development_level = 10}
+	1166.1.1 = { change_development_level = 14 }
+	1204.1.1 = { change_development_level = 19 }
+	1241.1.1 = { change_development_level = 23 }
+	1310.1.1 = { change_development_level = 29 }
 	}
 
 	k_anatolia = { #
-	20.1.1 = { change_development_level = 6 }
-	1000.1.1 = { change_development_level = 9 }
-	1124.1.1 = { change_development_level = 11}
-	1166.1.1 = { change_development_level = 15 }
-	1204.1.1 = { change_development_level = 20 }
-	1241.1.1 = { change_development_level = 24 }
-	1310.1.1 = { change_development_level = 30 }
+	20.1.1 = { change_development_level = 5 }
+	1000.1.1 = { change_development_level = 8 }
+	1124.1.1 = { change_development_level = 10}
+	1166.1.1 = { change_development_level = 14 }
+	1204.1.1 = { change_development_level = 19 }
+	1241.1.1 = { change_development_level = 23 }
+	1310.1.1 = { change_development_level = 29 }
 	}
 
 	k_ottoman = {
@@ -1320,7 +1320,37 @@
 	1241.1.1 = { change_development_level = 25 }
 	1310.1.1 = { change_development_level = 31 }
 	}
-
+	
+	k_jaintia = {
+	769.1.1 = { change_development_level = 2 }
+	1000.1.1 = { change_development_level = 3 }
+	1124.1.1 = { change_development_level = 5 }
+	1166.1.1 = { change_development_level = 7 }
+	1204.1.1 = { change_development_level = 9 }
+	1241.1.1 = { change_development_level = 11 }
+	1310.1.1 = { change_development_level = 13 }
+	}
+	
+	k_tripura = {
+	769.1.1 = { change_development_level = 2 }
+	1000.1.1 = { change_development_level = 3 }
+	1124.1.1 = { change_development_level = 5 }
+	1166.1.1 = { change_development_level = 7 }
+	1204.1.1 = { change_development_level = 9 }
+	1241.1.1 = { change_development_level = 11 }
+	1310.1.1 = { change_development_level = 13 }
+	}
+	
+	k_manipur = {
+	769.1.1 = { change_development_level = 2 }
+	1000.1.1 = { change_development_level = 3 }
+	1124.1.1 = { change_development_level = 5 }
+	1166.1.1 = { change_development_level = 7 }
+	1204.1.1 = { change_development_level = 9 }
+	1241.1.1 = { change_development_level = 11 }
+	1310.1.1 = { change_development_level = 13 }
+	}
+	
 	k_bihar = {
 	769.1.1 = { change_development_level = 7 }
 	1000.1.1 = { change_development_level = 10 }
@@ -2071,21 +2101,21 @@
 	k_tagaung = {
 	769.1.1 = {	change_development_level = 1 }
 	1000.1.1 = { change_development_level = 3 }
-	1124.1.1 = { change_development_level = 6 }
-	1166.1.1 = { change_development_level = 10 }
-	1204.1.1 = { change_development_level = 15 }
-	1241.1.1 = { change_development_level = 19 }
-	1310.1.1 = { change_development_level = 25 }
+	1124.1.1 = { change_development_level = 4 }
+	1166.1.1 = { change_development_level = 6 }
+	1204.1.1 = { change_development_level = 10 }
+	1241.1.1 = { change_development_level = 14 }
+	1310.1.1 = { change_development_level = 20 }
 	}
 
 	k_shan = {
 	769.1.1 = {	change_development_level = 1 }
 	1000.1.1 = { change_development_level = 3 }
-	1124.1.1 = { change_development_level = 6 }
-	1166.1.1 = { change_development_level = 10 }
-	1204.1.1 = { change_development_level = 15 }
-	1241.1.1 = { change_development_level = 19 }
-	1310.1.1 = { change_development_level = 25 }
+	1124.1.1 = { change_development_level = 4 }
+	1166.1.1 = { change_development_level = 6 }
+	1204.1.1 = { change_development_level = 10 }
+	1241.1.1 = { change_development_level = 14 }
+	1310.1.1 = { change_development_level = 20 }
 	}
 
 	k_haripunjaya = {
@@ -2110,22 +2140,22 @@
 
 	k_loeu = {
 	769.1.1 = { change_development_level = 2 }
-	1000.1.1 = { change_development_level = 5 }
-	1124.1.1 = { change_development_level = 7 }
-	1166.1.1 = { change_development_level = 11 }
-	1204.1.1 = { change_development_level = 16 }
-	1241.1.1 = { change_development_level = 20 }
-	1310.1.1 = { change_development_level = 26 }
+	1000.1.1 = { change_development_level = 2 }
+	1124.1.1 = { change_development_level = 4 }
+	1166.1.1 = { change_development_level = 5 }
+	1204.1.1 = { change_development_level = 8 }
+	1241.1.1 = { change_development_level = 10 }
+	1310.1.1 = { change_development_level = 12 }
 	}
 
 	k_laos = {
 	769.1.1 = { change_development_level = 2 }
 	1000.1.1 = { change_development_level = 5 }
 	1124.1.1 = { change_development_level = 7 }
-	1166.1.1 = { change_development_level = 11 }
-	1204.1.1 = { change_development_level = 16 }
-	1241.1.1 = { change_development_level = 20 }
-	1310.1.1 = { change_development_level = 26 }
+	1166.1.1 = { change_development_level = 10 }
+	1204.1.1 = { change_development_level = 14 }
+	1241.1.1 = { change_development_level = 16 }
+	1310.1.1 = { change_development_level = 20 }
 	}
 
 	k_pegu = {
@@ -2494,10 +2524,10 @@
 	769.1.1 = { change_development_level = 5 }
 	1000.1.1 = { change_development_level = 7 }
 	1124.1.1 = { change_development_level = 10 }
-	1166.1.1 = { change_development_level = 11 }
-	1204.1.1 = { change_development_level = 13 }
-	1241.1.1 = { change_development_level = 15 }
-	1310.1.1 = { change_development_level = 20 }
+	1166.1.1 = { change_development_level = 14 }
+	1204.1.1 = { change_development_level = 16 }
+	1241.1.1 = { change_development_level = 20 }
+	1310.1.1 = { change_development_level = 18 }
 	}
 
 	k_luodian	= {
@@ -7146,6 +7176,16 @@
 	1241.1.1 = { change_development_level = 24 }
 	1310.1.1 = { change_development_level = 30 }
 	}
+	
+	d_ramu = {
+	769.1.1 = { change_development_level = 5 }
+	1000.1.1 = { change_development_level = 8 }
+	1124.1.1 = { change_development_level = 11 }
+	1166.1.1 = { change_development_level = 15 }
+	1204.1.1 = { change_development_level = 20 }
+	1241.1.1 = { change_development_level = 24 }
+	1310.1.1 = { change_development_level = 30 }
+	}
 
 	c_thaton = {
 	769.1.1 = { change_development_level = 10 }
@@ -10084,6 +10124,16 @@
 	1241.1.1 = { change_development_level = 8 }
 	1310.1.1 = { change_development_level = 10 }
 	}
+	
+	k_saryarka = {
+	769.1.1 = { change_development_level = 0 }
+	1000.1.1 = { change_development_level = 0 }
+	1124.1.1 = { change_development_level = 2 }
+	1166.1.1 = { change_development_level = 4 }
+	1204.1.1 = { change_development_level = 6 }
+	1241.1.1 = { change_development_level = 8 }
+	1310.1.1 = { change_development_level = 10 }
+	}
 
 	k_pontic_steppe = { #Zaporizhia
 	769.1.1 = { change_development_level = 0 }
@@ -10124,6 +10174,17 @@
 	1241.1.1 = { change_development_level = 8 }
 	1310.1.1 = { change_development_level = 10 }
 	}
+	
+	k_qara_dala = { 
+	769.1.1 = { change_development_level = 0 }
+	1000.1.1 = { change_development_level = 0 }
+	1124.1.1 = { change_development_level = 2 }
+	1166.1.1 = { change_development_level = 4 }
+	1204.1.1 = { change_development_level = 6 }
+	1241.1.1 = { change_development_level = 8 }
+	1310.1.1 = { change_development_level = 10 }
+	}
+
 
 	k_cuman = { #Cumania
 	769.1.1 = { change_development_level = 0 }
@@ -10284,6 +10345,16 @@
 	1241.1.1 = { change_development_level = 8 }
 	1310.1.1 = { change_development_level = 12 }
 	}
+	
+	k_kerait = {
+	769.1.1 = { change_development_level = 0 }
+	1000.1.1 = { change_development_level = 0 }
+	1124.1.1 = { change_development_level = 1 }
+	1166.1.1 = { change_development_level = 2 }
+	1204.1.1 = { change_development_level = 6 }
+	1241.1.1 = { change_development_level = 8 }
+	1310.1.1 = { change_development_level = 12 }
+	}
 
 	k_tuva = {
 	769.1.1 = { change_development_level = 0 }
@@ -10294,7 +10365,27 @@
 	1241.1.1 = { change_development_level = 6 }
 	1310.1.1 = { change_development_level = 8 }
 	}
-
+	
+	k_merkit = {
+	769.1.1 = { change_development_level = 0 }
+	1000.1.1 = { change_development_level = 0 }
+	1124.1.1 = { change_development_level = 0 }
+	1166.1.1 = { change_development_level = 2 }
+	1204.1.1 = { change_development_level = 4 }
+	1241.1.1 = { change_development_level = 6 }
+	1310.1.1 = { change_development_level = 8 }
+	}
+	
+	k_selenge = {
+	769.1.1 = { change_development_level = 0 }
+	1000.1.1 = { change_development_level = 0 }
+	1124.1.1 = { change_development_level = 0 }
+	1166.1.1 = { change_development_level = 2 }
+	1204.1.1 = { change_development_level = 4 }
+	1241.1.1 = { change_development_level = 6 }
+	1310.1.1 = { change_development_level = 8 }
+	}
+	
 	k_khakassia = {
 	769.1.1 = { change_development_level = 0 }
 	1000.1.1 = { change_development_level = 0 }
@@ -11005,4 +11096,15 @@
 	1241.1.1 = { change_development_level = 22 }
 	1310.1.1 = { change_development_level = 28 }
 	}
-#End Development File
+	
+	c_hangzhou_china = {
+	769.1.1 = {	change_development_level = 10 }
+	1000.1.1 = { change_development_level = 15 }
+	1124.1.1 = { change_development_level = 18 }
+	1166.1.1 = { change_development_level = 24 }
+	1204.1.1 = { change_development_level = 26 }
+	1241.1.1 = { change_development_level = 30 }
+	1310.1.1 = { change_development_level = 25 }
+	
+	}
+#End Development File #}
