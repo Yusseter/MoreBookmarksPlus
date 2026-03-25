@@ -5760,7 +5760,7 @@ e_britannia = {
 						limit = { is_ai = yes }
 						NOT = { exists = title:k_england }
 					}
-					faith = { religion_tag = christianity_religion }
+					#faith = { religion_tag = christianity_religion }
 			}
 
 			cultural_names = {
