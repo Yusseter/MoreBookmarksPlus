@@ -32062,6 +32062,7 @@ e_jurchen_china = {
 		name = "JIN"
 		succession_laws = { single_heir_dynasty_house male_only_law }
 		government = administrative_government
+		effect = { set_capital_county = title:c_achu_china }
 		effect = {
 			if = {
 				limit = {
@@ -32083,6 +32084,9 @@ e_jurchen_china = {
 	1150.1.9 = {
 		holder = jurchen79	#海陵庶人完顏亮
 	}
+	1153.1.1 = {
+		effect = { set_capital_county = title:c_youzhou_china }
+	}
 	1161.12.15 = {
 		holder = jurchen120	#金世宗完顏雍
 	}
@@ -32103,6 +32107,7 @@ e_jurchen_china = {
 	}
 	1234.2.9 = {
 		holder = 0	#金朝滅亡
+		effect = { set_capital_county = title:c_BAL_dongpyeong_yizhou }
 	}
 
 }
@@ -33713,7 +33718,7 @@ c_em_hepung = {
 	
 	758.9.18 = {
 		holder = MongolNew714  # Bagaridai
-		liege = d_EM_onon
+		liege = d_EM_wuguguo
 	}
 	
 	789.11.7 = {

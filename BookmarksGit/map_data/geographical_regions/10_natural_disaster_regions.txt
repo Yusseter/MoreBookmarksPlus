@@ -36,17 +36,17 @@ tigris_river_region = { # Tigris River
 }
 irrawaddy_river_region = { # Irrawaddy River
 	counties = {
-		c_takon c_myedu c_hanlin c_myinmu c_pakokku c_salin c_minbu c_mindon c_myede c_kanaung c_pantanaw c_myaungmya c_bogale c_dala c_tharrawaddy c_sriksetra c_beikthano c_magwe c_pagan c_maingmaw c_madaya 
+		c_takon c_myedu c_hanlin c_myinmu c_pakokku c_salin c_minbu c_mindon c_myede c_kanaung c_pantanaw c_myaungmya c_bogale c_dala c_tharrawaddy c_sriksetra c_beikthano c_magwe c_pagan c_maingmaw c_madaya c_henzada
 	}
 }
 mekong_river_region = { # Mekong River
 	counties = {
-		c_prey_rusey c_can_tho c_angkor_borei c_dviradapura c_prey_nokor c_sambhupura c_thala_borivat c_phnom_preah_theat c_tbong_khmum c_kiri_vong c_sadek c_sap c_shrestapura c_pakse c_khemarat
+		c_prey_rusey c_can_tho c_angkor_borei c_dviradapura c_prey_nokor c_sambhupura c_thala_borivat c_phnom_preah_theat c_tbong_khmum c_kiri_vong c_sadek c_sap c_shrestapura c_pakse c_khemarat c_kampong_kdei
 	}
 }
 amur_river_region = { # Amur River
 	counties = {
-		c_eman_amgun c_eman_nurgan c_eman_kerin c_eman_beihean c_eman_molihewen c_eman_choripi c_eman_boli c_eman_murkonno c_BAL_central_hoewon c_BAL_dazhou c_BAL_ilanshan c_eman_vanda c_SW_suihua
+		c_eman_amgun c_eman_nurgan c_eman_kerin c_eman_beihean c_eman_molihewen c_eman_choripi c_eman_boli c_eman_murkonno c_BAL_central_hoewon c_BAL_dazhou c_BAL_ilanshan c_eman_vanda c_SW_suihua c_eman_mohean
 	}
 }
 ### AFRICA

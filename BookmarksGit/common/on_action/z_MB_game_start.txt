@@ -18301,6 +18301,7 @@ MB_set_noble_families = {
 							highest_held_title_tier >= tier_county
 							has_government = meritocratic_government
 							has_tgp_dlc_trigger = yes
+							has_tgp_dlc_trigger = yes
 							is_house_head = yes
 						}
 						create_noble_family_effect = { GOVERNMENT_GIVER = this }
@@ -22433,223 +22434,223 @@ MB_set_regencies = {
 
 		}
 
-		#Korea Military Dictatorship 1170-1270
-
-		if = {
-
-			limit = { game_start_date = 1171.8.1 }
-
-			## Goryeo
-			character:1900755 = { designate_diarch = character:UiBang }
-
-			remove_generated_diarch_consequences_effect = {
-				NEW_DIARCH = character:UiBang
-				LIEGE = character:1900755
-			}
-
-		}
-		if = {
-			limit = { exists = character:1900755 }
-			character:1900755 = { trigger_event = diarchy.0012 }
-		}
-
-		if = {
-
-			limit = { game_start_date = 1178.10.1 }
-
-			## Goryeo
-			character:1900755 = { designate_diarch = character:Chong0 }
-
-			remove_generated_diarch_consequences_effect = {
-				NEW_DIARCH = character:Chong0
-				LIEGE = character:1900755
-			}
-
-		}
-		if = {
-			limit = { exists = character:1900755 }
-			character:1900755 = { trigger_event = diarchy.0012 }
-		}
-
-		if = {
-
-			limit = { game_start_date = 1183.5.1 }
-
-			## Goryeo
-			character:1900755 = { designate_diarch = character:Kyong0 }
-
-			remove_generated_diarch_consequences_effect = {
-				NEW_DIARCH = character:Kyong0
-				LIEGE = character:1900755
-			}
-
-		}
-		if = {
-			limit = { exists = character:1900755 }
-			character:1900755 = { trigger_event = diarchy.0012 }
-		}
-
-		if = {
-
-			limit = { game_start_date = 1194.9.30 }
-
-			## Goryeo
-			character:1900755 = { designate_diarch = character:UiMin0 }
-
-			remove_generated_diarch_consequences_effect = {
-				NEW_DIARCH = character:UiMin0
-				LIEGE = character:1900755
-			}
-
-		}
-		if = {
-			limit = { exists = character:1900755 }
-			character:1900755 = { trigger_event = diarchy.0012 }
-		}
-
-		if = {
-
-			limit = { game_start_date = 1204.5.16 }
-
-			## Goryeo
-			character:1900783 = { designate_diarch = character:ChoeClan1 }
-
-			remove_generated_diarch_consequences_effect = {
-				NEW_DIARCH = character:ChoeClan1
-				LIEGE = character:1900783
-			}
-
-		}
-		if = {
-			limit = { exists = character:1900783 }
-			character:1900783 = { trigger_event = diarchy.0012 }
-		}
-
-		if = {
-
-			limit = { game_start_date = 1211.6.16 }
-
-			## Goryeo
-			character:1900783 = { designate_diarch = character:ChoeClan1 }
-
-			remove_generated_diarch_consequences_effect = {
-				NEW_DIARCH = character:ChoeClan1
-				LIEGE = character:1900783
-			}
-
-		}
-		if = {
-			limit = { exists = character:1900783 }
-			character:1900783 = { trigger_event = diarchy.0012 }
-		}
-
-		if = {
-
-			limit = { game_start_date = 1220.5.16 }
-
-			## Goryeo
-			character:gaeseong_wang_268 = { designate_diarch = character:ChoeClan2 }
-
-			remove_generated_diarch_consequences_effect = {
-				NEW_DIARCH = character:ChoeClan2
-				LIEGE = character:gaeseong_wang_268
-			}
-
-		}
-		if = {
-			limit = { exists = character:gaeseong_wang_268 }
-			character:gaeseong_wang_268 = { trigger_event = diarchy.0012 }
-		}
-
-		if = {
-
-			limit = { game_start_date = 1234.4.6 }
-
-			## Goryeo
-			character:gaeseong_wang_268 = { designate_diarch = character:ChoeClan2 }
-
-			remove_generated_diarch_consequences_effect = {
-				NEW_DIARCH = character:ChoeClan2
-				LIEGE = character:gaeseong_wang_268
-			}
-
-		}
-		if = {
-			limit = { exists = character:gaeseong_wang_268 }
-			character:gaeseong_wang_268 = { trigger_event = diarchy.0012 }
-		}
-
-		if = {
-
-			limit = { game_start_date = 1246.6.13 }
-
-			## Goryeo
-			character:gaeseong_wang_268 = { designate_diarch = character:ChoeClan2 }
-
-			remove_generated_diarch_consequences_effect = {
-				NEW_DIARCH = character:ChoeClan2
-				LIEGE = character:gaeseong_wang_268
-			}
-
-		}
-		if = {
-			limit = { exists = character:gaeseong_wang_268 }
-			character:gaeseong_wang_268 = { trigger_event = diarchy.0012 }
-		}
-
-		if = {
-
-			limit = { game_start_date = 1250.7.15 }
-
-			## Goryeo
-			character:gaeseong_wang_268 = { designate_diarch = character:ChoeClan3 }
-
-			remove_generated_diarch_consequences_effect = {
-				NEW_DIARCH = character:ChoeClan3
-				LIEGE = character:gaeseong_wang_268
-			}
-
-		}
-		if = {
-			limit = { exists = character:gaeseong_wang_268 }
-			character:gaeseong_wang_268 = { trigger_event = diarchy.0012 }
-		}
-
-		if = {
-
-			limit = { game_start_date = 1258.2.15 }
-
-			## Goryeo
-			character:gaeseong_wang_268 = { designate_diarch = character:KorKim1 }
-
-			remove_generated_diarch_consequences_effect = {
-				NEW_DIARCH = character:KorKim1
-				LIEGE = character:gaeseong_wang_268
-			}
-
-		}
-		if = {
-			limit = { exists = character:gaeseong_wang_268 }
-			character:gaeseong_wang_268 = { trigger_event = diarchy.0012 }
-		}
-
-		if = {
-
-			limit = { game_start_date = 1267.6.1 }
-
-			## Goryeo
-			character:gaeseong_wang_271 = { designate_diarch = character:KorKim1 }
-
-			remove_generated_diarch_consequences_effect = {
-				NEW_DIARCH = character:KorKim1
-				LIEGE = character:gaeseong_wang_271
-			}
-
-		}
-		if = {
-			limit = { exists = character:gaeseong_wang_271 }
-			character:gaeseong_wang_271 = { trigger_event = diarchy.0012 }
-		}
+		##Korea Military Dictatorship 1170-1270
+		#
+		#if = {
+		#
+		#	limit = { game_start_date = 1171.8.1 }
+		#
+		#	## Goryeo
+		#	character:1900755 = { designate_diarch = character:UiBang }
+		#
+		#	remove_generated_diarch_consequences_effect = {
+		#		NEW_DIARCH = character:UiBang
+		#		LIEGE = character:1900755
+		#	}
+		#
+		#}
+		#if = {
+		#	limit = { exists = character:1900755 }
+		#	character:1900755 = { trigger_event = diarchy.0012 }
+		#}
+		#
+		#if = {
+		#
+		#	limit = { game_start_date = 1178.10.1 }
+		#
+		#	## Goryeo
+		#	character:1900755 = { designate_diarch = character:Chong0 }
+		#
+		#	remove_generated_diarch_consequences_effect = {
+		#		NEW_DIARCH = character:Chong0
+		#		LIEGE = character:1900755
+		#	}
+		#
+		#}
+		#if = {
+		#	limit = { exists = character:1900755 }
+		#	character:1900755 = { trigger_event = diarchy.0012 }
+		#}
+		#
+		#if = {
+		#
+		#	limit = { game_start_date = 1183.5.1 }
+		#
+		#	## Goryeo
+		#	character:1900755 = { designate_diarch = character:Kyong0 }
+		#
+		#	remove_generated_diarch_consequences_effect = {
+		#		NEW_DIARCH = character:Kyong0
+		#		LIEGE = character:1900755
+		#	}
+		#
+		#}
+		#if = {
+		#	limit = { exists = character:1900755 }
+		#	character:1900755 = { trigger_event = diarchy.0012 }
+		#}
+		#
+		#if = {
+		#
+		#	limit = { game_start_date = 1194.9.30 }
+		#
+		#	## Goryeo
+		#	character:1900755 = { designate_diarch = character:UiMin0 }
+		#
+		#	remove_generated_diarch_consequences_effect = {
+		#		NEW_DIARCH = character:UiMin0
+		#		LIEGE = character:1900755
+		#	}
+		#
+		#}
+		#if = {
+		#	limit = { exists = character:1900755 }
+		#	character:1900755 = { trigger_event = diarchy.0012 }
+		#}
+		#
+		#if = {
+		#
+		#	limit = { game_start_date = 1204.5.16 }
+		#
+		#	## Goryeo
+		#	character:1900783 = { designate_diarch = character:ChoeClan1 }
+		#
+		#	remove_generated_diarch_consequences_effect = {
+		#		NEW_DIARCH = character:ChoeClan1
+		#		LIEGE = character:1900783
+		#	}
+		#
+		#}
+		#if = {
+		#	limit = { exists = character:1900783 }
+		#	character:1900783 = { trigger_event = diarchy.0012 }
+		#}
+		#
+		#if = {
+		#
+		#	limit = { game_start_date = 1211.6.16 }
+		#
+		#	## Goryeo
+		#	character:1900783 = { designate_diarch = character:ChoeClan1 }
+		#
+		#	remove_generated_diarch_consequences_effect = {
+		#		NEW_DIARCH = character:ChoeClan1
+		#		LIEGE = character:1900783
+		#	}
+		#
+		#}
+		#if = {
+		#	limit = { exists = character:1900783 }
+		#	character:1900783 = { trigger_event = diarchy.0012 }
+		#}
+		#
+		#if = {
+		#
+		#	limit = { game_start_date = 1220.5.16 }
+		#
+		#	## Goryeo
+		#	character:gaeseong_wang_268 = { designate_diarch = character:ChoeClan2 }
+		#
+		#	remove_generated_diarch_consequences_effect = {
+		#		NEW_DIARCH = character:ChoeClan2
+		#		LIEGE = character:gaeseong_wang_268
+		#	}
+		#
+		#}
+		#if = {
+		#	limit = { exists = character:gaeseong_wang_268 }
+		#	character:gaeseong_wang_268 = { trigger_event = diarchy.0012 }
+		#}
+		#
+		#if = {
+		#
+		#	limit = { game_start_date = 1234.4.6 }
+		#
+		#	## Goryeo
+		#	character:gaeseong_wang_268 = { designate_diarch = character:ChoeClan2 }
+		#
+		#	remove_generated_diarch_consequences_effect = {
+		#		NEW_DIARCH = character:ChoeClan2
+		#		LIEGE = character:gaeseong_wang_268
+		#	}
+		#
+		#}
+		#if = {
+		#	limit = { exists = character:gaeseong_wang_268 }
+		#	character:gaeseong_wang_268 = { trigger_event = diarchy.0012 }
+		#}
+		#
+		#if = {
+		#
+		#	limit = { game_start_date = 1246.6.13 }
+		#
+		#	## Goryeo
+		#	character:gaeseong_wang_268 = { designate_diarch = character:ChoeClan2 }
+		#
+		#	remove_generated_diarch_consequences_effect = {
+		#		NEW_DIARCH = character:ChoeClan2
+		#		LIEGE = character:gaeseong_wang_268
+		#	}
+		#
+		#}
+		#if = {
+		#	limit = { exists = character:gaeseong_wang_268 }
+		#	character:gaeseong_wang_268 = { trigger_event = diarchy.0012 }
+		#}
+		#
+		#if = {
+		#
+		#	limit = { game_start_date = 1250.7.15 }
+		#
+		#	## Goryeo
+		#	character:gaeseong_wang_268 = { designate_diarch = character:ChoeClan3 }
+		#
+		#	remove_generated_diarch_consequences_effect = {
+		#		NEW_DIARCH = character:ChoeClan3
+		#		LIEGE = character:gaeseong_wang_268
+		#	}
+		#
+		#}
+		#if = {
+		#	limit = { exists = character:gaeseong_wang_268 }
+		#	character:gaeseong_wang_268 = { trigger_event = diarchy.0012 }
+		#}
+		#
+		#if = {
+		#
+		#	limit = { game_start_date = 1258.2.15 }
+		#
+		#	## Goryeo
+		#	character:gaeseong_wang_268 = { designate_diarch = character:KorKim1 }
+		#
+		#	remove_generated_diarch_consequences_effect = {
+		#		NEW_DIARCH = character:KorKim1
+		#		LIEGE = character:gaeseong_wang_268
+		#	}
+		#
+		#}
+		#if = {
+		#	limit = { exists = character:gaeseong_wang_268 }
+		#	character:gaeseong_wang_268 = { trigger_event = diarchy.0012 }
+		#}
+		#
+		#if = {
+		#
+		#	limit = { game_start_date = 1267.6.1 }
+		#
+		#	## Goryeo
+		#	character:gaeseong_wang_271 = { designate_diarch = character:KorKim1 }
+		#
+		#	remove_generated_diarch_consequences_effect = {
+		#		NEW_DIARCH = character:KorKim1
+		#		LIEGE = character:gaeseong_wang_271
+		#	}
+		#
+		#}
+		#if = {
+		#	limit = { exists = character:gaeseong_wang_271 }
+		#	character:gaeseong_wang_271 = { trigger_event = diarchy.0012 }
+		#}
 
 
 		#Japan
