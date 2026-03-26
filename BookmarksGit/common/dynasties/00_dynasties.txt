@@ -355,6 +355,7 @@ akpotodyn003 = {
 
 1000100601 = {
 	name = "dynn_Qahtan"
+	prefix = "dynnp_al-"
 	culture = alan
 }
 
@@ -448,25 +449,25 @@ akpotodyn003 = {
 
 573 = {
 	name = "dynn_Aftasid"
-	prefix = "dynnp_al-"
+	prefix = "dynnp_banu" # Traditionally Banu Afṭas
 	culture = "andalusian"
 }
 
 586 = {
 	name = "dynn_Razinid"
-	prefix = "dynnp_al-"
+	prefix = "dynnp_banu" # Traditionally Banu Razīn
 	culture = "andalusian"
 }
 
 594 = {
 	name = "dynn_Abbadid"
-	prefix = "dynnp_al-"
+	prefix = "dynnp_banu" # Traditionally Banu 'Abbād
 	culture = "andalusian"
 }
 
 599 = {
 	name = "dynn_Hudid"
-	prefix = "dynnp_al-"
+	prefix = "dynnp_banu" # Traditionally Banu Hūd
 	culture = "andalusian"
 }
 
@@ -502,7 +503,7 @@ akpotodyn003 = {
 
 12194 = {
 	name = "dynn_Tuyyibid"
-	prefix = "dynnp_al-"
+	prefix = "dynnp_banu" # Banu Tuyyīb
 	culture = "andalusian"
 }
 
@@ -544,7 +545,7 @@ akpotodyn003 = {
 
 12202 = {
 	name = "dynn_Lubbunid"
-	prefix = "dynnp_al-"
+	prefix = "dynnp_banu" # Banu Lubb
 	culture = "andalusian"
 }
 
@@ -574,13 +575,13 @@ akpotodyn003 = {
 
 12210 = {
 	name = "dynn_Abu-Ya_farid"
-	prefix = "dynnp_al-"
+	prefix = "dynnp_banu" # Banu Abi Ja'far
 	culture = "andalusian"
 }
 
 12211 = {
 	name = "dynn_Mardanisid"
-	prefix = "dynnp_al-"
+	prefix = "dynnp_banu" # Banu Mardanish
 	culture = "andalusian"
 }
 
@@ -730,19 +731,19 @@ akpotodyn003 = {
 
 12291 = {
 	name = "dynn_Amrusid"
-	prefix = "dynnp_al-"
+	prefix = "dynnp_banu" # Banu 'Amrūs
 	culture = "andalusian"
 }
 
 12292 = {
 	name = "dynn_Hafsunid"
-	prefix = "dynnp_al-"
+	prefix = "dynnp_banu" # Banu Ḥafṣūn
 	culture = "andalusian"
 }
 
 12293 = {
 	name = "dynn_Qasid"
-	prefix = "dynnp_al-"
+	prefix = "dynnp_banu" # Traditionally Banu Qasī
 	culture = "andalusian"
 }
 
@@ -778,7 +779,7 @@ akpotodyn003 = {
 
 12304 = {
 	name = "dynn_Zuhrid"
-	prefix = "dynnp_al-"
+	prefix = "dynnp_banu" # Banu Zuhr
 	culture = "andalusian"
 }
 
@@ -874,7 +875,7 @@ akpotodyn003 = {
 
 101608 = {
 	name = "dynn_Sumadid"
-	prefix = "dynnp_al-"
+	prefix = "dynnp_banu" # Banu Ṣumādiḥ
 	culture = "andalusian"
 }
 
@@ -1371,7 +1372,6 @@ akpotodyn003 = {
 }
 
 2004006 = {
-	prefix = "dynnp_of" #Fictional for Oslac (who is historical)
 	name = "dynn_Oslac"
 	culture = "anglo_saxon"
 }
@@ -1434,6 +1434,7 @@ easteregg_dynasty_0064 = {
 
 1059952 = {
 	name = "dynn_Dukagjini"
+	prefix = "dynnp_i_" # Of Dukagjin
 	culture = "arberian"
 }
 
@@ -1454,8 +1455,8 @@ easteregg_dynasty_0064 = {
 
 durres_dynasty = {
 	prefix = "dynnp_i_"
-	name = dynn_DurrE_s
-	culture = arberian
+	name = "dynn_DurrE_s"
+	culture = "arberian"
 }
 
 Arianiti_Albania = { 
@@ -1502,10 +1503,8 @@ argobbadyn002 = {
 	name = "dynn_Shagura"
 	culture = argobba
 }
-
 43 = {
 	name = "dynn_Bagratuni"
-	prefix = "dynnp_ve"
 	culture = "armenian"
 }
 
@@ -1640,7 +1639,6 @@ argobbadyn002 = {
 
 1029025 = {
 	name = "dynn_Arranshahik"
-	prefix = "dynnp_ve"
 	culture = "armenian"
 }
 
@@ -1793,7 +1791,7 @@ Gntuni_Armenia = {
 
 1000020504 = {
 	name = "dynn_Uise"
-	prefix = "dynnp_de"
+	prefix = "dynnp_d_" # Switched to d' for vowel
 	culture = arpitan
 }
 
@@ -1811,7 +1809,7 @@ Gntuni_Armenia = {
 
 1000020507 = {
 	name = "dynn_Aucelle"
-	prefix = "dynnp_de"
+	prefix = "dynnp_d_" # Switched to d' for vowel
 	culture = arpitan
 }
 
@@ -1865,7 +1863,7 @@ Gntuni_Armenia = {
 
 1000020516 = {
 	name = "dynn_la_Tour_du_Pin"
-	prefix = "dynnp_de"
+	prefix = "dynnp_de" # Correct: "de la Tour du Pin"
 	culture = arpitan
 }
 
@@ -1907,7 +1905,7 @@ Gntuni_Armenia = {
 
 1000020523 = {
 	name = "dynn_Aigle"
-	prefix = "dynnp_de"
+	prefix = "dynnp_d_" # Switched to d' for vowel
 	culture = arpitan
 }
 
@@ -1931,13 +1929,13 @@ Gntuni_Armenia = {
 
 1000020527 = {
 	name = "dynn_la_Chambre"
-	prefix = "dynnp_de"
+	prefix = "dynnp_de" # Correct: "de la Chambre"
 	culture = arpitan
 }
 
 1000020528 = {
 	name = "dynn_Aubonne"
-	prefix = "dynnp_de"
+	prefix = "dynnp_d_" # Switched to d' for vowel
 	culture = arpitan
 }
 
@@ -1973,7 +1971,7 @@ Gntuni_Armenia = {
 
 1000020534 = {
 	name = "dynn_Autoreille"
-	prefix = "dynnp_de"
+	prefix = "dynnp_d_" # Switched to d' for vowel
 	culture = arpitan
 }
 
@@ -2101,151 +2099,126 @@ aslian_d008 = {
 
 1000103181 = {
 	name = "dynn_Abraza"
-	prefix = "dynnp_bar"
 	culture = assyrian
 }
 
 1000103182 = {
 	name = "dynn_Zanbur"
-	prefix = "dynnp_bar"
 	culture = assyrian
 }
 
 1000103183 = {
 	name = "dynn_Moqli"
-	prefix = "dynnp_bar"
 	culture = assyrian
 }
 
 1000103184 = {
 	name = "dynn_Nazuk"
-	prefix = "dynnp_bar"
 	culture = assyrian
 }
 
 1000103185 = {
 	name = "dynn_Toba"
-	prefix = "dynnp_bar"
 	culture = assyrian
 }
 
 1000103186 = {
 	name = "dynn_Ezekiel"
-	prefix = "dynnp_bar"
 	culture = assyrian
 }
 
 1000103187 = {
 	name = "dynn_Targhal"
-	prefix = "dynnp_bar"
 	culture = assyrian
 }
 
 1000103188 = {
 	name = "dynn_Qayyoma"
-	prefix = "dynnp_bar"
 	culture = assyrian
 }
 
 1000103189 = {
 	name = "dynn_Masihi"
-	prefix = "dynnp_bar"
 	culture = assyrian
 }
 
 1000103190 = {
 	name = "dynn_Sulaqa"
-	prefix = "dynnp_bar"
 	culture = assyrian
 }
 
 1000103191 = {
 	name = "dynn_Abahu"
-	prefix = "dynnp_bar"
 	culture = assyrian
 }
 
 1000103192 = {
 	name = "dynn_Bukhtishu"
-	prefix = "dynnp_bar"
 	culture = assyrian
 }
 
 1000103193 = {
 	name = "dynn_Berika"
-	prefix = "dynnp_bar"
 	culture = assyrian
 }
 
 1000103194 = {
 	name = "dynn_Qurzahli"
-	prefix = "dynnp_bar"
 	culture = assyrian
 }
 
 1000103195 = {
 	name = "dynn_Khamoro"
-	prefix = "dynnp_bar"
 	culture = assyrian
 }
 
 1000103196 = {
 	name = "dynn_Qindasi"
-	prefix = "dynnp_bar"
 	culture = assyrian
 }
 
 1000103197 = {
 	name = "dynn_Madani"
-	prefix = "dynnp_bar"
 	culture = assyrian
 }
 
 1000103198 = {
 	name = "dynn_Qutreh"
-	prefix = "dynnp_bar"
 	culture = assyrian
 }
 
 1000103199 = {
 	name = "dynn_Abdun"
-	prefix = "dynnp_bar"
 	culture = assyrian
 }
 
 1000123200 = {
 	name = "dynn_Mawdyono"
-	prefix = "dynnp_bar"
 	culture = assyrian
 }
 
 1000123201 = {
 	name = "dynn_Shushan"
-	prefix = "dynnp_bar"
 	culture = assyrian
 }
 
 1000123202 = {
 	name = "dynn_Ebraya"
-	prefix = "dynnp_bar"
 	culture = assyrian
 }
 
 1000053201 = {
 	name = "dynn_Nunez"
-	prefix = "dynnp_de"
 	culture = asturleonese
 }
 
 1000053241 = {
 	name = "dynn_Froilaz"
-	prefix = "dynnp_de"
 	culture = asturleonese
 }
 
 1000053242 = {
 	name = "dynn_Flainez"
-	prefix = "dynnp_de"
 	culture = asturleonese
 }
 
@@ -2263,7 +2236,6 @@ aslian_d008 = {
 
 1000053245 = {
 	name = "dynn_Ponce_de_Leon"
-	prefix = "dynnp_de"
 	culture = asturleonese
 }
 
@@ -2281,7 +2253,6 @@ aslian_d008 = {
 
 1000053248 = {
 	name = "dynn_Osorio"
-	prefix = "dynnp_de"
 	culture = asturleonese
 }
 
@@ -2293,19 +2264,16 @@ aslian_d008 = {
 
 1000053250 = {
 	name = "dynn_Gomezi"
-	prefix = "dynnp_al-"
 	culture = asturleonese
 }
 
 1000053251 = {
 	name = "dynn_Ansurez"
-	prefix = "dynnp_de"
 	culture = asturleonese
 }
 
 1000053252 = {
 	name = "dynn_Vermudez"
-	prefix = "dynnp_de"
 	culture = asturleonese
 }
 
@@ -2317,7 +2285,6 @@ aslian_d008 = {
 
 1000053254 = {
 	name = "dynn_Alfonso"
-	prefix = "dynnp_de"
 	culture = asturleonese
 }
 
@@ -2329,7 +2296,6 @@ aslian_d008 = {
 
 1000053256 = {
 	name = "dynn_Ordonez"
-	prefix = "dynnp_de"
 	culture = asturleonese
 }
 
@@ -2630,31 +2596,37 @@ aslian_d008 = {
 
 1000103926 = {
 	name = "dynn_Baki"
+	prefix = "dynnp_al-"
 	culture = azeri
 }
 
 1000103927 = {
 	name = "dynn_Sabarani"
+	prefix = "dynnp_al-"
 	culture = azeri
-}
+} 
 
 1000103928 = {
 	name = "dynn_Absarani"
+	prefix = "dynnp_al-"
 	culture = azeri
 }
 
 1000103929 = {
 	name = "dynn_Shemakhi"
+	prefix = "dynnp_al-"
 	culture = azeri
 }
 
 1000103930 = {
 	name = "dynn_Yusufi"
+	prefix = "dynnp_al-"
 	culture = azeri
 }
 
 1000103931 = {
 	name = "dynn_Mughani"
+	prefix = "dynnp_al-"
 	culture = azeri
 }
 
@@ -3021,6 +2993,7 @@ baloch_dynasty = {
 
 9576 = {
 	name = "dynn_Barghawata"
+	prefix = "dynnp_banu"
 	culture = "baranis"
 }
 
@@ -3051,16 +3024,19 @@ baloch_dynasty = {
 
 1000053593 = {
 	name = "dynn_Hargha"
+	prefix = "dynnp_banu"
 	culture = baranis
 }
 
 1000053595 = {
 	name = "dynn_Kutama"
+	prefix = "dynnp_banu"
 	culture = baranis
 }
 
 1000053598 = {
 	name = "dynn_Darir"
+	prefix = "dynnp_al-"
 	culture = baranis
 }
 
@@ -3072,6 +3048,7 @@ baloch_dynasty = {
 
 1000054000 = {
 	name = "dynn_Rand"
+	prefix = "dynnp_banu"
 	culture = baranis
 }
 
@@ -3095,26 +3072,31 @@ baloch_dynasty = {
 
 1000101121 = {
 	name = "dynn_Azger"
+	prefix = "dynnp_banu"
 	culture = baranis
 }
 
 1000101122 = {
 	name = "dynn_Warith"
+	prefix = "dynnp_banu"
 	culture = baranis
 }
 
 1000101123 = {
 	name = "dynn_Talkata"
+	prefix = "dynnp_banu"
 	culture = baranis
 }
 
 1000101124 = {
 	name = "dynn_Haskura"
+	prefix = "dynnp_banu"
 	culture = baranis
 }
 
 1000101126 = {
 	name = "dynn_Awraba"
+	prefix = "dynnp_banu"
 	culture = baranis
 }
 
@@ -3138,21 +3120,25 @@ baloch_dynasty = {
 
 1000101261 = {
 	name = "dynn_Ganfisa"
+	prefix = "dynnp_banu"
 	culture = baranis
 }
 
 1000101262 = {
 	name = "dynn_Gadmiwa"
+	prefix = "dynnp_banu"
 	culture = baranis
 }
 
 1000101263 = {
 	name = "dynn_Hintata"
+	prefix = "dynnp_banu"
 	culture = baranis
 }
 
 1000101264 = {
 	name = "dynn_Hazraja"
+	prefix = "dynnp_banu"
 	culture = baranis
 }
 
@@ -3200,61 +3186,73 @@ baloch_dynasty = {
 
 baranis_awraba = {
 	name = "dynn_Awraba"
+	prefix = "dynnp_banu"
 	culture = baranis
 }
 
 baranis_azdaja = {
 	name = "dynn_Azdaja"
+	prefix = "dynnp_banu"
 	culture = baranis
 }
 
 baranis_mesgen = {
 	name = "dynn_Mesgen"
+	prefix = "dynnp_banu"
 	culture = baranis
 }
 
 baranisdyn001 = {
-	name = "dynn_Ghomara" #Ghomara Berbers
+	name = "dynn_Ghomara"
+	prefix = "dynnp_banu"
 	culture = baranis
 }
 
 baranisdyn002 = {
-	name = "dynn_Awsaga" #part of the Masmuda confederation, like the Ghomara
+	name = "dynn_Awsaga"
+	prefix = "dynnp_banu"
 	culture = baranis
 }
 
 berberuprising001 = {
 	name = "dynn_Majakas"
+	prefix = "dynnp_banu"
 	culture = baranis
 }
 
 berberuprising002 = {
-	name = "dynn_Al_Mawati"
+	name = "dynn_Mawati" # Removed "Al_" prefix from name
+	prefix = "dynnp_al-"
 	culture = baranis
 }
 
 iblbaranisdyn002 = {
 	name = "dynn_Qasimid"
+	prefix = "dynnp_banu"
 	culture = baranis
 }
 
 iblbaranisdyn003 = {
-	name = "dynn_Banu_Lamas"
+	name = "dynn_Lamas" # Removed "Banu_"
+	prefix = "dynnp_banu"
 	culture = baranis
 }
 
 iblbaranisdyn004 = {
-	name = "dynn_Banu_Wawazgit"
+	name = "dynn_Wawazgit" # Removed "Banu_"
+	prefix = "dynnp_banu"
 	culture = baranis
 }
 
 masmuda_ragraga = {
 	name = "dynn_Ragraga"
+	prefix = "dynnp_banu"
 	culture = baranis
 }
 
 masmuda_sawda = {
 	name = "dynn_Sawda"
+	prefix = "dynnp_banu"
 	culture = baranis
 }
 
@@ -3266,31 +3264,37 @@ salimid = {
 
 sanhaja_anjafa = {
 	name = "dynn_Anjafa"
+	prefix = "dynnp_banu"
 	culture = baranis
 }
 
 sanhaja_fishtala = {
 	name = "dynn_Fishtala"
+	prefix = "dynnp_banu"
 	culture = baranis
 }
 
 sanhaja_haskura = {
 	name = "dynn_Haskura"
+	prefix = "dynnp_banu"
 	culture = baranis
 }
 
 sanhaja_serta = {
 	name = "dynn_Serta"
+	prefix = "dynnp_banu"
 	culture = baranis
 }
 
 sanhaja_suswala = {
 	name = "dynn_Suswala"
+	prefix = "dynnp_banu"
 	culture = baranis
 }
 
 sanhaja_talkata = {
 	name = "dynn_Talkata"
+	prefix = "dynnp_banu"
 	culture = baranis
 }
 
@@ -3462,7 +3466,6 @@ sanhaja_talkata = {
 
 1000103900 = {
 	name = "dynn_Arabez"
-	prefix = "dynnp_de"
 	culture = basque
 }
 
@@ -3558,7 +3561,7 @@ batak_d004 = {
 }
 
 416 = {
-	name = "dynn_Luitpolding"
+	name = "dynn_Luitpolding" # Removed prefix: Clan name
 	culture = "bavarian"
 }
 
@@ -3569,14 +3572,13 @@ batak_d004 = {
 }
 
 650 = {
-	name = "dynn_Welf"
-	prefix = "dynnp_von"
+	name = "dynn_Welf" # Removed prefix: Clan name
 	culture = "bavarian"
 }
 
 797 = {
-	name = "dynn_Asperger"
 	prefix = "dynnp_von"
+	name = "dynn_Asperger"
 	culture = "bavarian"
 }
 
@@ -3587,8 +3589,7 @@ batak_d004 = {
 }
 
 7220 = {
-	name = "dynn_Rapotonen"
-	prefix = "dynnp_von"
+	name = "dynn_Rapotonen" # Removed prefix: Clan name
 	culture = "bavarian"
 }
 
@@ -3623,20 +3624,17 @@ batak_d004 = {
 }
 
 9553 = {
-	name = "dynn_Wilhelmiden"
-	prefix = "dynnp_von"
+	name = "dynn_Wilhelmiden" # Removed prefix: Clan name
 	culture = "bavarian"
 }
 
 9554 = {
-	name = "dynn_Aribonen"
-	prefix = "dynnp_von"
+	name = "dynn_Aribonen" # Removed prefix: Clan name
 	culture = "bavarian"
 }
 
 9556 = {
-	name = "dynn_Ernste"
-	prefix = "dynnp_von"
+	name = "dynn_Ernste" # Removed prefix: Clan name
 	culture = "bavarian"
 }
 
@@ -3659,7 +3657,7 @@ batak_d004 = {
 }
 
 12404 = {
-	name = "dynn_Meinhardiner"
+	name = "dynn_Meinhardiner" # Removed prefix: Clan name
 	culture = "bavarian"
 }
 
@@ -3706,8 +3704,7 @@ batak_d004 = {
 }
 
 101605 = {
-	name = "dynn_Otakeren"
-	prefix = "dynnp_von"
+	name = "dynn_Otakeren" # Removed prefix: Clan name
 	culture = "bavarian"
 }
 
@@ -3718,59 +3715,52 @@ batak_d004 = {
 }
 
 1044033 = {
-	name = "dynn_Agilolfing"
-	prefix = "dynnp_von"
+	name = "dynn_Agilolfing" # Removed prefix: Clan name
 	culture = "bavarian"
 }
 
 1044055 = {
-	name = "dynn_Lantfriding"
+	name = "dynn_Lantfriding" # Removed prefix: Clan name
 	culture = "bavarian"
 }
 
 1044056 = {
-	name = "dynn_Theotbalding"
+	name = "dynn_Theotbalding" # Removed prefix: Clan name
 	culture = "bavarian"
 }
 
 1044057 = {
-	name = "dynn_Herberting"
+	name = "dynn_Herberting" # Removed prefix: Clan name
 	culture = "bavarian"
 }
 
 1044058 = {
-	name = "dynn_Lotharing"
-	prefix = "dynnp_von"
+	name = "dynn_Lotharing" # Removed prefix: Clan name
 	culture = "bavarian"
 }
 
 1044092 = {
-	name = "dynn_Anniona"
-	prefix = "dynnp_von"
+	name = "dynn_Anniona" # Removed prefix: Clan name
 	culture = "bavarian"
 }
 
 1044093 = {
-	name = "dynn_Fagana"
-	prefix = "dynnp_von"
+	name = "dynn_Fagana" # Removed prefix: Clan name
 	culture = "bavarian"
 }
 
 1044094 = {
-	name = "dynn_Hahilinga"
-	prefix = "dynnp_von"
+	name = "dynn_Hahilinga" # Removed prefix: Clan name
 	culture = "bavarian"
 }
 
 1044095 = {
-	name = "dynn_Huosi"
-	prefix = "dynnp_von"
+	name = "dynn_Huosi" # Removed prefix: Clan name
 	culture = "bavarian"
 }
 
 1044096 = {
-	name = "dynn_Trozza"
-	prefix = "dynnp_von"
+	name = "dynn_Trozza" # Removed prefix: Clan name
 	culture = "bavarian"
 }
 
@@ -4316,11 +4306,13 @@ PappenheimD = {
 
 581 = {
 	name = "dynn_Khamisis"
+	prefix = "dynnp_banu" # Added: Banu Khamis
 	culture = "bedouin"
 }
 
 582 = {
 	name = "dynn_Taghlibid"
+	prefix = "dynnp_banu" # Added: Banu Taghlib
 	culture = "bedouin"
 }
 
@@ -4362,6 +4354,7 @@ PappenheimD = {
 
 7308 = {
 	name = "dynn_Usfurid"
+	prefix = "dynnp_al-" # Added: al-Usfuri
 	culture = "bedouin"
 }
 
@@ -4427,6 +4420,7 @@ PappenheimD = {
 
 12277 = {
 	name = "dynn_Azdid"
+	prefix = "dynnp_banu" # Added: Banu Azd
 	culture = "bedouin"
 }
 
@@ -4498,41 +4492,49 @@ PappenheimD = {
 
 100649 = {
 	name = "dynn_Basri"
+	prefix = "dynnp_al-" # Added
 	culture = "bedouin"
 }
 
 100650 = {
 	name = "dynn_Hallaj"
+	prefix = "dynnp_al-" # Added
 	culture = "bedouin"
 }
 
 100651 = {
 	name = "dynn_Baghdadi"
+	prefix = "dynnp_al-" # Added
 	culture = "bedouin"
 }
 
 100652 = {
 	name = "dynn_Bistami"
+	prefix = "dynnp_al-" # Added
 	culture = "bedouin"
 }
 
 100653 = {
 	name = "dynn_Karkhi"
+	prefix = "dynnp_al-" # Added
 	culture = "bedouin"
 }
 
 100654 = {
 	name = "dynn_Qadir"
+	prefix = "dynnp_al-" # Added
 	culture = "bedouin"
 }
 
 100655 = {
 	name = "dynn_Jilani"
+	prefix = "dynnp_al-" # Added
 	culture = "bedouin"
 }
 
 100656 = {
 	name = "dynn_Chishti"
+	prefix = "dynnp_al-" # Added
 	culture = "bedouin"
 }
 
@@ -4549,6 +4551,7 @@ PappenheimD = {
 
 100687 = {
 	name = "dynn_Abedi"
+	prefix = "dynnp_al-" # Added
 	culture = "bedouin"
 }
 
@@ -4590,6 +4593,7 @@ PappenheimD = {
 
 100695 = {
 	name = "dynn_Quraishid"
+	prefix = "dynnp_banu" # Added
 	culture = "bedouin"
 }
 
@@ -4772,6 +4776,7 @@ PappenheimD = {
 
 101727 = {
 	name = "dynn_Abbasid"
+	prefix = "dynnp_al-" # Added: al-Abbasi
 	culture = "bedouin"
 }
 
@@ -4783,11 +4788,13 @@ PappenheimD = {
 
 101731 = {
 	name = "dynn_Hilalid"
+	prefix = "dynnp_banu" # Added: Banu Hilal
 	culture = "bedouin"
 }
 
 101862 = {
 	name = "dynn_Uqaylid"
+	prefix = "dynnp_banu" # Added: Banu Uqayl
 	culture = "bedouin"
 }
 
@@ -4818,6 +4825,7 @@ PappenheimD = {
 
 1022241 = {
 	name = "dynn_Makhzumi"
+	prefix = "dynnp_al-" # Added: al-Makhzumi
 	culture = "bedouin"
 }
 
@@ -4829,6 +4837,7 @@ PappenheimD = {
 
 1022358 = {
 	name = "dynn_Kindid"
+	prefix = "dynnp_banu" # Added: Banu Kinda
 	culture = "bedouin"
 }
 
@@ -4846,11 +4855,13 @@ PappenheimD = {
 
 1022366 = {
 	name = "dynn_Taglibid"
+	prefix = "dynnp_banu" # Added: Banu Taghlib
 	culture = "bedouin"
 }
 
 1027011 = {
 	name = "dynn_Riyahdid"
+	prefix = "dynnp_banu" # Added: Banu Riyah
 	culture = "bedouin"
 }
 
@@ -4862,22 +4873,25 @@ PappenheimD = {
 
 1027017 = {
 	name = "dynn_Zoghbadid"
+	prefix = "dynnp_banu" # Added: Banu Zughba
 	culture = "bedouin"
 }
 
 1027018 = {
 	name = "dynn_Athbejid"
+	prefix = "dynnp_banu" # Added: Banu Athbaj
 	culture = "bedouin"
 }
 
 1029034 = {
-	prefix = "dynnp__"
+	prefix = "dynnp_banu" # Fixed prefix from prompt (Banu Amir)
 	name = "dynn_Amirid"
 	culture = "bedouin"
 }
 
 1029035 = {
 	name = "dynn_Kilabid"
+	prefix = "dynnp_banu" # Added: Banu Kilab
 	culture = "bedouin"
 }
 
@@ -4889,11 +4903,13 @@ PappenheimD = {
 
 1042103 = {
 	name = "dynn_Kindah"
+	prefix = "dynnp_banu" # Added: Banu Kinda
 	culture = "bedouin"
 }
 
 1042113 = {
 	name = "dynn_Kilabid"
+	prefix = "dynnp_banu" # Added: Banu Kilab
 	culture = "bedouin"
 }
 
@@ -5023,11 +5039,13 @@ PappenheimD = {
 
 1042167 = {
 	name = "dynn_Bakil"
+	prefix = "dynnp_banu" # Added
 	culture = "bedouin"
 }
 
 1042168 = {
 	name = "dynn_Modharite"
+	prefix = "dynnp_banu" # Added (Banu Mudar)
 	culture = "bedouin"
 }
 
@@ -5045,11 +5063,13 @@ PappenheimD = {
 
 1042181 = {
 	name = "dynn_Azd_Umanid"
+	prefix = "dynnp_banu" # Added
 	culture = "bedouin"
 }
 
 1042182 = {
 	name = "dynn_Yahmad"
+	prefix = "dynnp_banu" # Added
 	culture = "bedouin"
 }
 
@@ -5162,16 +5182,19 @@ PappenheimD = {
 
 1060002 = {
 	name = "dynn_Madhhij"
+	prefix = "dynnp_banu" # Added
 	culture = "bedouin"
 }
 
 1062435 = {
 	name = "dynn_Rashid"
+	prefix = "dynnp_al-" # Added
 	culture = bedouin
 }
 
 1062472 = {
 	name = "dynn_Farukid"
+	prefix = "dynnp_al-" # Added
 	culture = bedouin
 }
 
@@ -5189,26 +5212,31 @@ PappenheimD = {
 
 1062603 = {
 	name = "dynn_Ruayn"
+	prefix = "dynnp_banu" # Added
 	culture = bedouin
 }
 
 2000020 = {
 	name = "dynn_Akinid"
+	prefix = "dynnp_al-" # Added
 	culture = bedouin
 }
 
 2000021 = {
 	name = "dynn_Muslihiddinid"
+	prefix = "dynnp_al-" # Added
 	culture = bedouin
 }
 
 2000022 = {
 	name = "dynn_Jibrilid"
+	prefix = "dynnp_al-" # Added
 	culture = bedouin
 }
 
 1000100617 = {
 	name = "dynn_Khasharima"
+	prefix = "dynnp_al-" # Added
 	culture = bedouin
 }
 
@@ -5238,16 +5266,19 @@ PappenheimD = {
 
 1000101560 = {
 	name = "dynn_Zegb"
+	prefix = "dynnp_banu" # Added: Banu Zughba
 	culture = bedouin
 }
 
 1000101561 = {
 	name = "dynn_Dabbab"
+	prefix = "dynnp_banu" # Added: Banu Dabbab
 	culture = bedouin
 }
 
 1000101562 = {
 	name = "dynn_Awf"
+	prefix = "dynnp_banu" # Added: Banu Awf
 	culture = bedouin
 }
 
@@ -5265,6 +5296,7 @@ PappenheimD = {
 
 1000101909 = {
 	name = "dynn_Qalhati"
+	prefix = "dynnp_al-" # Added
 	culture = bedouin
 }
 
@@ -5432,104 +5464,116 @@ PappenheimD = {
 
 BanuBakr = {
 	name = "dynn_BanuBakr"
+	prefix = "dynnp_banu" # Added
 	culture = "bedouin"
 }
 
 arabic_azd = {
-	name = dynn_Azdid
-	culture = bedouin
+	name = "dynn_Azdid"
+	prefix = "dynnp_banu" # Added
+	culture = "bedouin"
 }
 
 bedouin_kinda = {
-	name = dynn_Kinda
-	culture = bedouin
+	name = "dynn_Kinda"
+	prefix = "dynnp_banu" # Added
+	culture = "bedouin"
 }
 
 bedouin_salema = {
-	name = dynn_Salema
-	culture = bedouin
+	name = "dynn_Salema"
+	prefix = "dynnp_al-" # Added
+	culture = "bedouin"
 }
 
 bedouindyn001 = {
 	name = "dynn_Muwaffaqi"
-	culture = bedouin
+	prefix = "dynnp_al-" # Added
+	culture = "bedouin"
 }
 
 bedouindyn002 = {
 	name = "dynn_al-Umari"
 	prefix = "dynnp_al-"
-	culture = bedouin
+	culture = "bedouin"
 }
 
 bedouindyn003 = {
 	name = "dynn_Rabia"
-	culture = bedouin
+	prefix = "dynnp_banu" # Added
+	culture = "bedouin"
 }
 
 bedouindyn004 = {
 	name = "dynn_Banu_Kanz"
 	prefix = "dynnp_banu"
-	culture = bedouin
+	culture = "bedouin"
 }
 
 bedouindyn005 = {
 	name = "dynn_Mudar"
-	culture = bedouin
+	prefix = "dynnp_banu" # Added
+	culture = "bedouin"
 }
 
 bedouindyn006 = {
 	name = "dynn_Numayr"
 	prefix = "dynnp_banu"
-	culture = bedouin
+	culture = "bedouin"
 }
 
 bedouindyn007 = {
 	name = "dynn_Taghlib"
-	culture = bedouin
+	prefix = "dynnp_banu" # Added
+	culture = "bedouin"
 }
 
 bedouindyn008 = {
 	name = "dynn_Murra"
-	culture = bedouin
+	prefix = "dynnp_banu" # Added
+	culture = "bedouin"
 }
 
 bedouindyn009 = {
 	name = "dynn_Fazara"
 	prefix = "dynnp_banu"
-	culture = bedouin
+	culture = "bedouin"
 }
 
 bedouindyn010 = {
 	name = "dynn_Tayyi"
 	prefix = "dynnp_banu"
-	culture = bedouin
+	culture = "bedouin"
 }
 
 bedouindyn011 = {
 	name = "dynn_Harb"
 	prefix = "dynnp_banu"
-	culture = bedouin
+	culture = "bedouin"
 }
 
 bedouindyn012 = {
 	name = "dynn_Kharus"
 	prefix = "dynnp_al-"
-	culture = bedouin
+	culture = "bedouin"
 }
 
 bedouindyn013 = {
 	name = "dynn_Atik"
-	culture = bedouin
+	prefix = "dynnp_al-" # Added
+	culture = "bedouin"
 }
 
 bedouindyn014 = {
 	name = "dynn_Bali"
-	culture = bedouin
+	prefix = "dynnp_banu" # Added
+	culture = "bedouin"
 }
 
 bedouindyn015 = {
 	name = "dynn_Juhavna"
-	culture = bedouin
+	prefix = "dynnp_banu" # Added
+	culture = "bedouin"
 }
 
 quraysh = {
