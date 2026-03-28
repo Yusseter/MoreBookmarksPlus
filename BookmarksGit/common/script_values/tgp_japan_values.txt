@@ -144,7 +144,7 @@ house_aspiration_shared_ai_score_value = {
 			exists = house.house_confederation
 			exists = house.house_confederation.leading_house
 			house.house_confederation.leading_house != house
-			house.house_confederation.leading_house = { has_same_house_power_as = root.house }
+			house.house_confederation.leading_house = { has_same_house_aspiration_as = root.house }
 		}
 		add = -50
 	}
@@ -163,8 +163,8 @@ house_aspiration_ceremony_ai_score_value = {
 		house = { # Reluctance to change
 			if = {
 				limit = {
-					has_house_power_parameter = ceremony_cheaper_feasts
-					has_house_power_parameter = determination_spymaster_task_support_schemes_efficiency
+					has_house_aspiration_parameter = ceremony_cheaper_feasts
+					has_house_aspiration_parameter = determination_spymaster_task_support_schemes_efficiency
 				}
 				add = 10
 			}
@@ -172,7 +172,7 @@ house_aspiration_ceremony_ai_score_value = {
 				limit = {
 					house_confederation.leading_house ?= {
 						NOT = { this = root.house }
-						has_house_power_parameter = ceremony_marriage_acceptance
+						has_house_aspiration_parameter = ceremony_marriage_acceptance
 						house_head.military_power > root.military_power
 					}
 				}
@@ -182,7 +182,7 @@ house_aspiration_ceremony_ai_score_value = {
 				limit = {
 					house_confederation.leading_house ?= {
 						this = root.house
-						has_house_power_parameter = ceremony_marriage_acceptance
+						has_house_aspiration_parameter = ceremony_marriage_acceptance
 					}
 				}
 				add = 50
@@ -673,8 +673,8 @@ house_aspiration_determination_ai_score_value = {
 		house = { # Reluctance to change
 			if = {
 				limit = {
-					has_house_power_parameter = unlocks_japanese_manor_watch_house
-					has_house_power_parameter = determination_spymaster_task_support_schemes_efficiency
+					has_house_aspiration_parameter = unlocks_japanese_manor_watch_house
+					has_house_aspiration_parameter = determination_spymaster_task_support_schemes_efficiency
 				}
 				add = 10
 			}
@@ -682,7 +682,7 @@ house_aspiration_determination_ai_score_value = {
 				limit = {
 					house_confederation.leading_house ?= {
 						NOT = { this = root.house }
-						has_house_power_parameter = unlocks_japanese_manor_watch_house
+						has_house_aspiration_parameter = unlocks_japanese_manor_watch_house
 						house_head.military_power > root.military_power
 					}
 				}
@@ -692,7 +692,7 @@ house_aspiration_determination_ai_score_value = {
 				limit = {
 					house_confederation.leading_house ?= {
 						this = root.house
-						has_house_power_parameter = unlocks_japanese_manor_watch_house
+						has_house_aspiration_parameter = unlocks_japanese_manor_watch_house
 					}
 				}
 				add = 50
@@ -3226,7 +3226,35 @@ japan_install_bloc_member_ai_score_value = {
 	}
 }
 
+
 assume_house_bloc_leadership_interaction_prestige_level_value = {
 	value = prestige_level
 	subtract = 2
+}
+
+house_eradicated_killed_members_value = {
+	value = 0
+	scope:winner = {
+		every_killed_character = {
+			limit = {
+				death_reason = death_eradicated
+				killer = scope:winner
+				house = scope:loser.house
+			}
+			add = 1
+		}
+	}
+}
+
+house_eradicated_all_members_value = {
+	value = 0
+	every_house_member = {
+		add = 1
+	}
+}
+
+house_eradicated_duration_value = {
+		value = 100
+		multiply = house_eradicated_killed_members_value
+		divide = house_eradicated_all_members_value
 }

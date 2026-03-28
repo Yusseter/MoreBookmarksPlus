@@ -1,10 +1,10 @@
 ﻿name_list_yamato = {
-	
+
 	house_based_map_names = yes
 	dynasty_name_first = yes
 	suggest_family_names = no
 	suggest_ancestor_names = no
-	
+
 	cadet_dynasty_names = {
 		"dynn_Abiru"
 		"dynn_Adachi"
@@ -328,6 +328,201 @@
 		"dynn_YU_ki"
 		"dynn_Yuasa"
 		"dynn_Yuri"
+		"dynn_KotarO_"
+		"dynn_Hirano"
+		"dynn_GamO_"
+		"dynn_Wakisaka"
+		"dynn_Sakurai"
+		"dynn_KanO_"
+		"dynn_Kenki"
+		"dynn_Sugimori"
+		"dynn_Kitagawa"
+		"dynn_NishinotO_in"
+		"dynn_Anrakuan"
+		"dynn_Shimizu"
+		"dynn_Umemura"
+		"dynn_Sugitani"
+		"dynn_Kamei"
+		"dynn_Ashina_2"
+		"dynn_KO_riki"
+		"dynn_Arima"
+		"dynn_O_mura"
+		"dynn_Kanagami"
+		"dynn_Kawano"
+		"dynn_Horiuchi"
+		"dynn_Ishida"
+		"dynn_Toyotomi"
+		"dynn_Ukita"
+		"dynn_Furuta"
+		"dynn_Fuwa"
+		"dynn_Hineno"
+		"dynn_Naito"
+		"dynn_Hiraiwa"
+		"dynn_Miyamoto"
+		"dynn_Terao"
+		"dynn_Furuhashi"
+		"dynn_Takemura"
+		"dynn_Mizuno"
+		"dynn_Is_shiki"
+		"dynn_Kaganoi"
+		"dynn_Kinoshita"
+		"dynn_Kuroda"
+		"dynn_Kuze"
+		"dynn_Maeda"
+		"dynn_Kazan_in"
+		"dynn_Nishio"
+		"dynn_RyU_zO_ji"
+		"dynn_Sakazaki"
+		"dynn_Sassa"
+		"dynn_Terazawa"
+		"dynn_Bekki"
+		"dynn_Ueno"
+		"dynn_O_hO_ri"
+		"dynn_Numata"
+		"dynn_Kushihashi"
+		"dynn_Katakura"
+		"dynn_Akechi"
+		"dynn_Tsumaki"
+		"dynn_TO_yama"
+		"dynn_Hibino"
+		"dynn_Awa"
+		"dynn_Inukami"
+		"dynn_Akashi"
+		"dynn_O_tori"
+		"dynn_Hakata"
+		"dynn_Akita"
+		"dynn_Taga"
+		"dynn_Okitama"
+		"dynn_Iwaki"
+		"dynn_Ibaraki"
+		"dynn_Katsushika"
+		"dynn_Ichihara"
+		"dynn_Tama"
+		"dynn_Kamakura"
+		"dynn_Tagata"
+		"dynn_Yatsushiro"
+		"dynn_Tsukama"
+		"dynn_Gunma"
+		"dynn_Kubiki"
+		"dynn_Imizu"
+		"dynn_Kashima"
+		"dynn_O_no"
+		"dynn_Enuma"
+		"dynn_NyU_"
+		"dynn_Nakashima"
+		"dynn_Atsumi"
+		"dynn_Tsuruga"
+		"dynn_Wakasa"
+		"dynn_KO_ka"
+		"dynn_Iga"
+		"dynn_AnO_"
+		"dynn_Minamoto_Kawachi"
+		"dynn_Kuwada"
+		"dynn_Kumano"
+		"dynn_Yoshino"
+		"dynn_Nagusa"
+		"dynn_Fukuhara"
+		"dynn_Shikama"
+		"dynn_Keta"
+		"dynn_Ibo"
+		"dynn_HO_mi"
+		"dynn_Oki"
+		"dynn_Kume"
+		"dynn_Tomata"
+		"dynn_JO_tO_"
+		"dynn_Kuboya"
+		"dynn_Yasuna"
+		"dynn_Ou"
+		"dynn_Kamo"
+		"dynn_Naka"
+		"dynn_Yoshiki"
+		"dynn_Toyora"
+		"dynn_Yashima"
+		"dynn_Nagaoka"
+		"dynn_Iyo"
+		"dynn_Usa"
+		"dynn_O_ita"
+		"dynn_Koyu"
+		"dynn_Soo"
+		"dynn_Izumi"
+		"dynn_Kawanabe"
+		"dynn_Mashiki"
+		"dynn_Mii"
+		"dynn_Dazaifu"
+		"dynn_Saga"
+		"dynn_Yora"
+		"dynn_TagajO_"
+		"dynn_Hiraizumi"
+		"dynn_Sakai"
+		"dynn_Niigata"
+		"dynn_Negi"
+		"dynn_Arakida"
+		"dynn_Manabe"
+		"dynn_Onatsu"
+		"dynn_Saeki"
+		"dynn_Yatabe"
+		"dynn_Ushijima"
+		"dynn_Umekawa"
+		"dynn_Uchimura"
+		"dynn_Tanba"
+		"dynn_Takigawa"
+		"dynn_Takagi"
+		"dynn_Soeki"
+		"dynn_Shinohara"
+		"dynn_SakujO_"
+		"dynn_Oe"
+		"dynn_Nomura"
+		"dynn_Miyake"
+		"dynn_Matsunaga"
+		"dynn_Tsutsui"
+		"dynn_O_tani"
+		"dynn_Yokota"
+		"dynn_Ankokuji"
+		"dynn_Ishin"
+		"dynn_Seishuku"
+		"dynn_Koshikibu"
+		"dynn_Matsuo"
+		"dynn_Shibata"
+		"dynn_Hachiya"
+		"dynn_Azai"
+		"dynn_Saji"
+		"dynn_KyO_goku"
+		"dynn_Sawaki"
+		"dynn_Akao"
+		"dynn_Akai"
+		"dynn_TO_dO_"
+		"dynn_Akaike"
+		"dynn_Akaza"
+		"dynn_Yura"
+		"dynn_Munakata"
+		"dynn_Iriki_in"
+		"dynn_Nejime"
+		"dynn_Sata"
+		"dynn_Niiro"
+		"dynn_Kawazoe"
+		"dynn_Yoshihiro"
+		"dynn_Nata"
+		"dynn_Migitashi"
+		"dynn_Baba_JP"
+		"dynn_Ban"
+		"dynn_Tozawa"
+		"dynn_Sengoku"
+		"dynn_Oshima"
+		"dynn_Zakouji"
+		"dynn_Ayukawa"
+		"dynn_GejO_"
+		"dynn_Kakizaki"
+		"dynn_Koshi"
+		"dynn_Matsumoto"
+		"dynn_Naoe"
+		"dynn_O_saki"
+		"dynn_Suibara"
+		"dynn_Takanashi"
+		"dynn_Takenomata"
+		"dynn_Taiga"
+		"dynn_Watanuki"
+		"dynn_Yamayoshi"
+		"dynn_Nitsuki"
 	}
 
 	dynasty_names = {
@@ -480,6 +675,7 @@
 		"dynn_Matsudaira"
 		"dynn_Matsura"
 		"dynn_Matsuyama"
+		"dynn_Migata"
 		"dynn_Mikata"
 		"dynn_Miki"
 		"dynn_Mimura"
@@ -652,6 +848,201 @@
 		"dynn_YU_ki"
 		"dynn_Yuasa"
 		"dynn_Yuri"
+		"dynn_KotarO_"
+		"dynn_Hirano"
+		"dynn_GamO_"
+		"dynn_Wakisaka"
+		"dynn_Sakurai"
+		"dynn_KanO_"
+		"dynn_Kenki"
+		"dynn_Sugimori"
+		"dynn_Kitagawa"
+		"dynn_NishinotO_in"
+		"dynn_Anrakuan"
+		"dynn_Shimizu"
+		"dynn_Umemura"
+		"dynn_Sugitani"
+		"dynn_Kamei"
+		"dynn_Ashina_2"
+		"dynn_KO_riki"
+		"dynn_Arima"
+		"dynn_O_mura"
+		"dynn_Kanagami"
+		"dynn_Kawano"
+		"dynn_Horiuchi"
+		"dynn_Ishida"
+		"dynn_Toyotomi"
+		"dynn_Ukita"
+		"dynn_Furuta"
+		"dynn_Fuwa"
+		"dynn_Hineno"
+		"dynn_Naito"
+		"dynn_Hiraiwa"
+		"dynn_Miyamoto"
+		"dynn_Terao"
+		"dynn_Furuhashi"
+		"dynn_Takemura"
+		"dynn_Mizuno"
+		"dynn_Is_shiki"
+		"dynn_Kaganoi"
+		"dynn_Kinoshita"
+		"dynn_Kuroda"
+		"dynn_Kuze"
+		"dynn_Maeda"
+		"dynn_Kazan_in"
+		"dynn_Nishio"
+		"dynn_RyU_zO_ji"
+		"dynn_Sakazaki"
+		"dynn_Sassa"
+		"dynn_Terazawa"
+		"dynn_Bekki"
+		"dynn_Ueno"
+		"dynn_O_hO_ri"
+		"dynn_Numata"
+		"dynn_Kushihashi"
+		"dynn_Katakura"
+		"dynn_Akechi"
+		"dynn_Tsumaki"
+		"dynn_TO_yama"
+		"dynn_Hibino"
+		"dynn_Awa"
+		"dynn_Inukami"
+		"dynn_Akashi"
+		"dynn_O_tori"
+		"dynn_Hakata"
+		"dynn_Akita"
+		"dynn_Taga"
+		"dynn_Okitama"
+		"dynn_Iwaki"
+		"dynn_Ibaraki"
+		"dynn_Katsushika"
+		"dynn_Ichihara"
+		"dynn_Tama"
+		"dynn_Kamakura"
+		"dynn_Tagata"
+		"dynn_Yatsushiro"
+		"dynn_Tsukama"
+		"dynn_Gunma"
+		"dynn_Kubiki"
+		"dynn_Imizu"
+		"dynn_Kashima"
+		"dynn_O_no"
+		"dynn_Enuma"
+		"dynn_NyU_"
+		"dynn_Nakashima"
+		"dynn_Atsumi"
+		"dynn_Tsuruga"
+		"dynn_Wakasa"
+		"dynn_KO_ka"
+		"dynn_Iga"
+		"dynn_AnO_"
+		"dynn_Minamoto_Kawachi"
+		"dynn_Kuwada"
+		"dynn_Kumano"
+		"dynn_Yoshino"
+		"dynn_Nagusa"
+		"dynn_Fukuhara"
+		"dynn_Shikama"
+		"dynn_Keta"
+		"dynn_Ibo"
+		"dynn_HO_mi"
+		"dynn_Oki"
+		"dynn_Kume"
+		"dynn_Tomata"
+		"dynn_JO_tO_"
+		"dynn_Kuboya"
+		"dynn_Yasuna"
+		"dynn_Ou"
+		"dynn_Kamo"
+		"dynn_Naka"
+		"dynn_Yoshiki"
+		"dynn_Toyora"
+		"dynn_Yashima"
+		"dynn_Nagaoka"
+		"dynn_Iyo"
+		"dynn_Usa"
+		"dynn_O_ita"
+		"dynn_Koyu"
+		"dynn_Soo"
+		"dynn_Izumi"
+		"dynn_Kawanabe"
+		"dynn_Mashiki"
+		"dynn_Mii"
+		"dynn_Dazaifu"
+		"dynn_Saga"
+		"dynn_Yora"
+		"dynn_TagajO_"
+		"dynn_Hiraizumi"
+		"dynn_Sakai"
+		"dynn_Niigata"
+		"dynn_Negi"
+		"dynn_Arakida"
+		"dynn_Manabe"
+		"dynn_Onatsu"
+		"dynn_Saeki"
+		"dynn_Yatabe"
+		"dynn_Ushijima"
+		"dynn_Umekawa"
+		"dynn_Uchimura"
+		"dynn_Tanba"
+		"dynn_Takigawa"
+		"dynn_Takagi"
+		"dynn_Soeki"
+		"dynn_Shinohara"
+		"dynn_SakujO_"
+		"dynn_Oe"
+		"dynn_Nomura"
+		"dynn_Miyake"
+		"dynn_Matsunaga"
+		"dynn_Tsutsui"
+		"dynn_O_tani"
+		"dynn_Yokota"
+		"dynn_Ankokuji"
+		"dynn_Ishin"
+		"dynn_Seishuku"
+		"dynn_Koshikibu"
+		"dynn_Matsuo"
+		"dynn_Shibata"
+		"dynn_Hachiya"
+		"dynn_Azai"
+		"dynn_Saji"
+		"dynn_KyO_goku"
+		"dynn_Sawaki"
+		"dynn_Akao"
+		"dynn_Akai"
+		"dynn_TO_dO_"
+		"dynn_Akaike"
+		"dynn_Akaza"
+		"dynn_Yura"
+		"dynn_Munakata"
+		"dynn_Iriki_in"
+		"dynn_Nejime"
+		"dynn_Sata"
+		"dynn_Niiro"
+		"dynn_Kawazoe"
+		"dynn_Yoshihiro"
+		"dynn_Nata"
+		"dynn_Migitashi"
+		"dynn_Baba_JP"
+		"dynn_Ban"
+		"dynn_Tozawa"
+		"dynn_Sengoku"
+		"dynn_Oshima"
+		"dynn_Zakouji"
+		"dynn_Ayukawa"
+		"dynn_GejO_"
+		"dynn_Kakizaki"
+		"dynn_Koshi"
+		"dynn_Matsumoto"
+		"dynn_Naoe"
+		"dynn_O_saki"
+		"dynn_Suibara"
+		"dynn_Takanashi"
+		"dynn_Takenomata"
+		"dynn_Taiga"
+		"dynn_Watanuki"
+		"dynn_Yamayoshi"
+		"dynn_Nitsuki"
 	}
 
 	male_names = {
@@ -675,11 +1066,11 @@
 		### FUSA ###
 		Fusa_akira Fusamori Fusanori Fusanori_2 Fusao Fusasaki Fusaura Fusayo # 房
 		### HARU
-		Harukage Harukami Harukaze Harumochi Harumitsu Harunari Haruo Harutsugu Haruyuki Haruzane Haruzumi # 春
+		Harukage Harukami Harukaze Harumochi Harumitsu Harunari Haruo Harutsugu Haruyuki Haruzane Haruzumi Haruyori Harunaga # 春
 		### HIDE ###
 		Hidehira Hidehisa Hidekiyo Hidemichi Hidemichi_2 Hidemoto Hidesato Hidetaka Hidetake Hidetane HidetO_ HidetO__2 Hideyasu Hideyo Hideyoshi Hideyoshi_2 # 秀
 		### HIRO ###
-		Hiroe Hirofusa Hirohama Hirohira Hirokane Hirokata Hirokoto Hiromichi Hiromori Hiromori_2 Hiromoto Hiromoto_2 Hiromune Hirona Hironaga Hironaka Hironari Hironiwa Hirosue Hirosuke Hirotada Hirotaka_2 Hirotoshi Hirotsugu Hirotsuna Hirotsune Hirotsune_3 Hiroyo Hirozumi Hirozumi_2 # 広
+		Hiroe Hirofusa Hirohama Hirohira Hirokane Hirokata Hirokoto Hiromichi Hiromori Hiromori_2 Hiromoto Hiromoto_2 Hiromune Hirona Hironaga Hironaka Hironari Hironiwa Hirosue Hirosuke Hirotada Hirotaka_2 Hirotoshi Hirotsugu Hirotsuna Hirotsune Hirotsune_3 Hiroyo Hirozumi Hirozumi_2 Hiroyoshi # 広
 		Hirochika Hirokage Hirokata_2 Hirokuni Hiromitsu Hiromori_3 Hiromoto_3 Hiromu Hironobu Hirosada Hirotada_2 Hirotaka Hirotsune_2 Hiroyori Hiroyuki Hirozane # 弘
 		### HISA ###
 		Hisa_akira Hisafusa Hisakiyo Hisakuni Hisahiro Hisamasa Hisamichi Hisamori Hisamune Hisamura Hisanaga Hisanaka Hisanao Hisanori Hisanori_2 Hisasada Hisatada HisatO_ Hisatoshi Hisatsune Hisasuke Hisauji Hisayuki Hisazane # 久
@@ -693,8 +1084,10 @@
 		Kanehira_3 Kanetada_2 Kanetada_3 # 懐
 		Kanenobu_2 # 包
 		### KATSU ###
-		Katsunaga Katsuyoshi # 勝
+		Katsunaga Katsuyoshi Katsumoto # 勝
 		Katsutada # 克
+		### KATA ###
+		Katauji
 		### KAZU ###
 		Kazunori # 数
 		### KIN ###
@@ -718,7 +1111,7 @@
 		Masa_akira_2 Masakane_2 Masakata Masatsuna_4 # 理
 		### MICHI ###
 		Michi_ie Michichika Michifusa Michiharu Michihira Michikane_2 Michikata_2 Michikazu Michikiyo Michikuni Michimasa Michimori Michimoto Michimune Michinaga Michinao Michinari Michinari_3 Michinobu Michinobu_2 Michinori Michisada Michisada_2 Michisada_4 Michishige Michisue Michisuke Michisuke_2 Michisuke_3 Michitada MichitO_ Michitoki_2 Michitomo Michitomo_2 Michitoshi Michitoshi_2 Michitsugu Michitsuna_2 Michitsune Michiuji Michiyori Michiyoshi Michiyoshi_2 # 通
-		Michi_ie_2 Michiaki Michifumi Michifusa_2 Michihira_2 Michikane Michikata Michikaze Michimasa_2 Michimori_2 Michinaga_2 Michinaka Michinari_2 Michinobu_3 Michisada_3 Michitaka Michitoki Michitsugu_2 Michitsuna Michitsune_2 Michiyasu Michiyori_2 Michiyoshi_3 Michiyoshi_4 Michiyoshi_5 Michiyoshi_6 Michizane # 道
+		Michi_ie_2 Michiaki Michifumi Michifusa_2 Michihira_2 Michikane Michikata Michikaze Michimasa_2 Michimori_2 Michinaga_2 Michinaka Michinari_2 Michinobu_3 Michisada_3 Michitaka Michitoki Michitsugu_2 Michitsuna Michitsune_2 Michiyasu Michiyori_2 Michiyoshi_3 Michiyoshi_4 Michiyoshi_5 Michiyoshi_6 Michizane Michimoro # 道
 		### MITSU ###
 		Mitsuaki Mitsuakira Mitsuakira_2 Mitsuari Mitsuchika Mitsufusa Mitsuhira Mitsuhira_2 Mitsuhiro Mitsuhiro_2 Mitsuie Mitsukage Mitsukage_2 Mitsukata Mitsukiyo Mitsukuni Mitsumasa Mitsumasa_2 Mitsumori Mitsumoto Mitsumoto_2 Mitsumune Mitsumune_2 Mitsunaga Mitsunari Mitsunari_2 Mitsunobu Mitsunobu_3 Mitsunori Mitsunori_2 Mitsusada Mitsusato Mitsushige Mitsusue Mitsusuke Mitsusuke_2 Mitsusuke_3 Mitsusuke_4 Mitsusune Mitsutada Mitsutada_2 Mitsutaka Mitsutaka_2 MitsutO_ Mitsutoki Mitsutomo Mitsutoshi Mitsutsuna Mitsutsune Mitsuyasu Mitsuyo Mitsuyori Mitsuyoshi Mitsuyoshi_2 Mitsuyuki Mitsuzaku # 光
 		Mitsuharu Mitsuie_2 Mitsukage_3 Mitsukuni_2 Mitsumasa_3 Mitsumori_2 Mitsunaka Mitsunari_3 Mitsunobu_2 Mitsushige_2 Mitsusue_2 Mitsusue_3 Mitsutsuna_2 Mitsuyori_2 Mitsuyoshi_3 Mitsuzane # 満
@@ -770,7 +1163,7 @@
 		Okitsugu_2 # 息
 		### SADA ###
 		Sada_akira Sada_atsu Sadachika Sadachika_2 Sadafumi Sadahira Sadahira_2 Sadahiro Sadakata Sadakazu Sadakiyo Sadamasa Sadamasa_2 Sadamasa_4 Sadamichi Sadamiki Sadamitsu Sadamochi Sadamochi_3 Sadamori Sadamori_2 Sadamoto Sadamoto_2 Sadamoto_3 Sadamoto_4 Sadamu Sadamune Sadamune_3 Sadanaga Sadanaka Sadanao Sadanari Sadanori Sadanori_2 Sadanori_3 Sadanari_4 Sadanobu_2 Sadanori_5 Sadanushi Sadasue Sadasuke_2 Sadasuke_4 Sadataka_3 SadatO_ Sadatoki Sadatoki_2 Sadatoshi Sadatsugu Sadatsugu_2 Sadatsuna_2 Sadatsura Sadayasu Sadayo Sadayori Sadayoshi Sadayoshi_5 Sadayuki Sadayuki_3 Sadazane Sadazumi # 貞
-		Sada_ari Sadafumi_2 Sadafusa Sadahira_3 Sadaie Sadakage Sadakane Sadakata_2 Sadakiyo_2 Sadakuni Sadamasa_3 Sadamichi_2 Sadamichi_3 Sadamitsu_2 Sadamune_2 Sadanaga_2 Sadanaka_2 Sadanari_2 Sadanobu Sadanori_4 Sadashige Sadashige_2 Sadasue_2 Sadasuke Sadasuke_3 Sadatada Sadataka Sadataka_2 SadatO__2 Sadatoki_3 Sadatoshi_2 Sadatsuna Sadatsune Sadayasu_2 Sadayori_2 Sadayoshi_2 Sadayoshi_3 Sadayoshi_6 Sadayuki_2 Sadazane_2 # 定
+		Sada_ari Sadafumi_2 Sadafusa Sadahira_3 Sadaie Sadakage Sadakane Sadakata_2 Sadakiyo_2 Sadakuni Sadamasa_3 Sadamichi_2 Sadamichi_3 Sadamitsu_2 Sadamune_2 Sadanaga_2 Sadanaka_2 Sadanari_2 Sadanobu Sadanori_4 Sadashige Sadashige_2 Sadasue_2 Sadasuke Sadasuke_3 Sadatada Sadataka Sadataka_2 SadatO__2 Sadatoki_3 Sadatoshi_2 Sadatsuna Sadatsune Sadayasu_2 Sadayori_2 Sadayoshi_2 Sadayoshi_3 Sadayoshi_6 Sadayuki_2 Sadazane_2 Sanemoro # 定
 		### SANE ###
 		Saneakira Saneakira_2 Sanechika Sanefusa Saneharu Sanehide Sanehira Sanehira_2 Sanehiro Saneie Sanekage Sanekane Sanekata Sanekiyo Sanekuni Sanemasa Sanemasa_2 Sanemichi Sanemitsu Sanemori Sanemoto Sanemoto_2 Sanemune Sanenaga Sanenari Sanenobu Sanenobu_2 Sanenori Sanenori_2 Sanesada Saneshige Sanesue Sanesuke Sanetada_2 Sanetaka Sanetaka_2 SanetO_ SanetO__3 Sanetoki Sanetomo Sanetoshi Sanetsuna Sanetsune Sanetsura Saneyasu Saneyasu_2 Saneyo Saneyori Saneyoshi Saneyuki Saneyuki_2 # 実
 		Sanefusa_2 Sanehira_3 Sanekuni_2 Sanemasa_3 Sanenori_3 Sanesada_2 # 真
@@ -861,6 +1254,7 @@
 		### YUKI ###
 		Yuki_ie Yukiari Yukichika Yukifumi Yukifusa Yukihira Yukihiro Yukikage Yukikata Yukikiyo Yukikuni Yukimasa Yukimasa_2 Yukimasa_3 Yukimichi Yukimitsu Yukimori Yukimoto Yukimoto_2 Yukimoto_3 Yukimoto_4 Yukimune Yukimura Yukinaga Yukinaka Yukinao Yukinari Yukinari_3 Yukinobu Yukinobu_2 Yukinori Yukisada Yukisada_2 Yukishige Yukisuke Yukisuke_2 Yukitada Yukitaka Yukitaka_2 Yukitaka_3 YukitO_ YukitO__2 Yukitoki Yukitoshi Yukitsuna Yukitsune Yukitsune_2 Yukiyori Yukiyoshi Yukizane # 行
 		Yukichika_2 Yukihiro_2 Yukimichi_2 Yukinaga_2 Yukinari_2 Yukiuji # 幸
+		HanzO_ IchirO_ JinjirO_ Gen_ichirO_ ShO_tarO_ RentarO_ YO_ichirO_ SO_ichirO_ RyO_ichirO_ TeichirO_ Ken_ichirO_ Enjitsu Seimei ChO_nen Ogasawara Kazuramori Ogasamori GorO_michi Murashige Naoyasu Fuyuyasu Nagaharu Kazama Yashamaru Toranosuke Tadasato Terumoto Iekazu Hidenaga Kazumitsu Eitoku Shirahama Shigesugu Shigehama Iehisa Hikoemon Hiroshi Sakuden Muneharu ZenjU_bO_ KO_sa Haruyoshi Harumasa Harumori Nobukatsu Fusaie Nobutomo Masakatsu Nobutsugu Hidemori Okihisa HikoshirO_ Kunihisa Hidetsuna Toshihisa Tadao Haruyasu Sumitada SO_teki Ujikazu Nagashige Teruoki Nagatomo Tsuna_akira Tsunakira Tsunayo Moriuji Ujikata Terumasa Chikakazu Moritane Hidemune Hideyori Hideie Toshisato Toshitsura ChO_in Oribe Hideyuki Katahide Harima ChO_ei Haruaki Narishige Takichiro Takikazu Takiyasu Tatsuoki Yoshitatsu DO_san Masanao Motonao Ujitsuna Tatsuhiro Musashi MagonojO_ Motomenosuke UjinojO_ MasanojO_ Bennosuke Mikinosuke KurO_tarO_ Iori Yoemon Katsunari Musanari Katsuzumi Tada_aki Katsuaki Ujishige Shigesatoi Nariharu Uchisane Uchitsune Katsutsune Mitsutoyo Kazumasa Narioki Kazuoki Sokan Nobutora Katsushige Ujikane GorO_ta Harutoshi Tsuneoki Kazunao Kazushige Kurajishige Kurajitoshi Kurajikazu Amikane Ieo Ieosa Katsuragi Katori Hakuseki Tsunashige TO_tomono Mao_JP Kazuseki Haseo Yukitsugu Takiji Hirauchi Hisanobu Mitsutake Shincho Tadatsugu Iruka Umako Kuramaro Uchimoto Kaneka Kanefuyu Fuyuyoshi Fusamichi Yasutoki Ujiteru Tokiuji Ujitsugu HeiichirO_ Heisuke JirO_emon TorachirO_ Takauji Mochitsura KenkO_ Yasu_uji Yoichi Hisahide Teitoku Sekigo Kojiro JunshO_ Junkei HO_shi Sou_un Tsunatoshi SO_zen Kenshin Chikatomo Yori_ina Ujisato Ujichika YagorO_ Ekei ShO_nyo YosaburO_ SU_den Hidekatsu Tokurin Takeuji Hisatane Ujisue Sueuji Masahide Harumichi TomoburO_ Katsuie Motoaki ShichirO_emon Terukage Mitsu_uji Hideharu Motohide Nagayoshi Terumitsu Shigeru Ujisada DO_setsu Akitsura Munetora ShO_un Toyohisa Katsuhige SO_rin Nagateru Takakazu Hidemitsu TarO_gorO_ UjigorO_ Katsuhisa KiyoshirO_ GorO_shige Ujizane Hidezane Katsuchiyo
 	}
 	female_names = {
 		### AKE ###
@@ -1193,6 +1587,7 @@
 		Yoshiko_29 # 懿
 		### YUKI ###
 		Yukiko # 行
+		Sen Kaihime Kamehime Kita Tsune Komatsuhime Teru_JP Matsu MyO_ki MyO_rin JakO_ Tsuruhime Omasa Akohime Asahihime GO_hime Fuku Rikei Seienin SeikO_in Senhime Tatsuko KyO_un_in Oinu Oichi Oeyo OtsU_ Tama Otsuya Kitsuno Sakiko KO_zO_su Myorin Ikushi Tokuko Aki_JP Akimi Izumi Tomoe Shizuka Kachiko Natsuko Aka Yome Komachi Kimi_JP Kishi Ukon Emon Rinshi JijU_ Sagami Makiko Koshiko Haruko Hanako Etsuko Fujiko Sawano Tsuyako Naishi Ai_JP Aiko_JP Teruko Saikaku Ginchiyo SesshO_ Kikuhime Sachiko Keiko Eiko Akane Kume Kiku Miyako Manhime Ichihime Kamehime Hisahime Furihime Monica Kuniko BO_mon ShO_ju Miyagiku Matsu Tsuru Aguri Akai Ama_JP Suwa Ujinohime
 	}
 
 	# Keep names changing
@@ -1202,47 +1597,223 @@
 	pat_grm_name_chance = 0
 	mat_grm_name_chance = 0
 	mother_name_chance = 0
-	
 }
 
-name_list_ryukyuan = {
-	
+name_list_emishi = {
+
+	house_based_map_names = yes
 	dynasty_name_first = yes
 	suggest_family_names = no
 	suggest_ancestor_names = no
-	
+
 	cadet_dynasty_names = {
-		dynn_Kanagusuku dynn_Ahagon dynn_Arakachi dynn_Takara dynn_Sho dynn_Takue dynn_Naagusuku dynn_Naagushiku dynn_Tamagusuku dynn_Tamagushiku
-		dynn_Miyashiro dynn_Tamashiro dynn_Uchima dynn_Wiibaru dynn_Yamagusuku dynn_Jahana dynn_Arashiro dynn_Aragusuku dynn_Aragushiku dynn_Shinjo
-		dynn_Chatan dynn_Chinen dynn_Gusicin dynn_Fija dynn_Nakama dynn_Onaga dynn_Shimabuku dynn_Yara dynn_Makishi dynn_Kanegusuku dynn_Ikegusuku
-		dynn_Mo dynn_Tomigusuku dynn_Nakagushiku dynn_Nago dynn_Urasoe dynn_Ba dynn_Oroku dynn_Yonabaru dynn_Tasato dynn_Ganeko dynn_Ufugusuku
-		dynn_Gushichan dynn_Gushikuma dynn_Hamadun dynn_Hanagushiku dynn_Tiira dynn_Yohena dynn_Nakangari dynn_Dakujaku
+		"dynn_Agita"
+		"dynn_Fukae"
+		"dynn_Hei"
+		"dynn_Isawa"
+		"dynn_Iwagu"
+		"dynn_Kazuno"
+		"dynn_Kimikobe"
+		"dynn_Koreharu"
+		"dynn_Michishima"
+		"dynn_Momunofu"
+		"dynn_Nisana"
+		"dynn_Nisattai"
+		"dynn_Nitoroshi"
+		"dynn_Nushiro"
+		"dynn_Nutari"
+		"dynn_Oga"
+		"dynn_Okachi"
+		"dynn_Orashibetsu"
+		"dynn_Osatsu"
+		"dynn_Sarugaeshi"
+		"dynn_Shiwa"
+		"dynn_Tamatsukuri"
+		"dynn_Tamo"
+		"dynn_TO_da"
+		"dynn_TO_tsu_Isawa"
+		"dynn_Tokisara"
+		"dynn_Tokutan"
+		"dynn_Tsumo"
+		"dynn_Tsuwaribetu"
+		"dynn_Ukame"
+		"dynn_Urata"
+		"dynn_Usori"
+		"dynn_Waga"
 	}
 
 	dynasty_names = {
-		dynn_Kanagusuku dynn_Ahagon dynn_Arakachi dynn_Takara dynn_Sho dynn_Takue dynn_Naagusuku dynn_Naagushiku dynn_Tamagusuku dynn_Tamagushiku
-		dynn_Miyashiro dynn_Tamashiro dynn_Uchima dynn_Wiibaru dynn_Yamagusuku dynn_Jahana dynn_Arashiro dynn_Aragusuku dynn_Aragushiku dynn_Shinjo
-		dynn_Chatan dynn_Chinen dynn_Gusicin dynn_Fija dynn_Nakama dynn_Onaga dynn_Shimabuku dynn_Yara dynn_Makishi dynn_Kanegusuku dynn_Ikegusuku
-		dynn_Mo dynn_Tomigusuku dynn_Nakagushiku dynn_Nago dynn_Urasoe dynn_Ba dynn_Oroku dynn_Yonabaru dynn_Tasato dynn_Ganeko dynn_Ufugusuku
-		dynn_Gushichan dynn_Gushikuma dynn_Hamadun dynn_Hanagushiku dynn_Tiira dynn_Yohena dynn_Nakangari dynn_Dakujaku
+		"dynn_Agita"
+		"dynn_Fukae"
+		"dynn_Hei"
+		"dynn_Isawa"
+		"dynn_Iwagu"
+		"dynn_Kazuno"
+		"dynn_Kimikobe"
+		"dynn_Koreharu"
+		"dynn_Michishima"
+		"dynn_Momunofu"
+		"dynn_Nisana"
+		"dynn_Nisattai"
+		"dynn_Nitoroshi"
+		"dynn_Nushiro"
+		"dynn_Nutari"
+		"dynn_Oga"
+		"dynn_Okachi"
+		"dynn_Orashibetsu"
+		"dynn_Osatsu"
+		"dynn_Sarugaeshi"
+		"dynn_Shiwa"
+		"dynn_Tamatsukuri"
+		"dynn_Tamo"
+		"dynn_TO_da"
+		"dynn_TO_tsu_Isawa"
+		"dynn_Tokisara"
+		"dynn_Tokutan"
+		"dynn_Tsumo"
+		"dynn_Tsuwaribetu"
+		"dynn_Ukame"
+		"dynn_Urata"
+		"dynn_Usori"
+		"dynn_Waga"
 	}
 
 	male_names = {
-		Jamatuu Masanda Masanduu Mashumikani Matarukani Mausa Maumituku Sanda Shumikani Tarukani Usa Umituku Chokun Juyu Bunei Anken Shushin Choshun
-		Ryoho Umitukugani Makatotarugani Shunten Kinpuku Umijirugani Chotei Choryo Aranpo Satto Seizoku Seisho Seiryo Manikiyotarugani Kanshin Anken
-		Amawari Seikaku Kanichiyo Chosho Choshi Choko Chokoku Choken Masanrugani Choki Taraa Kenchu Choai Amawari Chotatsu Kyo Kyu Chofu Chogi Anji
-		Ankon Anrai Anto Anzo Seisho Juntoku Seikaku Juchin Hitsu Seijun Ryocho Ryoketsu Kokuki Ryowa Anshitsu Kokuto Choman Choten Keimei Gendo
-		Choboku Tenteki Ryotoku Kokugi Kokuki Ryotei
+		Afuribe
+		Ahaso Ahito Akeru Akeshi Aketo Anushiko Asamaro Atanamaro Atera Aterui # 阿
+		Akio
+		Aohiru
+		Arashima
+		Ashiyamamori
+		Ayakasu
+		Azamaro
+		Azumahitomaro
+		Dokki
+		Ekimaro
+		Erayu
+		Etako
+		Idemaro
+		Ikako Ikokina Inarimushi Isashiko # 伊
+		Ikashima
+		Ikusamaro
+		Kakenabe
+		Kamoi
+		Kanaori
+		Kanaya
+		Kanemaro
+		Katsumaro
+		Kearui
+		Kiumi
+		Ko_oi
+		Kogane
+		Kohitsuji
+		Komahiru
+		Kuhaji
+		Kunimasu
+		Maho Mamaro # 真
+		Maiko
+		Mamu
+		Masu
+		More Moshi # 母
+		Morokuri
+		Nagako
+		Nagiu
+		O_hafuribe O_kuni O_takamaru O_takemaru O_tate # 大
+		Oga
+		Ohito_2
+		Oihito
+		Okaho
+		Okuie
+		Onga
+		Otoshiro
+		Oyashibe
+		Ozukimaro
+		Rasabe
+		Sakamaru
+		Sakatamaro
+		Sanaguna Saniguna # 沙
+		Satsuko
+		Shiina
+		Shiko_o
+		Shikona
+		Shimako
+		Shiraso
+		Shiriko_omaro
+		Sukunamaro
+		Tachi
+		Takaki_2
+		Takamaru
+		Takemaro
+		Tamaki
+		Tatsumaro
+		Teshina
+		Tohashiko
+		Toshiko_3
+		Tsuhoro Tsuruki # 都
+		Ubasa Ukanu Ukuhau Unako Usomina # 宇
+		Uhona
+		Yamahito
+		Yashiromaro Yasoshima Yatsurina # 八
+		Yoshimaro
+		Shimatsukami Kunitsukami More Tatemaro OryO_ Ashifurihe Ohohafurihe Kanihira Tanyeiko Norihiza Kiyozke Kaneyhiko Atarhu Sitari Tomrro Oritzu Shinaru Poramuya Isanoma Mashio Tomari Aramake Teshimaro Anuhaji Sakako Satsumaro Takematak Shirishibe
 	}
 	female_names = {
-		Chiru Damacii Kama Kamado Kamaru Kame Kami Kana Kanimega Matsu Majaa Nabe Nabi Sanra Tomi Tsuru Usa Use Ushi Uto Adaniya Miyahira
-		Aoriyae Makishi Manabetaru Gentei Shiriokimi Umitogani Ogiyaka Machirugi Manabetaru Maushigane Umimajingani Moromizato Zukeran Gushikawa
-		Makuresegane Machirugi Ogiyaka Inin Kyoni Kimitoyomi Adaniya Moromizato Yonamine Sengaku Matsudo Shikina Amuro Hirara Omomatsurugane
-		Matsurugane Manabetaru Kadekaru Mafee Maushigane Kokuba Suekichi Makadotaru Oamoshirare Mamatsugane Omokametarugane Maninakugane Sashiki
-		Omokametaru Omonabetaru Makadotarugane Shutoku Umimazurugani Makamitaru Mawashi Ranshitsu Nangaku Zukeran Tokutaku Masato Shiki Momoto
-		Miyazato Yogi Mahae
+		Akime
+		Aneme
+		Asame
+		Chiyome
+		Hirome
+		Iime
+		Ikeme
+		Imame
+		Iwame
+		Kasame
+		Kazume
+		Kiyome
+		Kunime
+		Kurome
+		Kushime
+		Makime
+		Masume
+		Matarime
+		Menoko
+		Michime
+		Michitarime
+		Momome
+		Morime
+		Morome
+		Mushime
+		Nagame
+		Nakame
+		Okame
+		Otome
+		Otomushime
+		Oyasu
+		Rume
+		Rushime
+		Sadame
+		Shimame
+		Shiome
+		Shirome
+		Sugame
+		Tadame
+		Takakaime Takame
+		Takarime
+		Tojime
+		Tokome
+		Torikaime Torime
+		Toyome
+		Tsugume
+		Ujime
+		Umakaime Umame
+		Ushikaime Ushime
+		Wakame
+		Watame
+		Yakame
+		Yasume
+		Yoneko
 	}
-	
+
 	# Keep names changing
 	pat_grf_name_chance = 0
 	mat_grf_name_chance = 0
@@ -1250,8 +1821,8 @@ name_list_ryukyuan = {
 	pat_grm_name_chance = 0
 	mat_grm_name_chance = 0
 	mother_name_chance = 0
-
 }
+
 
 name_list_ainu = {
 
@@ -1398,4 +1969,156 @@ name_list_ainu = {
 
     dynasty_name_first = yes
 
+}
+
+name_list_ryukyuan = {
+
+	dynasty_name_first = yes
+	suggest_family_names = no
+	suggest_ancestor_names = no
+
+	dynasty_names = {
+		"dynn_Agina"
+		"dynn_Can"
+		"dynn_Catan"
+		"dynn_Cin"
+		"dynn_Goya"
+		"dynn_Gusicaa"
+		"dynn_Gusican"
+		"dynn_Haniji"
+		"dynn_Ifa"
+		"dynn_Iizu"
+		"dynn_Iribaru"
+		"dynn_Katcin"
+		"dynn_Kunjan"
+		"dynn_Mutubu"
+		"dynn_Nacijin"
+		"dynn_Nagu"
+		"dynn_Nakagusiku"
+		"dynn_Nakazuni"
+		"dynn_Sasici"
+		"dynn_Tamagusiku"
+		"dynn_Ufugaa"
+		"dynn_Ufugusiku"
+		"dynn_Ufusatu"
+		"dynn_Urasii"
+		"dynn_Wakugaa"
+		"dynn_Yeeji"
+		"dynn_Yuntanza"
+		"dynn_Chinen"
+		"dynn_Haneji"
+		"dynn_GesshU_"
+	}
+
+	cadet_dynasty_names = {
+		"dynn_Agina"
+		"dynn_Can"
+		"dynn_Catan"
+		"dynn_Cin"
+		"dynn_Goya"
+		"dynn_Gusicaa"
+		"dynn_Gusican"
+		"dynn_Haniji"
+		"dynn_Ifa"
+		"dynn_Iizu"
+		"dynn_Iribaru"
+		"dynn_Katcin"
+		"dynn_Kunjan"
+		"dynn_Mutubu"
+		"dynn_Nacijin"
+		"dynn_Nagu"
+		"dynn_Nakagusiku"
+		"dynn_Nakazuni"
+		"dynn_Sasici"
+		"dynn_Tamagusiku"
+		"dynn_Ufugaa"
+		"dynn_Ufugusiku"
+		"dynn_Ufusatu"
+		"dynn_Urasii"
+		"dynn_Wakugaa"
+		"dynn_Yeeji"
+		"dynn_Yuntanza"
+		"dynn_Chinen"
+		"dynn_Haneji"
+		"dynn_GesshU_"
+	}
+
+	male_names = {
+		Amawari
+		Bunii
+		Cinfuku Ciruju
+		Cuu
+		Eeji
+		Furi
+		Gifun
+		Gusamaru
+		Han_anci Haniji
+		Hasii
+		Idaru
+		Iizu
+		Kamiju
+		Kanamaru Kanimaci Kanisi
+		Maci Maciju
+		Maguji
+		Maici Maikusa
+		Makamadu Makatudaru
+		Mamakaru
+		Maniusi Manta
+		Masakai Masanru
+		Mausi
+		Mayamatu
+		Meenu
+		Min_RK
+		Ndaru
+		Sattu
+		See_i
+		Shunbajunci Shuntin Shutaru
+		Siru_RK Sishoo Sitaa
+		Taci Tafuci
+		Tama Tamagusiku
+		Taru_RK Tarumui
+		Teecuu
+		Teehara
+		Teesii
+		Tuku
+		Tukuju
+		Tukutaru
+		Turaju
+		Ufusatu
+		Ukuharu
+		Umiguru Umijira Umikami Umikana Umikani Umikanimaci Umimaci Uminabi Uminio Uminta Umitaru Umitu Umituku Umitukuju Umitukutaru
+		Uusu
+		Yafusu
+		Yeej
+		Taruten ChO_shU_ TarU_ Ushii Tuku ChirU_ Bii Haa Shunten Bunei Seii Tamagusuku Eiji Taisei Jeisu Gihon Shunbajunki Shunshii RiyU_ Jukei Ei Turaisu Gen Nei TaikyU_ Tai_Ryukyuan Shitatsu Shin_Ryukyuan Sen_i Kanemaru Kin_puku ChU_ Shitsu Shungusuku On Kei_Ryukyuan Iku HO_ Hashi Eki_Ryukyuan Boku Mausatu Tarueji Tamamaci Taijira Sattumaci
+	}
+	
+	female_names = {
+		Kamadu
+		Kuncasa
+		Maakadu
+		Maduru
+		Maguji
+		Majini
+		Makadu Makama Makamadu_2 Makami Makatudaru
+		Mamaci
+		Maminaku
+		Manabi Manandaru Mandaru Manyuku
+		Masiho
+		Matamatu
+		Mausi
+		Meenu_2
+		Sasukasa
+		Ugiyaka
+		Umiduru Umikami Umikamitaru Umikana Umikani Umimaduru Umimajini Umimanandaru Umimausi Uminabi Umindaru Uminta Umitama Umitu Umiutu
+		Utumasu Utumi Ututaru
+	}
+
+	# Keep names changing
+	pat_grf_name_chance = 0
+	mat_grf_name_chance = 0
+	father_name_chance = 0
+	pat_grm_name_chance = 0
+	mat_grm_name_chance = 0
+	mother_name_chance = 0
 }

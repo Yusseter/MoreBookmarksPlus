@@ -57,7 +57,7 @@
 		{ name = "holy_order_sylvan_saviors" }
 	}
 
-	holy_order_maa = { metsanvartija }
+	holy_order_maa = { maturkan_warriors }
 
 	localization = {
 		#Used deities & spirits below are taken from all around Siberia, from the ugric to Kamchatka

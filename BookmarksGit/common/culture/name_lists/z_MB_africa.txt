@@ -1,5 +1,5 @@
-﻿#BAP Namelists
-#BAP is likely dead so these will never change so no reason to not consolidate the 6 files
+﻿# AFRICA NAME LISTS -- Courtesy of BAP
+
 
 name_list_kanuri = {
 

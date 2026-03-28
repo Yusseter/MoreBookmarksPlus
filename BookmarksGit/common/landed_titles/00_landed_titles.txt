@@ -14941,6 +14941,7 @@ e_byzantium = {
 	capital = c_byzantion
 
 	definite_form = yes
+	ruler_uses_title_name = no
 
 	can_create = {
 		rule_title_creation_imperial_power_projection_title_creation_trigger = yes
@@ -19050,7 +19051,7 @@ e_byzantium = {
 
 		can_be_named_after_dynasty = no
 		capital = c_lycaonia # Ikonion
-		definite_form = yes
+		#definite_form = yes
 		ai_primary_priority = {
 			if = {
 				limit = {
@@ -35444,6 +35445,8 @@ e_caspian-pontic_steppe = {
 
 	can_be_named_after_dynasty = no
 	can_use_nomadic_naming = no
+	ruler_uses_title_name = no
+
 	capital = c_sarai # Itil
 
 	can_create = {
@@ -35469,6 +35472,7 @@ e_caspian-pontic_steppe = {
 
 		can_use_nomadic_naming = no
 		can_be_named_after_dynasty = no
+		ruler_uses_title_name = no
 
 		can_create_on_partition = { always = no }
 
@@ -36357,6 +36361,7 @@ e_caspian-pontic_steppe = {
 
 		can_use_nomadic_naming = no
 		can_be_named_after_dynasty = no
+		ruler_uses_title_name = no
 
 		can_create_on_partition = { always = no }
 
@@ -43518,6 +43523,7 @@ e_tartaria = {
 		}
 
 		can_create_on_partition = { always = no }
+		ruler_uses_title_name = no
 
 		ai_primary_priority = {
 			if = {
@@ -43871,7 +43877,8 @@ e_tartaria = {
 
 		can_use_nomadic_naming = no
 		can_be_named_after_dynasty = no
-
+		ruler_uses_title_name = no
+		
 		can_create_on_partition = { always = no }
 
 		ai_primary_priority = {
@@ -44723,6 +44730,7 @@ e_tartaria = {
 		}
 
 		can_create_on_partition = { always = no }
+		ruler_uses_title_name = no
 
 		ai_primary_priority = {
 			if = {
@@ -45877,6 +45885,7 @@ e_turan = {
 	}
 
 	can_use_nomadic_naming = no
+	definite_form = yes
 
 	ai_primary_priority = {
 		if = {
@@ -90666,6 +90675,8 @@ e_jurchen_china = {
 			color = { 75 95 225 }
 	
 			capital = c_BAL_dongpyeong_yizhou
+			
+			can_be_named_after_dynasty = no
 
 			cultural_names = {
 				name_list_korean = cn_dongpyeong
@@ -90722,6 +90733,8 @@ e_jurchen_china = {
 			color = { 170 65 115}
 
 			capital = c_BAL_delizhen
+			
+			can_be_named_after_dynasty = no
 
 			cultural_names = {
 				name_list_korean = cn_cheolli
@@ -90919,6 +90932,8 @@ e_jurchen_china = {
 		
 			color = { 75 130 200 }
 			
+			can_be_named_after_dynasty = no
+			
 			capital = c_BAL_solbin
 
 			c_BAL_solbin = {	#Shuaibin
@@ -90969,6 +90984,8 @@ e_jurchen_china = {
 			color = { 90 140 200 }
 
 			capital = c_BAL_jeongni
+			
+			can_be_named_after_dynasty = no
 
 			c_BAL_jeongni = {	#Dingli
 				color = { 100 145 180 }
@@ -91015,6 +91032,8 @@ e_jurchen_china = {
 			color = { 110 100 200 }
 
 			capital = c_BAL_anbyeon
+			
+			can_be_named_after_dynasty = no
 			
 			c_BAL_anbyeon = {	#Anbian
 				color = { 45 145 210 }
@@ -91077,6 +91096,8 @@ e_jurchen_china = {
 			color = { 155 105 255 }
 
 			capital = c_BAL_ningzhou
+			
+			can_be_named_after_dynasty = no
 
 			cultural_names = {
 				name_list_korean = cn_anwon
@@ -91494,6 +91515,8 @@ h_china = {
 	capital = c_bianzhou # Kaifeng
 	
 	definite_form = yes
+	ruler_uses_title_name = no
+
 
 	can_create = {
 		custom_tooltip = {
@@ -102318,6 +102341,7 @@ k_yongson_throne = {
 	allow_domicile = no
 	always_follows_primary_heir = yes
 	definite_form = yes
+	ruler_uses_title_name = no
 
 	can_create = { always = no }
 
@@ -116155,6 +116179,7 @@ k_chrysanthemum_throne = {
 	allow_domicile = no
 	always_follows_primary_heir = yes
 	definite_form = yes
+	ruler_uses_title_name = no
 
 	can_create = { always = no }
 
@@ -116426,6 +116451,7 @@ e_japan = {
 	can_be_named_after_dynasty = no
 
 	definite_form = yes
+	ruler_uses_title_name = no
 
 	capital = c_yamashiro
 	

@@ -18,6 +18,7 @@
 can_marry_common_trigger = {
 	is_alive = yes
 	NOT = { has_trait_with_flag = can_not_marry }
+	NOT = { has_variable = can_not_marry }
 
 	trigger_if = {
 		limit = {

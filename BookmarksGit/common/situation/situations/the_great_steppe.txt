@@ -66,7 +66,7 @@
 				if = {
 					limit = {
 						is_ai = no
-						NOT = { has_variable = mpo_the_great_steppe_events_0001_var }
+						NOT = { has_character_flag = mpo_the_great_steppe_events_0001_var }
 					}
 					trigger_event = mpo_the_great_steppe.0001
 				}
@@ -88,7 +88,7 @@
 				if = {
 					limit = {
 						is_ai = no
-						NOT = { has_variable = mpo_the_great_steppe_events_0001_var }
+						NOT = { has_character_flag = mpo_the_great_steppe_events_0001_var }
 					}
 					trigger_event = mpo_the_great_steppe.0001
 				}

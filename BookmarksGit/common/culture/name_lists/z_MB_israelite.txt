@@ -206,4 +206,679 @@ name_list_romaniote = { # Greek Jews
 	patronym_prefix_male = "dynnpat_ben"
 	patronym_prefix_female = "dynnpat_bat"
 
-}							 
+}				
+
+name_list_ashkenazi = {
+
+	cadet_dynasty_names = {
+		"dynn_Ben_Aharon"
+		"dynn_Ben_Ari"
+		"dynn_Binyamin"
+		"dynn_Ben_David"
+		"dynn_Ben_Jeremias"
+		"dynn_Ben_Leonhard"
+		"dynn_Ben_Michael"
+		"dynn_Mose"
+		"dynn_Ben_Reuben"
+		"dynn_Ebheri"
+		"dynn_Koder"
+		"dynn_Ivri"
+        "dynn_Gibur" 
+		"dynn_Tzion"
+        "dynn_Rozen"
+		"dynn_Gdola" 
+		"dynn_ShemTov"
+		"dynn_Bar_Lev"
+		"dynn_Lavi"
+		"dynn_Netzer"
+		"dynn_Hud" 
+		"dynn_Bar_Oun" 
+		"dynn_Peled" 
+		"dynn_Regev"
+		"dynn_Kaspi"  
+		"dynn_Goldmann"  
+		"dynn_Silbermann"  
+		"dynn_Zehavi"
+		"dynn_Greenbaum"  
+		"dynn_Friedmann"
+		"dynn_Keinan"
+		"dynn_Brushi"  
+		"dynn_Glaubmann"
+		"dynn_Gottlieb"
+		"dynn_Drrori"
+		"dynn_Eisenstadt"
+		"dynn_Goldberg"
+		"dynn_Goldstein"
+		"dynn_Silberstein"
+		"dynn_Rubin"
+		"dynn_Ruhmberg"
+		"dynn_Stern"
+		"dynn_Weiss"
+		"dynn_Klughaft"
+		"dynn_Dormann"
+		"dynn_Rosenberg"
+		"dynn_Greenberg"
+		"dynn_Waldiger"
+		"dynn_Reichmann"
+		"dynn_Bernstein" 
+		"dynn_Gutfreund" 
+		"dynn_Hoffmann"
+		"dynn_Harrari"
+		"dynn_Hirsch"
+		"dynn_Silber"  
+		"dynn_Schild"
+		"dynn_Lichtenstein"
+		"dynn_Gvir"
+		"dynn_Adler"
+		"dynn_Glick"
+		"dynn_Goldwasser"
+		"dynn_Goldknopf"
+		"dynn_Gottfried"
+		"dynn_Libermann"
+		"dynn_Rosenblum"
+		"dynn_Rosenfeld"
+		"dynn_Rosenstein"
+		"dynn_Strauss"
+		"dynn_Purat"
+		"dynn_Adelstein" 
+		"dynn_Shekalim"
+		"dynn_Barak" 
+		"dynn_Blumental"
+		"dynn_Kasif"
+	}
+
+	dynasty_names = {
+		"dynn_Koder"
+		"dynn_Ivri"
+		"dynn_Gibur" 
+		"dynn_Tzion"
+		"dynn_Rozen"
+		"dynn_Gdola" 
+		"dynn_ShemTov"
+		"dynn_Bar_Lev"
+		"dynn_Lavi"
+		"dynn_Netzer"
+		"dynn_Hud" 
+		"dynn_Bar_Oun" 
+		"dynn_Peled" 
+		"dynn_Regev"
+		"dynn_Kaspi"
+		"dynn_Goldmann" 
+		"dynn_Silbermann"  
+		"dynn_Zehavi"
+		"dynn_Greenbaum" 
+		"dynn_Friedmann"   
+		"dynn_Keinan"
+		"dynn_Brushi"
+		"dynn_Glaubmann"
+		"dynn_Gottlieb"
+		"dynn_Drori"
+		"dynn_Eisenstadt"
+		"dynn_Goldberg"
+		"dynn_Goldstein"
+		"dynn_Silberstein"
+		"dynn_Rubin"
+		"dynn_Ruhmberg"
+		"dynn_Stern"
+		"dynn_Weiss"
+		"dynn_Klughaft"
+		"dynn_Dormann"
+		"dynn_Rosenberg"
+		"dynn_Greenberg"
+		"dynn_Waldiger"
+		"dynn_Reichmann"
+		"dynn_Bernstein" 
+		"dynn_Gutfreund"
+		"dynn_Hoffmann"
+		"dynn_Harrari"
+		"dynn_Hirsch"
+		"dynn_Silber" 
+		"dynn_Schild"
+		"dynn_Lichtenstein"
+		"dynn_Gvir"
+		"dynn_Adler"
+		"dynn_Glick"
+		"dynn_Goldwasser"
+		"dynn_Goldknopf"
+		"dynn_Gottfried"
+		"dynn_Libermann"
+		"dynn_Rosenblum"
+		"dynn_Rosenfeld"
+		"dynn_Rosenstein"
+		"dynn_Strauss"
+		"dynn_Eisenberg"
+		"dynn_Hochmann"
+		"dynn_Buchmann"
+		"dynn_Eisenstein"
+		"dynn_Mendelson"
+		"dynn_Frischman"
+		"dynn_Echt"
+		"dynn_Shemer"
+		"dynn_Handel"
+		"dynn_Kahan"
+		"dynn_Steinbuch"
+		"dynn_Ginzborg"
+		"dynn_Ginzberg"
+		"dynn_Blukh"
+		"dynn_Salzman"
+		"dynn_Schulmann"
+		"dynn_Keller"
+		"dynn_Speigel"
+		"dynn_Noimann"
+		"dynn_Oxenberg"
+		"dynn_Luria"
+		"dynn_Sandler"
+		"dynn_Segal"
+		"dynn_Blikh"
+		"dynn_Handeler"
+		"dynn_Shapira"
+		"dynn_Shilon"
+		"dynn_Barron" 
+		"dynn_Feldmann" 
+		"dynn_Shila"
+		"dynn_Schleien"
+		"dynn_Shapiro"
+		"dynn_Rottmann"
+		"dynn_Schwarz"
+		"dynn_Weinberg"
+		"dynn_Rabban"
+		"dynn_Gutmann"
+		"dynn_Kunstler"
+		"dynn_Landau"
+		"dynn_Nagler"
+		"dynn_Fogel"
+		"dynn_Wassermann"
+		"dynn_Epstein"
+		"dynn_Einstein"
+		"dynn_Ettinger"
+		"dynn_Federmann"
+		"dynn_Fleisher"
+		"dynn_Fleishmann"
+		"dynn_Glickmann"
+		"dynn_Bodenheimer"
+		"dynn_Brenner" 
+		"dynn_Katz" 
+		"dynn_Weissmann"
+		"dynn_Schechter"
+		"dynn_Koppel"
+		"dynn_Grossmann"
+		"dynn_Zimmermann"
+		"dynn_Klein"
+		"dynn_Eisenhauer"
+		"dynn_Mazor"
+		"dynn_Kuperschmidt"
+		"dynn_Sandberg"
+		"dynn_Schneider" 
+		"dynn_Oppenheimer"
+		"dynn_Nossbaum"
+		"dynn_Goldschmidt"
+		"dynn_Zinger"
+		"dynn_Schuster"
+		"dynn_Bergmann"
+		"dynn_Lehrer"
+		"dynn_Avrahamson"
+		"dynn_greenbaum"
+		"dynn_Avrahammer"
+		"dynn_Katzanelson"
+		"dynn_Aharonson" 
+		"dynn_Dayan" 
+		"dynn_Apfelbaum"  
+		"dynn_Kaufmann" 
+		"dynn_Bar_Giorah"
+		"dynn_Ganz"
+		"dynn_Ramon"
+		"dynn_Fichmann"
+		"dynn_Fischmann"
+		"dynn_Efraim"
+		"dynn_Rabban"
+		"dynn_Altermann"  
+		"dynn_Altmann"  
+		"dynn_Kaplan"
+		"dynn_Levi"
+		"dynn_Levin"
+		"dynn_Cohen"
+		"dynn_Kahane" 
+		"dynn_Davidson" 
+		"dynn_Grossbaum" 
+		"dynn_Meirson"
+		"dynn_Solomon"
+		"dynn_Zalman"
+		"dynn_Binyamin"
+		"dynn_Ben_David"
+		"dynn_Jeremias"
+		"dynn_Leonhard"  
+		"dynn_Mikhaeli"
+		"dynn_Yozef"
+		"dynn_Fux"
+		"dynn_Kalonymos" 
+		"dynn_Ben_Moshe"
+		"dynn_Volfson"
+		"dynn_Reuvener"
+		"dynn_Ziskind"
+		"dynn_Ben_Yehudah"
+		"dynn_Yizchaki" 
+		"dynn_Ernst"
+		"dynn_Melamed"
+		"dynn_Sofer"
+		"dynn_Hauptstadter"
+		"dynn_Dichter"
+		"dynn_Kalner"
+		"dynn_Yitzchak"
+		"dynn_Barzel"
+		"dynn_Rife"
+		"dynn_Spiegel"
+		"dynn_Spiegler"
+		"dynn_Shamir"
+		"dynn_Hunig"
+		"dynn_Wasserlauf"
+		"dynn_Adelstein" 
+		"dynn_Shekalim"
+		"dynn_Barak" 
+		"dynn_Blumental"
+		"dynn_Kasif"
+		"dynn_Fischer"
+	}
+
+	male_names = {
+		Abba Abbaye Acha Achai Achunai Aharon Alechsandri Ammi Amram Amunah Ashi Asher Avomai Avraham Azariah Aviyah Alon Aleksander Achav Achiram Adam Adar Adir Atzil Abiassaf Assaf Akiva Avigdor Adoniram Adoniyah Adriel Amatzia Amaryahu Amichai Amit Amittai Amie Ammihud Ammiel Amnon Amon Amos Amiram Arieh AriEl Asa Asaf Avidan AviEl Avihu Aviram Avishai Avner Avram Avshalom Azaryah AzriEl Adonijah Adiv Abbahu Abiezer Abimelech
+		Baboi Baruch Bibai Binyamin Boaz Bustenai Barak Barukh Barron Belshazzar BetzalE_l Benyamin Bentzion Bermann Berman Betzalel Benoni Binyomin Bethuel Boruch Buz Benaiah Bar_El Berechiah Bryk Borik
+		Chanan Chananel Chaninai Chanoch Chaim Chayim Chelbo Chisdai Chiyya Chizkiyah Chofni Chushiel Chaggai Charan Chananyah Chanokh Chagai Chizqiyah Cheshvan Choni Chiram Chizkiyahu Cirijac Chayil Chayun
+		Daniel David Dimi Dodai Dudai Dan Dov Daniyyel Dovid Dutan Drror
+		Efrayim Eina Elazar Elchanan Eldad Eliezer Elyakim Ehud Eiran Eitan Eli Eliav Elitzur Eliel Eliyya Eliyyahu Elchanah Elnatan Elkayam Elkana Elol Enosh Esav Evyatar Ever Ezer Ezra Eyal Ernst Erez Ezekiel
+		Frankel
+		Gedalyah Gershom Ghayyat Giat Giza Gad Gamaliel Gedalyahu Gershon GidO_un Gil Ghiyyat Gilaad Gomer Golyat Giorah
+		Hillel Hila Hevel Herschel Hilai Hosha Hazaken
+		Isaac Ivomai Iddo Ilai Itzik Iyar Immanuel Itamar Ittay Iyyov Isasschar Issak Izhar
+		Jedidiah
+		Kafnai Kahana Kalonymos Kiyomi Kalev Kislev Kayin Kadush Keinan Koren Karmi Kasriel
+		Laban Liel Liad LI_chai Levi Leib Leon Leonhard Lot
+		Machir Malcha Mar Mari Matiyahu Meir Menechem Menashe Mesharsheya Meshulam Mevasser Mishael Mordechai Moshe Malakhi Mattan Mattanyahu Motti Mattityahu Maschiakh Meyer Menachem Mendel Menasheh Meshullam Metushelach Mikhael Mikhah Mordekhay Moses Morris Morritz Micah Malachi
+		Nachman Nachshon Nasan Natan Natroi Natronai Nechemiah Nehilai Nesanel Nissim Nachum Nadav Naftali Nechemyah NerI_yah Netanyahu Netzach Nevu Nimrod Nisan Noach Noam Nitzchiel Naali_el Nahemiah
+		Osher Osheri Ohad Ovad Ofir Omri Omer Ovadyah Oded Oran Oz Oun
+		Paltoi Pirkoi Peter Peleg Peretz Pikchiyah Pinchas 
+		Rava Ravai Ravi Ravya Reuven Rivai Refael Reuel Ron Ronen Richard Rishard Ram
+		Saadiah Sechok Shabsai Shalom Shanoi Shemaryah Sherira Sheshna Shila Shimon Shinoi Shlomo Shmuel Sorgo Sulam Segev Shalem Schachar ShaUl ShiftI_yah Schraga Schealtiel Schelach Schlomo Shneiur Schem ShemA_yah Shmariyah Shmariyahu ShmU_el Shet Seth Schimon Shimshon Shulam Shraga
+		Tachlifa Tamar Tzadok Tzemach Tammuz Terach Tevye Tishrei Toviyyah Tomer Tzfanyah Tzidkiyahu Tzion Tzvi Tzur TzurI_el TzurI_yah
+		Uri Uriyah UriY_el Uzzi Uzziel Uzziyyah
+		Victor Volf
+		Yaakov Yachya Yechiel Yehudah Yehudai Yehoshua Yeshayah Yisrael Yitzchak Yoel Yosef Yoshiah Yosi Yuda Yair Yannai Yankel Yam Yakim YeraV_am Yechezkel Yedidyah Yefet YehO_Achaz YehoAsh Yehosha Yo_Chaiy Yo_chanan Yonatan Yonah Yonassan Yoram Yehoshafat Yoshua Yehoyakhin Yehoyakim Yehoyada Yekonyah Yerobael Yesha_Yah YeshaYahu Yirmiyahu Yishai Yisroel Yiggal Yotam Yo_Ash Yozef Yuval
+		Zakkai Zelekman Zuiskind Zalmann Zevulun Zebulon Zimri Zekhariah Zack Ziv Ze_Ev
+	}
+	female_names = {
+		Anah Anat Anava Atalyah Achinoam Atarah Avigayil Avishag Avital Adar Adah Adina
+		Beila Belet Bosmat Bat_Sheva Batyah Beulah Bluma Bracha Brur_Yah Bilhah
+		Chana Chaggit Chaya Channah Chavah CheftziBah Chuldah Chen
+		Doltza Dalia Dafna Delilah Devorah Dinah Diklah Doris
+		Esther Ednah Eden Emunah Efrat Elisheva Edith Ester Erga EdnA_el
+		Fanni Freida
+		Guta Guthela Golda
+		Hadassah Hagar Hadar Hodiyah Hila
+		Ketzi_Ah Keren
+		Leah Lael Levanah
+		Madrona Matrona Minna Ma_Akhah Machalat Malka Matrona Matilda MeheitavEl Meitav Meital Meirav Mikhal Miriyam
+		NaAmah Ne_Omi Nechama Neta2 Noy No_Aa Nogah 
+		Osnat Orpah Ofrah Odelia Oholah
+		Pultzelina Pnina Puah
+		Rachel Rivkah Rut Roni 
+		Saris Scolaster Shluida Shoinlin Shonlin Sarah Sarit Sivan Shani Shifra Shir Shoshannah Shulammit Shvat
+		Tziporah Tuvi Tuva Tamar Tirtzah Tzillah Tzipporah Tzivyah Tevet Tehila Tzeitel
+		Vered
+		Yehudis Yeintil Yael Yehosheva Yehudit Yehudis
+		Zehavah 
+	}
+	
+	dynasty_of_location_prefix = "dynnp_of"
+	
+	
+}
+name_list_sephardi = {
+
+	cadet_dynasty_names = {
+		"dynn_Shaoul"
+		"dynn_Ben_Sol"
+		"dynn_Ben_Shlomo"
+		"dynn_Ben_Shimon"
+		"dynn_Ben_Yitzhak"
+		"dynn_Ya_akov"
+		"dynn_Ben_Yankev"
+		"dynn_Yeshayahu"
+		"dynn_Ben_Yosef"
+		"dynn_Shem_aYah"
+		"dynn_Binah"
+		"dynn_Netzach"
+		"dynn_Remez"
+		"dynn_Yeshayahu"
+		"dynn_Tzion"
+		"dynn_Aderet"
+		"dynn_Lavi"
+		"dynn_Netzer"
+		"dynn_Zuhar"
+		"dynn_Chusen"
+		"dynn_Yiraah"
+		"dynn_Keter"
+		"dynn_Bitun"
+		"dynn_Museri"
+		"dynn_Siman_Tov"
+		"dynn_Qadush"
+		"dynn_Da_at"
+		"dynn_Attias"
+		"dynn_Tzid_Qi"
+		"dynn_Shitrit"
+		"dynn_Abir"
+		"dynn_Silves"
+		"dynn_Abulafia"
+		"dynn_Twito"
+		"dynn_Ventura"
+		"dynn_Gvir"
+		"dynn_Ibn_Hasday"
+		"dynn_Filus"
+		"dynn_Purat"
+		"dynn_Mesilati"
+		"dynn_Shekalim"
+	}
+
+	dynasty_names = {
+		"dynn_Ga_Oun"
+		"dynn_Azulayi"
+		"dynn_Nahmias"
+		"dynn_Abarjil"
+		"dynn_Amsalem"
+		"dynn_Makhluf"
+		"dynn_Bar_Giorah"
+		"dynn_Dahan"
+		"dynn_Moyal"
+		"dynn_Levi"
+		"dynn_Solomon"
+		"dynn_Bakhar"
+		"dynn_Cohen"
+		"dynn_Shaouli"
+		"dynn_Ben_Shlomo"
+		"dynn_Shim_oni"
+		"dynn_Yitzchaqi"
+		"dynn_Ya_aqobi"
+		"dynn_Sarphati"
+		"dynn_Meiri"
+		"dynn_Dhar_an"
+		"dynn_Ben_Yankev"
+		"dynn_Iben_Gabirol"
+		"dynn_Even_Gavirol"
+		"dynn_Ben_Yosef"
+		"dynn_Ben_David"
+		"dynn_Berdugo"
+		"dynn_Vaknin"
+		"dynn_Toledano"
+		"dynn_Saragossi"
+		"dynn_Zuaretz"
+		"dynn_Turjeman"
+		"dynn_Macias"
+		"dynn_Shukrun"
+		"dynn_Kachlun"
+		"dynn_Chayyun"
+		"dynn_Sibuni"
+		"dynn_Ben_Shushan"
+		"dynn_Ben_Shabat"
+		"dynn_Maimon"
+		"dynn_Marciano"
+		"dynn_Abuhav"
+		"dynn_Dayan"
+		"dynn_Gabai"
+		"dynn_Chazan"
+		"dynn_Vanunu"
+		"dynn_Dadun"
+		"dynn_Daninu"
+		"dynn_Butbul"
+		"dynn_Buchbut"
+		"dynn_Ben_Lulu"
+		"dynn_Bouskilla"
+		"dynn_Abecassis"
+		"dynn_Sabag"
+		"dynn_Buzaglo"
+		"dynn_Ben_Yehudah"
+		"dynn_Ben_Chemo"
+		"dynn_Ochanah"
+		"dynn_Uliel"
+		"dynn_Qreif"
+		"dynn_Davidi"
+		"dynn_Swisa"
+		"dynn_Aflalo"
+		"dynn_Harush"
+		"dynn_Mazoz"
+		"dynn_Bukhris"
+		"dynn_Gerbi"
+		"dynn_Alaluf"
+		"dynn_Revivo"
+		"dynn_Mu_alem"
+		"dynn_Kastel"
+		"dynn_Melamed"
+		"dynn_Sofer"
+		"dynn_Bohadana"
+		"dynn_Katzav"
+		"dynn_Karmi"
+		"dynn_Guetta"
+		"dynn_Abutbul"
+		"dynn_Alush"
+		"dynn_Elharar"
+		"dynn_Mesika"
+		"dynn_Kalderon"
+		"dynn_Mesilati"
+		"dynn_Shekalim"
+	}
+
+	male_names = {
+		Abba Abbaye Acha Achai Achunai Aharon Alechsandri Ammi Amram Amunah Ashi Asher Avomai Avraham Azariah Adonijah Adiv Abbahu Abiezer Abimelech
+		Baboi Baruch Bibai Binyamin Boaz Bustenai Betzalel Benoni Bethuel Buz Benaiah Bar_El Berechiah
+		Chanan Chananel Chaninai Chanoch Chaim Chayim Chelbo Chisdai Chiyya Chizkiyah Chofni Chushiel Chizkiyahu Cirijac Chayil Chayun
+		Daniel David Dimi Dodai Dudai
+		Efrayim Eina Elazar Elchanan Eldad Eliezer Elyakim Erez Ezekiel
+		Gedalyah Gershom Ghayyat Giat Giza
+		Hillel Hila
+		Isaac Ivomai
+		Jedidiah
+		Kafnai Kahana Kalonymos Kiyomi Karmi Kasriel
+		Levi
+		Machir Malcha Mar Mari Matiyahu Meir Menechem Menashe Mesharsheya Meshulam Mevasser Mishael Mordechai Moshe Makhluf Micah Malachi
+		Nachman Nachshon Nasan Natan Natroi Natronai Nechemiah Nehilai Nesanel Nissim
+		Paltoi Pirkoi Peter
+		Rava Ravai Ravi Ravya Reuven Rivai Ram
+		Saadiah Sechok Shabsai Shalom Shanoi Shemaryah Sherira Sheshna Shila Shimon Shinoi Shlomo Shmuel Sorgo Sulam Shulam
+		Tachlifa Tamar Tzadok Tzemach
+		Uri
+		Yaakov Yachya Yechiel Yehudah Yehudai Yehoshua Yeshayah Yisrael Yitzchak Yoel Yosef Yoshiah Yosi Yuda
+		Zakkai Zelekman Zuiskind
+	}
+	female_names = {
+		Beila Belet
+		Chana
+		Doltza
+		Esther
+		Guta Guthela
+		Madrona Matrona Minna
+		Pultzelina
+		Rachel Rivkah
+		Saris Scolaster Shluida Shoinlin Shonlin
+		Tziporah
+		Yehudis Yeintil
+		Tamar
+	}
+	
+	dynasty_of_location_prefix = "dynnp_of"
+	
+	
+}
+name_list_radhanite = {
+
+	cadet_dynasty_names = {
+		"dynn_Rabban"
+		"dynn_Efraim"
+		"dynn_Eliyahu"
+		"dynn_Cohen"
+		"dynn_Dharan"
+		"dynn_Yitzhak"
+		"dynn_Koder"
+		"dynn_Japheth"
+		"dynn_Hallegua"
+		"dynn_Madayi"
+		"dynn_Meir"
+		"dynn_Menahem"
+		"dynn_Mutath"
+		"dynn_Nehemya"
+		"dynn_Oran"
+		"dynn_Pallivathikal"
+		"dynn_Rahabi"
+		"dynn_Sarphati"
+		"dynn_Sassoon"
+		"dynn_Chorath"
+		"dynn_Solomon"
+		"dynn_Yaakov"
+		"dynn_Japheth"
+		"dynn_Simchoni"
+		"dynn_Ya_aqobi"
+		"dynn_Tzion"
+		"dynn_Binah"
+		"dynn_Zuhar"
+		"dynn_Chusen"
+		"dynn_Yiraah"
+		"dynn_Keter"
+		"dynn_Bitun"
+		"dynn_Museri"
+		"dynn_Siman_Tov"
+		"dynn_Qadush"
+		"dynn_Da_at"
+		"dynn_Attias"
+		"dynn_Tzid_Qi"
+		"dynn_Shitrit"
+		"dynn_Abir"
+		"dynn_Silves"
+		"dynn_Abulafia"
+		"dynn_Twito"
+		"dynn_Ventura"
+		"dynn_Gvir"
+		"dynn_Ibn_Hasday"
+		"dynn_Filus"
+		"dynn_Purat"
+	}
+
+	dynasty_names = {
+		"dynn_Ben_Yusef"
+		"dynn_Golan"
+		"dynn_Ben_Dawid"
+		"dynn_Bar_Giorah"
+		"dynn_Bakhar"
+		"dynn_Efraim"
+		"dynn_Ben_Ari"
+		"dynn_Eliyyahu"
+		"dynn_Bader"
+		"dynn_Mehandes"
+		"dynn_Cohen"
+		"dynn_Levi"
+		"dynn_Madayi"
+		"dynn_Bostanai"
+		"dynn_Meiri"
+		"dynn_Nechemyah"
+		"dynn_Perachiah"
+		"dynn_Yifrachi"
+		"dynn_Chadad"
+		"dynn_Eliyan"
+		"dynn_Ben_Amr"
+		"dynn_Elimelech"
+		"dynn_Dayan"
+		"dynn_Malka"
+		"dynn_Amran"
+		"dynn_Gabai"
+		"dynn_Chazan"
+		"dynn_Tavori"
+		"dynn_Barzillai"
+		"dynn_Ben_Chesed"
+		"dynn_Ben_Hur"
+		"dynn_Assulin"
+		"dynn_Ben_Nun"
+		"dynn_Elimelekh"
+		"dynn_Yitzchaqi"
+		"dynn_Avrahami"
+		"dynn_Aharoni"
+		"dynn_Elias"
+		"dynn_Shamai"
+		"dynn_Galili"
+		"dynn_Karmeli"
+		"dynn_Shevach"
+		"dynn_Sabag"
+		"dynn_Sa_ad"
+		"dynn_Sa_aid"
+		"dynn_Dimi"
+		"dynn_Elsheikh"
+		"dynn_Safra"
+		"dynn_Sanhadrin"
+		"dynn_Harrari"
+		"dynn_Shabasi"
+		"dynn_Rabba"
+		"dynn_Chalab"
+		"dynn_Mesharsheya"
+		"dynn_Eina"
+		"dynn_Ga_Oun"
+		"dynn_Barda"
+		"dynn_Huna"
+		"dynn_MU_alem"
+		"dynn_Melamed"
+		"dynn_Sofer"
+		"dynn_Bohadana"
+		"dynn_Katzav"
+		"dynn_Karmi"
+		"dynn__Aeyni"
+		"dynn__Azizi"
+		"dynn_Sheqalim"
+		"dynn_Shasha"
+	}
+
+	male_names = {
+		Anah Anat Atalyah MaAkhah Machlah Aviyah Diklah Gomer Mikhayahu Yachin AchAv Adalya Adam Adar Adir Adinah Adlai Adoniram Adoniyah Adriel Aharon Amaryahu Amittai Ammiel Amnon Amos Amram Anaiah Anan Anani Aran Arieh AriEl Asa Asaf Asher Asnappar AvdiEl Avidan AviEl Avihu AvimaEl Avimelekh Aviram Avishay Avner Avraham Avram Avshalom Azarel Azaryah Azazyahu AzriEl Av Alechsander Atzil Abiasaph Amichai Ammi Amit Ammihud Amon Amiram AnaYah Avigdor Avishai Aqiva Adonijah Adiv Abbahu Abiezer Abimelech
+		BaAl Barak Barukh Belshatzzar Benayahu BetUel Binyamin Boaz Baboi Betzal_El Bo_az BaAlZevuv Betzalel Benoni Bethuel Buz Benaiah Bar_El Berechiah
+		Chaggai Chanan Chananyah Chanokh Chavaqquq ChazaEl Chizqiyahu Charan Chanan_El Chaninai Chayim Chagai Chefer Chizqiyah Chileab Cheshvan Choni Chofni Chiyya Chiram Chashmonai Chizkiyahu Cirijac Chayil Chayun
+		Dan Daniyyel Daryawesh Dawid Delayahu Dov Delai_Yah Deuel Dutan Dudai Drror
+		Efrayim Ehud Eiran Eitan Elah ElAzar Elchanan Eli Eliav Eliel EliEzer Elifalet Elifelet Elihu Elisha Elishua Eliyyahu _Eran Eldad Elipaz Elitzur Elid_a Elisham_a Eliyya Elkanah Elnatan Elon Enosh Esaw Evyatar Ezer Ezra Elchanah Elqayam El_Qana El_Yaqim El_Yada Elol Esav _Ever _Ezer _Ezra Eyal Erez Ezekiel
+		Gad Gamaliel GavriEl Gedalyahu Gemaryahu Gershom Gershon Gedalyah Gemaryah Gil Giorah GidOn Gilad Golyat
+		Haran Hevel Hillel Hiram Hoshea Hosha
+		Iddo Ilai Immanuel Ira Itamar Iyyov Ittay Itzik Iyar Ivomai Ishm_aEl Isasschar Issak Izhar
+		Jedidiah
+		Kalev Kayin Keinan Kenanyahu Koresh Kislev Karmi Kasriel
+		Laban Lael Lebanah Lemuel Levi Lot Liel Li_ad Li_Chai
+		Machli MalAkhi Mattan Mattanyahu Mattithyahu Mattityahu Melech Menachem Menashsheh Meshullam Metushelach MikhaEl Mikhah Mordokhay Moshe Mar Mari Mattai Mattiu Mattityah Matiyahu Marcheshvan Machir Malkiyahu Meir Mendel Menasheh Mevasser Mishael Micah Malachi
+		Nachum Nadav Naftali Natan Nechemyah Neriah NetanEl Netanyahu Nimrod Nogah Noach Nachman Nachshon Nasan Natronai Neri_Yah Nesanel Netzach Nevu Nisan Nissim No_Am Na_aman Nitzchiel Naali_el
+		Ofrah Omri Ovadyah Oved Ofir _Omri _Omer _Ovad _Ovad_Yah _Oved _Oded Oran Oz Oun Osher Osheri Ohad
+		Peleg Penuel Peretz Pinchas Paltoi Pirqoi Peter Pe_Qachiyah 
+		QemuEl Qayin Qadush Qeinan Qenanyahu Qedar Qoresh Qoren Qna_an Qushiel
+		RafaEl RehavAm Reuel Reuven Refael Ron Ronen RoEy Ram
+		Sancheriv Seraiah Shalmaneser ShaUl SheAltiEl Shelach Shelah Shelomoh Shem ShemaYah ShemuEl Shet Shimon Shimshon Saadiah Sheshna Sherira Shila Segev Sechoq Shalem Shachar Shalom Shabbtai ShafatiYah Schraga Schlomo ShemariYah ShemariYahu ShmuEl Shimoun Shuvav Shulam Shraga Simcha Sasson
+		Talmai Tammuz Teman Terach Toviyyah Tzefanyah Tzidkiyahu Tzion Tzivah TzuriEl Tovi Tachlifa Tamir Tishrei Tomer Tzadoq Tzemach Tzvi Tzur TzuriYah
+		Uri Uriyah UriyEl Uzzi Uzziel Uzziyyah
+		Yaakov YachleEl YachtzeEl Yadon Yair Yamin YaRah YaravAm Yared Yawan Yechezkel YechiEl Yedidyah Yefet YehoAsh Yehochanan Yehonatan Yehoram Yehoshafat Yehoshua Yehoyakhin Yehoyakim Yehu Yehudah Yehudi Yekonyah YerachmeEl Yeriyahu YeshaYahu Yeshua Yiftach Yirmiyahu Yishai Ya_akov Yachya Yado YadaEl Yannai Yam Yaqim Yemaniyah Yavan YeAzriel Yechezqel Yefet YehoAchaz Yehosha Yonatan Yonah Yehoyaqim Yehoyada Yehoda Yuda Yeqonyah Yerobaal YeshaYah Yeshua YisraEl Yivchar Yitzchaq Yitzchak Yiggal Yotam Yoel Yo_Ash Yovav Yosef Yozef Yoshiah Yuval Yerocham Yocahiy
+		Zevulun Zimri Zakhariah Zakkai Ziv Ze_Ev
+	}
+	female_names = {
+		Anah Anat Atalyah Achinoam Asenat Atarah Avigayil Avishag Avital Aviyah Avitalad Adar Adah
+		Basmat BatSheva Beulah Bilhah Bityah Batyah Bracha BrurYah
+		Chaggit Channah Chavah CheftziBah Chuldah Chen
+		Delilah Devorah Dinah Diklah Dalia
+		Ednah Efrat Elisheva Ester Eden Emunah Erga
+		Gomer GeUlah Golda
+		Hadassah Hagar Hodiyah Hadar Hila
+		Izevel
+		KetziAh Keren Keter
+		Leah Lael Levanah
+		Machalat MeheitavEl Merav Mikhal Miriam Mikhayahu Malka Margalit
+		NaAmah NaOmi NoAh No_Aa Nogah
+		Orpah Ofir
+		Rachel Rivqah Rut Roni
+		Sarah Shifra Shoshannah Shulammit Sarit Saris Sivan Shani Shir Shvat
+		Tamar Tirtzah Tzillah Tzipporah Tzivyah Tuvi Tuva Tevet Tehila Tzeitel
+		Vered
+		Yael Yedidah Yehosheva Yehudit Yemima Yerushah Yachin Yafah
+		Qeren
+		Zehavah Zoharah
+		Pnina Puah
+	}
+	
+	dynasty_of_location_prefix = "dynnp_of"
+	
+	
+}
+			 

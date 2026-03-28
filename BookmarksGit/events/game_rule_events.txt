@@ -421,7 +421,7 @@ game_rule.1012 = {
 					AND = {
 						top_liege != this
 						liege = {
-							NOT = { culture = culture:mogyer }
+							culture != culture:mogyer
 							highest_held_title_tier = tier_kingdom
 						}
 					}

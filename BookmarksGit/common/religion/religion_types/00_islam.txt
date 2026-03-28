@@ -91,9 +91,7 @@
 		{ name = "holy_order_servants_of_allah" }
 		{ name = "holy_order_champions_of_islam" }
 	}
-
-	holy_order_maa = { cataphract }
-
+	
 	localization = {
 		#HighGod
 		HighGodName = islam_high_god_name

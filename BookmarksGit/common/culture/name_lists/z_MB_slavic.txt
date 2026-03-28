@@ -1,5 +1,328 @@
 ﻿################################################################## SOUTH SLAVIC #############################################################################
 
+name_list_vlach = {
+
+	cadet_dynasty_names = {
+		"dynn_Basarab"
+		"dynn_Dragusin"
+		"dynn_Basarab"
+		"dynn_Litovoi"
+		"dynn_SelimoviC_"
+		"dynn_CsA_ky"
+		"dynn_DezsO_fi"
+		"dynn_Guthi-OrszA_gh"
+		"dynn_MarczaltO_vi"
+		"dynn_Petenye"
+		"dynn_Tibai"
+		"dynn_ZA_ch"
+		"dynn_Szapolyai"
+		"dynn_VA_rdai"
+		"dynn_ProdaniC_"
+		"dynn_Odescalchi"
+		"dynn_Costin"
+	}
+
+	dynasty_names = {
+		"dynn_Basarab"
+		"dynn_Dragusin"
+		"dynn_Basarab"
+		"dynn_Litovoi"
+		"dynn_SelimoviC_"
+		"dynn_CsA_ky"
+		"dynn_DezsO_fi"
+		"dynn_Guthi-OrszA_gh"
+		"dynn_MarczaltO_vi"
+		"dynn_Petenye"
+		"dynn_Tibai"
+		"dynn_ZA_ch"
+		"dynn_Szapolyai"
+		"dynn_VA_rdai"
+		"dynn_ProdaniC_"
+		"dynn_Odescalchi"
+		"dynn_Costin"
+		"dynn_BA_dA_rA_u"
+		"dynn_BA_lA_ceanu"
+		"dynn_Bosie"
+		"dynn_BrA_iloi"
+		"dynn_BuS_ilA_"
+		"dynn_Calerghi"
+		"dynn_Callimachi"
+		"dynn_Cantemir"
+		"dynn_Carianopol"
+		"dynn_Crihan"
+		"dynn_Carionfil"
+		"dynn_Cristescu"
+		"dynn_Casassovici"
+		"dynn_Cesianu"
+		"dynn_ChinteS_ti"
+		"dynn_Chirescu"
+		"dynn_CoteS_ti"
+		"dynn_CraioveS_tilor"
+		"dynn_CrA_snaru"
+		"dynn_Dinastia"
+		"dynn_DA_neS_tilor"
+		"dynn_Diamandy"
+		"dynn_DrA_culeS_tilor"
+		"dynn_DrugA_"
+		"dynn_Eliescu"
+		"dynn_Emandi"
+		"dynn_Filipescu"
+		"dynn_Florescu"
+		"dynn_FundA_T_eni"
+		"dynn_Giosani"
+		"dynn_Golescu"
+		"dynn_GrA_diS_teanu"
+		"dynn_Greceanu"
+		"dynn_Hagi"
+		"dynn_HA_jdA_u"
+		"dynn_Jianu"
+		"dynn_Korne"
+		"dynn_Lecca"
+		"dynn_LereS_ti"
+		"dynn_Magheru"
+		"dynn_Marineanu"
+		"dynn_Miclescu"
+		"dynn_MovilA_"
+		"dynn_MA_nA_stireanu"
+		"dynn_Niculescu_DorobanT_u"
+		"dynn_PA_cleanu"
+		"dynn_Pisoschi"
+		"dynn_PleS_ia"
+		"dynn_PleS_nilA_"
+		"dynn_PleS_oianu"
+		"dynn_RacovitzA_"
+		"dynn_RA_S_canu"
+		"dynn_Rallet"
+		"dynn_Rosetti"
+		"dynn_RusA_neS_ti"
+		"dynn_Savoia"
+		"dynn_Stoicescu"
+		"dynn_S_oarec"
+		"dynn_S_oldan"
+		"dynn_TurbureS_ti"
+		"dynn_UrlA_T_eni"
+		"dynn_VidraS_cu"
+		"dynn_Yarka"
+	}
+
+	male_names = {
+		Adrian Alexandru Anghel Aron Akamir Ardagast Ajtony Andrejan Alb Arcadian Aegidius Avianu Abiatar Axinte Adeodat Agatodor Alexie Ambrosiu Anastasiu Anatolie Androgeu Andronic Angelin Antim Arcadie Aristip Arsenie Artemie Atreu AuraS_ Aureliu Auxentiu Axente Axinte
+		Bajan Balc Barbat Basarab Bogdan Bucur BA_rbu Banescu BA_rdan Barzan BA_secu Bau Berzoi Benone BrA_duT_ Branislav
+		Carol Ciprian Ciubar Claudiu Corneliu Costin Coman CrA_ciun CrA_stea CrescenT_iu Cezar Constantin CA_lin2 Camil Casian Cazimir Cefeu Cerber Cezarion Chiriac Chiru Cleonic Cneus Codin Codru Contard ConT_iu Coriolan Corvin CosteluS_ Cosmin Crisant Cristin Cristofor
+		Damjan Dan Dragos Dumitru DobrE_ta Daurit Daciu Dracianu Dobroslav Demetru Dmitriu Decimus Dacian Darius Decebal Dezideriu Darie Dedal Deifobos Dimitrie Diogene Dorel Dorimedont Duiliu
+		Emerik Eutimieus Etesiu Edras Euthymiu Ezechiel Eudoxiu Eustorgiu Eugen Eusebiu Ecaterin Eftimie Egeu Egidiu Elcana Elefterie Eleuteriu Elpidifor Enricu Epaminonda Epimeteu Ermil Eugeniu EustaT_iu Evarist Ezechia
+		Florin Franjo Fabian Flaviu Fanurie Filaret Filumen Fineas FlorenT_iu 
+		Gavril Gheorghe Grigore Gelou Glad Georgel Georgiu Ghedeon Gherasim Ghiocel GraT_ian Grigorie
+		Hariton Heraclit Hipocrate Hrisant
+		Iacob Iancu Ieremia Ilie Ioan Iorghu Iosif Iuga Idariz Isac Iulian Iuliu Iustin Ivan Iahve Ianuarie Iaroslav Ignatie Ilian InocenT_iu Ianache Ionatan Iordan Iorgu Iov Iovian Iustinian
+		Kelagast
+		Janos Jovan Jonas Josif Jeremia Justin Jovinar Jovomir Jorislav Janaslav
+		Ladislau Latcu Laurentiu Litovoi Lucian LazA_r Liviu Larion Laurian Leonte Leontin Leucip LucenT_iu Luchian LucreT_iu 
+		Marin Mihai Milos Mircea Moise Musoki Mezamir MirA_slav MA_dA_lin Marcel Marcian Marian Matei Mihai Moise Marcu Martinian Mauriciu Meletie Metodie Metodiu Mihnea Minodor Moisi Morfeu
+		Nicolaie Narcis NeacS_u Nectarie Nicodim
+		Octavian Ovidiu Octaviu Odiseu Olimpiu Onufrie Orfeu
+		Petre Pirvu Peiragast Paul Pompiliu Pafnutie Pahomie Paisie Pamfil Pangratie Pantelimon Parteni Patriciu Patrocles Perseu Petroniu Porfirie Procopie Prometeu Proteu Ptolemeu Predislav
+		Radamant Romul Radovan Radu Roman Radogost RA_ducu RA_zvan Radomir Romeo Romulus 
+		Sas Seneslav Sergiu Simion Stefan Stelian Silvanu Sabin Sandu Sebastian Silviu Simon Sorin Stan Sandrin Savel Silveriu Silvestru Silvian Sosipatru 
+		Teodor Tepes Tibor Tihomir Timotei Tudor Teofil Tiberiu Toma Traian Teodosie Teofan Teotim Terentie Tezeu Tiberiu
+		Valentin Valeriu Vasile Veaceslav Victor Vilhelm Vintila Vlad Vlastimir Valerian Virgil Vlaicu Voicu
+		Zaharia Zamfir Zenovie Zlatoslav
+	}
+	female_names = {
+		Adelina Adriana Afina Alexandra Alexia Ana Anastasia Angela Arina AnuT_a Anastasia_Maria Anisia AluS_a2 AgniS_a Anushka Agnita 
+		Bogdana Bianca Basia BareT_a Bogumila Boleslava Borislava Branislava
+		Christina Clara Catrina Calinica ConstanT_a Clavdia Cneaja Crisanta Chloe
+		Dana Draga Dragana DomniT_a Despina Domnica DrA_ghicea Dobroslava Domna Dragomira DochiT_a
+		Ecatarina Elena Elisabeta Emilia Eufroysina ErzsE_bet Eufimia Evdochia Eudocia Ema ElisabA_ Eufrosina Evdokia
+		Felicia Floarea FloriT_a Florica Fevronia Fedosia FeliT_a Filomena Filofteia Filippa FlorenT_a
+		Grigoria Glicera Galina Gelasia Genovefa Glyceria Gherghina
+		Iacoba Ioana Ionela Irina Iulia Iuliana Ileana Iustina Iaroslava
+		Luciana Lucia Livia LiubovA_ Lidia LucreT_ia
+		Maria Monica MA_dA_lina Milca Mila Miruna Militsa Magdalena Marta MaruS_a Marcela
+		Natalia Neaga NeacS_a Nadeja NatalA_ Nicodema Nadejda
+		Olimpia OlgA_ OtI_lia Oprina Oana Onufria Orsana Otilia_Maria Oleandria OriuT_a
+		Paraschiva Petra PA_una Prascovia Pulcheria Predislava
+		Roxana Ruxandra Rodica RoduT_a Rozalia Raisa Reghina Rosalia Roza Rakhila Ruzica ReziT_a Radoleta Ruzanda
+		Smaranda Sophia Stana Stefana Stefania Sterpana Slavena SA_nziana
+		Teodora Theodosia Tereza Tecla TaT_iana TA_naS_a
+		Vasilica Violeta Voica Veronica VoichiT_a ViS_ana Vasilisa Veaceslava Varvara Valeria
+		Zina Zlata Zlatoslava Zoia Zoica Zofija Zora Zorislava Zolota Zlatica Zdravka Zdravislava ZenoviT_a
+	}
+	
+	dynasty_of_location_prefix = "dynnp_de"
+	
+	patronym_suffix_male = "dynnpat_suf_escu"
+
+	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	pat_grf_name_chance = 40
+	mat_grf_name_chance = 10
+	father_name_chance = 10
+	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+	pat_grm_name_chance = 10
+	mat_grm_name_chance = 40
+	mother_name_chance = 5
+
+	
+
+	mercenary_names = {
+		{ name = "mercenary_company_sheperds_of_the_romans" }
+	}
+}
+
+name_list_bulgarian = {
+
+	cadet_dynasty_names = {
+		"dynn_Srednogorski"
+		"dynn_Karvuna"
+		"dynn_Terter"
+		"dynn_Shishman"
+		"dynn_Struma"
+		"dynn_Asen"
+		"dynn_Delyan"
+		"dynn_Radomir"
+		"dynn_Kometopoulos"
+		"dynn_Mytzes"
+		"dynn_Tikh"
+		"dynn_Bardovka"
+		"dynn_Sliven"
+		"dynn_Bogoris"
+		"dynn_Slav"
+		"dynn_Hriz"
+		"dynn_Momtchil"
+		"dynn_Cherven"
+		"dynn_Marko"
+		"dynn_Fruzhin"
+		"dynn_Ermi"
+		"dynn_Hrabar"
+		"dynn_Exarch"
+		"dynn_Sigritsa"
+		"dynn_Chrysos"
+		"dynn_Komnene"
+		"dynn_Svetoslav"
+		"dynn_Palaeologus"
+		"dynn_Asanes"
+		"dynn_Komitopulov"
+		{ "dynnp_ot" "dynn_Vratsa" }
+		{ "dynnp_ot" "dynn_Tarnovgrad" }
+		{ "dynnp_ot" "dynn_BeroE_" }
+		{ "dynnp_ot" "dynn_Preslav" }
+		{ "dynnp_ot" "dynn_Velbazhd" }
+		{ "dynnp_ot" "dynn_Provadiya" }
+		{ "dynnp_ot" "dynn_Shumen" }
+		{ "dynnp_ot" "dynn_Silistra" }
+		{ "dynnp_ot" "dynn_Giurgiu" }
+		{ "dynnp_ot" "dynn_Haskovo" }
+		{ "dynnp_ot" "dynn_CA_lA_raS_i" }
+		{ "dynnp_ot" "dynn_BuzA_u" }
+		{ "dynnp_ot" "dynn_BrA_ila" }
+		{ "dynnp_ot" "dynn_Kopsis" }
+	}
+
+	dynasty_names = {
+		"dynn_Srednogorski"
+		"dynn_Karvuna"
+		"dynn_Terter"
+		"dynn_Shishman"
+		"dynn_Struma"
+		"dynn_Asen"
+		"dynn_Delyan"
+		"dynn_Radomir"
+		"dynn_Kometopoulos"
+		"dynn_Mytzes"
+		"dynn_Tikh"
+		"dynn_Bardovka"
+		"dynn_Sliven"
+		"dynn_Bogoris"
+		"dynn_Slav"
+		"dynn_Hriz"
+		"dynn_Momtchil"
+		"dynn_Cherven"
+		"dynn_Marko"
+		"dynn_Fruzhin"
+		"dynn_Ermi"
+		"dynn_Hrabar"
+		"dynn_Exarch"
+		"dynn_Sigritsa"
+		"dynn_Chrysos"
+		"dynn_Komnene"
+		"dynn_Svetoslav"
+		"dynn_Palaeologus"
+		"dynn_Asanes"
+		"dynn_Komitopulov"
+		{ "dynnp_ot" "dynn_Vratsa" }
+		{ "dynnp_ot" "dynn_Tarnovgrad" }
+		{ "dynnp_ot" "dynn_BeroE_" }
+		{ "dynnp_ot" "dynn_Preslav" }
+		{ "dynnp_ot" "dynn_Velbazhd" }
+		{ "dynnp_ot" "dynn_Provadiya" }
+		{ "dynnp_ot" "dynn_Shumen" }
+		{ "dynnp_ot" "dynn_Silistra" }
+		{ "dynnp_ot" "dynn_Giurgiu" }
+		{ "dynnp_ot" "dynn_Haskovo" }
+		{ "dynnp_ot" "dynn_CA_lA_raS_i" }
+		{ "dynnp_ot" "dynn_BuzA_u" }
+		{ "dynnp_ot" "dynn_BrA_ila" }
+		{ "dynnp_ot" "dynn_Kopsis" }
+	}
+
+	male_names = {
+		Aleksii AleksandA_r Aleksiy Adrian Asparuh Abram Artislav Agafon Agapet Archip Arkadiy Arseniy Avgustin Arsenij Alusian Andrija Avram
+		Balin Bernardin Bertalan Bogoris Boril Bozidar Braslav Boris Boyan Bogdan Bogomil Blagoy Blagomir Blagoslav Bistrimir Borislav Borivoj Bogutil Biser Blagovest Borilko Bozhin Branimir Blagorod Bronil
+		Cvetan Chernomir Clement Cyril Chernogor Celslav Celorad Cibobor Caharij Caharin Calist Calinik Cankratij Cianij Ciriak Crisant Cipru Calev Cimon Candidij Casiot Cirus Crescentij Ceko Cenimir Cenotih Cenodan
+		Dan Dionisii Dominik Dragoman Dragshan Drzislav Damiyan Danail Dejan Deliyan Dimitar Dimityr Diyan Dobroslav Domitian Domir Donat Dorotei Drenislav Dragan Dragislav Dragomir Dryan Dorin Domil Domislav Dimitr
+		Evtimii Eftimiy Evstatiy Evkaliy Eutihiy Egor Eneko Evan Evo Etsko Evoilo Evto Ezar Edi Edivoi Edislav Edisvet Edivojez Evgeri
+		Frujin Fadel Falarij Faleon Faronij Fedor Feletij Felik Feodosiy Feofan Fevsmil Fevzidan Fevsitko Fokios
+		German Grgur Gavril Gavriil Gavro Giorgi Gergan Gavran Gligor Glikeri Gervasij Garo Garoslav GneS_ko Gnevozdan Gnevko Gnevoslav Gnevotir Gradul Gradan Gradomir Garoslav_Fokios
+		Hranimir Havrail Havril Harlampi Harlam Harlamij Hariton Haristij Harist Heraklij Hermanij Herman Heronij Hesihij Hrab Hrabar Hrabec Hran Hranislav Hranigost Hrato Hratimir Hratislav Hratilo Hratibor Hratigost
+		Ioakim Ivan Iakim Iakov Ieremia Ieronim Ilian Imenij Ignatij Ivo Ivoilo Iskren Islav Izbor Izvorn Izmir Ivaylo Ispolin Iskro Irakliy Ispas Isihiy Isidor Ignat Isak Ilarion Ipolit
+		Jerolim Joan Jovan Jovij Jaroslav Jeremij Jurij Jaropolk Jaromir Jarosvet Jarizdan J_aromir J_aroslav Jonijus Jutij JuS_ij
+		Kalojan Kocelj Kozma Kresimir Kulin Konstantin Konstantiy Kiril Kirilos Kliment Klimentiy Kaloyan Kaliman Krum Kassian Kastoros Kozma Kondrat Kostadin
+		Ljubomir Ljutomisl Ljuboslav Ljuborad Ladomir Lakomir Lazor Ladomir Ladislav Ljubodrag Laurentiy Lukan Ladogor Luchen
+		Marko Mihail Mikica Miroslav Momchil Metodii Matei Milutin Mitre Mileti Mitrofan Mitso Milen Milorad Milomir Milenko Miron MetodiI_ko Matvey Miletij MiloS_ Maksim
+		Nikola Naum Nikifor Neven NebojS_a Neslav Novak Nebojslav Nestor Nestimir Nenoboj Navoslav Nikomir Nedelko Nedelcho NeZ_islav
+		Ognen Omurtag Ognyan Ognomir Ognoslav Ozorobor Oyarobor Oyaroslav Onufriy Orestiy Odisej Onisim Onesifor Odeslav Orfei
+		Petar Prijezda Pribislav Presian Predimir Predislav Pavel Prokhor Pimen Porfirii Panayotii Pribomir Petimir Presogost Presosvet Pravoslav Pravomir
+		Radislav Radu Roman Romul Romey Rafail Rodion Reginos Resius Regian Radoslav Radomir Radko Rastislav Rostislav Rastko Radogost
+		Sava Sermon Slavac Soimir Stracimir Svetislav Stefan Silvester Sergei Siluan Serafim Sophroniy Savas Savva Sabas Svetoslav Stanislav Stanimir Stoyan Strahil Svetomir
+		Tomislav Trpimir Tervel Teofil Teodor Toma Tihomir Tihoslav Todor Timotei Trayan Tsvetko Tsvetan Tsvetelin Tatomir Tverdoslav Tvorimir Tsvetomir Tsvetoslav Tugomir Tugan Tihoy
+		Vasilii Viseslav Vladislav Vojnomir Vladimir Vlastimir Veleslav Velimir Vojislav Vojen Vojin Vukoslav Vukoslav Vardanes Varlaam Valko Velin Veselin VelimU_r
+		Zdeslav Zavid Zdravko Zdesimir Zlatan Zlato Zlatibor Zlatko Zorislav Zoran Zorun Zoromir Zverislav Zdesen Zorodrag Zlatomir Zlatovlad Zlatobor
+	}
+	female_names = {
+		AleksandA_ Aleksandrina Anastasia Anka Ana Atanasija Anisija Anichka Andrijana Antonia Aneta Anelia Angelina Anzhela Avramija Adrijana Alena Aleksija Agapia Anisia
+		Bilyana Bisera Bogdana Bogna Borislava Boyana Bogumila Bogoslava Bozhana Bozhidara Blagovesta Branka Barbala Brana Barisa Barbula Belka Bojka Biserka Blagoja BlaZ_ena Bona Blaga Benedikta
+		Cveta Cvetana Cvetoslava Cvetomira Cvetimira Cvetka Cvetislava Chernomira Celslava Cvetozara Calina Clementina Cassandra Cyria
+		Dana Desislava Donka Dobrava Dobrana Dobrica Dobromira Dobroslava Domna Dulceta Doksana Despina_Maria Damara Dorina Dorotea Draguna Dimitrina Danitsa Dajana Domnika Dajana_Milena Danutza Daniyela Darya
+		Elisaveta Emiliya Evdokiya Elena Elitsa Elenka Elislava Enisa Evlada Ekaterina Evpraksiya Eleni Eufrosina Eudokia Efimia
+		Filipa FalkaN_a Fasta Franja Franislava Fradislava Frosina Faidra Fara Fedora Fenika Fevronia Fidanka Filitia Flaviana Fotina Fimia
+		Gergana Gorana Gordana Goska Gospodina Golubina Gordislava Gorislava Goritsa Gavriila Galena Galatia Gaiana Gerasima Gorgonia Georgena Georgina
+		Hristina
+		Iskra Iva Ivana Ivanka Ivet
+		Lala Lidiya Lilyana Lyudmila
+		Maya
+		Nadejda Nevena Nikolina
+		Penka
+		Rada Radka Raina Raya Rayna Rosa Rositsa
+		Silva Silviya Snezhana Stoyanka
+		Tereza Todorka Tsveta Tsvetanka
+		Vasilka Violeta
+		Yana Yoanan Yordanka
+		Zhivka
+	}
+	
+	dynasty_of_location_prefix = "dynnp_ot"
+	
+	patronym_suffix_male = "dynnpat_suf_ov"
+	patronym_suffix_female = "dynnpat_suf_ova"
+
+	
+
+	mercenary_names = {
+		{ name = "mercenary_company_company_of_the_skull_cup" }
+		{ name = "mercenary_company_brothers_of_bayan" }
+	}
+}
 
 name_list_serbian = {
 
@@ -34,75 +357,7 @@ name_list_serbian = {
 		"dynn_Radomiros"
 		"dynn_TvrtkoviC_"
 		"dynn_Vrana"
-		"dynn_GavriloviC_"
-		"dynn_LazareviC_"
-		"dynn_JankoviC_"
-		"dynn_NanuS_evski"
-		"dynn_SaviC_eviC_"
-		"dynn_Ugljanin"
-		"dynn_KrsmanoviC_"
-		"dynn_MandiC_"
-		"dynn_PeS_iC_"
-		"dynn_PopoviC_"
-		"dynn_VasiC_"
-		"dynn_RajkoviC_"
-		"dynn_PopoviC_"
-		"dynn_Z_iviC_"
-		"dynn_SaviC_"
-		"dynn_DarkoviC_"
-		"dynn_GeorgijeviC_"
-		"dynn_SaviC_eviC_"
-		"dynn_LaziC_"
-		"dynn_BrD_anin"
-		"dynn_JovanoviC_"
-		"dynn_Trkulja"
-		"dynn_PopadiC_"
-		"dynn_KrstiC_"
-		"dynn_TadiC_"
-		"dynn_MarinkoviC_"
-		"dynn_ObradoviC_"
-		"dynn_Ristovski"
-		"dynn_TomiC_"
-		"dynn_C_arapiC_"
-		"dynn_Hristov"
-		"dynn_D_orD_eviC_"
-		"dynn_AndriC_"
-		"dynn_RakoC_eviC_"
-		"dynn_MarinkoviC_"
-		"dynn_PopadiC_"
-		"dynn_Z_iviC_"
-		"dynn_KaranoviC_"
-		"dynn_BojaniC_"
-		"dynn_CvetkoviC_"
-		"dynn_TanackoviC_"
-		"dynn_JankoviC_"
-		"dynn_S_iljan"
-		"dynn_Borisov"
-		"dynn_Hristov"
-		"dynn_PopoviC_"
-		"dynn_Moldovan"
-		"dynn_RistiC_"
-		"dynn_Nestorovski"
-		"dynn_NikoliC_"
 		"dynn_PavloviC_"
-		"dynn_CvetkoviC_"
-		"dynn_StefanoviC_"
-		"dynn_JeliC_"
-		"dynn_RakoC_eviC_"
-		"dynn_Z_iviC_"
-		"dynn_AleksiC_"
-		"dynn_StevanoviC_"
-		"dynn_VelimiroviC_"
-		"dynn_BrkiC_"
-		"dynn_BrD_anin"
-		"dynn_SaviC_eviC_"
-		"dynn_GeorgijeviC_"
-		"dynn_Nestorovski"
-		"dynn_KaranoviC_"
-		"dynn_KuzmanoviC_"
-		"dynn_ZebiC_"
-		"dynn_VojisavljeviC_"
-		"dynn_MrnjavC_eviC_"
 	}
 
 	dynasty_names = {
@@ -136,98 +391,50 @@ name_list_serbian = {
 		"dynn_Radomiros"
 		"dynn_TvrtkoviC_"
 		"dynn_Vrana"
-		"dynn_GavriloviC_"
-		"dynn_LazareviC_"
-		"dynn_JankoviC_"
-		"dynn_NanuS_evski"
-		"dynn_SaviC_eviC_"
-		"dynn_Ugljanin"
-		"dynn_KrsmanoviC_"
-		"dynn_MandiC_"
-		"dynn_PeS_iC_"
-		"dynn_PopoviC_"
-		"dynn_VasiC_"
-		"dynn_RajkoviC_"
-		"dynn_PopoviC_"
-		"dynn_Z_iviC_"
-		"dynn_SaviC_"
-		"dynn_DarkoviC_"
-		"dynn_GeorgijeviC_"
-		"dynn_SaviC_eviC_"
-		"dynn_LaziC_"
-		"dynn_BrD_anin"
-		"dynn_JovanoviC_"
-		"dynn_Trkulja"
-		"dynn_PopadiC_"
-		"dynn_KrstiC_"
-		"dynn_TadiC_"
-		"dynn_MarinkoviC_"
-		"dynn_ObradoviC_"
-		"dynn_Ristovski"
-		"dynn_TomiC_"
-		"dynn_C_arapiC_"
-		"dynn_Hristov"
-		"dynn_D_orD_eviC_"
-		"dynn_AndriC_"
-		"dynn_RakoC_eviC_"
-		"dynn_MarinkoviC_"
-		"dynn_PopadiC_"
-		"dynn_Z_iviC_"
-		"dynn_KaranoviC_"
-		"dynn_BojaniC_"
-		"dynn_CvetkoviC_"
-		"dynn_TanackoviC_"
-		"dynn_JankoviC_"
-		"dynn_S_iljan"
-		"dynn_Borisov"
-		"dynn_Hristov"
-		"dynn_PopoviC_"
-		"dynn_Moldovan"
-		"dynn_RistiC_"
-		"dynn_Nestorovski"
-		"dynn_NikoliC_"
+		"dynn_Dragosevic"
 		"dynn_PavloviC_"
-		"dynn_CvetkoviC_"
-		"dynn_StefanoviC_"
-		"dynn_JeliC_"
-		"dynn_RakoC_eviC_"
-		"dynn_Z_iviC_"
-		"dynn_AleksiC_"
-		"dynn_StevanoviC_"
-		"dynn_VelimiroviC_"
-		"dynn_BrkiC_"
-		"dynn_BrD_anin"
-		"dynn_SaviC_eviC_"
-		"dynn_GeorgijeviC_"
-		"dynn_Nestorovski"
-		"dynn_KaranoviC_"
-		"dynn_KuzmanoviC_"
-		"dynn_ZebiC_"
-		"dynn_VojisavljeviC_"
-		"dynn_MrnjavC_eviC_"
 	}
 
+	# Struggled to finding plenty Serbian names, used Croatian names I had added.
+
 	male_names = {
-		Aca Aldimir AnD_elko Andrej Arsenije Asen Atanasije Avram Berbat Berislav Blagoje Blaz Bojan Boleslav Boris Borivoj Borna BoS_ko
-		BoZ_idar Branimir Budimir C_aslav C_edomir D_orD_e D_ura D_uraD_ Danijel Danilo Darko Davor Dejan Desimir Dimitrije Djordje Dmitar 
-		Dobroslav Dragan Dragija DragiS_a Dragoje Dragoljub Dragos Dragoslav Dragutin DraS_ko Dubravko DuS_an Filotije Gavrilo Godimir Goran 
-		Grgur GrubeS_a Ilarion Ilija Ivan Ivica Jadran Jakov JakS_a Janko Jezdimir Josif Josip Jovan Kasjan KoC_apar Konstantin Kosmin Kosta
-		Krsto Kuzman Lazar Ljuban LjubiS_a Ljubisav Ljubivoje Ljudevit Luka Marinko Marko Martin Mateja Matija Mihailo Mihovil Miladin Milan
-		Miljko Milko Milomir Milorad Milutin Miodrag Miran Mircea Miroslav Mislav MomC_ilo Mutimir NebojS_a Nedeljko Nenad Nikodim Nikola
-		NikS_a Ninoslav Novak Petar Porin Predimir Pribislav Prosigoj Prvoslav RadiC_ Radivoje Radmil Radmilo Radoslav Rastko Ratimir Ratomir 
-		Roman SaS_a Savatije Serapion Sergej Simeon SiniS_a Sinisa SlaviS_a Slavko Slavomir Slobodan SrD_an SreC_ko Sreten Stanimir StaniS_a 
-		Stanislav Stefan Stracimir Strahinja Svetozar Tadija Teodosije Tihomir Trajan Uros UroS_ Vedran Velibor Veljko Vikentije ViS_eslav 
-		Visarion Vladimir Vladislav Vlastimir Vojin Vojislav Vuk Vukajlo Vukan VukaS_in Vukasin Vukmir Vukoman Vuksan Z_arko Z_elimir Z_ivko
-		Z_ivojin Z_ivorad Z_ivota Zaharija Zlatan Zoran Zvonimir
+		Aldimir Asen Aneslav Ardomir Ardoslav Antimir Antislav Andoboj Agnoslavac AZ_dobran AZ_doslav AZ_domir AZ_domil AdragoS_ Andreja Adomir Adorad Abrislav Aceslav AleksandA_r Aleksije Ambrozije Agapije AljoS_a Adrijan Anton Antun Arsenij Azarija AC_im Afan Afanasy Ahilej Aleksa Aleksej Alojz Andry Anto Antonije Arhimed Ariamir Arsen Atanasije Avram
+		Berbat Blaz Boleslav Borna Branimir Budimir Bojan Bogdan Boroje Borodin Blagomir Blagoje Boleslav Budimir BlaZ_en Bistrimir Borut Bozemir Belimir Belislav Borivoj Blagovid Blagorad Bozidar BrC_imir Brizimir Branudo Branovoj BoZ_idrag Brktar Bratislav
+		Castimir Cedomir Cestimir Castislav Caslav Cuvovit Cazimir Cernovoj C_estimir C_estraslav C_estovan C_ernoS_ C_uvatimir C_uvoluk C_vrdoslav C_vrdivoj CrneS_ Cibor Crnimir Crnogost Crnobor C_uvaroslav CC_aslav C_astimir C_astibor C_astislav C_asa
+		Danilo Djordje Dmitar Dobroslav Dragija Dragos Dragutin Drzislav Dujam Duym Dobromil Dobroje Dobrodan Dobrovit Dobromud DobrojeviC_ Dobrotibor Dravoslav DraZ_imir DraZ_islav Drzimir Domagoj Domaslav Davor Drago Dragoslav Davorin Dobrivoj Dobrimir Dubrav Dubravko Dragovit DuS_ko DuS_an Dalibor D_ura D_uro DragoS_ Dragi D_ole D_orD_o
+		Filip Fedor Fabian Faustin Fanasije Fedosije Fedotije Feliks Ferdo Fermentin Frumenije Furjan Fustije
+		Gavrilo Godimir Goran Grgur Gaspar Gheorghe Grigorii Godimir Gostislav Gordimir Godislav GranoZ_iv Granovlad GoroZ_iv GostoZ_iv GodoZ_iv GodrZ_ GoredrZ_ Gudislav Gosprvan Goroboj Gostomir Golubislav Golubomir Gusten Gvalislav Gojmir Gojko
+		Hranislav Hrvoje Hvalamir Hvalibor Hvalobud Hvaloslav Hrabobud Hrodogost Hrastodar Hrodimir Hrasimir Hvozdobor Hrvojo Hrobojut Hrelja Hreljo
+		Ilija Ivan Ivanis Ivo Isak Izidor Isidor Ieronim Iacob Iohannes Igorad Igorslav
+		Josif Josip Jovan Jaroslav Jadran Javor Jasomir Jasoslav Jasen Jablan Jezdimir Jelen Juraj Juro JuroS_ Jadranko Jaromir Jasenko Javorin Jasan Jasmir Javoran Jarodimir Jasenislav Janak Janis Jure Jurislav Jerotej
+		Kasjan Konstantin Krsto Kosmin Karlo Koloman KreS_imir Korun Kliment Kazimir Kazoslav Kresislav Krzimir Krstimir KrS_imir Kiril Kuzma KriZ_imir Kasimir Konrad Kradimir Kdragoslav Kvolimir Kvoloslav Kjaromir Kjaroslav Kradislav Kradivoj Kmilimir Kmiloslav Kmilorad KslavoZ_iv
+		Lazar Ljudevit Luka Ladislav Ljutomisl Lovro Ladimir Labud Ladan Ladoslav Lazari Ljubimir Ljubisav Ljuboslav Ljubor Ljuben Ljubo LjutiS_a Ljutimir Lavrentije Lukijan LukS_a LjubiS_a Laza Lazare
+		Marko Martin Matija Mihailo Mihovil Milorad Milutin Mircea Miroslav Mislav Mutimir Makarije Maksim Manuil Metodije Mavro Miron Menas Mavrikije Martirije Melesije Militije Manasije Mikon Markil MiloS_ Milan Mile Miljen Milivoj
+		Nenad Nikodim Nikola Ninoslav Nemanja Nemanjo Nebojsa Nesret Nevin Neven Nedeljko Nehras NeS_ica Neveselj NemanjiC_ NeC_ko Nemirko Nepokoj Nadimir Nadomir NadoS_ NebrZ_e NeC_aj Nevid Nijev NikS_a Nosislav Nosimir Norislav Novak NovatoS_ Norimir Novimir Novislav Novidrag Novogoj NoviS_a Novobud Novogost NudeZ_ Nujislav
+		Obrad OblaC_ Obud Obradin Obroslav Obren OblaZ_en OboZ_en Ognjan Okladin Okrun Omir Ostoja Ostojko Ostoimir Ostrovid OstroS_ OS_trik Ozor Ozren Ozrel Onufrij Orest Orestije Orfej Olimpije Onesim Odar
+		Petar Porin Prvoslav Pahomije Pantelija Paraskeva Petran Petronije Petrica Petrin Pimen Pankratije Paskal Predimir Predislav Pribislav Praznoglav Pribil Pribud Pribun Povislav Povelik
+		Radoslav Rastko Ratomir Roman Rizarios Rufim Rafailo Rafal Rumen Rufinos Rhomaios Rizomil Radovan Radobran Radobran Radibor Radibor Radoje Radogost Radoljub
+		Serapion Simeon Sinisa Slavko Slobodan Stefan Steva StefanC_e Svetimir Svetozar Svetoslav Svetomir Svetopluk Sredoje SrD_an Stribor SiniS_a Svjetomir Svjetoslav SobE_slav Silvije Smiljan Sobomir Svetodar Svetobud Slavoj Slavorad Slavobud Sabin Sava Sebastijan Stipan Sergije Suthoi
+		Teodosije Tihomir Trajan Tihoslav Trpislav Trpobor Trpovoj Tvrislav Tvribor Tecislav Tarasije Teodozije
+		Uros UroS_ Uro Udomir Udomil Undrvoj Udoslav Udar Udatimir Urban UroS_
+		Visarion Vladimir Vladislav Vlastimir Vuk Vukan Vukasin Vukoman VjeZ_oslav Vladimir Vladislav Vojislav Vladan Vladeta Vlatko Vuk Vukaslav Vlastislav Vidoje Velislav Vojnomir Vojin Vuko VukiC_ 
+		Zoran Zvonimir Zdeslav Zaharija Zakarije
 	}
 	female_names = {
-		Adrijana Agata Agnija AljoS_a Anastasija AnD_ela Andjela Ankica Antonija Barbara Bastina Biljana Biserka Bistrina Blagica Bojana
-		BoZ_ena BoZ_idarka Branimira Casna C_asna Cveta Cvijeta D_uraD_a Dajana Daliborka Damjana Danica Darinka Dejana Desislava Djuradja Dobrila 
-		Draga Dragana Dragoslava Dubravka Duga Dunja DuS_ana DuS_anka Dusica Edita Elena Emilija Gordana Grana Grubana Hicela Ivanka Jadranka Jagoda
-		Jefimija Jelena Jelisaveta Jovana Jovanka Karika Karolina Keratza Kornelija Ksenija Lidija Ljerka Ljiljana Ljubica Lovorka Luka Majka Malina
-		Marija Medeni Meki Milinka Miljana Milka Miriti Mirjana Mudary Mudra NaD_a Nada Nadanje Nadezhda Namena Natalija Neda Nevenka Radica Radmila
-		Radojka Radoslava RuZ_a RuZ_ica Silvija SlaD_ana Slavica Slobodanka SneZ_ana Sofija StaS_a SunC_ica Tatjana Teodosija Varadinka Vasilija 
-		Verica Vesna Violeta Vladana Vlasta Vojislava Z_aklina Z_eljka Zdenka Zvezdana
+		Agata Andjela Antonija Agapi Aglaja Anastazija AleksandA_ AnD_elina Andrijana Aleksija Anichka
+		Barbara Branimira Bastina Biljana Bistrina Bojana Bogoslava Branimira Branislava Bogdana BlaZ_enka Biserka Bozhana Bozhidara BoguS_a BoZ_ena BoZ_idarka Bojana
+		Casna Chasna Casta Castoria Catarina Catina Charita Charisija Chloe Christina Ciria Cirisija Cosmina Crisogona Cyntia C_asna C_eslava
+		Desislava Dubravka Dejana Dragana Dragoslava Duga Dusica Despina DomniT_a Dionija Damarija Dobrava Dana Donka Dragica Dragomira Draguna Dobrila
+		Elena Evdokija Eufemija Eufrozina Eva Evica
+		Gordana Grana Grubana Gojka Gorana Gergana Gordislava Gorislava Gojislava Gradimira Goranka GoranaS_a Gojislavka Gromislava Gnevana Goromira Gojmira Gnevoslava Gordomira Gojana Gorena Gordimira Galina Gavrila
+		Hicela Hvalimira Hvala Hvalislava Hranislava Hranimira Hristina Hrvojka Hrabroslava Hristana Hvalidara Hrabrislava Haritina 
+		Jelena Jagoda Jovana Jovanka Jaga Jaroslava Jaromira Jasna Jasenka Jelenka Jelica Jelisaveta Jevgenija Jevrosima Jivka Jovanka Jozefina Jana Janina
+		Karolina Keratza Karika Krasimira Krunoslava Kazimira Kresimira Kraljica Krasna Krasoslava Kosjenka Krstana Krstina KaliopaS_a Katarina Katava
+		Lovorka Ljubica Luka
+		Marija Milka Majka Malina Medeni Meki Milinka Miljana Miriti Mirjana Mudary Mudra
+		Neda Nada Nadanje Namena
+		Radica
+		Zdenka
 	}
 	
 	dynasty_of_location_prefix = "dynnp_od"
@@ -269,6 +476,19 @@ name_list_bosnian = {
 		"dynn_MirkoviC_"
 		"dynn_VojsaliC_"
 		"dynn_Ugrin"
+		{ "dynnp_od" "dynn_Pset" }
+		{ "dynnp_od" "dynn_Jajce" }
+		{ "dynnp_od" "dynn_Kotor_VaroS_" }
+		{ "dynnp_od" "dynn_Travnik" }
+		{ "dynnp_od" "dynn_Visoki" }
+		{ "dynnp_od" "dynn_Vrhbosna" }
+		{ "dynnp_od" "dynn_Srebrenica" }
+		{ "dynnp_od" "dynn_Duvno" }
+		{ "dynnp_od" "dynn_Hlivno" }
+		{ "dynnp_od" "dynn_GlamoC_" }
+		"dynn_PetroviC_"
+		"dynn_VojsaliC_"
+		"dynn_MiroslaviC_"
 	}
 
 	dynasty_names = {
@@ -296,22 +516,64 @@ name_list_bosnian = {
 		"dynn_MirkoviC_"
 		"dynn_VojsaliC_"
 		"dynn_Ugrin"
+		{ "dynnp_od" "dynn_Pset" }
+		{ "dynnp_od" "dynn_Jajce" }
+		{ "dynnp_od" "dynn_Kotor_VaroS_" }
+		{ "dynnp_od" "dynn_Travnik" }
+		{ "dynnp_od" "dynn_Visoki" }
+		{ "dynnp_od" "dynn_Vrhbosna" }
+		{ "dynnp_od" "dynn_Srebrenica" }
+		{ "dynnp_od" "dynn_Duvno" }
+		{ "dynnp_od" "dynn_Hlivno" }
+		{ "dynnp_od" "dynn_GlamoC_" }
+		"dynn_PetroviC_"
+		"dynn_VojsaliC_"
+		"dynn_MiroslaviC_"
+
 	}
 
+	# Struggled to finding plenty Bosnian names, used Croatian names I had added.
+
 	male_names = {
-		Andrej Azarija BalS_a Batalo BatiC_ Blagoje Bojan Boleslav Boljerad Boris Borislav Borko Brailo Brajko Budimir Budislav BuC_ina C_aslav 
-		D_orD_e DabiS_a DabiZ_iv Damjan Danijel Darko Dimitrije Dobrogost Dobroslav Dragan DragiC_ Dragoslav DraZ_eta Dubravko Gavrilo Goran Grgur 
-		Hlapoje Hrabren Hrana Hrapoje Hrvatin Hrvoje Hval Ivan IvaniS_ Jablan Jadran Jadranko Jeremija Josif Josip Jovan Juraj Konstantin KrkS_a 
-		Krsto KukleC_ Kulin Lazar Ljuban Ljubin Ljubisav Ljubljen Luka Marinko Marko Matej Mateja Matija Mavar Mihajlo Milac Miladin 
-		Milan Miloje Milorad Milutin Mirko Miroslav MiS_ljen Mladen Nedeljko Nikodim Nikola Ninoslav Novak Obodan Ostoja Ozrko Pavao Pavle Petar 
-		PovrZ_en Predimir Pribislav Prijezda Prosigoj Prvoslav RadaC_a Radin Radivoj Radmilo Radosav Radoslav Rastudije Sandalj Sanko Sergej 
-		Sibislav Simeon Slavko Slavomir Slobodan Sreten Stainimir Stanislav Stjepan Tihomir Todor Toloje TomaS_ TomiS_a Tvrtko Vedran ViS_eslav 
-		Vladimir Vladislav Vlastimir Vlatko Vojislav Vuk Vukac Vukajlo Vukan Vukasin Vukmir Vukoman Vukoslav Vuksan Z_arko Z_ivko Z_ivojin 
-		Zlatan Zoran Zvonimir S_imun
-		}
+		Andrija Aco Ante1 AnD_elko AnD_elo AnD_el Alojzije Ajkula Adragoslav Amadramir Aneslav Ardomir Ardoslav Antimir Antislav Andoboj Agnoslavac AZ_dobran AZ_doslav AZ_domir AZ_domil AdragoS_ Andreja Adomir Adorad Abrislav Aceslav AleksandA_r Aleksije Ambrozije Agapije AljoS_a Adrijan Anton Antun Arsenij Azarija AC_im Afan Afanasy Ahilej Aleksa Aleksej Alojz Andry Anto Antonije Arhimed Ariamir Arsen Atanasije Avram
+		Batalo BatiC_ BogiS_a Bogut BoriC_ Brailo Brajko Bogdan Bogomil BoZ_idar BoZ_in 1MCN 2MCN 3MCN 4MCN Berislav Berko Berin 5MCN 6MCN Boris Borislav Borko Boroje Borodin Blagomir Blagoje 7MCN Bronislav Budimir 8MCN Borivoj 9MCN 10MCN 11MCN 12MCN 13MCN 14MCN 15MCN 16MCN 17MCN 18MCN 19MCN 20MCN 21MCN 22MCN 23MCN 24MCN Benedek 25MCN
+		Castimir Cedomir Cestimir Castislav Caslav Cuvovit Cazimir Cernovoj C_estimir C_estraslav C_estovan C_ernoS_ C_uvatimir C_uvoluk C_vrdoslav C_vrdivoj CrneS_ Cibor Crnimir Crnogost Crnobor C_uvaroslav CC_aslav C_astimir C_astibor C_astislav
+		DabiS_a Danis Dragonja Dinjica DragiS_a Dalibor Damir Danilo Danin Danir Daris Dobroslav Decebal Dezideriu Darie Dedal Deifobos Dimitrie Dragan DuS_an DabiZ_iv Danko DZ_oniC_ DZ_ivo Dvornjan Dvornik Danislav Danimir Danijel Davor Davorin DerZ_an DerZ_islav DraZ_en
+		Filip Fedor Fabian Faustin Fanasije Fedosije Fedotije Feliks Ferdo Fermentin Frumenije Furjan Fustije
+		Gojslav Grgur Gaspar Gheorghe Grigorii Godimir Gostislav Gordimir Godislav GranoZ_iv Granovlad GoroZ_iv GostoZ_iv GodoZ_iv GodrZ_ GoredrZ_ Gudislav Gosprvan Goroboj Gostomir Golubislav Golubomir Gusten Gvalislav Gojmir Gojko
+		Hran Hrana Hrvoje Hval Hranislav Hrvoje Hvalamir Hvalibor Hvalobud Hvaloslav Hrabobud Hrodogost Hrastodar Hrodimir Hrasimir Hvozdobor Hrvojo Hrobojut Hrelja Hreljo
+		IvaniS_ Igor Ioan Ivan Ivanis Ivo Isak Izidor Isidor Ieronim Iacob Iohannes Igorad Igorslav
+		Juraj Jitej Jakov Jaroslav Jadran Javor Jasomir Jasoslav Jasen Jablan Jezdimir Jelen Juraj Jovan Juro JuroS_ Jadranko Jaromir Jasenko Javorin Jasan Jasmir Javoran Jarodimir Jasenislav Janak Janis Jure Jurislav Josip Jerotej
+		Krsmir Kulin KreS_imir Korun Krsto Konstantin Kliment Kazimir Kazoslav Kresislav Krzimir Krstimir KrS_imir Kiril Kuzma KriZ_imir Kasimir Konrad Kradimir Kdragoslav Kvolimir Kvoloslav Kjaromir Kjaroslav Kradislav Kradivoj Kmilimir Kmiloslav Kmilorad KslavoZ_iv Kotroman
+		Ljutomisl Lovro Ladimir Labud Ladan Ladoslav Lazari Lazar Ljubimir Ljubisav Ljuboslav Ljubor Ljuben Ljubo LjutiS_a Ljutimir Lavrentije Lukijan LukS_a LjubiS_a
+		Matej Matej_Ninoslav Mihajlo Milovan Miroslav Milman Mislav Mutimir Makarije Maksim Manuil Mihovil Metodije Mavro Miron Menas Mavrikije Martirije Melesije Militije Manasije Mikon Markil MiloS_ Milan Mile Milutin Miljen Milivoj
+		Nikola Ninoslav Nikolitza Nebojsa Nemanja Nenad Nesret Nevin Neven Nedeljko Nehras NeS_ica Neveselj NemanjiC_ NeC_ko Nemirko Nepokoj Nadimir Nadomir NadoS_ NebrZ_e NeC_aj Nevid Nijev NikS_a Nosislav Nosimir Norislav Novak NovatoS_ Norimir Novimir Novislav Novidrag Novogoj NoviS_a Novobud Novogost NudeZ_ Nujislav
+		Ostoja Obrad OblaC_ Obud Obradin Obroslav Obren OblaZ_en OboZ_en Ognjan Okladin Okrun Omir Ostoja Ostojko Ostoimir Ostrovid OstroS_ OS_trik Ozor Ozren Ozrel Onufrij Orest Orestije Orfej Olimpije Onesim Odar
+		Pavle Petar Priboje Prijezda Pahomije Pantelija Paraskeva Petran Petronije Petrica Petrin Pimen Pankratije Paskal Predimir Predislav Pribislav Prvoslav Praznoglav Pribil Pribud Pribun Povislav Povelik
+		RadiC_ Radislav Radivoj Radogost Rizarios Rufim Rafailo Rafal Rumen Rufinos Rhomaios Rizomil Radovan Radobran Radobran Radibor Radibor Radoje Radogost Radoljub 
+		Sandalj Sanko Sibislav Stjepan Svetimir Svetozar Svetoslav Svetomir Svetopluk Sredoje SrD_an Stribor SiniS_a Svjetomir Svjetoslav SobE_slav Silvije Smiljan Sobomir Svetodar Svetobud Slavoj Slavorad Slavobud Sabin Sava Sebastijan Stipan Sergije Suthoi
+		TI_semir TomaS_ Tvrtko Tihoslav Trpislav Trpobor Trpovoj Tvrislav Tvribor Tecislav Tarasije Teodozije Toljen
+		Uskrsimir Udomir Udomil Undrvoj Udoslav Udar Udatimir Urban UroS_
+		Vladislav Vlatko Vuk Vukac VukaS_in Vukmir VjeZ_oslav Vladimir Vladislav Vojislav Vladan Vladeta Vlatko Vuk Vukaslav Vlastislav Vidoje Velislav Vojnomir Vojin
+		Zvonimir Zdeslav Zaharija Zakarije
+	}
 	female_names = {
-		Andrijana Doroteja Elizabeta Gojslava Gruba Jelena Katarina Kujava Mara Marija Mateja MiliS_a Miroslava Nika Nikolena Pavica Petra Radislava Resa 
-		Stana Teodora VitaC_a VojaC_a Vojislava
+		Andrijana Anica Agata Agapi Aglaja Anastazija AleksandA_ AnD_elina Andrijana Aleksija Anichka Ana AnD_a Anka Antonija Avdija Adrijana Alena Avdovida Avdoljuba Adamira Adimira Alorad Antoslava Antomila Antoljuba Anastasija_Mila Agneza Ambrozija
+		Bogomila Bogoslava Branimira Branislava Bogdana BlaZ_enka Biserka Bozhana Bozhidara BoguS_a BoZ_ena BoZ_idarka Bojana Bogumila 
+		Casta Castoria Catarina Catina Charita Charisija Chloe Christina Ciria Cirisija Cosmina Crisogona Cyntia C_asna C_eslava
+		Doroteja Dionizija Despina DomniT_a Dionija Damarija Dobrava Dana Desislava Donka Dragica Dragomira Dragoslava Draguna Dobrila Darinka DZ_ivana DZ_iviena Dabravka Dajana Dalina Damira Danica Debelojka DerZ_ana DerZ_islava Divna Deina
+		Elizabeta Evdokija Eufemija Eufrozina Eva Evica
+		Gojslava Gruba Gojka Gorana Gergana Gordislava Gorislava Gojislava Gradimira Goranka GoranaS_a Gojislavka Gromislava Gnevana Goromira Gojmira Gnevoslava Gordomira Gojana Gorena Gordimira Galina Gavrila
+		Hvalimira Hvala Hvalislava Hranislava Hranimira Hristina Hrvojka Hrabroslava Hristana Hvalidara Hrabrislava Haritina
+		Jelena Jaga Jaroslava Jaromira Jasna Jasenka Jelenka Jelica Jelisaveta Jevgenija Jevrosima Jivka Jovanka Jozefina Jana Janina
+		Katarina Kujava Krasimira Krunoslava Kazimira Kresimira Kraljica Krasna Krasoslava Kosjenka Krstana Krstina KaliopaS_a Katarina Katava
+		Mara Marija Mateja MiliS_a Miroslava Milena Milica Milana MiluS_a Milijana Milka Mladenka Mechyslava Marta Marina Magdalena Marfa Melania Melissa Monika Mirela Merjema Maja Miloniega
+		Nika Nikolena Nadezhda Nadia Nada Natasha Nediljka Nedjeljka NataS_a Nadica Nadka
+		Pavica Petra Pavlina Polina Praskovia Prava Pravina Prijana ProleC_a ProleC_ka
+		Radislava Resa
+		Stana
+		Teodora
+		VitaC_a VojaC_a Vojislava Veselica Vidoslava Vesna VuC_ica Vlahinja Vjera Vlastislava VlaZ_enka
 	}
 	
 	dynasty_of_location_prefix = "dynnp_od"
@@ -342,18 +604,6 @@ name_list_bosnian = {
 name_list_croatian = {
 
 	cadet_dynasty_names = {
-        "dynn_TugomiriC_" 
-        "dynn_S_ubiC_"
-        "dynn_SnaC_iC_" 
-        "dynn_PoletC_iC_" 
-        "dynn_MogoroviC_"
-        "dynn_LapC_an" 
-        "dynn_Karinjan"
-        "dynn_LasniC_iC_" 
-        "dynn_JamometiC_"
-        "dynn_Kukar"
-        "dynn_GuS_iC_"
-        "dynn_C_udomiriC_"
 		"dynn_MihaljeviC_"
 		"dynn_Vukasin"
 		"dynn_Dukasin"
@@ -384,21 +634,23 @@ name_list_croatian = {
 		"dynn_Vit"
 		"dynn_JesoviC_"
 		"dynn_TeroviC_"
+		"dynn_BranimislaviC_"
+		"dynn_GranoZ_iviC_"
+		"dynn_C_estraslaviC_"
+		"dynn_GoranoviC_"
+		"dynn_SobE_slaviC_"
+		{ "dynnp_od" "dynn_Rijeka" }
+		{ "dynnp_od" "dynn_ModruS_" }
+		{ "dynnp_od" "dynn_Senj" }
+		{ "dynnp_od" "dynn_Krk" }
+		{ "dynnp_od" "dynn_Cres" }
+		{ "dynnp_od" "dynn_Diadora" }
+		{ "dynnp_od" "dynn_Zadar" }
+		{ "dynnp_od" "dynn_Biograd" }
+		{ "dynnp_od" "dynn_Bribir" }
 	}
 
 	dynasty_names = {
-        "dynn_TugomiriC_" 
-        "dynn_S_ubiC_"
-        "dynn_SnaC_iC_" 
-        "dynn_PoletC_iC_" 
-        "dynn_MogoroviC_"
-        "dynn_LapC_an" 
-        "dynn_Karinjan"
-        "dynn_LasniC_iC_" 
-        "dynn_JamometiC_"
-        "dynn_Kukar"
-        "dynn_GuS_iC_"
-        "dynn_C_udomiriC_"
 		"dynn_MihaljeviC_"
 		"dynn_Vukasin"
 		"dynn_Dukasin"
@@ -429,27 +681,64 @@ name_list_croatian = {
 		"dynn_Vit"
 		"dynn_JesoviC_"
 		"dynn_TeroviC_"
+		"dynn_BranimislaviC_"
+		"dynn_GranoZ_iviC_"
+		"dynn_C_estraslaviC_"
+		"dynn_GoranoviC_"
+		"dynn_SobE_slaviC_"
+		{ "dynnp_od" "dynn_Rijeka" }
+		{ "dynnp_od" "dynn_ModruS_" }
+		{ "dynnp_od" "dynn_Senj" }
+		{ "dynnp_od" "dynn_Krk" }
+		{ "dynnp_od" "dynn_Cres" }
+		{ "dynnp_od" "dynn_Diadora" }
+		{ "dynnp_od" "dynn_Zadar" }
+		{ "dynnp_od" "dynn_Biograd" }
+		{ "dynnp_od" "dynn_Bribir" }
 	}
 
 	male_names = {
-        Adam Adrija Aleksandar Andrijan AnD_elko Bartol Benedikt Beridrug Berislav Besar Bogdan Bojan Boledrug Bolemir Boleslav Boris Borislav Borko 
-        BoZ_idar Branimir Braslav Budimir Castimir Crne Crnomir Crnoslav Dalibor Damjan Danail Danil Darko Desidrug Desimir Desina Dminoslav Dmitar 
-        Dobran Dobro Dobrogost Dobromir Dobroslav Dobrovit DobroS_ Domagoj Domald Dominik Dragan Drago Dragoljub Dragomir Dragoslav DragoS_ Drzislav 
-        DrZ_imir Dujam Dujmus Duym Fabijan Filip Franjo Fridrik Gaspar Gheorghe Godemir Gojslav GojC_o Grgur Grigorii GrubeS_a Hranislav Hrvoje Igor 
-        Ioan Ivan Ivanis Jagoda Jakov Jitej Josip Juraj Jurislav Karlo Klement Koloman Konstantin KreS_imir KreS_imir Krsto Kulin Ladislav Ljudevit 
-        Ljutomisl Lovro Luka Marin Marko Martin Matej Matko Meneslav Mihajlo Milivoj Milman Miroslav MiroS_ Mislav Mladen Muncimir Mutimir Nikifor 
-        Nikolitza NI_kola Ognjen Pavle Petar Petko Petrislav Pribidrug Pribimir Pribina Pribislav Prijezda Prodan Prohor Radomir Radoslav Radovan 
-        RadoS_ Ratimir Rogerije Sebeslav Sergije Seslav Slavich Slavomir SreC_ko Stanislav Stanko Stjepan Stjepko Sulvan Svetoslav Teodor TI_semir 
-        Tolislav TomaS_ Tomislav Trpimir Tvrdoslav Tvrtko Ulfo Uskrsimir Veselko Vid Vitomir ViS_eslav Vlaho Vlaicu Vlk Vojn Vojnomir Vukan Zdeslav 
-        Zvonimir C_edomir D_uraD_ S_imun Z_arko Z_elimir Z_eljkp
+		Adam Andrija Adobor Adamir Adoslav Andomir Andoslav Anedomir Aneslav Ardomir Ardoslav Antimir Antislav Antomir Aroslav Aroboj Ariboj Abrabor Abraboj Andobor Andoboj Agnoslavac AZ_dobran AZ_doslav AZ_domir AZ_domil AZ_dobor AdiS_njemir Afimdrago Agradmir Amadramir Anastojamir Aruslav Ante Amirbran Avojvolod
+		Bartol Besar Bojan Boris Branimir Borna Bratimir Branimislav Bojislav Bogdan Bogomir BoZ_idar Bogoje Borislav Borko Boroje Borodin Blagomir Blagoje Boleslav Budimir BlaZ_en Bistrimir Borut Bozemir Belimir Belislav Borivoj Blagovid Blagorad Bozidar BrC_imir Brizimir Branudo Branovoj BoZ_idrag Brktar Bratislav
+		Castimir Cedomir Cestimir Castislav Caslav Cuvovit Cazimir Cernovoj C_estimir C_estraslav C_estovan C_ernoS_ C_uvatimir C_uvoluk C_vrdoslav C_vrdivoj CrneS_ Cibor Crnimir Crnogost Crnobor C_uvaroslav CC_aslav C_astimir C_astibor C_astislav
+		Danail Dmitar Dobromir Dragan Dragomir Drzislav Dujam Duym Dobromil Dobroslav Dobroje Dobrodan Dobrovit Dobromud DobrojeviC_ Dobrotibor Dravoslav DraZ_imir DraZ_islav Drzimir Domagoj Domaslav Davor Drago Dragoslav Dragutin Davorin Dobrivoj Dobrimir Dobroje Dubrav Dubravko Dragovit DuS_ko DuS_an Dalibor
+		Filip Fedor Fabian Faustin Fanasije Fedosije Fedotije Feliks Ferdo Fermentin Frumenije Furjan Fustije
+		Gaspar Gheorghe Grigorii Godimir Gostislav Gordimir Godislav GranoZ_iv Granovlad GoroZ_iv GostoZ_iv GodoZ_iv GodrZ_ GoredrZ_ Gudislav Gosprvan Goroboj Gostomir Golubislav Golubomir Gusten Gvalislav Gojmir Gojko
+		Hranislav Hrvoje Hvalamir Hvalibor Hvalobud Hvaloslav Hrabobud Hrodogost Hrastodar Hrodimir Hrasimir Hvozdobor Hrvojo Hrobojut Hrelja Hreljo
+		Igor Ioan Ivan Ivanis Ivo Isak Izidor Isidor Ieronim Iacob Iohannes Igorad Igorslav
+		Jitej Jakov Jaroslav Jadran Javor Jasomir Jasoslav Jasen Jablan Jezdimir Jelen Juraj Jovan Juro JuroS_ Jadranko Jaromir Jasenko Javorin Jasan Jasmir Javoran Jarodimir Jasenislav Janak Janis Jure Jurislav Josip Jerotej
+		Karlo Koloman KreS_imir Korun Krsto Konstantin Kliment Kazimir Kazoslav Kresislav Krzimir Krstimir KrS_imir Kiril Kuzma KriZ_imir Kasimir Konrad Kradimir Kdragoslav Kvolimir Kvoloslav Kjaromir Kjaroslav Kradislav Kradivoj Kmilimir Kmiloslav Kmilorad KslavoZ_iv
+		Ladislav Ljudevit Ljutomisl Lovro Ladimir Labud Ladan Ladoslav Lazari Lazar Ljubimir Ljubisav Ljuboslav Ljubor Ljuben Ljubo LjutiS_a Ljutimir Lavrentije Lukijan LukS_a LjubiS_a
+		Matej Mihajlo Milman Mislav Mutimir Makarije Maksim Manuil Mihovil Metodije Mavro Miron Menas Mavrikije Martirije Melesije Militije Manasije Mikon Markil Miroslav Milovan MiloS_ Milan Mile Milutin MiliS_a Miljen Milivoj
+		Nikolitza Nebojsa Nemanja Nenad Nesret Nevin Neven Nedeljko Nehras NeS_ica Neveselj NemanjiC_ NeC_ko Nemirko Nepokoj Nadimir Nadomir NadoS_ NebrZ_e NeC_aj Nevid Nijev NikS_a Nosislav Nosimir Norislav Novak NovatoS_ Norimir Novimir Novislav Novidrag Novogoj NoviS_a Novobud Novogost NudeZ_ Nujislav
+		Ognjen Obrad OblaC_ Obud Obradin Obroslav Obren OblaZ_en OboZ_en Ognjan Okladin Okrun Omir Ostoja Ostojko Ostoimir Ostrovid OstroS_ OS_trik Ozor Ozren Ozrel Onufrij Orest Orestije Orfej Olimpije Onesim Odar
+		Petar Prohor Pavao Pavlin Pahomije Pantelija Paraskeva Petran Petronije Petrica Petrin Pimen Pankratije Paskal Predimir Predislav Pribislav Prvoslav Praznoglav Pribil Pribud Pribun Povislav Povelik
+		Radomir Ratimir Rafail Roman Romil Rizarios Rufim Rafailo Rafal Rumen Rufinos Rhomaios Rizomil Radovan Radobran Radobran Radibor Radibor Radoje Radogost Radoljub
+		Sebeslav Seslav Slavich Stanislav Stjepan Sulvan Svetobor Svetimir Svetozar Svetoslav Svetomir Svetopluk Sredoje SrD_an Stribor SiniS_a Svjetomir Svjetoslav SobE_slav Silvije Smiljan Sobomir Svetodar Svetobud Slavoj Slavorad Slavobud Sabin Sava Sebastijan Stipan Sergije
+		Teodor TI_semir Tomislav Tvrdoslav Tvrtko Tihomir Tvrdomir Tihoslav Trpislav Trpobor Trpovoj Tvrislav Tvribor Tecislav Tarasije Teodozije
+		Ulfo Uskrsimir Udomir Udomil Undrvoj Udoslav Udar Udatimir Urban UroS_
+		Vid Vitomir Vlaicu Vukan VjeZ_oslav Vladimir Vladislav Vojislav Vladan Vladeta Vlatko Vuk Vukaslav Vlastislav Vidoje Velislav Vojnomir Vojin
+		Zvonimir Zdeslav Zaharija Zakarije
 	}
 	female_names = {
-		Adrijana Ana Anastazija Antonija AnD_elka Bogdana Borislava BoZ_ena Bratidrugi Buna Bunica Capeka Cecilija Cededa Clarica Desica Desislava
-        Diminica Dobrica Domaslava Doroteja Draga Dragana Dragoslava DraZ_ena Dubravka Dumica Ekaterina Elizabeta Emilija Franica Gojica Gojslava Gordana 
-        Gruba Helena Jadranka Jadviga Jagoda Jelena Jelka Josipa Jovana Katalin Katarina Kera Klaudija KreS_imira Kristina Kumica Ladika Lucija
-        Margita Marica Marija Marijana Marislava Marta Mihaela Milka Mirjana Mirna Miroslava Mojca Nada Natalija NataS_a Neda Petra Prvica Radica 
-        Radovana Rijeka Rozalija RuZ_a Senka Silvija Slavica SlaD_ana SnjeZ_ana Sofija Stana Stanislava SunC_ica Suronja Suzana Svjetlana Tatjana Tihana 
-        Valerija Vedrana Vekenega Vinica Viola ViS_nja Vjekoslava Vladislava VlaC_ena Vlka Zlata Zvonimira C_ika D_urD_a D_urD_ica S_tefanija Z_eljka
+		Adriana Anna Antonija Ana Anka Anica Agata Agapi Aglaja Anastazija AleksandA_ AnD_elina Andrijana Aleksija Anichka
+		Borislava Bogomila Bogoslava Branimira Branislava Bogdana BlaZ_enka Biserka Bozhana Bozhidara BoguS_a BoZ_ena BoZ_idarka Bojana
+		Cededa Capeka Casta Castoria Catarina Catina Charita Charisija Chloe Christina Ciria Cirisija Cosmina Crisogona Cyntia C_asna C_eslava
+		Doroteja Dragana Dubravka Dionizija Despina DomniT_a Dionija Damarija Dobrava Dana Desislava Donka Dragica Dragomira Dragoslava Draguna Dobrila
+		Ekaterina Emilija Evdokija Eufemija Eufrozina
+		Gordana Gojka Gorana Gergana Gordislava Gorislava Gojislava Gradimira Goranka GoranaS_a Gojislavka Gromislava Gnevana Goromira Gojmira Gnevoslava Gordomira Gojana Gorena Gordimira Galina Gavrila
+		Helena Hvalimira Hvala Hvalislava Hranislava Hranimira Hristina Hrvojka Hrabroslava Hristana Hvalidara Hrabrislava Haritina 
+		Jadviga Jovana Jadranka Jagoda Jelena Jelka Jaga Jaroslava Jaromira Jasna Jasenka Jelenka Jelica Jelisaveta Jevgenija Jevrosima Jivka Jovanka Jozefina Jana Janina
+		Kera Katalin Krasimira Krunoslava Kazimira Kresimira Kraljica Krasna Krasoslava Kosjenka Krstana Krstina KaliopaS_a Katarina Katava
+		Ladika Lucija
+		Maria Mihaela Mare Marija Marijana Mirjana Mirna Mojca Magdalena
+		Nada Natalija NataS_a Nediljka Nedjeljka
+		Petra
+		Rijeka
+		Silvija Snjezana Sofija Suzana Svjetlana Suronja
+		Tatjana Tihana
+		Viola Valerija Vedrana Visnja Vjekoslava
+		Zlata Zvonimira
 	}
 	
 	dynasty_of_location_prefix = "dynnp_od"
@@ -3164,5 +3453,1025 @@ name_list_sorbian = {
 	mercenary_names = {
 		{ name = "mercenary_company_band_of_the_fallen_knez" }
 		{ name = "mercenary_company_company_of_the_stout_horse" }
+	}
+}
+
+name_list_pommeranian = {
+
+	cadet_dynasty_names = {
+		"dynn_Obroditen"
+		"dynn_Gryfita"
+		{ "dynnp_z" "dynn_Liubic" }
+		"dynn_S_wiE_ca"
+		"dynn_GrzymaL_a"
+		"dynn_JastrzE_biec"
+		"dynn_L_odzia"
+		"dynn_Lubicz"
+		"dynn_NaL_E_cz"
+		"dynn_Gniewosz"
+		{ "dynnp_z" "dynn_Roztoki" }
+		{ "dynnp_ze" "dynn_SL_upska" }
+		{ "dynnp_z" "dynn_BiaL_ogard" }
+		{ "dynnp_ze" "dynn_Czaplinek" }
+		"dynn_GawroN_ski"
+		{ "dynnp_z" "dynn_Wolin" }
+		{ "dynnp_z" "dynn_Szczecin" }
+		{ "dynnp_ze" "dynn_KoL_obrzeg" }
+		{ "dynnp_z" "dynn_SL_awno" }
+		{ "dynnp_ze" "dynn_Pyrzyce" }
+		{ "dynnp_z" "dynn_CiepL_e" }
+	}
+
+	dynasty_names = {
+		"dynn_Obroditen"
+		"dynn_Gryfita"
+		{ "dynnp_z" "dynn_Liubic" }
+		"dynn_S_wiE_ca"
+		"dynn_GrzymaL_a"
+		"dynn_JastrzE_biec"
+		"dynn_L_odzia"
+		"dynn_Lubicz"
+		"dynn_NaL_E_cz"
+		"dynn_Gniewosz"
+		{ "dynnp_z" "dynn_Roztoki" }
+		{ "dynnp_ze" "dynn_SL_upska" }
+		{ "dynnp_z" "dynn_BiaL_ogard" }
+		{ "dynnp_ze" "dynn_Czaplinek" }
+		"dynn_GawroN_ski"
+		{ "dynnp_z" "dynn_Wolin" }
+		{ "dynnp_z" "dynn_Szczecin" }
+		{ "dynnp_ze" "dynn_KoL_obrzeg" }
+		{ "dynnp_z" "dynn_SL_awno" }
+		{ "dynnp_ze" "dynn_Pyrzyce" }
+		{ "dynnp_z" "dynn_CiepL_e" }
+	}
+
+	male_names = {
+		Aleksander Andrzej Antoni Aron Adulf Arbort ArchambaL_t Arnko Arnolf Artald Artold Alberczik Aberun Adalgor Agemir Alborad Arnemir Artemir Atanmir Azgobor Abo Abradomir Alibor Aloslav Alovuj Aremir Ardomir Arnaluj Arnmir Astanislav Astorad
+		Barnim Bartosz BedR_ich Bezprzym BL_aZ_ej BogisL_aw Bohdan BohumI_r BolesL_aw Borzywoj BoZ_ydar Branimir Branislav BR_etislav BogusL_aw BogumiL_ BogwO_j Bogoradek Bogowuj BartL_omiE_N_ Bartymeusz BratosL_aw Baldrzych BE_domir BoguchwaL_ BorzysL_aw Biegniew Bogdan Boromir Budzimir Bogowit Bielimir BudzisL_aw BieL_osE_d BranisL_aw Bratomir BoZ_ygniew BrzegosL_aw Boguciej BogutyN_ BogochwaL_ Bolegniew BoZ_ysL_aw BartoS_L_aw
+		Casimir Ctibor CieszysL_aw Cieszoch CzesL_aw CieszymysL_ Czcibor Chwalimir Czastibor Czastomir Czedomir CzedomysL_ CzenomysL_ CezimysL_ Czernimir Czastimir CzastisL_aw Czarnimir CzarnisL_aw Czarnobor Czarnogost Czarnorad Czestomir Czestobor Czestogost CzestosL_aw CzestosE_d Czestowit ChwalisL_aw Chwalibog Chwalomir ChwalomysL_ Chwastimir Chociwuj Chocimir ChocisL_aw Chocibor ChocimysL_ Chociwoj Choromir ChotomysL_
+		DobiesL_aw Dobromil Drosuk Dytryk Dobrznic Dargomir DargosL_aw Dariusz Daromir DargisL_aw Dariodub DavorsL_aw Davoromir DA_bromir DA_browit DA_bysL_aw DziergosL_aw Dziergomir DzieZ_ybor DzierZ_ysL_aw DzierZ_omir Domanin DA_bek DA_bko Dawid Dziaromir DziemysL_aw Dziemigost DobroS_cibor Dobrodziad Dobrogost
+		Eryk Ebor Eborik Eberad
+		FrantiS_ek Fabian Fryderyk Feliks Fiodor
+		GaweL_ Grzegorz Gwienomir GrimisL_aw Grzymir GA_siwoj Goscimir Gorlicz Gunzelin Gniewomir Godzimir GniewosL_aw GodzisL_aw GosL_aw GocimysL_ GoczysL_aw GodesL_aw Godomir Godech Godel Godibor Golemir Gocimir Gociboj GocisL_aw Gorwit 
+		Havel Hrastimir Hvalimir Hozimir Hrudimir HvE_zdomir HvojisL_av HrS_C_an HrS_C_ansL_av Hvalen HrZ_en
+		Jacenty Jakub Jakusz Janusz Jaromar Jaromil JaromI_r Jaroslav JE_drzej JindR_ich JiR_I_ Jozef Juliusz Janth Jarowit
+		Kajetan Kamil Karel Kasper Kazimierz Kliment Kolman Kornel KreS_imir KrzesL_aw Krzysztof Klest Kwiatek
+		Lech Leszek Lubomir Lucjan LudvI_k Luborad Lestek Leszko LadisL_aw Lotar LesL_aw LubomysL_ 	Ludoslav
+		Marek Marian Martin Mateusz Mieszko MikolA_S_ MilosL_aw MiL_osz MirosL_aw MS_cisL_aw MS_ciwO_j Mszczug Mestwin Mszczuj Mirobor Miron Mirzan Mirosz Mirgost Mieczbor Mieczrad Mieczmir 
+		NiecesL_aw Nacibor Nacimir NacisL_aw NadisL_aw Niemir NiemysL_ NiecisL_aw NiebiesL_aw NesL_aw Nesiomir NiestrA_ Niestrach NiestrO_Z_ Nikmir Nikmirad NerisL_aw NeromysL_
+		OldR_ich OndR_ej Otokar Odrzymir Obradomir Obojmir OchrzesL_aw Ostomir
+		Patryk PaweL_ Piotr Prendota PrzemysL_ PrzybysL_aw PrzedpeL_k Przemysl PE_trE_szk PribysL_aw Przebor
+		Radomil Radomir Radoslav Rostislav Ryszard Radogost RadosL_aw RatisL_aw RadosL_omir Racimir Radovan Radovanek Radowit Radowoj RadZ_yn Radzymir Radzimierz RogoS_cisL_aw
+		Sambor Sobieslav StanisL_aw Strasz S_wiE_topeL_k S_wiE_tosL_aw Szczepan SzczE_sny Szymon Spycimir Sobeslav Sobieslaw Swenzo Stefanos S_mielmir SL_awomir SE_dzimir
+		Vladislas Vlastimir Vserad Vojemil
+		Tadeusz Tomasz
+		Udalrich Urjasz
+		VojtE_ch VA_clav VL_adisL_aw Vartislaw Vitslav Vojmir Vojislav Vacislaw Vseslav
+		WacL_aw Walenty WratysL_aw Wawrzyniec Wincenty WisL_aw WL_adysL_aw WL_odek WL_odzimierz WL_odzisL_aw WarcisL_aw Wratislav Wigimir WradisL_aw Wilprand Witogost Wacibor WitosL_aw
+		Zbigniew ZdenE_k Zdislav Zygmunt Ziemogost Z_ibislav Zbylut Ziemomir Z_emomir Z_egota
+	}
+	female_names = {
+		Agnieszka AlZ_bE_ta AndE_la Anna Agafya Agneszka Anastazja Agaboga Agamila Agamir Aganislava Aganova Agastina Agaveta Agavlada Adaboga Adamila Adamira Adanislava Adanova Adastina Adaveta Adavlada Agnislava Agnimira
+		Berta Bohuslava BoZ_ena Branislava BoZ_ysL_awa Bogumira Borka Biegniewa BoZ_ka BoZZena BolesL_awa BorzysL_awa Bronimira Brygida Bogatka Bogna BodzisL_awa BogusL_awa BogusL_awa_Mira BohusL_awa Boromira Bijomira
+		Chocimira Chociebora CiesL_awa Chwalimira Czcibora Ciecha Ciechoslava Czetomira Czernowida Ciechodana Ciechoslawa Ciechomira Ciecholuba Ciechowida Ciechobora Ciechorada Ciechomila Ciechogosta Ciesdana Cieslawa
+		Dagmar Danuta Dobrava Dobroniega Dorota Dragomira Doma DobrosL_awa Danislava Danimira Danimila Daniveta Danisventa Dragoslava Dragomila Dragoveta Dragsventa Dobroslava Dobromira Dobromila
+		Edyta Ewa Eda Edviga Elena
+		Geira Gertruda Gracja GoS_ka Gozdana GorzysL_awa Gniewomira Goplana Gostimira GniewosL_awa Godimira GodisL_awa Gorzomira Glesimira Glebimira GlebisL_awa GL_ebomira GL_ebosL_awa Gozdka Gorzimira Goslava
+		Halina Hanna
+		Irena Izabela
+		Jadwiga Jarka Jarmila Jolanta Judyta
+		Kamila Katarina Kenna Kornelia Krystyna Ksenia 
+		Lidia Ludmila Lutka Lubomira Luboslava LE_domira LE_doslava Luboga Lubomila Ludgarda Ludomira Leslava LE_gomira
+		Magda Magdalena MaL_gorzata Marcelina Maria MarkE_ta Martyna Mateja Matylda Milena Miroslava MS_ciwoja
+		Pechna PribysL_awa
+		RO_za Radomila Radomira Radoslava Raina Regelinda Rycheza Radka
+		Salomea S_miechna Stanislava Stefana SvE_tlana SL_awa S_wiE_tomira
+		TrzebiesL_awa Trzebimira
+		Urszula UnisL_awa
+		VA_clava Vladislava VE_cesL_awa
+		Wera WojsL_awa WL_oszka
+		ZdeN_ka Zofia ZwinisL_awa Z_egka ZdesL_awa
+	}
+	
+	dynasty_of_location_prefix = "dynnp_of"
+
+	
+
+	mercenary_names = {
+		{ name = "mercenary_company_oder_band" }
+		{ name = "mercenary_company_company_of_the_dog" }
+	}
+}
+
+name_list_czech = {
+
+	cadet_dynasty_names = {
+		"dynn_HrabiS_id"
+		"dynn_Markvartid"
+		"dynn_VI_tkid"
+		"dynn_VrS_ovid"
+		"dynn_Vratislavid"
+		"dynn_Bavorid"
+		"dynn_Harrach"
+		"dynn_Drslavid"
+		"dynn_Hroznatid"
+		"dynn_Z_erotI_nid"
+		"dynn_Czernin"
+		"dynn_BeneS_id"
+		"dynn_OpavskY__PR_emyslid"
+		{ "dynnp_z" "dynn_Ronova" }
+		{ "dynnp_ze" "dynn_Z_erotI_na" }
+		{ "dynnp_z" "dynn_Kouic" }
+		{ "dynnp_ze" "dynn_PS_ova" }
+		{ "dynnp_z" "dynn_Buzic" }
+		{ "dynnp_z" "dynn_LipE_" }
+		{ "dynnp_z" "dynn_Lichtenburka" }
+		{ "dynnp_z" "dynn_Michalovic" }
+		{ "dynnp_z" "dynn_Lemberka" }
+		{ "dynnp_ze" "dynn_ZvI_R_etic" }
+		{ "dynnp_z" "dynn_Vartmberka" }
+		{ "dynnp_z" "dynn_ValdS_tejna" }
+		{ "dynnp_z" "dynn_BR_ezna" }
+		{ "dynnp_z" "dynn_RoZ_mberka" }
+		{ "dynnp_z" "dynn_Hradce" }
+		{ "dynnp_z" "dynn_Krumlova" }
+		{ "dynnp_z" "dynn_U_stI_" }
+		{ "dynnp_z" "dynn_DubE_" }
+		{ "dynnp_z" "dynn_FalknS_tejna" }
+		{ "dynnp_z" "dynn_LandS_tejna" }
+		{ "dynnp_ze" "dynn_StrA_Z_e" }
+		{ "dynnp_z" "dynn_Lomnice" }
+		{ "dynnp_z" "dynn_Tasova" }
+		{ "dynnp_z" "dynn_KR_iZ_anova" }
+		{ "dynnp_z" "dynn_BeneS_ova" }
+		{ "dynnp_z" "dynn_CvilI_na" }
+		{ "dynnp_z" "dynn_BechyN_e" }
+		{ "dynnp_z" "dynn_Tvorkova" }
+		{ "dynnp_z" "dynn_DE_dic" }
+		{ "dynnp_z" "dynn_KravaR_" }
+		{ "dynnp_z" "dynn_DiviS_ova" }
+		{ "dynnp_z" "dynn_KunS_tA_tu" }
+		{ "dynnp_ze" "dynn_Zbraslavi" }
+		{ "dynnp_z" "dynn_ObR_an" }
+		{ "dynnp_z" "dynn_PernS_tejna" }
+		"dynn_Benedid"
+		"dynn_LichovskY_"
+		{ "dynnp_z" "dynn_Boskovic" }
+		{ "dynnp_ze" "dynn_Sovince" }
+		{ "dynnp_ze" "dynn_SS_vA_benic" }
+		{ "dynnp_z" "dynn_Ojnic" }
+		{ "dynnp_z" "dynn_Hodic" }
+		{ "dynnp_z" "dynn_Drnovic" }
+		{ "dynnp_z" "dynn_VI_ckova" }
+		{ "dynnp_z" "dynn_NeC_tin" }
+		{ "dynnp_z" "dynn_Cimburka" }
+		{ "dynnp_z" "dynn_Homberka" }
+		{ "dynnp_z" "dynn_DonI_na" }
+		{ "dynnp_von" "dynn_Sternberg" }
+		"dynn_Bavor_ze_Strakonic"
+		{ "dynnp_von" "dynn_Harrach" }
+		{ "dynnp_z" "dynn_Raczyn" }
+		{ "dynnp_z" "dynn_DubA_" }
+		{ "dynnp_z" "dynn_Beroun" }
+		{ "dynnp_z" "dynn_BI_lina" }
+		{ "dynnp_z" "dynn_BlatnA_" }
+		{ "dynnp_z" "dynn_Brno" }
+		{ "dynnp_z" "dynn_BruntA_l" }
+		{ "dynnp_z" "dynn_BU_chov" }
+		{ "dynnp_z" "dynn_C_A_slav" }
+		{ "dynnp_z" "dynn_C_eskE__BudE_jovice" }
+		{ "dynnp_z" "dynn_C_eskY_Krumlov" }
+		{ "dynnp_z" "dynn_Cheb" }
+		{ "dynnp_z" "dynn_Chomutov" }
+		{ "dynnp_z" "dynn_Chrudim" }
+		{ "dynnp_z" "dynn_DE_C_I_n" }
+		{ "dynnp_z" "dynn_DomaZ_lice" }
+		{ "dynnp_z" "dynn_DvU_r_KrA_lovE_" }
+		{ "dynnp_z" "dynn_MI_stek" }
+		{ "dynnp_z" "dynn_NE_meckY_Brod" }
+		{ "dynnp_z" "dynn_HodonI_n" }
+		{ "dynnp_z" "dynn_Horka_nad_Moravou" }
+		{ "dynnp_z" "dynn_HoR_ice" }
+		{ "dynnp_z" "dynn_HostinnE_" }
+		{ "dynnp_z" "dynn_Hradec_KrA_lovE_" }
+		{ "dynnp_z" "dynn_Hranice" }
+		{ "dynnp_z" "dynn_JablonnE_v_PodjeS_tE_dI_" }
+		{ "dynnp_z" "dynn_Jablunkov" }
+		{ "dynnp_z" "dynn_Jihlava" }
+		{ "dynnp_z" "dynn_JindR_ichU_v_Hradec" }
+		{ "dynnp_z" "dynn_JiC_I_n" }
+		{ "dynnp_z" "dynn_KadaN_" }
+		{ "dynnp_z" "dynn_Kamenice" }
+		{ "dynnp_z" "dynn_Karlovy_Vary" }
+		{ "dynnp_z" "dynn_KarlS_tejn" }
+		{ "dynnp_z" "dynn_Klatovy" }
+		{ "dynnp_z" "dynn_Kladno" }
+		{ "dynnp_z" "dynn_KlA_S_terec_nad_OhR_I_" }
+		{ "dynnp_z" "dynn_KnE_Z_eves" }
+		{ "dynnp_z" "dynn_Kostelec_nad_C_ernY_mi_lesy" }
+		{ "dynnp_z" "dynn_Kozlovice" }
+	}
+
+	dynasty_names = {
+		"dynn_HrabiS_id"
+		"dynn_Markvartid"
+		"dynn_VI_tkid"
+		"dynn_VrS_ovid"
+		"dynn_Vratislavid"
+		"dynn_Bavorid"
+		"dynn_Harrach"
+		"dynn_Drslavid"
+		"dynn_Hroznatid"
+		"dynn_Z_erotI_nid"
+		"dynn_Czernin"
+		"dynn_BeneS_id"
+		"dynn_OpavskY__PR_emyslid"
+		{ "dynnp_z" "dynn_Ronova" }
+		{ "dynnp_ze" "dynn_Z_erotI_na" }
+		{ "dynnp_z" "dynn_Kouic" }
+		{ "dynnp_ze" "dynn_PS_ova" }
+		{ "dynnp_z" "dynn_Buzic" }
+		{ "dynnp_z" "dynn_LipE_" }
+		{ "dynnp_z" "dynn_Lichtenburka" }
+		{ "dynnp_z" "dynn_Michalovic" }
+		{ "dynnp_z" "dynn_Lemberka" }
+		{ "dynnp_ze" "dynn_ZvI_R_etic" }
+		{ "dynnp_z" "dynn_Vartmberka" }
+		{ "dynnp_z" "dynn_ValdS_tejna" }
+		{ "dynnp_z" "dynn_BR_ezna" }
+		{ "dynnp_z" "dynn_RoZ_mberka" }
+		{ "dynnp_z" "dynn_Hradce" }
+		{ "dynnp_z" "dynn_Krumlova" }
+		{ "dynnp_z" "dynn_U_stI_" }
+		{ "dynnp_z" "dynn_DubE_" }
+		{ "dynnp_z" "dynn_FalknS_tejna" }
+		{ "dynnp_z" "dynn_LandS_tejna" }
+		{ "dynnp_ze" "dynn_StrA_Z_e" }
+		{ "dynnp_z" "dynn_Lomnice" }
+		{ "dynnp_z" "dynn_Tasova" }
+		{ "dynnp_z" "dynn_KR_iZ_anova" }
+		{ "dynnp_z" "dynn_BeneS_ova" }
+		{ "dynnp_z" "dynn_CvilI_na" }
+		{ "dynnp_z" "dynn_BechyN_e" }
+		{ "dynnp_z" "dynn_Tvorkova" }
+		{ "dynnp_z" "dynn_DE_dic" }
+		{ "dynnp_z" "dynn_KravaR_" }
+		{ "dynnp_z" "dynn_DiviS_ova" }
+		{ "dynnp_z" "dynn_KunS_tA_tu" }
+		{ "dynnp_ze" "dynn_Zbraslavi" }
+		{ "dynnp_z" "dynn_ObR_an" }
+		{ "dynnp_z" "dynn_PernS_tejna" }
+		"dynn_Benedid"
+		"dynn_LichovskY_"
+		{ "dynnp_z" "dynn_Boskovic" }
+		{ "dynnp_ze" "dynn_Sovince" }
+		{ "dynnp_ze" "dynn_SS_vA_benic" }
+		{ "dynnp_z" "dynn_Ojnic" }
+		{ "dynnp_z" "dynn_Hodic" }
+		{ "dynnp_z" "dynn_Drnovic" }
+		{ "dynnp_z" "dynn_VI_ckova" }
+		{ "dynnp_z" "dynn_NeC_tin" }
+		{ "dynnp_z" "dynn_Cimburka" }
+		{ "dynnp_z" "dynn_Homberka" }
+		{ "dynnp_z" "dynn_DonI_na" }
+		{ "dynnp_von" "dynn_Sternberg" }
+		"dynn_Bavor_ze_Strakonic"
+		{ "dynnp_von" "dynn_Harrach" }
+		{ "dynnp_z" "dynn_Raczyn" }
+		{ "dynnp_z" "dynn_DubA_" }
+		{ "dynnp_z" "dynn_Beroun" }
+		{ "dynnp_z" "dynn_BI_lina" }
+		{ "dynnp_z" "dynn_BlatnA_" }
+		{ "dynnp_z" "dynn_Brno" }
+		{ "dynnp_z" "dynn_BruntA_l" }
+		{ "dynnp_z" "dynn_BU_chov" }
+		{ "dynnp_z" "dynn_C_A_slav" }
+		{ "dynnp_z" "dynn_C_eskE__BudE_jovice" }
+		{ "dynnp_z" "dynn_C_eskY_Krumlov" }
+		{ "dynnp_z" "dynn_Cheb" }
+		{ "dynnp_z" "dynn_Chomutov" }
+		{ "dynnp_z" "dynn_Chrudim" }
+		{ "dynnp_z" "dynn_DE_C_I_n" }
+		{ "dynnp_z" "dynn_DomaZ_lice" }
+		{ "dynnp_z" "dynn_DvU_r_KrA_lovE_" }
+		{ "dynnp_z" "dynn_MI_stek" }
+		{ "dynnp_z" "dynn_NE_meckY_Brod" }
+		{ "dynnp_z" "dynn_HodonI_n" }
+		{ "dynnp_z" "dynn_Horka_nad_Moravou" }
+		{ "dynnp_z" "dynn_HoR_ice" }
+		{ "dynnp_z" "dynn_HostinnE_" }
+		{ "dynnp_z" "dynn_Hradec_KrA_lovE_" }
+		{ "dynnp_z" "dynn_Hranice" }
+		{ "dynnp_z" "dynn_JablonnE_v_PodjeS_tE_dI_" }
+		{ "dynnp_z" "dynn_Jablunkov" }
+		{ "dynnp_z" "dynn_Jihlava" }
+		{ "dynnp_z" "dynn_JindR_ichU_v_Hradec" }
+		{ "dynnp_z" "dynn_JiC_I_n" }
+		{ "dynnp_z" "dynn_KadaN_" }
+		{ "dynnp_z" "dynn_Kamenice" }
+		{ "dynnp_z" "dynn_Karlovy_Vary" }
+		{ "dynnp_z" "dynn_KarlS_tejn" }
+		{ "dynnp_z" "dynn_Klatovy" }
+		{ "dynnp_z" "dynn_Kladno" }
+		{ "dynnp_z" "dynn_KlA_S_terec_nad_OhR_I_" }
+		{ "dynnp_z" "dynn_KnE_Z_eves" }
+		{ "dynnp_z" "dynn_Kostelec_nad_C_ernY_mi_lesy" }
+		{ "dynnp_z" "dynn_Kozlovice" }
+	}
+	
+	male_names = {
+		Albrecht ArnoS_t AdY_sek AlbI_k Alexej AlfI_k AmbroZ_y Anastazy ArkA_d AndE_l AvitI_n AntE_n Arlej AnI_lek
+		Beneda BeneS_ BedR_ich Bernard BoC_ek Bohuslav BohuS_e Boleslav BoreS_ BoR_ek BoR_ivoj Borut BoZ_ej BoZ_epor BR_etislav Budislav Bohumil BlaZ_ej BartolomE_j Brunek Bohdanek BohuS_ek BartuS_ek
+		CzernI_n CC_aslav CC_astolov CC_enEE_k CC_esta Chval ChotimI_r CtimI_r C_estislav Chvaliboh C_eslav Ctibor C_estibor C_hvalislav
+		DamaS_a Dalibor Dalimil DEE_polt DEE_tR_ich DiviS_ DobeS_ Dobromil Domaslav Drslav DrZ_islav Drahoslav DobrovE_k Drahobyt
+		Fridrich FaustY_n Fricek Fryc Flegr Feustel Frajt FleuS_el Fridrat
+		HaS_ek Havel Heralt Heriman HrabiS_e Hroznata Hruta HnE_vomI_r HnE_voS_ HR_I_mislav 
+		Jakub Jan JarohnEE_v JaromI_r Jaroslav JaroS_ Jenec JeS_ek JetR_ich Jimram JindR_ich JiR_I_ JiR_I_k JoS_t JA_chym
+		Karel Kochan Kojata KonrA_d Kuna KunrA_t KR_esomI_r KR_esT_an KunI_k Kyryl KR_esislav KR_ezko KryS_ko KryS_tof
+		Letoslav Litolt Lupold Ljudmil LeS_ek Ljutomil LuD_an LutE_bor LutE_k Lotar
+		Markvart Martin MatouS_ MEE_S_ek Mikul MikulA_S_ Milota Mstidruh Mutina MatE_j Milovit
+		NaC_erat Nadej Nemoj NeuS_a Naum Navoj Nezamysl NemI_r NE_hoslav NE_host NE_mec NE_bor Nevoslav Niklas NihomI_r NadE_voj
+		Odolen OjI_R_ OldR_ich OndR_ej Ota Otakar OdoN_ Odryh Odraslav OC_ep OZ_eran OsipomI_r
+		PelhR_im Petr Prech PR_emysl PR_ibyslav Prokop
+		Radosta Rajmund Robert RoZ_ek R_ehoR_ Radim Radovanek Radivoj Rambald Radovan Radhost RemI_k RaziS_ RumI_r
+		Sezema SlA_vek Slavibor Smil SobEE_slav SpytihnEE_v Strachkvas Svatobor Svatopluk SvEE_tlI_k SE_momysl SE_dE_voj SvatomI_r SE_tislav Sudivoj Slavoj SlavoS_ SluhomI_r StrU_j
+		Tas Tista TobiA_S_ Timotej TE_gomI_r
+		VA_clav Velen VeliS_ VilE_m VI_tek VladimI_r Vladislav VlachnI_k Vnislav VojtEE_ch Vok Vratislav VS_ebor Vznata VojtE_ch VS_emI_r VS_egniv
+		ZA_viS_ ZA_S_tita ZbynEE_k Zbyslav ZdI_k Zdislav Zikmund Z_elislav Ziemovid Zdenek
+	}
+	female_names = {
+		AdlE_ta AlZ_bEE_ta AneZ_ka Anna AdE_la AgA_ta Alice AmbroZ_ka AnastA_zie Agneska AdelA_da 
+		Barbora BedR_iS_ka Berta BlahomI_ra BlaZ_ena Bohdana Bohumila Bohunka Bohuslava BoZ_ena BoZ_islava BR_etislava BoZ_echnE_ BystrZ_ica
+		CC_astava CecI_lie Ctislava Czaslava Celka Celkopolka C_edzimI_ra ChotE_bora C_hvalislava C_eslava C_ujka Cyganka Ctibora
+		Dobrava Dobromila Dobroslava Domaslava Dorota Doubravka DrahomI_ra Drahoslava DobravA_ Dobronieha DanuS_e DobruS_e DobZ_ena DobY_ta
+		EliS_ka Eufemie
+		Gertruda Guta
+		Hedvika Helena Hodka Hodislavka HR_I_mislava
+		Jana Jaroslava Jitka Johanka Judita Justina
+		KateR_ina KlA_ra Konstancie KristY_na Kunhuta
+		LibuS_e Ludmila
+		Marie MarkE_ta Mlada ME_roslava Mstivojka MelA_nie Mstislava
+		Olga Otilie
+		Perchta PR_ibyslava PoboZ_nA_
+		Radka Rejna Richeza Richsa
+		SS_A_rka Skonka Stanislava Svatava Svatoslava SitE_slava SE_movita
+		TE_S_ibora TE_S_imI_ra TR_ebE_slava
+		VilemI_na Viola Vladislava Vlasta Vojslava Vsevoloda VE_roslava Vojislava Vlastynia
+		Zdislava Zdenka ZZ_ofie Zoranmila Z_egotka
+	}
+	
+	dynasty_of_location_prefix = "dynnp_of"
+
+	
+
+	mercenary_names = {
+		{ name = "mercenary_company_freelances_of_brandys" }
+		{ name = "mercenary_company_army_of_the_ore" }
+		{ name = "mercenary_company_company_of_the_cruel_hand" }
+	}
+}
+
+name_list_polish = {
+
+	cadet_dynasty_names = {
+		"dynn_S_widnicki"
+		"dynn_Branicki"
+		"dynn_Borkowic"
+		"dynn_GL_ogowski"
+		"dynn_Bogorski"
+		"dynn_Lisy"
+		"dynn_Lewicki"
+		"dynn_Wielkopolski"
+		"dynn_Opolski"
+		"dynn_Czartoryski"
+		"dynn_Opawski"
+		"dynn_Halicki"
+		"dynn_Zahumski"
+		"dynn_Kujawski"
+		"dynn_SubisL_awowic"
+		"dynn_Wolin"
+		"dynn_Koter"
+		"dynn_Woewodskij"
+		"dynn_Maciejewski"
+		"dynn_Urban"
+		"dynn_Starosz"
+		"dynn_SzczepaN_czyk"
+		"dynn_Jankowski"
+		"dynn_Nowak"
+		"dynn_Rudolf"
+		"dynn_Majek"
+		"dynn_PowaL_a"
+		"dynn_Kujawski"
+		"dynn_Chodkiewicz"
+		"dynn_JabL_onowski"
+		"dynn_Korecki"
+		"dynn_Lubomirski"
+		"dynn_MaL_achowski"
+		"dynn_Olelkowicz"
+		"dynn_Ostrogski"
+		"dynn_Poniatowski"
+		"dynn_Potocki"
+		"dynn_RadziwiL_L_"
+		"dynn_Rzewuski"
+		"dynn_Sanguszko"
+		"dynn_Sapieha"
+		"dynn_Sobieski"
+		"dynn_WiS_niowiecki"
+		"dynn_Zamojski"
+		"dynn_Zbaraski"
+		"dynn_Awdaniec"
+		"dynn_CzetwertyN_ski"
+		"dynn_Skarbek"
+		"dynn_Brochwicz"
+		"dynn_DA_browa"
+		"dynn_DoL_E_ga"
+		"dynn_Doliwa"
+		"dynn_Godziemba"
+		"dynn_Gryf"
+		"dynn_Leliwa"
+		"dynn_Nowina"
+		"dynn_OdrowA_Z_"
+		"dynn_OgoN_czyk"
+		"dynn_PO_L_kozic"
+		"dynn_Pomian"
+		"dynn_Radwan"
+		"dynn_Rawicz"
+		"dynn_Rogala"
+		"dynn_Sulima"
+		"dynn_Szeliga"
+		"dynn_TrA_ba"
+		"dynn_DL_ugosz"
+		"dynn_Kmita"
+		"dynn_S_winka"
+		{ "dynnp_z" "dynn_WiS_licy" }
+		{ "dynnp_z" "dynn_Garbowa" }
+		{ "dynnp_z" "dynn_OleS_nicy" }
+		{ "dynnp_z" "dynn_Melsztyna" }
+		{ "dynnp_z" "dynn_TE_czyna" }
+		"dynn_Sypniewski"
+		"dynn_OdrowA_Z_"
+		"dynn_LanckoroN_ski"
+		"dynn_Taczanowski"
+		"dynn_LubraN_ski"
+		"dynn_Tarnowski"
+		"dynn_Giese"
+		"dynn_Kolanka"
+		"dynn_Gamrat"
+		"dynn_MielZ_yN_ski"
+		"dynn_OgiN_ski"
+		"dynn_Dmowski"
+		{ "dynnp_z" "dynn_Wladislawich" }
+		"dynn_Ogonczyk"
+		"dynn_Smialy"
+		"dynn_Gabrysch"
+	}
+
+	dynasty_names = {
+		"dynn_S_widnicki"
+		"dynn_Branicki"
+		"dynn_Borkowic"
+		"dynn_GL_ogowski"
+		"dynn_Bogorski"
+		"dynn_Lisy"
+		"dynn_Lewicki"
+		"dynn_Wielkopolski"
+		"dynn_Opolski"
+		"dynn_Czartoryski"
+		"dynn_Opawski"
+		"dynn_Halicki"
+		"dynn_Zahumski"
+		"dynn_Kujawski"
+		"dynn_SubisL_awowic"
+		"dynn_Wolin"
+		"dynn_Koter"
+		"dynn_Woewodskij"
+		"dynn_Maciejewski"
+		"dynn_Urban"
+		"dynn_Starosz"
+		"dynn_SzczepaN_czyk"
+		"dynn_Jankowski"
+		"dynn_Nowak"
+		"dynn_Rudolf"
+		"dynn_Majek"
+		"dynn_PowaL_a"
+		"dynn_Kujawski"
+		"dynn_Chodkiewicz"
+		"dynn_JabL_onowski"
+		"dynn_Korecki"
+		"dynn_Lubomirski"
+		"dynn_MaL_achowski"
+		"dynn_Olelkowicz"
+		"dynn_Ostrogski"
+		"dynn_Poniatowski"
+		"dynn_Potocki"
+		"dynn_RadziwiL_L_"
+		"dynn_Rzewuski"
+		"dynn_Sanguszko"
+		"dynn_Sapieha"
+		"dynn_Sobieski"
+		"dynn_WiS_niowiecki"
+		"dynn_Zamojski"
+		"dynn_Zbaraski"
+		"dynn_Awdaniec"
+		"dynn_CzetwertyN_ski"
+		"dynn_Skarbek"
+		"dynn_Brochwicz"
+		"dynn_DA_browa"
+		"dynn_DoL_E_ga"
+		"dynn_Doliwa"
+		"dynn_Godziemba"
+		"dynn_Gryf"
+		"dynn_Leliwa"
+		"dynn_Nowina"
+		"dynn_OdrowA_Z_"
+		"dynn_OgoN_czyk"
+		"dynn_PO_L_kozic"
+		"dynn_Pomian"
+		"dynn_Radwan"
+		"dynn_Rawicz"
+		"dynn_Rogala"
+		"dynn_Sulima"
+		"dynn_Szeliga"
+		"dynn_TrA_ba"
+		"dynn_DL_ugosz"
+		"dynn_Kmita"
+		"dynn_S_winka"
+		{ "dynnp_z" "dynn_WiS_licy" }
+		{ "dynnp_z" "dynn_Garbowa" }
+		{ "dynnp_z" "dynn_OleS_nicy" }
+		{ "dynnp_z" "dynn_Melsztyna" }
+		{ "dynnp_z" "dynn_TE_czyna" }
+		"dynn_Sypniewski"
+		"dynn_OdrowA_Z_"
+		"dynn_LanckoroN_ski"
+		"dynn_Taczanowski"
+		"dynn_LubraN_ski"
+		"dynn_Tarnowski"
+		"dynn_Giese"
+		"dynn_Kolanka"
+		"dynn_Gamrat"
+		"dynn_MielZ_yN_ski"
+		"dynn_OgiN_ski"
+		"dynn_Dmowski"
+		{ "dynnp_z" "dynn_Wladislawich" }
+		"dynn_Ogonczyk"
+		"dynn_Smialy"
+		"dynn_Gabrysch"
+	}
+
+	male_names = {
+		Aleksander Andrzej Adulf Arbort ArchambaL_t Arnko Arnolf Artald Artold
+		Bartosz Bezprym BoguchwaL_ BogumiL_ BolesL_aw BoN_cza BorzysL_aw BoZ_ydar Borzywoj Budziwuj BA_dzimir BA_dzsL_aw BogusL_aw BoZ_eciech Bronimir BronisL_aw Budzimir BudzisL_aw Balich Balwin Bartusz Bartysz Bawon BE_dzieciech Berlwin Bernasz Bezprym Bezprzem Biernardyn Biezprzem Bogodar Bolemir BosL_aw BoZ_ebor BracsL_aw BronisA_d Bronisz BartL_omiE_N_ Bartymeusz Baldrzych
+		CzcibO_r Czyrzniech Chwalibog ChwalisL_aw Ciecierad Cieszymir Cieszyrad CiesL_aw Chociebor Chociemir Cerber Cezarion
+		Dalimir Daniel DobiesL_aw Dobrogost Dobromir Doman Domawuj Dytryk DobrosL_aw Drogomir DrogosL_aw Dedal Deifobos Dawid
+		Eustachy Eraryk
+		Feliks Faustyn
+		Gaudenty Gierolt Gniewomir Gniewosz GoS_ciwuj Goszczon GorzysL_aw GostmiL_ GostomysL_ GoS_cisL_aw Gedko
+		Henryk Hodon
+		Imran Izbor Izydor
+		JO_zef Jacek Jaksa Jakub Jakusz Jan JanisL_aw Janko Janusz JarosL_aw Jerzy Jarogniew Jaromir JaropeL_k
+		Karol Kazimierz Konrad Krystyn KrzesL_aw Klemens Krostosz Krzesimir Krzysztof KrzesisL_aw
+		Lambert Leszek LesL_aw Lestek Leszko Lutobor Lutogniew L_adysL_aw LeZ_mysL_ 
+		Maciej MaC_ko MaL_owuj Marcin MasL_aw Mateusz Mieszko MikoL_aj MiL_obrat MiL_osz MirosL_aw MS_ciwO_j Mszczuj MiecisL_aw MieczysL_aw MiL_obor MiL_ogost MiL_osL_aw Mironieg MS_cibor MroczysL_aw MS_cigniew MS_cisL_aw Mizislaus Maciej_Matthew Miezislaw
+		Nadbor NiezamysL_ Najbor Niemierza NiegosL_aw
+		Odon
+		PaweL_ PeL_ka Piotr Piskla Prendota PrzemysL_aw PrzybO_r PakosL_aw PomS_cibor Prandota Prosimir PrzybysL_aw PrzebysL_aw 
+		Radbor Radogost Radomir RadosL_aw Radzim RadzisL_aw Radzimir Radzibor  
+		Sambor SE_dziej SE_dzimir Sieciech SiemomysL_ Siemowit Skarbimir Snowid Spytko StanisL_aw Stefan Stoigniew Strasz SulisL_aw Sulistryj S_wiE_topeL_k S_wiE_tosL_aw SzczE_sny Siemirad SL_awomir SobiesL_aw Sulibor S_cibor
+		Tomasz Trojden Twardomir TomisL_aw TrzebiesL_aw Tymoteusz
+		US_ciech UnisL_aw
+		WacL_aw WaN_ko Wawrzyniec WielisL_aw WiesL_aw Wincenty Wit Witosz WL_adysL_aw Wojciech Wojuta WszebO_r WitosL_aw WL_adywoj WL_odek WL_odzimierz WL_odzisL_aw WL_ost WojsL_aw Wszebor Wszegniew Wyszomir WarcisL_aw Wyszek
+		Zbigniew Zbyszko Z_egota Z_elibrat Zygmunt Zawisza ZbysL_aw Zdzibor ZdzisL_aw Ziemowit ZiemysL_aw Z_egota Z_elisL_aw Z_mijewoj Z_yrosL_aw Z_ytomir Z_ywosL_aw 
+	}
+	female_names = {
+		Adelajda Adleta Agnieszka Aldona Alicja Anastazja Anna
+		Barbara Beata BoZZena BA_dzsL_awa Bogna BoguchwaL_a BogumiL_a BogusL_awa BoZ_eciecha BoZ_ena BoZ_isL_awa BoZ_ydara BronisL_awa BudzisL_awa BiaL_ka Borzygniewa BogusL_awa_Mira
+		Chwaliboga ChwalisL_awa CiesL_awa 
+		Danuta Diana Dobrawa Dobroniega Dobiechna DobiesL_awa DA_brO_wka Dobrogosta DobromiL_a Dobromira DobrosL_awa DrogosL_awa DzierZ_ka DobrosuL_ka
+		ElZ_bieta Eufemia Eufrozyna Eugenia
+		Gabriela Gertruda GrzymisL_awa Gniewomira GoS_cisL_awa GoS_ciwitka
+		Helena
+		Jadwiga Jolanta Judyta Jarogniewa Jaromira JarosL_awa 
+		Katarzyna Kazimiera Kenna Kinga Konstancja Krystyna Kunegunda KrzesL_awa Krzesimira 
+		L_ucja LudmiL_a LesL_awa Luba Lutogniewa L_adysL_awa
+		Magdalena MaL_gorzata Maria Matylda Milena MiL_oboga MiL_ochna MiL_osL_awa MS_cisL_awa MirosL_awa
+		Nadzieja Nawoja NiesL_awa NiegosL_awa 
+		OZ_anna Ostrogniewa
+		Pechna PakosL_awa PrzebysL_awa Przedborza PrzybysL_awa PomS_cibora Prosimira
+		Rycheza Ryksa RadomiL_a Radomira RadosL_awa RadzisL_awa RoS_cisL_awa Radoboga Radzimira
+		Salomea Samboja Scholastyka S_miechna StanisL_awa S_wiE_tosL_awa SL_awomira SobiesL_awa SpycimiL_a SulisL_awa S_cibora SE_dzisL_awa SwojsL_awa S_wiE_cimira S_wiE_tomira S_wiE_toZ_ara 
+		TomisL_awa TrzebiesL_awa Trzebimira 
+		UnisL_awa 
+		WisL_awa WojsL_awa WacL_awa WitosL_awa WL_adysL_awa WL_odzisL_awa WolisL_awa Wszebora WszemiL_a WyszesL_awa Wanda WojsL_awa Witomira Wojecha Wszemira
+		Zofia ZwinisL_awa Zbigniewa ZbysL_awa ZdzisL_awa Ziemowita ZiemysL_awa_0 Z_elisL_awa Z_yrosL_awa Z_ytomira Z_ywosL_awa Z_elimira
+	}
+	
+	dynasty_of_location_prefix = "dynnp_of"
+	
+	#patronym_suffix_male = "dynnpat_suf_owski"
+	#patronym_suffix_female = "dynnpat_suf_owska"
+
+
+	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	pat_grf_name_chance = 40
+	mat_grf_name_chance = 10
+	father_name_chance = 10
+	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+	pat_grm_name_chance = 10
+	mat_grm_name_chance = 40
+	mother_name_chance = 5
+	
+	
+
+	mercenary_names = {
+		{ name = "mercenary_company_druzynan_host" }
+		{ name = "mercenary_company_free_company_of_the_pospolite" }
+	}
+}
+
+name_list_polabian = {
+
+	cadet_dynasty_names = {
+		# Currently shares with Pommeranian while having its own
+		"dynn_Obroditen"
+		"dynn_Gryfita"
+		{ "dynnp_z" "dynn_Liubic" }
+		"dynn_S_wiE_ca"
+		"dynn_GrzymaL_a"
+		"dynn_JastrzE_biec"
+		"dynn_L_odzia"
+		"dynn_Lubicz"
+		"dynn_NaL_E_cz"
+		"dynn_Gniewosz"
+		{ "dynnp_z" "dynn_Roztoki" }
+		{ "dynnp_ze" "dynn_SL_upska" }
+		{ "dynnp_z" "dynn_BiaL_ogard" }
+		{ "dynnp_ze" "dynn_Czaplinek" }
+		"dynn_GawroN_ski"
+		{ "dynnp_z" "dynn_Wolin" }
+		{ "dynnp_z" "dynn_Szczecin" }
+		{ "dynnp_ze" "dynn_KoL_obrzeg" }
+		{ "dynnp_z" "dynn_SL_awno" }
+		{ "dynnp_ze" "dynn_Pyrzyce" }
+		{ "dynnp_z" "dynn_CiepL_e" }
+		"dynn_Rostislavid"
+		"dynn_CieszysL_awid"
+		{ "dynnp_z" "dynn_Gorelic" }
+		{ "dynnp_z" "dynn_Lubsko" }
+		{ "dynnp_z" "dynn_BL_ota" }
+		{ "dynnp_z" "dynn_ChO_S_ebuz" }
+		{ "dynnp_z" "dynn_DrjeZ_dZ_any" }
+		{ "dynnp_z" "dynn_Misni" }
+		{ "dynnp_z" "dynn_Zeiz" }
+		{ "dynnp_z" "dynn_Jilobor" }
+		{ "dynnp_z" "dynn_Jutriboc" }
+	}
+
+	dynasty_names = {
+		# Currently shares with Pommeranian while having its own
+		"dynn_Obroditen"
+		"dynn_Gryfita"
+		{ "dynnp_z" "dynn_Liubic" }
+		"dynn_S_wiE_ca"
+		"dynn_GrzymaL_a"
+		"dynn_JastrzE_biec"
+		"dynn_L_odzia"
+		"dynn_Lubicz"
+		"dynn_NaL_E_cz"
+		"dynn_Gniewosz"
+		{ "dynnp_z" "dynn_Roztoki" }
+		{ "dynnp_ze" "dynn_SL_upska" }
+		{ "dynnp_z" "dynn_BiaL_ogard" }
+		{ "dynnp_ze" "dynn_Czaplinek" }
+		"dynn_GawroN_ski"
+		{ "dynnp_z" "dynn_Wolin" }
+		{ "dynnp_z" "dynn_Szczecin" }
+		{ "dynnp_ze" "dynn_KoL_obrzeg" }
+		{ "dynnp_z" "dynn_SL_awno" }
+		{ "dynnp_ze" "dynn_Pyrzyce" }
+		{ "dynnp_z" "dynn_CiepL_e" }
+		"dynn_Rostislavid"
+		"dynn_CieszysL_awid"
+		{ "dynnp_z" "dynn_Gorelic" }
+		{ "dynnp_z" "dynn_Lubsko" }
+		{ "dynnp_z" "dynn_BL_ota" }
+		{ "dynnp_z" "dynn_ChO_S_ebuz" }
+		{ "dynnp_z" "dynn_DrjeZ_dZ_any" }
+		{ "dynnp_z" "dynn_Misni" }
+		{ "dynnp_z" "dynn_Zeiz" }
+		{ "dynnp_z" "dynn_Jilobor" }
+		{ "dynnp_z" "dynn_Jutriboc" }
+	}
+
+	male_names = {
+		Aleksander Andrzej Antoni Aron Adulf Arbort ArchambaL_t Arnko Arnolf Artald Artold Alberczik Aberun Adalgor Agemir Alborad Arnemir Artemir Atanmir Azgobor Abo Abradomir Alibor Aloslav Alovuj Aremir Ardomir Arnaluj Arnmir Astanislav Astorad
+		Barnim Bartosz BedR_ich Bezprzym BL_aZ_ej BogisL_aw Bohdan BohumI_r BolesL_aw Borzywoj BoZ_ydar Branimir Branislav BR_etislav BogusL_aw BogumiL_ BogwO_j Bogoradek Bogowuj BartL_omiE_N_ Bartymeusz BratosL_aw Baldrzych BE_domir BoguchwaL_ BorzysL_aw Biegniew Bogdan Boromir Budzimir Bogowit Bielimir BudzisL_aw BieL_osE_d BranisL_aw Bratomir BoZ_ygniew BrzegosL_aw Boguciej BogutyN_ BogochwaL_ Bolegniew BoZ_ysL_aw BartoS_L_aw
+		Casimir Ctibor CieszysL_aw Cieszoch CzesL_aw CieszymysL_ Czcibor Chwalimir Czastibor Czastomir Czedomir CzedomysL_ CzenomysL_ CezimysL_ Czernimir Czastimir CzastisL_aw Czarnimir CzarnisL_aw Czarnobor Czarnogost Czarnorad Czestomir Czestobor Czestogost CzestosL_aw CzestosE_d Czestowit ChwalisL_aw Chwalibog Chwalomir ChwalomysL_ Chwastimir Chociwuj Chocimir ChocisL_aw Chocibor ChocimysL_ Chociwoj Choromir ChotomysL_
+		DobiesL_aw Dobromil Drosuk Dytryk Dobrznic Dargomir DargosL_aw Dariusz Daromir DargisL_aw Dariodub DavorsL_aw Davoromir DA_bromir DA_browit DA_bysL_aw DziergosL_aw Dziergomir DzieZ_ybor DzierZ_ysL_aw DzierZ_omir Domanin DA_bek DA_bko Dawid Dziaromir DziemysL_aw Dziemigost DobroS_cibor Dobrodziad Dobrogost
+		Eryk Ebor Eborik Eberad
+		FrantiS_ek Fabian Fryderyk Feliks Fiodor
+		GaweL_ Grzegorz Gwienomir GrimisL_aw Grzymir GA_siwoj Goscimir Gorlicz Gunzelin Gniewomir Godzimir GniewosL_aw GodzisL_aw GosL_aw GocimysL_ GoczysL_aw GodesL_aw Godomir Godech Godel Godibor Golemir Gocimir Gociboj GocisL_aw Gorwit 
+		Havel Hrastimir Hvalimir Hozimir Hrudimir HvE_zdomir HvojisL_av HrS_C_an HrS_C_ansL_av Hvalen HrZ_en
+		Jacenty Jakub Jakusz Janusz Jaromar Jaromil JaromI_r Jaroslav JE_drzej JindR_ich JiR_I_ Jozef Juliusz Janth Jarowit
+		Kajetan Kamil Karel Kasper Kazimierz Kliment Kolman Kornel KreS_imir KrzesL_aw Krzysztof Klest Kwiatek
+		Lech Leszek Lubomir Lucjan LudvI_k Luborad Lestek Leszko LadisL_aw Lotar LesL_aw LubomysL_ 	Ludoslav
+		Marek Marian Martin Mateusz Mieszko MikolA_S_ MilosL_aw MiL_osz MirosL_aw MS_cisL_aw MS_ciwO_j Mszczug Mestwin Mszczuj Mirobor Miron Mirzan Mirosz Mirgost Mieczbor Mieczrad Mieczmir 
+		NiecesL_aw Nacibor Nacimir NacisL_aw NadisL_aw Niemir NiemysL_ NiecisL_aw NiebiesL_aw NesL_aw Nesiomir NiestrA_ Niestrach NiestrO_Z_ Nikmir Nikmirad NerisL_aw NeromysL_
+		OldR_ich OndR_ej Otokar Odrzymir Obradomir Obojmir OchrzesL_aw Ostomir
+		Patryk PaweL_ Piotr Prendota PrzemysL_ PrzybysL_aw PrzedpeL_k Przemysl PE_trE_szk PribysL_aw Przebor
+		Radomil Radomir Radoslav Rostislav Ryszard Radogost RadosL_aw RatisL_aw RadosL_omir Racimir Radovan Radovanek Radowit Radowoj RadZ_yn Radzymir Radzimierz RogoS_cisL_aw
+		Sambor Sobieslav StanisL_aw Strasz S_wiE_topeL_k S_wiE_tosL_aw Szczepan SzczE_sny Szymon Spycimir Sobeslav Sobieslaw Swenzo Stefanos S_mielmir SL_awomir SE_dzimir
+		Vladislas Vlastimir Vserad Vojemil
+		Tadeusz Tomasz
+		Udalrich Urjasz
+		VojtE_ch VA_clav VL_adisL_aw Vartislaw Vitslav Vojmir Vojislav Vacislaw Vseslav
+		WacL_aw Walenty WratysL_aw Wawrzyniec Wincenty WisL_aw WL_adysL_aw WL_odek WL_odzimierz WL_odzisL_aw WarcisL_aw Wratislav Wigimir WradisL_aw Wilprand Witogost Wacibor WitosL_aw
+		Zbigniew ZdenE_k Zdislav Zygmunt Ziemogost Z_ibislav Zbylut Ziemomir Z_emomir Z_egota
+	}
+	female_names = {
+		Agnieszka AlZ_bE_ta AndE_la Anna Agafya Agneszka Anastazja Agaboga Agamila Agamir Aganislava Aganova Agastina Agaveta Agavlada Adaboga Adamila Adamira Adanislava Adanova Adastina Adaveta Adavlada Agnislava Agnimira
+		Berta Bohuslava BoZ_ena Branislava BoZ_ysL_awa Bogumira Borka Biegniewa BoZ_ka BoZZena BolesL_awa BorzysL_awa Bronimira Brygida Bogatka Bogna BodzisL_awa BogusL_awa BogusL_awa_Mira BohusL_awa Boromira Bijomira
+		Chocimira Chociebora CiesL_awa Chwalimira Czcibora Ciecha Ciechoslava Czetomira Czernowida Ciechodana Ciechoslawa Ciechomira Ciecholuba Ciechowida Ciechobora Ciechorada Ciechomila Ciechogosta Ciesdana Cieslawa
+		Dagmar Danuta Dobrava Dobroniega Dorota Dragomira Doma DobrosL_awa Danislava Danimira Danimila Daniveta Danisventa Dragoslava Dragomila Dragoveta Dragsventa Dobroslava Dobromira Dobromila
+		Edyta Ewa Eda Edviga Elena
+		Geira Gertruda Gracja GoS_ka Gozdana GorzysL_awa Gniewomira Goplana Gostimira GniewosL_awa Godimira GodisL_awa Gorzomira Glesimira Glebimira GlebisL_awa GL_ebomira GL_ebosL_awa Gozdka Gorzimira Goslava
+		Halina Hanna
+		Irena Izabela
+		Jadwiga Jarka Jarmila Jolanta Judyta
+		Kamila Katarina Kenna Kornelia Krystyna Ksenia 
+		Lidia Ludmila Lutka Lubomira Luboslava LE_domira LE_doslava Luboga Lubomila Ludgarda Ludomira Leslava LE_gomira
+		Magda Magdalena MaL_gorzata Marcelina Maria MarkE_ta Martyna Mateja Matylda Milena Miroslava MS_ciwoja
+		Pechna PribysL_awa
+		RO_za Radomila Radomira Radoslava Raina Regelinda Rycheza Radka
+		Salomea S_miechna Stanislava Stefana SvE_tlana SL_awa S_wiE_tomira
+		TrzebiesL_awa Trzebimira
+		Urszula UnisL_awa
+		VA_clava Vladislava VE_cesL_awa
+		Wera WojsL_awa WL_oszka
+		ZdeN_ka Zofia ZwinisL_awa Z_egka ZdesL_awa
+	}
+	
+	dynasty_of_location_prefix = "dynnp_of"
+
+	
+
+	mercenary_names = {
+		{ name = "mercenary_company_band_of_the_fallen_knez" }
+		{ name = "mercenary_company_company_of_the_stout_horse" }
+	}
+}
+
+name_list_slovien = {
+
+	cadet_dynasty_names = {
+		"dynn_KopC_iansky"
+		"dynn_Jasenovsky"
+		"dynn_Detvansky"
+		"dynn_Majcichovsky"
+		"dynn_Tekovsky"
+		"dynn_KubInsky"
+		"dynn_MikulC_icky"
+		"dynn_Pohansky"
+		"dynn_Ducovsky"
+		"dynn_DevI_nsky"
+		"dynn_Ostrihomsky"
+		"dynn_Kocelid"
+		{ "dynnp_z" "dynn_ModrE_" }
+		{ "dynnp_z" "dynn_HradiS_tEE_" }
+		"dynn_Velehradsky"
+		"dynn_Veligradsky"
+		"dynn_Vidensky"
+		"dynn_Rastislavid"
+		"dynn_Braslavid"
+		"dynn_Blatnohradsky"
+		"dynn_Beckovsky"
+		"dynn_ZemplI_nsky"
+		"dynn_TematI_nsky"
+		"dynn_Kostolansky"
+		"dynn_Bratislavsky"
+		"dynn_Tunavsky"
+		"dynn_BudI_nsky"
+	}
+
+	dynasty_names = {
+		"dynn_KopC_iansky"
+		"dynn_Jasenovsky"
+		"dynn_Detvansky"
+		"dynn_Majcichovsky"
+		"dynn_Tekovsky"
+		"dynn_KubInsky"
+		"dynn_MikulC_icky"
+		"dynn_Pohansky"
+		"dynn_Ducovsky"
+		"dynn_DevI_nsky"
+		"dynn_Ostrihomsky"
+		"dynn_Kocelid"
+		{ "dynnp_z" "dynn_ModrE_" }
+		{ "dynnp_z" "dynn_HradiS_tEE_" }
+		"dynn_Velehradsky"
+		"dynn_Veligradsky"
+		"dynn_Vidensky"
+		"dynn_Rastislavid"
+		"dynn_Braslavid"
+		"dynn_Blatnohradsky"
+		"dynn_Beckovsky"
+		"dynn_ZemplI_nsky"
+		"dynn_TematI_nsky"
+		"dynn_Kostolansky"
+		"dynn_Bratislavsky"
+		"dynn_Tunavsky"
+		"dynn_BudI_nsky"
+	}
+	
+	male_names = {
+		Bohodar Boleslav BlahomI_r Blahoslav Bohumil BoZ_idar BoromI_r Bohuslav BudimI_r BohuS_ Bratislav Budivoj BystrI_k
+		Ctiboh Ctibor C_estmI_r Dalibor Dobromil Dobroslav DrahomI_r Drahoslav DuS_an Gorazd Horislav Hrdoslav Hromislav Hviezdoslav
+		ChrabroS_ ChvalimI_r Igor Ivan Jaromil JaromI_r Jaropluk Jaroslav KazimI_r Kocel Krasomil Ladislav LadomI_r Levoslav LubomI_r LuboS_ Ludomil LudovI_t Krasislav
+		Milan Miloslav Miroslav MiloS_ Miloboj MojmI_r Mstislav MU_droslav Nitrabor Oleg OstromI_r Ostrivoj Polan Pravoslav Predslav PrelimI_r Pribina Prisnec Prokop
+		Radislav RadomI_r Radoslav Radovan Raslav Rastislav Ruslav SiloS_ Slavoj SlavomI_r Sokol Spitihnev Stanislav Svatoboj Svatopluk Svatoslav SvetozA_r Svorad Stastko
+		Tichomil TichomI_r Tvrdomil Vavrinec VelemI_r Viacslav Vieroslav Vitemir Vladan Vladimil VladimI_r Vlastibor Vlastislav Vojmil Vojtech Vratislav Vratko VyS_ebor
+		Zdravoslav Zdravomil Zemislav Zobor Zubrivoj ZvonimI_r ZelimI_r
+	}
+	female_names = {
+		BlahomI_ra BlaZ_ena Bohdana Bohumila BoZZena Bratromila Ctislava Dobrohneva Dobromila Drzislava DuS_ana Horislava Jarmila JaromI_ra Jaroslava
+		Kostislava Kveta Kvetoslava KrA_snoroda Lada Ladina Lesana Lubica MilomI_ra Miloslava Mislava Miroslava Pravomila Pravdomila
+		Rodana SlA_vka Slavena SlavomI_ra Svatoslava SvetluS_a Svietlana Viera Vlasta Vlastimila VolimI_ra Vratislava VyS_emI_ra Zbislava Zlata Zivana Z_ivoslava
+	}
+	
+	dynasty_of_location_prefix = "dynnp_of"
+
+	
+
+	mercenary_names = {
+		{ name = "mercenary_company_freelances_of_velehrad" }
+		{ name = "mercenary_company_army_of_morava_bend" }
+		{ name = "mercenary_company_company_of_the_faithbearers" }
+	}
+}
+
+name_list_carantanian = {
+
+	cadet_dynasty_names = {
+		"dynn_Furlan"
+		"dynn_Golob"
+		"dynn_Korosec"
+		"dynn_Kos"
+		"dynn_Krajnc"
+		"dynn_Kirzman"
+		"dynn_Medved"
+		"dynn_Mlakar"
+		"dynn_Potocnik"
+		"dynn_Jelen"
+		"dynn_Kragel"
+		"dynn_Orel"
+		"dynn_Vran"
+		"dynn_Senica"
+		"dynn_Grabec"
+		"dynn_Cuk"
+		"dynn_Sova"
+		"dynn_Volk"
+		"dynn_Volcic"
+		"dynn_Lisjak"
+		"dynn_Jazbec"
+		"dynn_Zajc"
+		"dynn_Kosuta"
+		"dynn_Petelin"
+		"dynn_Macek"
+		"dynn_Phorjec"
+		"dynn_Bohorec"
+		"dynn_Karavankec"
+		"dynn_Gorjancic"
+		"dynn_Rogic"
+		"dynn_Prekmurjec"
+		"dynn_Goricko"
+		"dynn_Halozec"
+		"dynn_Kozjakec"
+		"dynn_Kozjansko"
+		"dynn_Dravec"
+		"dynn_Mura"
+		"dynn_Raba"
+		"dynn_Dravinja"
+		"dynn_Krka"
+		"dynn_Sava"
+		"dynn_Idrija"
+		"dynn_Bohinjec"
+		"dynn_Soca"
+		"dynn_Vipavec"
+		"dynn_Planinec"
+		"dynn_Hribovec"
+		"dynn_Panterec"
+		"dynn_Creniv"
+		"dynn_Rdeciv"
+		"dynn_Modriv"
+		"dynn_Beliv"
+		"dynn_Rumeniv"
+		"dynn_Zeleniv"
+	}
+
+	dynasty_names = {
+		"dynn_Furlan"
+		"dynn_Golob"
+		"dynn_Korosec"
+		"dynn_Kos"
+		"dynn_Krajnc"
+		"dynn_Kirzman"
+		"dynn_Medved"
+		"dynn_Mlakar"
+		"dynn_Potocnik"
+		"dynn_Jelen"
+		"dynn_Kragel"
+		"dynn_Orel"
+		"dynn_Vran"
+		"dynn_Senica"
+		"dynn_Grabec"
+		"dynn_Cuk"
+		"dynn_Sova"
+		"dynn_Volk"
+		"dynn_Volcic"
+		"dynn_Lisjak"
+		"dynn_Jazbec"
+		"dynn_Zajc"
+		"dynn_Kosuta"
+		"dynn_Petelin"
+		"dynn_Macek"
+		"dynn_Phorjec"
+		"dynn_Bohorec"
+		"dynn_Karavankec"
+		"dynn_Gorjancic"
+		"dynn_Rogic"
+		"dynn_Prekmurjec"
+		"dynn_Goricko"
+		"dynn_Halozec"
+		"dynn_Kozjakec"
+		"dynn_Kozjansko"
+		"dynn_Dravec"
+		"dynn_Mura"
+		"dynn_Raba"
+		"dynn_Dravinja"
+		"dynn_Krka"
+		"dynn_Sava"
+		"dynn_Idrija"
+		"dynn_Bohinjec"
+		"dynn_Soca"
+		"dynn_Vipavec"
+		"dynn_Planinec"
+		"dynn_Hribovec"
+		"dynn_Panterec"
+		"dynn_Creniv"
+		"dynn_Rdeciv"
+		"dynn_Modriv"
+		"dynn_Beliv"
+		"dynn_Rumeniv"
+		"dynn_Zeleniv"
+	}
+	
+	male_names = {
+		Adam Andrija Adobor Adamir Adoslav
+		Bedoslav Bogdan Bogomir Borislav Borut Branimir Budislav Bogdan Boguslav Bogoslav BoZ_in
+		Ceh Cerno Cestimir Cheitmar Chezil Cholo Cuk Chval
+		Dalibor Dobroslav Domicjan Domislav Drago Dragomir Dragoslav DEE_tR_ich Dobrivoj Dobroje Dubrav
+		Etgar
+		Faustin Filip
+		Gojimir Gojmir Golob Golomir Gorazd Grabec
+		Hoten Hotimir Hraber Hrvat Hynek Heriman
+		Inko Ivko Izeslav Izbor
+		Jans Jaroslav Jazbec Jelen Jurk
+		Kadalhoh Kajtimar Kazimir Kos Kosuta Kragel Kuono Karlo Koloman Konrad
+		Lastigoj Lenart Lisjak Liuzo Ljuban Ljubotin Ljudevit Lupa
+		Macek Majoran Malej Maligoj Medved Mesko Milan Milislav Milivoj Milobrat Miran Miroslav Mojmir Mistislav Milomir Mikul Mirograf
+		Nadovid Negomir Nezko Nikola
+		Obren Omisl Orel OldR_ich
+		Petanko Petelin Plas Plasl Predoslav Pribic Pribimir Pribislav Prodan 
+		Radan Radigoj Radomir Radovan Ratzo Ruodo
+		Samo Sebimir Semil Semislav Senica Sigo Sizo Slavko Sobodin Sova Srecan Stanislav Stanko Stojan Stojko Stojmir Svetko Svetomir Svetoslav Svobodin Semik Svatobor
+		Tihomir Tomislav Trebin Trebimir Trudomir
+		Uncat Unislav
+		Vecerin Venceslav Venko Vetko Vladan Valhun Valtunk Valuk Vidojko Vitan Vitomir Vladimir Vladislav Vladko Vojnomir Volcic Vran Vratislav Volodimir 
+		Walto Wezil Waltunc
+		Zajc Zdebor Zdeslav Zlatko Zlatoslav Ztoimar Zverko ZdenE_k Zbigniew Zlatomir
+	}
+	female_names = {
+		Alena Anna Antonia Barbora Belica Berta Blagica Bogdana Bogumila Boguslava Bojana Brajna Bratrica Bratina Ctislava
+		Danica Darja Deva Dejana Dobrava Dobromila Dobroslava Domaslava Dominika Dorota Doubravka Draga Dragica Dragoslava Eva
+		Gertruda Godeslava Gostinja Govica Gradislava Granislava Guta Hana Hedvika Helena Hodka Irena Iva Ivana
+		Jagoda Jana Janja Jaroslava Jasna Jelena Jelenka Jitka Johanka Judita Justina Kazimira Kalina Kosana
+		Ladana Lazica Lepa Lilijana Ljubica Ljubonega Ljuboslava Ljubota Ljuta Ljutica Ludmila
+		Magdalena Maja Malina Malinka Manidraga Maria Mica Mila Milena Miljana Mira Mirjana Mislena Neda Nedeljka Negota Novica
+		Odola Olga Pacemira Pavica Pavla Perchta Petra Petrissa Predobra Pribina Pribislava Pribislavka Prodana
+		Rada Radana Radka Radojka Rajka Radonja Rejna Richeza Richsa Romana
+		Sava Semika Skonka Slava Smiljana Sobemisla Stana Stanila Stanislava Stanka Stislava Stojana Stojna Svatava Svetoslava
+		Tunca Tunza Vilana Viola Vladislava Vlasta Vojslava Zdenka Zlatkoka Zleslava Zorana Zorka Zverinja Zverica Zverka Zvezdana
+	}
+	
+	dynasty_of_location_prefix = "dynnp_of"
+
+	
+
+	mercenary_names = {
+		{ name = "mercenary_company_band_of_the_panther" }
+		{ name = "mercenary_company_hammerbearers" }
+		{ name = "mercenary_company_carantanian_white_cloaks" }
 	}
 }

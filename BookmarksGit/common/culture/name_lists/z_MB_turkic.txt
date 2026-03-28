@@ -6,31 +6,21 @@
 		"dynn_Ottoman"
 		"dynn_Tigin"
 		"dynn_Arslan"
-		"dynn_Bunduqdarid"
-		"dynn_Aybakid"
-		"dynn_Qutuzid"
 		"dynn_Kitbughai"
 		"dynn_Lajinli"
-		"dynn_Jashnakirid"
 		"dynn_Karesili"
-		"dynn_Khurshidi"
-		"dynn_Salaghurid"
 		"dynn_Ghuzz"
 		"dynn_Pishkinoghlu"
 		"dynn_Bohruz"
 		"dynn_Sonqorjali"
 		"dynn_Juyushli"
 		"dynn_Aq_Sonqor"
-		"dynn_Begtimurid"
 		"dynn_Hazardinari"
 		"dynn_Dulkadir"
-		"dynn_Inalid"
-		"dynn_Burid"
 		"dynn_Inanj"
 		"dynn_Bajkam"
 		"dynn_Pervane"
 		"dynn_Qayi"
-		"dynn_Eretnid"
 		"dynn_Germiyan"
 		"dynn_Saruhan"
 		"dynn_Mentese"
@@ -54,24 +44,13 @@
 		"dynn_Olcayto"
 		"dynn_O_zkan"
 		"dynn_Doganin"
-		"dynn_Artuqid"
 		"dynn_Kazanjian"
 		"dynn_Namrun_Kalesi"
-		"dynn_Ildeguzid"
 		"dynn_Candar"
 		"dynn_Doranites"
 		"dynn_Kabasites"
 		"dynn_Meizomates"
 		"dynn_Tzanichites"
-		"dynn_Mamluk"
-		"dynn_Delhi"
-		"dynn_Altunia"
-		"dynn_Balban"
-		"dynn_Khilji"
-		"dynn_Kushru"
-		"dynn_Tughluq"
-		"dynn_Alauddin"
-		"dynn_Saifuddin"
 		"dynn_Awar"
 		"dynn_Tughral"
 		"dynn_Tamar"
@@ -85,17 +64,6 @@
 		"dynn_Yildoz"
 		"dynn_Toghril"
 		"dynn_Multani"
-		"dynn_Ajmerid"
-		"dynn_Kasid"
-		"dynn_Magadhid"
-		"dynn_Maturid"
-		"dynn_Lahurid"
-		"dynn_Bhadrid"
-		"dynn_Maymanid"
-		"dynn_Kyzylid"
-		"dynn_Tabasid"
-		"dynn_Barhid"
-		"dynn_Bayezid"
 		"dynn_GO_k"
 		"dynn_Mavi"
 		"dynn_Yesil"
@@ -103,40 +71,27 @@
 		"dynn_RU_zgar"
 		"dynn_U_zengi"
 		"dynn_Trakhan"
-		"dynn_Raisiyya"
-		"dynn_Bunduqdarid"
-		"dynn_Muhtajid"
 	}
 	
 	dynasty_names = {
 		"dynn_Ottoman"
 		"dynn_Tigin"
 		"dynn_Arslan"
-		"dynn_Bunduqdarid"
-		"dynn_Aybakid"
-		"dynn_Qutuzid"
 		"dynn_Kitbughai"
 		"dynn_Lajinli"
-		"dynn_Jashnakirid"
 		"dynn_Karesili"
-		"dynn_Khurshidi"
-		"dynn_Salaghurid"
 		"dynn_Ghuzz"
 		"dynn_Pishkinoghlu"
 		"dynn_Bohruz"
 		"dynn_Sonqorjali"
 		"dynn_Juyushli"
 		"dynn_Aq_Sonqor"
-		"dynn_Begtimurid"
 		"dynn_Hazardinari"
 		"dynn_Dulkadir"
-		"dynn_Inalid"
-		"dynn_Burid"
 		"dynn_Inanj"
 		"dynn_Bajkam"
 		"dynn_Pervane"
 		"dynn_Qayi"
-		"dynn_Eretnid"
 		"dynn_Germiyan"
 		"dynn_Saruhan"
 		"dynn_Mentese"
@@ -160,24 +115,13 @@
 		"dynn_Olcayto"
 		"dynn_O_zkan"
 		"dynn_Doganin"
-		"dynn_Artuqid"
 		"dynn_Kazanjian"
 		"dynn_Namrun_Kalesi"
-		"dynn_Ildeguzid"
 		"dynn_Candar"
 		"dynn_Doranites"
 		"dynn_Kabasites"
 		"dynn_Meizomates"
 		"dynn_Tzanichites"
-		"dynn_Mamluk"
-		"dynn_Delhi"
-		"dynn_Altunia"
-		"dynn_Balban"
-		"dynn_Khilji"
-		"dynn_Kushru"
-		"dynn_Tughluq"
-		"dynn_Alauddin"
-		"dynn_Saifuddin"
 		"dynn_Awar"
 		"dynn_Tughral"
 		"dynn_Tamar"
@@ -191,17 +135,6 @@
 		"dynn_Yildoz"
 		"dynn_Toghril"
 		"dynn_Multani"
-		"dynn_Ajmerid"
-		"dynn_Kasid"
-		"dynn_Magadhid"
-		"dynn_Maturid"
-		"dynn_Lahurid"
-		"dynn_Bhadrid"
-		"dynn_Maymanid"
-		"dynn_Kyzylid"
-		"dynn_Tabasid"
-		"dynn_Barhid"
-		"dynn_Bayezid"
 		"dynn_GO_k"
 		"dynn_Mavi"
 		"dynn_Yesil"
@@ -209,44 +142,38 @@
 		"dynn_RU_zgar"
 		"dynn_U_zengi"
 		"dynn_Trakhan"
-		"dynn_Raisiyya"
-		"dynn_Bunduqdarid"
-		"dynn_Muhtajid"
 	}
 
 	male_names = {
-		C_agri C_aka Afsin Ahmet Aksungur Alaeddin Ali Alkan Alp_Arslan Alp_Yurek Alptegin Artuk Ayaz Aydin Aydogan Aydogdu Aytekin Bagha BO_ru 
-		Bulend Bahadir Babu_r Balaban Basbuga Batuhan Baturay Baybars Bayezid Baytas Belek Berkan Berkiyaruk Bozan Bugra Burak Cem Cuneyd Dundar
-		Danismend Davud Demir Dogan Dogukan Dukak Enver Erdem Ertan Ertekin Ertugrul Feridun Gunduz Gu_ndog_du Harun Hasan Hizir I_brahim Ilgazi 
-		Inal Iskender Ilya_s Kurboga Kaikaus Kaikhusraw Kaiqobad Kara Karatay Kasim Kaya Kaytun Kemal KiliC_Arslan Korkut Kutal Kutay Kutlug Mursel 
-		Mahmud Mehmed Meliksah Mengucek Mesud Mikail Murad Mustafa Orhan Osman Porsuk Rustem Ramazan Ridvan SO_buk SO_kmen SO_nmez Suleyman Saim 
-		Saltuk Saruca Savtegin Savur Sehinsah SelC_uk Selim Sencer Sinan Su_leyman Tanrivermis Tekin Timur Timurtas Togay Togtekin Toktamis Tolun
-		Toruntay Tugrul Tunga Turgut Turhan Cihangir Tutus UluC_ Umur Yakut Yaman Yinal Yunus Aepak Asalup Asep Atrak Yаmi Issik Bumi_n Kavurd 
-		So_kmen Ku_ltegin I_lteris_ Eymer O_mer Yusuf Sebu_ktegin Numan Bazir Bo_ritigin Bilgetegin Deniz Eren Adem Kozel Kubasar Kuntuvdi Kutan 
-		Pulad Saru Amrak SevenC_ SirC_an Sokal Sotan Sugr TO_rtogul Togli Sungurtekin Isha_k Tugor Uzluk Uzur BorC_ EldeC_yuk Etrek Girgen Gzi Itlar 
-		Ituk KO_nC_ek Kobyak Kopti Kotyan Koza BO_nek Bachman Begluk Blush Bonyak C_ilbu Bilge Og_ulc_ak Mukan Is_bara Tardus_ Buyruk Baytursun
-		O_zmis_ Yolli_g Ismail Itakh Ertas_ Manc_utekin Bayanchur Suluk Tug_tekin Altuntash Savci Nazi_m Ziyaeddin Bekir Yakub Kasi_m Nureddin 
-		Abdu_lkadir Ista_mi Tonyukuk Kasar Alp_Bilge Barchukh Alac_uk Borakan Gu_ntekin Sezgin Necdet Necip Nedim Tunc_bog_a Hes_ana Yukuk Husrev 
-		Ku_rbog_a Yag_i_si_yan Og_uz Eldigu_z S_emseddin Iltutmus_ Taspar Tulan Bo_ri Togortok Altunopa Sharukan Goktug Eymen Abuska Bu_lent Sevket 
-		Bayram Demirtekin Alitigin Nadir Recep Dursun Arslan Arslantegin Konchak Gu_mu_shtigin Bug_rategin Kaplan S_ahin Kahraman Saykut Cemaleddin
-		Tokdemir
+		Afsin Aksonqor Alkan "Alp_Arslan" "Alp_Yurek" Alptigin Artuk Ayaz Aydin Aydogan Aydogdu Aytekin
+		BO_ru Bulend Bahadir Balaban Basbuga Batuhan Baturay Baybars Baytas Belek Berkan Berkiyaruk Bozan Bugra Burak
+		C_agri C_aka
+		Dundar Danismend Demir Dogan Dogukan Dukak
+		Erdem Ertan Ertekin Ertugrul
+		Gunduz
+		Ilgazi Inal
+		Kurboga Kaikaus Kaikhusraw Kaiqobad Kara Karatay Kaya Kaytun KiliC_ Korkut Kutalmis Kutay Kutlug
+		Meliksah Mengucek
+		Porsuk
+		SO_buk SO_kmen SO_nmez Saltuk Saruca Savtekin Savur Sehinsah SelC_uk Sencer
+		Tanrivermis Tekin Timurtas Togay Togtekin Toktamis Tolun Toruntay Tugrul Tunga Turgut Turhan Tutus
+		UluC_ Umur
+		Yakut Yaman Yinal
 	}
 	female_names = {
-		C_iC_ek C_ilen C_iltanesi O_zgul O_zlem Akgul Asli Aslihan Ayasun Ayla Ayse Ayten Azize Bala Bahar Banu BozC_in Canan Ceylan Dunya Dilber 
-		Dilek Emine Esin Fatma Firuze GulC_iC_ek Gulay Gulbahar Gulfem Gulsum Gumus Gunduz Gundes Gunes Hadiye Hatice Hamiyet Hayat Huriye Ilkay 
-		Ilknur Ipek Ipekel Irge Karacik Lale Leyla Mala Mansure Merve Mutlu Nagihan Nergis Neslihan Nilufer Nur Peksen Terkhen Samur Sarica Sati 
-		Sehnaz Serap Serife Sevilay Sevindik Sibel Sirin Sirma Songul Sumru TekC_e Tura Umay Usunbike Vahide Yasar Yeldem Yildiz Zehra Zuhal Aylin 
-		Asena Gu_lbahar Raziye Selcan Kudret Altun_Jan Sayida Ilbilga Nehir Hiranur Aigul Dilara Doga Aysel Azra Belgin Gulizar Kadri Safiye Aybuke
-		Rasheda Gu_ls_ah Hayme Halime Malhun Hadise Zambak Yasmin Hayme Begayim Feriha Benay C_ig_dem Emek Ergim Hafsa Alti_n Altan Tamgu_l Esma 
-		Atike Olgun Yeliz Aysel Akgul Aydan Sevisen Gonca Terkhen Tohin Seniha S_adiye Ilbilge Doga Fusun Irmak Ebrar Sidika Meltem Elnara Esmeray 
-		Kiraz Oclay Esmahan Seniye Feride Mu_nire Nisanur Aygul Mehtap Ecrin Ays_e Rabia Hu_ma Hamide Gevher Akka Zu_beyde Ozkut Go_ksun Remziye 
-		Dinara Meryem Mukerrem Nebahat Sabahat Zekiye Yaprak Zeynep Selma Su_meyye Nazenin Esmira Hu_rrem Alara Ko_sem Turhan Nurbanu Mu_krime Bahar 
-		Ceyda Bu_lbu_l Hafize Rukiye Leila Yu_sra Nimet Jalefer Gulnara Nilgu_n Remzs_inas Mihrimah Esmehan Hayru_nnisa Isenbike Handan Aydan Nuray 
-		Nurcan S_aziye Serpil Sevgi Sevinc_ Su_yu_mbike Azize S_ehsuvar Necla Mukbile Refia Hu_meyra Makbule Derya Esana Yag_mur Belinay Kadriye 
-		Nilhan Behiye Gamze Sezgin Dolunay Altinc_ic_ek Esen Gu_nc_ic_ek Is_i_m Yetkin Sureyya Burcin Hazal Targun Seyma Aksu Hulya Didem Gokce 
-		Aytolun Goncagul Colpan Oyku Farah Havva Sezen Kardelen Tunaydin Hurriyet Nurbuke Gurbuz Boncuk Birgen Servet Sevda Sonbahar Solmaz Uzay 
-		Ilkbahar Ilgun Tangul
-		
+		Akgul Asli Aslihan Ayasun Ayla
+		BozC_in
+		Ceylan C_iC_ek C_ilen C_iltanesi
+		Esin
+		GulC_iC_ek Gulay Gulbahar Gumus Gunduz Gundes Gunes
+		Ilkay Ilknur Ipek Ipekel Irge
+		Karacik Neslihan
+		Peksen Terkhen
+		O_zgul O_zlem
+		Samur Sarica Sati Sevilay Sevindik Sirma Songul
+		TekC_e Tura
+		Umay Usunbike
+		Yasar Yeldem Yildiz
 	}
 	
 	dynasty_of_location_prefix = "dynnp_ve"
@@ -474,38 +401,51 @@ name_list_persian_turkish_anatolian = {
 	}
 
 	male_names = {
-		C_agri C_aka Afsin Ahmet Aksungur Alaeddin Ali Alkan Alp_Arslan Alp_Yurek Alptegin Artuk Ayaz Aydin Aydogan Aydogdu Aytekin Bagha BO_ru 
-		Bulend Bahadir Babu_r Balaban Basbuga Batuhan Baturay Baybars Bayezid Baytas Belek Berkan Berkiyaruk Bozan Bugra Burak Cem Cuneyd Dundar
-		Danismend Davud Demir Dogan Dogukan Dukak Enver Erdem Ertan Ertekin Ertugrul Feridun Gunduz Gu_ndog_du Harun Hasan Hizir I_brahim Ilgazi 
-		Inal Iskender Ilya_s Kurboga Kaikaus Kaikhusraw Kaiqobad Kara Karatay Kasim Kaya Kaytun Kemal KiliC_Arslan Korkut Kutal Kutay Kutlug Mursel 
-		Mahmud Mehmed Meliksah Mengucek Mesud Mikail Murad Mustafa Orhan Osman Porsuk Rustem Ramazan Ridvan SO_buk SO_kmen SO_nmez Suleyman Saim 
-		Saltuk Saruca Savtegin Savur Sehinsah SelC_uk Selim Sencer Sinan Su_leyman Tanrivermis Tekin Timur Timurtas Togay Togtekin Toktamis Tolun
-		Toruntay Tugrul Tunga Turgut Turhan Cihangir Tutus UluC_ Umur Yakut Yaman Yinal Yunus Aepak Asalup Asep Atrak Yаmi Issik Bumi_n Kavurd 
-		So_kmen Ku_ltegin I_lteris_ Eymer O_mer Yusuf Sebu_ktegin Numan Bazir Bo_ritigin Bilgetegin Deniz Eren Adem Kozel Kubasar Kuntuvdi Kutan 
-		Pulad Saru Amrak SevenC_ SirC_an Sokal Sotan Sugr TO_rtogul Togli Sungurtekin Isha_k Tugor Uzluk Uzur BorC_ EldeC_yuk Etrek Girgen Gzi Itlar 
-		Ituk KO_nC_ek Kobyak Kopti Kotyan Koza BO_nek Bachman Begluk Blush Bonyak C_ilbu Bilge Og_ulc_ak Mukan Is_bara Tardus_ Buyruk Baytursun
-		O_zmis_ Yolli_g Ismail Itakh Ertas_ Manc_utekin Bayanchur Suluk Tug_tekin Altuntash Savci Nazi_m Ziyaeddin Bekir Yakub Kasi_m Nureddin 
-		Abdu_lkadir Ista_mi Tonyukuk Kasar Alp_Bilge Barchukh Alac_uk Borakan Gu_ntekin Sezgin Necdet Necip Nedim Tunc_bog_a Hes_ana Yukuk Husrev 
-		Ku_rbog_a Yag_i_si_yan Og_uz Eldigu_z S_emseddin Iltutmus_ Taspar Tulan Bo_ri Togortok Altunopa Sharukan Goktug Eymen Abuska Bu_lent Sevket 
-		Bayram Demirtekin Alitigin Nadir Recep Dursun Arslan Arslantegin Konchak Gu_mu_shtigin Bug_rategin Kaplan S_ahin Kahraman Saykut Cemaleddin
-		Tokdemir
+		Afsin Ahmet Aksonqor Alaeddin Ali Alkan "Alp_Arslan" "Alp_Yurek" Alptigin Artuk Ayaz Aydin Aydogan Aydogdu Aytekin Alp_Tegin al_Mu_ayyad AY_az Amangeldi Atamyrat
+		BO_ru Bulend Bahadir Balaban Basbuga Batuhan Baturay Baybars Bayezid Baytas Belek Berkan Berkiyaruk Bozan Bugra Burak BilgA_QaG_an BO_gU_QaG_an BuG_rA_ BayI_ndI_r BayuC_ BaY_ram Bolat Bahram_Shah
+		Cuneyd C_agri C_aka CankO_S_ C_arkyn Cansev CanO_z ChaghrI_ C_aryg
+		Dundar Danismend Davud Demir Dogan Dogukan Dukak DerviS_ Div
+		Erdem Ertan Ertekin Ertugrul Elbegen Egilmez EltA_bil
+		Fakhr_al_Islam
+		Gunduz Garlyk
+		Hasan Hizir Haydar
+		Ibrahim Ilgazi Inal Iskender I_nal I_lteriS_ InalC_uq Isfendiyar
+		Kurboga Kaikaus Kaikhusraw Kaiqobad Kara Karatay Kasim Kaya Kaytun Kemal KiliC_ Korkut Kutalmis Kutay Kutlug KO_l_Tigin KO_roG_lu Kazim
+		Mursel Mahmud Mehmed Meliksah Mengucek Mesud Murad Mustafa Mika_il Ma_rU_f
+		Nurmyrat
+		Orhan Osman O_gret
+		Porsuk
+		QapY_an QutluG_ QutalmI_S_ Qara_Arslan Qavurt QA_sim
+		Rustem Ramazan Ridvan RO_wS_en
+		SO_buk SO_kmen SO_nmez Suleyman Saim Saltuk Saruca Savtekin Savur Sehinsah SelC_uk Selim Sencer Sinan SeljU_q SavcI_ S_O_hrat S_ahin
+		Tanrivermis Tekin Timurtas Togay Togtekin Toktamis Tolun Toruntay Tugrul Tunga Turgut Turhan Tutus T_ughrI_l ToN_uquq TemirtaS_ Tughril
+		UluC_ Umur UluG_ UraG_ Ubayd Uthman
+		WA_S_il
+		Yakut Yaman Yinal Yunus YarlI_g YU_suf Y_yllyz Y_azgeldi Yaquti Yalman
 	}
-	female_names = {
-		C_iC_ek C_ilen C_iltanesi O_zgul O_zlem Akgul Asli Aslihan Ayasun Ayla Ayse Ayten Azize Bala Bahar Banu BozC_in Canan Ceylan Dunya Dilber 
-		Dilek Emine Esin Fatma Firuze GulC_iC_ek Gulay Gulbahar Gulfem Gulsum Gumus Gunduz Gundes Gunes Hadiye Hatice Hamiyet Hayat Huriye Ilkay 
-		Ilknur Ipek Ipekel Irge Karacik Lale Leyla Mala Mansure Merve Mutlu Nagihan Nergis Neslihan Nilufer Nur Peksen Terkhen Samur Sarica Sati 
-		Sehnaz Serap Serife Sevilay Sevindik Sibel Sirin Sirma Songul Sumru TekC_e Tura Umay Usunbike Vahide Yasar Yeldem Yildiz Zehra Zuhal Aylin 
-		Asena Gu_lbahar Raziye Selcan Kudret Altun_Jan Sayida Ilbilga Nehir Hiranur Aigul Dilara Doga Aysel Azra Belgin Gulizar Kadri Safiye Aybuke
-		Rasheda Gu_ls_ah Hayme Halime Malhun Hadise Zambak Yasmin Hayme Begayim Feriha Benay C_ig_dem Emek Ergim Hafsa Alti_n Altan Tamgu_l Esma 
-		Atike Olgun Yeliz Aysel Akgul Aydan Sevisen Gonca Terkhen Tohin Seniha S_adiye Ilbilge Doga Fusun Irmak Ebrar Sidika Meltem Elnara Esmeray 
-		Kiraz Oclay Esmahan Seniye Feride Mu_nire Nisanur Aygul Mehtap Ecrin Ays_e Rabia Hu_ma Hamide Gevher Akka Zu_beyde Özkut Go_ksun Remziye 
-		Dinara Meryem Mukerrem Nebahat Sabahat Zekiye Yaprak Zeynep Selma Su_meyye Nazenin Esmira Hu_rrem Alara Ko_sem Turhan Nurbanu Mu_krime Bahar 
-		Ceyda Bu_lbu_l Hafize Rukiye Leila Yu_sra Nimet Jalefer Gulnara Nilgu_n Remzs_inas Mihrimah Esmehan Hayru_nnisa Isenbike Handan Aydan Nuray 
-		Nurcan S_aziye Serpil Sevgi Sevinc_ Su_yu_mbike Azize S_ehsuvar Necla Mukbile Refia Hu_meyra Makbule Derya Esana Yag_mur Belinay Kadriye 
-		Nilhan Behiye Gamze Sezgin Dolunay Altinc_ic_ek Esen Gu_nc_ic_ek Is_i_m Yetkin Sureyya Burcin Hazal Targun Seyma Aksu Hulya Didem Gokce 
-		Aytolun Goncagul Colpan Oyku Farah Havva Sezen Kardelen Tunaydin Hurriyet Nurbuke Gurbuz Boncuk Birgen Servet Sevda Sonbahar Solmaz Uzay 
-		Ilkbahar Ilgun Tangul
-		
+	female_names = { 
+		Akgul Asli Aslihan Ayasun Ayla Ayse Ayten Azize
+		Bahar Banu BozC_in
+		Canan Ceylan C_iC_ek C_ilen C_iltanesi
+		Dunya Dilber Dilek
+		Emine Esin
+		Fatma Firuze
+		GulC_iC_ek Gulay Gulbahar Gulfem Gulsum Gumus Gunduz Gundes Gunes
+		Hatice Hayat Huriye Halime
+		Ilkay Ilknur Ipek Ipekel Irge
+		Karacik
+		Lale Leyla
+		Mala Mansure Merve Mutlu
+		Nagihan Nergis Neslihan Nilufer Nur
+		O_zgul O_zlem
+		Peksen
+		Rabia
+		Samur Sarica Sati Sehnaz Serap Serife Sevilay Sevindik Sibel Sirin Sirma Songul Sumru
+		Terkhen TekC_e Tura
+		Umay Usunbike
+		Vahide
+		Yasar Yeldem Yildiz
+		Zehra Zuhal
 	}
 	
 	dynasty_of_location_prefix = "dynnp_ve"
@@ -733,38 +673,51 @@ name_list_persian_turkish = {
 	}
 
 	male_names = {
-		C_agri C_aka Afsin Ahmet Aksungur Alaeddin Ali Alkan Alp_Arslan Alp_Yurek Alptegin Artuk Ayaz Aydin Aydogan Aydogdu Aytekin Bagha BO_ru 
-		Bulend Bahadir Babu_r Balaban Basbuga Batuhan Baturay Baybars Bayezid Baytas Belek Berkan Berkiyaruk Bozan Bugra Burak Cem Cuneyd Dundar
-		Danismend Davud Demir Dogan Dogukan Dukak Enver Erdem Ertan Ertekin Ertugrul Feridun Gunduz Gu_ndog_du Harun Hasan Hizir I_brahim Ilgazi 
-		Inal Iskender Ilya_s Kurboga Kaikaus Kaikhusraw Kaiqobad Kara Karatay Kasim Kaya Kaytun Kemal KiliC_Arslan Korkut Kutal Kutay Kutlug Mursel 
-		Mahmud Mehmed Meliksah Mengucek Mesud Mikail Murad Mustafa Orhan Osman Porsuk Rustem Ramazan Ridvan SO_buk SO_kmen SO_nmez Suleyman Saim 
-		Saltuk Saruca Savtegin Savur Sehinsah SelC_uk Selim Sencer Sinan Su_leyman Tanrivermis Tekin Timur Timurtas Togay Togtekin Toktamis Tolun
-		Toruntay Tugrul Tunga Turgut Turhan Cihangir Tutus UluC_ Umur Yakut Yaman Yinal Yunus Aepak Asalup Asep Atrak Yаmi Issik Bumi_n Kavurd 
-		So_kmen Ku_ltegin I_lteris_ Eymer O_mer Yusuf Sebu_ktegin Numan Bazir Bo_ritigin Bilgetegin Deniz Eren Adem Kozel Kubasar Kuntuvdi Kutan 
-		Pulad Saru Amrak SevenC_ SirC_an Sokal Sotan Sugr TO_rtogul Togli Sungurtekin Isha_k Tugor Uzluk Uzur BorC_ EldeC_yuk Etrek Girgen Gzi Itlar 
-		Ituk KO_nC_ek Kobyak Kopti Kotyan Koza BO_nek Bachman Begluk Blush Bonyak C_ilbu Bilge Og_ulc_ak Mukan Is_bara Tardus_ Buyruk Baytursun
-		O_zmis_ Yolli_g Ismail Itakh Ertas_ Manc_utekin Bayanchur Suluk Tug_tekin Altuntash Savci Nazi_m Ziyaeddin Bekir Yakub Kasi_m Nureddin 
-		Abdu_lkadir Ista_mi Tonyukuk Kasar Alp_Bilge Barchukh Alac_uk Borakan Gu_ntekin Sezgin Necdet Necip Nedim Tunc_bog_a Hes_ana Yukuk Husrev 
-		Ku_rbog_a Yag_i_si_yan Og_uz Eldigu_z S_emseddin Iltutmus_ Taspar Tulan Bo_ri Togortok Altunopa Sharukan Goktug Eymen Abuska Bu_lent Sevket 
-		Bayram Demirtekin Alitigin Nadir Recep Dursun Arslan Arslantegin Konchak Gu_mu_shtigin Bug_rategin Kaplan S_ahin Kahraman Saykut Cemaleddin
-		Tokdemir
+		Afsin Ahmet Aksonqor Alaeddin Ali Alkan "Alp_Arslan" "Alp_Yurek" Alptigin Artuk Ayaz Aydin Aydogan Aydogdu Aytekin Alp_Tegin al_Mu_ayyad AY_az Amangeldi Atamyrat
+		BO_ru Bulend Bahadir Balaban Basbuga Batuhan Baturay Baybars Bayezid Baytas Belek Berkan Berkiyaruk Bozan Bugra Burak BilgA_QaG_an BO_gU_QaG_an BuG_rA_ BayI_ndI_r BayuC_ BaY_ram Bolat Bahram_Shah
+		Cuneyd C_agri C_aka CankO_S_ C_arkyn Cansev CanO_z ChaghrI_ C_aryg
+		Dundar Danismend Davud Demir Dogan Dogukan Dukak DerviS_ Div
+		Erdem Ertan Ertekin Ertugrul Elbegen Egilmez EltA_bil
+		Fakhr_al_Islam
+		Gunduz Garlyk
+		Hasan Hizir Haydar
+		Ibrahim Ilgazi Inal Iskender I_nal I_lteriS_ InalC_uq Isfendiyar
+		Kurboga Kaikaus Kaikhusraw Kaiqobad Kara Karatay Kasim Kaya Kaytun Kemal KiliC_ Korkut Kutalmis Kutay Kutlug KO_l_Tigin KO_roG_lu Kazim
+		Mursel Mahmud Mehmed Meliksah Mengucek Mesud Murad Mustafa Mika_il Ma_rU_f
+		Nurmyrat
+		Orhan Osman O_gret
+		Porsuk
+		QapY_an QutluG_ QutalmI_S_ Qara_Arslan Qavurt QA_sim
+		Rustem Ramazan Ridvan RO_wS_en
+		SO_buk SO_kmen SO_nmez Suleyman Saim Saltuk Saruca Savtekin Savur Sehinsah SelC_uk Selim Sencer Sinan SeljU_q SavcI_ S_O_hrat S_ahin
+		Tanrivermis Tekin Timurtas Togay Togtekin Toktamis Tolun Toruntay Tugrul Tunga Turgut Turhan Tutus T_ughrI_l ToN_uquq TemirtaS_ Tughril
+		UluC_ Umur UluG_ UraG_ Ubayd Uthman
+		WA_S_il
+		Yakut Yaman Yinal Yunus YarlI_g YU_suf Y_yllyz Y_azgeldi Yaquti Yalman
 	}
-	female_names = {
-		C_iC_ek C_ilen C_iltanesi O_zgul O_zlem Akgul Asli Aslihan Ayasun Ayla Ayse Ayten Azize Bala Bahar Banu BozC_in Canan Ceylan Dunya Dilber 
-		Dilek Emine Esin Fatma Firuze GulC_iC_ek Gulay Gulbahar Gulfem Gulsum Gumus Gunduz Gundes Gunes Hadiye Hatice Hamiyet Hayat Huriye Ilkay 
-		Ilknur Ipek Ipekel Irge Karacik Lale Leyla Mala Mansure Merve Mutlu Nagihan Nergis Neslihan Nilufer Nur Peksen Terkhen Samur Sarica Sati 
-		Sehnaz Serap Serife Sevilay Sevindik Sibel Sirin Sirma Songul Sumru TekC_e Tura Umay Usunbike Vahide Yasar Yeldem Yildiz Zehra Zuhal Aylin 
-		Asena Gu_lbahar Raziye Selcan Kudret Altun_Jan Sayida Ilbilga Nehir Hiranur Aigul Dilara Doga Aysel Azra Belgin Gulizar Kadri Safiye Aybuke
-		Rasheda Gu_ls_ah Hayme Halime Malhun Hadise Zambak Yasmin Hayme Begayim Feriha Benay C_ig_dem Emek Ergim Hafsa Alti_n Altan Tamgu_l Esma 
-		Atike Olgun Yeliz Aysel Akgul Aydan Sevisen Gonca Terkhen Tohin Seniha S_adiye Ilbilge Doga Fusun Irmak Ebrar Sidika Meltem Elnara Esmeray 
-		Kiraz Oclay Esmahan Seniye Feride Mu_nire Nisanur Aygul Mehtap Ecrin Ays_e Rabia Hu_ma Hamide Gevher Akka Zu_beyde Özkut Go_ksun Remziye 
-		Dinara Meryem Mukerrem Nebahat Sabahat Zekiye Yaprak Zeynep Selma Su_meyye Nazenin Esmira Hu_rrem Alara Ko_sem Turhan Nurbanu Mu_krime Bahar 
-		Ceyda Bu_lbu_l Hafize Rukiye Leila Yu_sra Nimet Jalefer Gulnara Nilgu_n Remzs_inas Mihrimah Esmehan Hayru_nnisa Isenbike Handan Aydan Nuray 
-		Nurcan S_aziye Serpil Sevgi Sevinc_ Su_yu_mbike Azize S_ehsuvar Necla Mukbile Refia Hu_meyra Makbule Derya Esana Yag_mur Belinay Kadriye 
-		Nilhan Behiye Gamze Sezgin Dolunay Altinc_ic_ek Esen Gu_nc_ic_ek Is_i_m Yetkin Sureyya Burcin Hazal Targun Seyma Aksu Hulya Didem Gokce 
-		Aytolun Goncagul Colpan Oyku Farah Havva Sezen Kardelen Tunaydin Hurriyet Nurbuke Gurbuz Boncuk Birgen Servet Sevda Sonbahar Solmaz Uzay 
-		Ilkbahar Ilgun Tangul
-		
+	female_names = { 
+		Akgul Asli Aslihan Ayasun Ayla Ayse Ayten Azize
+		Bahar Banu BozC_in
+		Canan Ceylan C_iC_ek C_ilen C_iltanesi
+		Dunya Dilber Dilek
+		Emine Esin
+		Fatma Firuze
+		GulC_iC_ek Gulay Gulbahar Gulfem Gulsum Gumus Gunduz Gundes Gunes
+		Hatice Hayat Huriye Halime
+		Ilkay Ilknur Ipek Ipekel Irge
+		Karacik
+		Lale Leyla
+		Mala Mansure Merve Mutlu
+		Nagihan Nergis Neslihan Nilufer Nur
+		O_zgul O_zlem
+		Peksen
+		Rabia
+		Samur Sarica Sati Sehnaz Serap Serife Sevilay Sevindik Sibel Sirin Sirma Songul Sumru
+		Terkhen TekC_e Tura
+		Umay Usunbike
+		Vahide
+		Yasar Yeldem Yildiz
+		Zehra Zuhal
 	}
 	
 	dynasty_of_location_prefix = "dynnp_ve"
@@ -866,6 +819,11 @@ name_list_cuman = {
 		"dynn_Ochak"
 		"dynn_Zaporzhye"
 		"dynn_Akhtuba"
+		"dynn_GO_kbey"
+		"dynn_Toksobich"
+		"dynn_Tengiz"
+		"dynn_IltaS_"
+		"dynn_OyC_a"
 	}
 	
 	dynasty_names = {
@@ -890,19 +848,53 @@ name_list_cuman = {
 		"dynn_Ochak"
 		"dynn_Zaporzhye"
 		"dynn_Akhtuba"
+		"dynn_GO_kbey"
+		"dynn_Toksobich"
+		"dynn_Tengiz"
+		"dynn_IltaS_"
+		"dynn_OyC_a"
 	}
 
 	male_names = {
-		C_ilbu Aepak Aibak Alpra Altunopa Arbuz Asalup Asep Atrak Ayepa BO_nek Bachman Baytursun Begluk Beka Blush Bonyak BorC_
-		Chemgura Chilbuk EldeC_yuk Ele Eltut Etrek Girgen Gzak Gzi Itlar Ituk
-		Kemenche Kitzes KO_nC_ek Kobyak Kolo Kopti Konchak Kopulch Kotyan Koza Kozel Kubasar Kuntuvdi Kutan Kutesk Kutlu Kza
-		Lavor Manj Menk Otrok Ovlur Pulad Saru Sharaga Sharukan Shishman SevenC_ Seyhan Sicgan SirC_an Sokal Sotan Sugr Suthoi
-		Tapar Taz Tetr TO_rtogul Togli Togortok Toks Tolun Tugor Vlur Uzluk Uzur Zeyhan
+		Aepak Aibak Alpra Altunopa Arbuz Asalup Asep Atrak AqkO_bik Ansar Ajdar Alp Ayepa ArgA_c ArdI_S_ Arslan Alpan Ayhan Ayar Altin AG_kO_z Aksamir Akgiray AkI_rmak Akatay Aktemir AkC_ay AkC_or AkC_ul
+		BO_nek Bachman Baytursun Begluk Beka Blush Bonyak BorC_ BaC_man BembO_r Biychi Boniak Bortz BU_gU_r Barc BaS_man Berdich Bilig Borio Bastyj Begovars Batu Bayar Bektemir Bektay Bilyar BO_rtemir Boru
+		Chemgura Chilbuk C_ilbu Chapacha Churil Chinteman Chagan Chuman C_aG_rI_ C_aG_rI_bek Chevir Cajak Cazak Cekin Cimak Cizrak Cahit CakI_r C_apar CankO_te Cancakan Cansel CansI_ngur CanyU_rek C_eltek
+		Dachi Darchin Dag DU_rkan Dabat Dacar Dagalp DA_bar Dalyk DA_rUz Dijan Dovrak Durvan DA_qtok DE_lqun DU_bek DaG_ar DaG_can DaG_taS_ DaldaS_ DaniS_er DaniS_can Darer DartaS_ DaG_gezer DalbaS_ DalsarI_
+		EldeC_yuk Ele Eltut Etrek Ebugur Eldechiuk Erkin Etebich Eldomir Erten Ergir Esen Elbek Emurbek Ertigin EzU_len EzU_rek Eryigin EnlU_k Enabir EnkO_l EnC_i ElU_rek ElkU_n Erbul ErsarI_ ErC_in ErgO_k
+		Girgen Gzak Gzi Gilji Gutluk Go_k GO_kalp GO_kbey GO_ksel GU_nbO_rU_ GU_ndoG_an GU_nC_U_ GU_ndemir GU_nI_S_I_k GO_karslan GO_lalp GO_ltegin GU_rdemir GU_C_demir GU_C_bilge GI_rerin GO_kuG_r GU_rgO_k
+		Hzak Habeg Habodun Harslan HayU_rek HaotaG_ Haaltyn Hasarer Habar Hadar Hagal Hasargar HazI_r Hospur Hotar Hudak Hugan Humar Hunir HU_dal HU_ril HU_sem HO_stU_r Hiztar HI_zgar Huyalp HA_alp HA_bars
+		Itlar Ituk Ildey Ilbars Ilhan IlbO_rU_ I_lgU_n I_lgU_r I_lkes I_lS_eng I_S_gU_zar I_S_bilge I_S_kO_z Irbey I_rdeniz Irdemir I_nat IlI_k IlI_dur Ildin IldiS_ Ilburi Ilgar IlpI_nar Iluc Ilkara Ilakav
+		Jaru Jand JA_dA_lA_n JA_kuk JA_kI_q Jamuk JA_siuz JbE_rkan JbO_ruk JbO_ruz JchA_guk Jaral Jarat Jarber JarkU_r JekkU_r Jenet JengU_r Jesbur JalpkI_n Jarslannar Jarslanmir JbO_rU_kI_n Jkutter JkU_nnar JsaruG_kI_n JkO_segI_ JyU_nter
+		Kemenche Kitzes KO_nC_ek Kobyak Kolo Kopti Kopulch Kotyan Koza Kozel Kubasar Kuntuvdi Kutan Kutesk Kutlu Kza KO_ten KO_nchek Kopuz KutluG_ KaG_an KuraS_ KO_tU_gyu Kara Kagan Kerek Khaidar Koban Konchek Kotlak Kutay
+		Lavor Lezar LA_C_in LA_ger LayI_r LE_rik Levir Lisak LisE_m Lisur Lozak
+		Manj Menk MeN_li Mokh Musin Mamai Mank Mangu
+		Otrok Ovlur OzmI_S_ OkI_r Ordu Otesh Otrakan
+		Pulad Palabek Palabatur Paladar Palatigin Panatash Pinash Pykan 
+		Qan Qaram Qargan Quth Qutb Qutuz QamyS_ Qaplan QutluG_ Qutluq Qayhan Qutlugh Qorulan
+		Saru Sharaga Sharukan SevenC_ Seyhan Sicgan SirC_an Sokal Sotan Sugr Suthoi Sanga Sevinch Socal SU_lemiS_ Saruca Sula Somogur SU_beG_i Sarigh Saban Saqil Soyuz
+		Tapar Taz Tetr TO_rtogul Togli Togortok Toks Tolun Tugor Tana Targan Tirig Tonga Toglyy ToG_an Toksobich Tolon Tonu Turtel Tebir TO_mU_r Tengiz Timur Toghrul Taybugha Toghan Toguz Tarkun 
+		Vlur
+		Uzluk Uzur Unsar UldI_z U_lgen Ulan Uzurgan
+		Yabgu Yagi YU_rek Yurug Yulduz
+		Zeyhan Zhan Zar Zedek Zeyn
 	}
 	female_names = {
-		C_iC_ek C_ilen C_iltanesi O_zgul O_zlem Akgul Asli Ayasun Ayten BozC_in Dilek Esin GulC_iC_ek Gulay Gunduz Gundes Gunes Guranduk
-		Ilkay Ipek Ipekel Irge Jiajak Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul
-		TekC_e Tura Umay Usunbike Yasar Yeldem Yildiz
+		Akgul Asli Ayasun Ayten AybegU_m Aybike AygU_l Aysu Aytin AltungU_l Altunal Alara AG_aC_su AG_I_nay AG_I_S_ AhI_ra AkC_a Akdil Akengiz AkkI_z
+		BozC_in Balkiz BA_yim BakI_ts BakI_tay BalqI_n Balqan BarI_sh BarI_S_I_k Betin BayI_G_ Beray BeS_ik Bezgin Bilsu BiS_ek BozkuS_ BO_rU_kan
+		C_iC_ek C_ilen C_iltanesi Caban C_aG_la Cahanur Cakira C_akI_l C_emre C_igra Civana Cihare Curana Cyara C_irayka C_irkin C_arkI_nay CumanC_a CaygU_l CayI_kC_a CI_rayka
+		Dilek Dala DalaC_ DalbU_ke Dalgan DalI_n DamA_r DamI_rA_ DU_S_can DU_S_ayak Duymaz Duruhan Duruday Dasyan DU_rin DaraqC_I_ DelgU_zar DU_zara
+		Esin Eldiz Esenay ErkegU_l ErenC_ Elduna EzgU_ Ertemis Esil Eydem Esene EzgU_lay Erkelem ElgU_n ErenC_ay EydU_n ErindaS_ ElisU_n Ezleya
+		GulC_iC_ek Gulay Gunduz Gundes Gunes Guranduk GU_ltekin GozA_r GO_kC_A_ GulC_in GU_nseli GU_nyaruk GU_rbulak GO_zde GO_gtekin GO_nenC_ GO_zlU_nur Guzaya GU_lyaz
+		Ilkay Ipek Ipekel Irge IlgI_ Ilbarsa IldA_k Ilgira IltU_zA_ IrtA_n IrbilA_ IrtaG_ul IsmaG_ul IslI_k I_nara IrtgU_l ItilaG_ul Ilkam IltaS_ IsrU_k IsnA_k
+		Jiajak Jaday JanI_k JaraC_ JatI_ra JazgI_n JanI_la Jarmaq JandarI_ Jasnaq Jaraqay JantaS_ JaraqI_n Jayqara JandarI_na Jaay Jatolun JayasI_n
+		Karacik Kumana Kumanka Kumanina Kuma Kumalin KumaliC_ Kumo Kumyo KumC_o Kumli KabakC_i KO_ksu KadI_rkul Kafkasay KelebekC_i KoC_kI_z KO_rekC_i KurtkI_z KusC_in Kuzgunay
+		Mala Mutlu Musina MergU_l Mayra MatU_n MavU_n MO_yU_m MadU_n Mahra Maika Majka Maraq MarazgU_l Marayka MatkaS_ Mazda MazhU_n Mesha MI_G_ra Minka Miyar Miyka
+		O_zgul O_zlem Oltun OyalI_ O_znur O_zden O_zdil O_zsel O_zdenay Oktay O_zbak O_zC_in O_zvA_ OyC_a O_yrek Oylin Oysel O_zU_mel Omyra OnC_in
+		Peksen Paan Paek Paun Piun Piasun PoA_n Puan PuutA_n PA_ok PU_rsun PisangU_l Pamuk Patek Pesen PI_zI_l PoG_aC_I_k Pohur PU_rC_ek PU_rC_ekik
+		Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul Safir SoyI_n Sohay Satek SamA_r Safya SU_tig Sotun Sayra Sarib SolgA_ Sartay SU_kU_ Solay Sazal
+		TekC_e Tura Tamra Tanay Tanya Tatga Tavuk TelaG_ TO_S_ga Turza TebU_l Tehal Teriyn TU_rekay TU_C_en TylaN_ Tymika TyrsI_n TytoG_ TA_gU_l TA_S_U_r
+		Umay Usunbike Urunbike
+		Yasar Yeldem Yildiz
 	}
 	
 	dynasty_of_location_prefix = "dynnp_of"
@@ -915,7 +907,7 @@ name_list_khazar = {
 
 	house_based_map_names = yes
 	
-	cadet_dynasty_names = {
+cadet_dynasty_names = {
 		{ "dynn_Kabar" }
 		{ "dynn_Khwaliz" }
 		{ "dynn_Kozar" }
@@ -945,6 +937,13 @@ name_list_khazar = {
 		{ "dynn_Yanyol" }
 		{ "dynn_Onkunes" }
 		{ "dynn_Karayagac" }
+		{ "dynn_Akchurid" }
+		{ "dynn_Kayuk" }
+		{ "dynn_KemC_i" }
+		{ "dynn_KI_vanC_" }
+		{ "dynn_ElkI_lI_C_" }
+		{ "dynn_NI_gU_lanid" }
+		{ "dynn_VA_ryak" }
 	}
 	
 	dynasty_names = {
@@ -977,22 +976,55 @@ name_list_khazar = {
 		{ "dynn_Yanyol" }
 		{ "dynn_Onkunes" }
 		{ "dynn_Karayagac" }
+		{ "dynn_Akchurid" }
+		{ "dynn_Kayuk" }
+		{ "dynn_KemC_i" }
+		{ "dynn_KI_vanC_" }
+		{ "dynn_ElkI_lI_C_" }
+		{ "dynn_NI_gU_lanid" }
+		{ "dynn_VA_ryak" }
 	}
 
+	# Due to Kuzarism & Hebrew influnces there's some Hebrew names scattered about, not too many but enough to make it obvious.
+
 	male_names = {
-		Almish Alp Araslan Atrak Ayepa Bachman Bagha Baghatur BA_lgiC_i Barjik Barsbek Bastu Bashtwa Bilge Bihor BO_nek BO_ri Bugha Bulan BulC_an 
-		Bumin Busir Buyruk Buzer C_at C_at_n C_orpan Ilik IltA_bA_r Iliger Ilteris Itakh Kamaj Karadakh Kayghalagh Khatir Khuterkin Kibar Kisa 
-		KundaC_iq KundaC_ Kutilzis MA_nA_r MA_nA_s ME_nU_marO_t O_temis PapaC_yz Samsam SartA_C_ Simsam Savin Sevar TA_bA_r TabghaC_ Tardu Tarkhan 
-		TarmaC_ Toktamis Tonyukuk Tuzniq Vakrim Yabghu Yavantey YenC_epi Yerneslu YeC_tirek Yilig Yuldash
-		Aaron Belet Ezra Hanukkah Hezekiah Isaac Manasseh Nisi Obadiah Parsbit Pesakh Yavdi Zebulun YenC_epi YeC_tirek Yilig Zabergan Zenti 
-		C_at C_at_n C_orpan O_temis
+		Alp Araslan AbA_k Abtal AdalmI_sh Adaruk AdI_g Aglan Agyl Akar Akay Akber Akchur Akman Aktemur Aktruk Alaruk Alash Alatar Albatu Albor AlkaC_ AllI_r Alpagan Alpagut AmI_rak AltemU_r
+		Bagha Baghatur BA_lgiC_i Barjik Barsbek Bastu Bashtwa Bihor BO_ri Bugha Bulan BulC_an Busir Buzer Belet Balash Barsqan Barsuk Bashirgan Batish Bayanchur BayanO_l Baylak Bazgan BegtemU_r Berkarar Bermek BilgA_ BilgU_C_i Byatan Byruk Belshatztzar
+		C_at C_at_n C_orpan Caidan C_aG_a C_aG_rI_ Cadriel Cehael C_alI_k C_arG_al C_avlan C_I_dam C_I_raG_an C_arpar C_avuS_ C_avuS_kan C_eliker Chaggai C_I_krI_k C_ahnaz C_ayI_rlI_
+		DU_muk DU_gar DO_kul DO_bek DO_shen DO_rA_k DO_gar DaG_I_n Demiran Demirar Demiruk Dirin DiyA_rin DiyA_rak DiyA_ruk DinC_ak DU_kkan DaS_an DA_ran DA_mesh DI_shar DI_ganur DO_resh DU_khar
+		Ezra EldU_r Erbilge ErtimuS_ ErC_ak Erlig Erdin ErtamyS_ ErboG_a ElkI_lI_C_ Elmera Eliezer Ezekiel Elisha EbilC_an Ebiltay Ebiray EbirdoG_an Ebilalp EdkU_r EkI_S_I_n EmU_rcan Ersag Eruhan Eytemir ErkO_C_
+		GO_kbay GO_kbek GO_kdoG_an GO_kgO_l GO_kC_an GO_kC_er GO_kten GU_ntekI_n GU_nC_er GU_rdoG_an GU_rC_an GU_rC_er GU_rtaS_ GO_zbek Gencek GO_kdemI_r GO_ktaS_ GarbI_lge GartekI_n Garok GU_ventekI_n GU_neS_tigI_n
+		Hanukkah Hezekiah HA_alp HA_er HA_kI_zI_l HA_barak HA_od HA_C_ak HA_ugur HabO_ri Habarak HE_alp HE_kO_k HI_alp HI_kut HI_oG_ul HI_barak HI_od HI_ugur HA_zariel HA_zir HY_rom HU_rkan HijA_r HiS_bay HU_ralp
+		Ilik IltA_bA_r Itakh Isaac I_lyas I_nanC_ IlteriS_ I_lter I_lar I_lin I_lU_n I_lI_r I_lkut I_lgar Ilgiz Ilkim IS_I_tak I_zbilge I_zC_en Irbilge Irlam IS_budak IS_tek I_toG_ I_tram I_ranI_S_ I_lC_en
+		Kamaj Karadakh Kayghalagh Khatir Khuterkin Kibar Kisa KundaC_iq KundaC_ Kanber KandI_v Kapgan Karabul Karauz KargI_n KasI_l KayI_r Kayuk KiC_ik KI_zI_ltuG_ KO_C_U_r
+		MA_nA_r MA_nA_s ME_nU_marO_t Manasseh MI_zrakar MI_zrakir Masir MA_zar MA_zaran MA_zA_ruk MA_zA_rak MeS_ar Mekar Mekir MenkA_r MenkU_k MenkA_k Menkir Menuk Menak MU_lzir Mutir Malgir Mangar MI_ngak
+		Nisi Nabak Nabat Nabai Nabar NabatI_r NadI_l Nadum NafI_r NagI_l Nagur NahaC_ Nahin NahI_z Naik Namuk Namur Nanik Nitzchiel NE_sir NursA_y NE_vlA_n NI_gU_lan NorgU_z NalC_an Namtay Nelgur Nurmuk NustaG_ NemC_ek
+		O_temis O_kan O_rtaG_ O_tun O_rmI_n O_rI_nsay O_C_al O_kI_ray O_kbay O_lganay O_lbar O_lbay O_ltay O_lmaz O_lmI_S_ O_ltaS_ O_rkI_n O_rtanay O_sI_r O_stun O_tar O_tarkan O_tC_I_n O_tmuS_ O_tU_S_ O_uyanay O_uyanI_l
+		PapaC_yz PA_rU_l PE_suk Pavrak PazI_l Peleng PerkU_t PinC_ik Piyazk Pollak Plutik PE_sU_m PI_kan PA_bI_l PO_bI_n PA_lI_k PA_lkart PA_lC_A_tok PA_rgA_bay PA_rzul PA_sut PA_rlak Psozak Prunaz
+		Samsam SartA_C_ Simsam SA_ur SA_uk SE_ar2 SI_ar SI_un Satar Saban Saidak SarI_k SaygI_ Senek SI_G_I_r SeyfU_l Soyan Suhak
+		TA_bA_r TabghaC_ Tarkhan TarmaC_ Tuzniq TA_H_ur TA_G_rI_k TA_lA_k TA_riq TO_mU_r TO_kel Teber Tulga
+		Vakrim VA_rgU_n VA_lkar VA_lkor VA_rgul VA_ryak VI_dmir VI_dgan VO_skar VU_ktar VetS_an Vestib
+		Yabghu Yavantey YenC_epi Yerneslu YeC_tirek Yilig Yavdi YalC_I_n Yaman Yavuz Yayla YelC_i Yelgin YelmU_z YI_ldI_zhan YI_ldI_zkut
+		Zebulun ZaG_ul ZaG_ur ZaG_ir ZaG_ut ZaG_nI_r ZaltU_n
 	}
 	female_names = {
-		C_iC_A_k C_eC_eppi C_eC_ki C_eC_tilet C_ilen C_iltanesi O_zgul O_zlem Akgul Altynbike Aslanbike Asli Asena Aytolun Aybala Ayasun Ayten 
-		Aybike BozC_in Burcak Chekes Colpan Damira Dilek Esin Gokcek Goksel Goncagul Golnaz GulC_iC_A_k Gulay Gunduz Gundes Gunes Ikalay Ilkbahar 
-		Ilbilge Ilgin Ilgun Ilkay Ilnаra Ilnura Ipek Ipekel Irge Irmak Karacik KA_tyarikka KE_lnissa KE_lyamal LA_rkka Lyukha Mala Maturkka Mutlu 
-		NaC_a Parsbit Patiyer PaykE_lti Peksen Puyantay Samur Sarantay SarA_ Sarica Sarikel Sati SavaC_ka SavkE_lti Savtilek Savilay Savintik Sezgin 
-		Shurkka Sibel Sirin Sirma Songul TA_htani TekC_e Tunaydin Tura Umay Usunbike Yaprak Yasar Yeldem Yildiz Yansylu Yartilek
+		Akgul Asli Ayasun Ayten Agaay Agabike AgaC_I_n Agadil AgagU_l Agasu ArsU_z AkC_I_n AtgU_l Adaya AdgU_l AkC_aG_ AkgU_l Alban Aldem AlS_ar AluG_ AlC_a Amka AyC_in
+		BozC_in BA_gin BA_kyt BA_rin BairyA_ Balyra Baqsha BargU_l BA_rgA_ni BA_rkA_ni BarA_yU_l BA_stA_gU_l BA_rtil BA_rC_ika BA_riya BO_rkU_z BO_rU_ka BaG_I_S_ BA_het BerU_gU_l BegenC_
+		C_iC_A_k C_eC_eppi C_eC_ki C_eC_tilet C_ilen C_iltanesi CU_S_eyn Cevlah CU_reC_ CU_ksel CiviS_ Cevrez CU_zA_r CO_rU_m CU_vA_l CA_sim CU_S_ye CU_zgar CU_C_en Cimke CI_vI_l Cezra CankI_z
+		Dilek DaG_ana DaG_su DaG_U_n Dalar DalgI_n DanI_S_un Dana Darmun DaG_gU_l Daltun Derinun Dereba DileyU_n DinC_er DinC_U_n Dirila DI_yaz DI_S_ka DU_nayul Doyen DoG_aS_ Dilyut Dheza
+		Esin EcegU_l Eceay EcegU_n Ecenur Ecelik Egeldir Enisel Enisar EdnA_el Elisheva Egekin EgurC_im Egurdil Eniles Enisuy EnikI_z Enikan Eniden EniyaG_ Enazur Envuz EsinqI_l EsinO_z
+		GulC_iC_A_k Gulay Gunduz Gundes Gunes GO_lcan GO_lC_in GO_kay GO_kkut GU_lsan GU_zcan GO_zkut GU_zsu GU_ndU_zcan GU_ldan GU_ldU_n GO_kC_en GU_nesun GU_ray GO_zdeg GO_zdem GU_nakI_n GO_zayla
+		Ikalay Ilkay Ipek Ipekel Irge IbarU_n Iblisa Ibrut IdA_k IdilU_n I_lemaksat I_nbuse I_ncyI_ldI_z I_diz I_han I_karin I_lbekin I_lgU_ne I_lginay I_lginin I_lkarin I_llakin I_lsuya I_lnura I_mU_kin
+		Karacik KA_tyarikka KE_lnissa KE_lyamal Khatun KaraC_iC_ek Karaay KarayI_ldI_z Karayel KaraI_S_I_l Karakartal KI_zI_lC_iC_ek KI_zI_lgU_l KI_zI_lsev KO_kgU_l KI_rsev KuS_dU_S_ KI_zyel KI_zgU_l
+		LA_rkka Lyukha Lusha Lysha Lisur LiC_ka Lijar LikaS_ Lavur LA_kiz LA_mU_k LA_ven LA_var LE_rtU_n LA_lin LO_lU_n LU_ti LU_N_ir LU_rU_l LabegU_l Ladegen Ladeysu Lahsu LejU_n LobegU_l Lanak
+		Mala Maturkka Mutlu Mabir Macun Madal Mahir Mandar Mapar MarC_in Maril Marya Moren Musan MjO_ra MjO_ya MU_lay MA_llU_kU_ MergenC_iC_ MA_yrU_nay MA_liktay MA_linS_ar MA_yiknur MA_yI_rca
+		NaC_a NalaC_in NarinaS_ Naqtura NaS_ilga NesU_na NarikE_ Naganur Niyash NU_gU_r Nurishta NokU_n Nerghis Nashira Nizane Noyata Nasyra NO_rU_m NulukE_
+		O_zgul O_zlem Oalun Obagan Obanur Obashir Obayla Oberil Ochaya Ochilun Odagun Odaya Odelyn Ogulaya Ogilda Ogulcha Ogulya Oitalin Okeril Okaisha Olarin Olayza
+		Parsbit Patiyer PaykE_lti Peksen Puyantay PalaC_un ParC_ila PazirA_n PekU_ze Periza PulC_in Parzila PautU_n PeltU_ka Pazila PanikE_ PekA_z PeyzA_n
+		Samur Sarantay SarA_ Sarica Sarikel Sati SavaC_ka SavkE_lti Savtilek Savilay Savintik Shurkka Sibel Sirin Sirma Songul Sagra Salay SamI_S_ SabanqI_S_ SI_nar SU_rmen SA_yrU_gU_l
+		TA_htani TekC_e Tura TaN_su TatlI_ Tayla Temriye Teyir ToG_anay TO_nU_k TO_resu Tuhira TunG_ar TA_rilA_ TangsA_ TA_leme TA_C_sU_l TarsI_l TaS_kI_n
+		Umay Usunbike Umayna Umera Umetgul Umetnoy Umida Umirqa Unaygul Ungaynur Urazha Urazgul Uraznur Urazdin Urazka Urazgir Ursagul Urshungul Urtagul
+		Yasar Yeldem Yildiz Yartilek Yamansu Yarasu Yaraay YU_ceay YU_ceun YalI_nsu YarI_lgan Yarnur Yavuzsu Yertay Yurtay Yurtel
 	}
 	
 	founder_named_dynasties = yes
@@ -1073,21 +1105,48 @@ name_list_bolghar = {
 	}
 	
 	male_names = {
-		Akparas Almish Alzek Anzi Apskhih Araslan Asparukh Balamber Bars Bataul Batbayan Batoya Batulia Bayan Belkermak Bezmer Boyan Bulger Buzan Chepa Chinialush Dengizikh
-		Dizeng Dometa Dristar Drong Dukum Ellak Elemag Ernakh Eskhakh Goleda Gostun Guar Hudbad Iani Irnek Isbul Islivan Isperikh Ispor KA_laC_ Kano Karan Karaton
-		Kardam Kharaton Khinialon Khudbard Kordil Kormesiy Kormisosh Kotrag Krovat Krum Kuber Kubrat Kurt Kutrigur Kuvrat Labertam Magotin Malamir Mugel Odolgan Okhsi
-		Okhsun Okors Omurtag Onegavon Organ Organa Ornag Oshi Ostro Pagan Pakhtiyar PavA_l Praksa Rassate Rugila Sabin Sandil Sandilkh Sarkhan SartA_C_ Savin Sevar Shilki
-		Sondoke TA_htaman Tarasiy Taridin Tatra Telec Telerig Tervel TimE_r TimE_reC_ TimE_rpA_lat Tingiz Tiradin Tokhtaman Toktu Tsog Tsul Tuk Umor Uturgur Vakrim Venda Vetam Vinekh Yani
-		Yavantey YenC_epi Yerneslu YeC_tirek Zabergan Zenti Tukiy Aydar Irkhan Batir Ernakh Eskhakh Kermek Kaydum Zabergan Avitohol
+		Almish Alzek Anzi Apskhih Araslan Asparukh AbA_k Abtal AdalmI_sh Adaruk AdI_g Aglan Agyl Akar Akay Akber Akchur Akman Aktemur Aktruk Alaruk Alash Alatar Albatu Albor AlkaC_ AllI_r Alpagan Alpagut AmI_rak AltemU_r 
+		Balamber Bars Bataul Batbayan Batoya Batulia Bayan Belkermak Bezmer Boyan Bulger Buzan Barsqan Barsuk Bashirgan Batish Bayanchur BayanO_l Baylak Bazgan BegtemU_r Berkarar Bermek BilgA_ BilgU_C_i Byatan Byruk Belshatztzar
+		Chepa Chinialush Caidan C_aG_a C_aG_rI_ Cadriel Cehael C_alI_k C_arG_al C_avlan C_I_dam C_I_raG_an C_arpar C_avuS_ C_avuS_kan C_eliker Chaggai C_I_krI_k C_ahnaz C_ayI_rlI_
+		Dengizikh Dizeng Dometa Dristar Drong Dukum DU_muk DU_gar DO_kul DO_bek DO_shen DO_rA_k DO_gar DaG_I_n Demiran Demirar Demiruk Dirin DiyA_rin DiyA_rak DiyA_ruk DinC_ak DU_kkan DaS_an DA_ran DA_mesh DI_shar DI_ganur DO_resh DU_khar
+		Ellak Elemag Ernakh Eskhakh EldU_r Erbilge ErtimuS_ ErC_ak Erlig Erdin ErtamyS_ ErboG_a ElkI_lI_C_ Elmera Eliezer Ezekiel Elisha EbilC_an Ebiltay Ebiray EbirdoG_an Ebilalp EdkU_r EkI_S_I_n EmU_rcan Ersag Eruhan Eytemir ErkO_C_
+		Goleda Gostun Guar GO_kbay GO_kbek GO_kdoG_an GO_kgO_l GO_kC_an GO_kC_er GO_kten GU_ntekI_n GU_nC_er GU_rdoG_an GU_rC_an GU_rC_er GU_rtaS_ GO_zbek Gencek GO_kdemI_r GO_ktaS_ GarbI_lge GartekI_n Garok GU_ventekI_n GU_neS_tigI_n
+		Hudbad HA_er HA_kI_zI_l HA_barak HA_od HA_C_ak HA_ugur HabO_ri Habarak HE_alp HE_kO_k HI_alp HI_kut HI_oG_ul HI_barak HI_od HI_ugur HA_zariel HA_zir HY_rom HU_rkan HijA_r HiS_bay HU_ralp
+		Iani Irnek Isbul Islivan Isperikh Ispor Irkhan I_lyas I_nanC_ IlteriS_ I_lter I_lar I_lin I_lU_n I_lI_r I_lkut I_lgar Ilgiz Ilkim IS_I_tak I_zbilge I_zC_en Irbilge Irlam IS_budak IS_tek I_toG_ I_tram I_ranI_S_ I_lC_en
+		KA_laC_ Kano Karan Karaton Kardam Kharaton Khinialon Khudbard Kordil Kormesiy Kormisosh Kotrag Krovat Krum Kuber Kubrat Kurt Kutrigur Kuvrat Kanber KandI_v Kapgan Karabul Karauz KargI_n KasI_l KayI_r Kayuk KiC_ik KI_zI_ltuG_ KO_C_U_r
+		Labertam
+		Magotin Malamir Mugel MI_zrakar MI_zrakir Masir MA_zar MA_zaran MA_zA_ruk MA_zA_rak MeS_ar Mekar Mekir MenkA_r MenkU_k MenkA_k Menkir Menuk Menak MU_lzir Mutir Malgir Mangar MI_ngak
+		Nabak Nabat Nabai Nabar NabatI_r NadI_l Nadum NafI_r NagI_l Nagur NahaC_ Nahin NahI_z Naik Namuk Namur Nanik Nitzchiel NE_sir NursA_y NE_vlA_n NI_gU_lan NorgU_z NalC_an Namtay Nelgur Nurmuk NustaG_ NemC_ek
+		Odolgan Okhsi Okhsun Okors Omurtag Onegavon Organ Organa Ornag Oshi Ostro O_kan O_rtaG_ O_tun O_rmI_n O_rI_nsay O_C_al O_kI_ray O_kbay O_lganay O_lbar O_lbay O_ltay O_lmaz O_lmI_S_ O_ltaS_ O_rkI_n O_rtanay O_sI_r O_stun O_tar O_tarkan O_tC_I_n O_tmuS_ O_tU_S_ O_uyanay O_uyanI_l
+		Pagan Pakhtiyar PavA_l Praksa PA_rU_l PE_suk Pavrak PazI_l Peleng PerkU_t PinC_ik Piyazk Pollak Plutik PE_sU_m PI_kan PA_bI_l PO_bI_n PA_lI_k PA_lkart PA_lC_A_tok PA_rgA_bay PA_rzul PA_sut PA_rlak Psozak Prunaz
+		Rassate Rugila
+		Sabin Sandil Sandilkh Sarkhan SartA_C_ Savin Sevar Shilki Sondoke SA_ur SA_uk SE_ar2 SI_ar SI_un Satar Saban Saidak SarI_k SaygI_ Senek SI_G_I_r SeyfU_l Soyan Suhak
+		TA_htaman Tarasiy Taridin Tatra Telec Telerig Tervel TimE_r TimE_reC_ TimE_rpA_lat Tingiz Tiradin Tokhtaman Toktu Tsog Tsul Tuk Tukiy TA_H_ur TA_G_rI_k TA_lA_k TA_riq TO_mU_r TO_kel Teber Tulga
+		Umor Uturgur
+		Vakrim Venda Vetam Vinekh VA_rgU_n VA_lkar VA_lkor VA_rgul VA_ryak VI_dmir VI_dgan VO_skar VU_ktar VetS_an Vestib
+		Yani Yavantey YenC_epi Yerneslu YeC_tirek YalC_I_n Yaman Yavuz Yayla YelC_i Yelgin YelmU_z YI_ldI_zhan YI_ldI_zkut
+		Zabergan Zenti ZaG_ul ZaG_ur ZaG_ir ZaG_ut ZaG_nI_r ZaltU_n
+		   
 
 	}
 	female_names = {
-		Altynbike Asena Aslanbike Aytolun Aybala Aybuke Aygul Aylin C_eC_ek C_eC_eppi C_eC_ki C_eC_tilet C_ilen C_iltanesi O_zgul O_zlem Akgul Asli 
-		Aygul Aybike Ayasun Ayten BozC_in Burcak Chakak Chekes Colpan Damira Dilek Dolunay Esin Eylem Gokcek Goksel Goncagul Golnaz Gizem GulC_eC_ek 
-		Gulay Gunduz Gundes Gunes Hulya Ikalay Ilkbahar Ilbilge Ilgin Ilgun Ilkay Ilnаra Ilnura Ipek Ipekel Irge Isenbike Isilay Isin Karacik 
-		KA_tyarikka KE_lnissa KE_lyamal Kuzay LA_rkka Lyukha Mala Makbule Maturkka Mutlu NaC_a Neslihan Nilay Patiyer PaykE_lti Peksen Puyantay 
-		Samur Sarantay SarA_ Sarica Sarikel Sati SavaC_ka SavkE_lti Savtilek Savilay Savintik Sezgin Senay Sevim Shurkka Sibay Sibel Sirin Sirma 
-		Solmaz Songul TA_htani TekC_e Temiz Toprak Tunaydin Tura Umay Usunbike Varpikke Yaprak Yasar Yeldem Yildiz Yartilek
+		Akgul Asli Ayasun Ayten Agabike AgaC_I_n Agadil AgagU_l Agasu ArsU_z AkC_I_n AtgU_l Adaya AdgU_l AkC_aG_ AkgU_l Alban Aldem AlS_ar AluG_ AlC_a Amka AyC_in
+		BozC_in BA_gin BA_kyt BA_rin BairyA_ Balyra Baqsha BargU_l BA_rgA_ni BA_rkA_ni BarA_yU_l BA_stA_gU_l BA_rtil BA_rC_ika BA_riya BO_rkU_z BO_rU_ka BaG_I_S_ BA_het BerU_gU_l BegenC_
+		C_eC_ek C_eC_eppi C_eC_ki C_eC_tilet C_ilen C_iltanesi CU_S_eyn Cevlah CU_reC_ CU_ksel CiviS_ Cevrez CU_zA_r CO_rU_m CU_vA_l CA_sim CU_S_ye CU_zgar CU_C_en Cimke CI_vI_l Cezra CankI_z
+		Dilek DaG_ana DaG_su DaG_U_n Dalar DalgI_n DanI_S_un Dana Darmun DaG_gU_l Daltun Derinun Dereba DileyU_n DinC_er DinC_U_n Dirila DI_yaz DI_S_ka DU_nayul Doyen DoG_aS_ Dilyut Dheza
+		Esin EcegU_l Eceay EcegU_n Ecenur Ecelik Egeldir Enisel Enisar EdnA_el Elisheva Egekin EgurC_im Egurdil Eniles Enisuy EnikI_z Enikan Eniden EniyaG_ Enazur Envuz EsinqI_l EsinO_z
+		GulC_eC_ek Gulay Gunduz Gundes Gunes GO_lcan GO_lC_in GO_kay GO_kkut GU_lsan GU_zcan GO_zkut GU_zsu GU_ndU_zcan GU_ldan GU_ldU_n GO_kC_en GU_nesun GU_ray GO_zdeg GO_zdem GU_nakI_n GO_zayla
+		Ikalay Ilkay Ipek Ipekel Irge IbarU_n Iblisa Ibrut IdA_k IdilU_n I_lemaksat I_nbuse I_ncyI_ldI_z I_diz I_han I_karin I_lbekin I_lgU_ne I_lginay I_lginin I_lkarin I_llakin I_lsuya I_lnura I_mU_kin
+		Karacik KA_tyarikka KE_lnissa KE_lyamal KaraC_iC_ek Karaay KarayI_ldI_z Karayel KaraI_S_I_l Karakartal KI_zI_lC_iC_ek KI_zI_lgU_l KI_zI_lsev KO_kgU_l KI_rsev KuS_dU_S_ KI_zyel KI_zgU_l
+		LA_rkka Lyukha Lusha Lysha Lisur LiC_ka Lijar LikaS_ Lavur LA_kiz LA_mU_k LA_ven LA_var LE_rtU_n LA_lin LO_lU_n LU_ti LU_N_ir LU_rU_l LabegU_l Ladegen Ladeysu Lahsu LejU_n LobegU_l Lanak
+		Mala Maturkka Mutlu Mabir Macun Madal Mahir Mandar Mapar MarC_in Maril Marya Moren Musan MjO_ra MjO_ya MU_lay MA_llU_kU_ MergenC_iC_ MA_yrU_nay MA_liktay MA_linS_ar MA_yiknur MA_yI_rca
+		NaC_a NalaC_in NarinaS_ Naqtura NaS_ilga NesU_na NarikE_ Naganur Niyash NU_gU_r Nurishta NokU_n Nerghis Nashira Nizane Noyata Nasyra NO_rU_m NulukE_
+		O_zgul O_zlem Oalun Obagan Obanur Obashir Obayla Oberil Ochaya Ochilun Odagun Odaya Odelyn Ogulaya Ogilda Ogulcha Ogulya Oitalin Okeril Okaisha Olarin Olayza
+		Patiyer PaykE_lti Peksen Puyantay PalaC_un ParC_ila PazirA_n PekU_ze Periza PulC_in Parzila PautU_n PeltU_ka Pazila PanikE_ PekA_z PeyzA_n
+		Samur Sarantay SarA_ Sarica Sarikel Sati SavaC_ka SavkE_lti Savtilek Savilay Savintik Shurkka Sibel Sirin Sirma Songul Sagra Salay SamI_S_ SabanqI_S_ SI_nar SU_rmen SA_yrU_gU_l
+		TA_htani TekC_e Tura TaN_su TatlI_ Tayla Temriye Teyir ToG_anay TO_nU_k TO_resu Tuhira TunG_ar TA_rilA_ TangsA_ TA_leme TA_C_sU_l TarsI_l TaS_kI_n
+		Umay Usunbike Umera Umetgul Umetnoy Umida Umirqa Unaygul Ungaynur Urazha Urazgul Uraznur Urazdin Urazka Urazgir Ursagul Urshungul Urtagul
+		Yasar Yeldem Yildiz Yartilek Yamansu Yarasu Yaraay YU_ceay YU_ceun YalI_nsu YarI_lgan Yarnur Yavuzsu Yertay Yurtay Yurtel
 	}
 
 	founder_named_dynasties = yes
@@ -1142,18 +1201,47 @@ name_list_bashkir = {
 	}
 	
 	male_names = {
-		Almish Alzek Anzi Apskhih Araslan Asparukh Balamber Bars Bataul Batbayan Batoya Batulia Bayan Belkermak Bezmer Boyan Bulger Buzan Chepa Chinialush Dengizikh
-		Dizeng Dometa Dristar Drong Dukum Ellak Elemag Ernakh Eskhakh Goleda Gostun Guar Hudbad Iani Irnek Isbul Islivan Isperikh Ispor KA_laC_ Kano Karan Karaton
-		Kardam Kharaton Khinialon Khudbard Kordil Kormesiy Kormisosh Kotrag Krovat Krum Kuber Kubrat Kurt Kutrigur Kuvrat Labertam Magotin Malamir Mugel Odolgan Okhsi
-		Okhsun Okors Omurtag Onegavon Organ Organa Ornag Oshi Ostro Pagan Pakhtiyar PavA_l Praksa Rassate Rugila Sabin Sandil Sandilkh Sarkhan SartA_C_ Savin Sevar Shilki
-		Sondoke TA_htaman Tarasiy Taridin Tatra Telec Telerig Tervel TimE_r TimE_reC_ TimE_rpA_lat Tingiz Tiradin Tokhtaman Toktu Tsog Tsul Tuk Umor Uturgur Vakrim Venda Vetam Vinekh Yani
-		Yavantey YenC_epi Yerneslu YeC_tirek Zabergan Zenti Tukiy Aydar Irkhan Batir
+		Almish Alzek Anzi Apskhih Araslan Asparukh AbA_k Abtal AdalmI_sh Adaruk AdI_g Aglan Agyl Akar Akay Akber Akchur Akman Aktemur Aktruk Alaruk Alash Alatar Albatu Albor AlkaC_ AllI_r Alpagan Alpagut AmI_rak AltemU_r 
+		Balamber Bars Bataul Batbayan Batoya Batulia Bayan Belkermak Bezmer Boyan Bulger Buzan Barsqan Barsuk Bashirgan Batish Bayanchur BayanO_l Baylak Bazgan BegtemU_r Berkarar Bermek BilgA_ BilgU_C_i Byatan Byruk Belshatztzar
+		Chepa Chinialush Caidan C_aG_a C_aG_rI_ Cadriel Cehael C_alI_k C_arG_al C_avlan C_I_dam C_I_raG_an C_arpar C_avuS_ C_avuS_kan C_eliker Chaggai C_I_krI_k C_ahnaz C_ayI_rlI_
+		Dengizikh Dizeng Dometa Dristar Drong Dukum DU_muk DU_gar DO_kul DO_bek DO_shen DO_rA_k DO_gar DaG_I_n Demiran Demirar Demiruk Dirin DiyA_rin DiyA_rak DiyA_ruk DinC_ak DU_kkan DaS_an DA_ran DA_mesh DI_shar DI_ganur DO_resh DU_khar
+		Ellak Elemag Ernakh Eskhakh EldU_r Erbilge ErtimuS_ ErC_ak Erlig Erdin ErtamyS_ ErboG_a ElkI_lI_C_ Elmera Eliezer Ezekiel Elisha EbilC_an Ebiltay Ebiray EbirdoG_an Ebilalp EdkU_r EkI_S_I_n EmU_rcan Ersag Eruhan Eytemir ErkO_C_
+		Goleda Gostun Guar GO_kbay GO_kbek GO_kdoG_an GO_kgO_l GO_kC_an GO_kC_er GO_kten GU_ntekI_n GU_nC_er GU_rdoG_an GU_rC_an GU_rC_er GU_rtaS_ GO_zbek Gencek GO_kdemI_r GO_ktaS_ GarbI_lge GartekI_n Garok GU_ventekI_n GU_neS_tigI_n
+		Hudbad HA_er HA_kI_zI_l HA_barak HA_od HA_C_ak HA_ugur HabO_ri Habarak HE_alp HE_kO_k HI_alp HI_kut HI_oG_ul HI_barak HI_od HI_ugur HA_zariel HA_zir HY_rom HU_rkan HijA_r HiS_bay HU_ralp
+		Iani Irnek Isbul Islivan Isperikh Ispor Irkhan I_lyas I_nanC_ IlteriS_ I_lter I_lar I_lin I_lU_n I_lI_r I_lkut I_lgar Ilgiz Ilkim IS_I_tak I_zbilge I_zC_en Irbilge Irlam IS_budak IS_tek I_toG_ I_tram I_ranI_S_ I_lC_en
+		KA_laC_ Kano Karan Karaton Kardam Kharaton Khinialon Khudbard Kordil Kormesiy Kormisosh Kotrag Krovat Krum Kuber Kubrat Kurt Kutrigur Kuvrat Kanber KandI_v Kapgan Karabul Karauz KargI_n KasI_l KayI_r Kayuk KiC_ik KI_zI_ltuG_ KO_C_U_r
+		Labertam
+		Magotin Malamir Mugel MI_zrakar MI_zrakir Masir MA_zar MA_zaran MA_zA_ruk MA_zA_rak MeS_ar Mekar Mekir MenkA_r MenkU_k MenkA_k Menkir Menuk Menak MU_lzir Mutir Malgir Mangar MI_ngak
+		Nabak Nabat Nabai Nabar NabatI_r NadI_l Nadum NafI_r NagI_l Nagur NahaC_ Nahin NahI_z Naik Namuk Namur Nanik Nitzchiel NE_sir NursA_y NE_vlA_n NI_gU_lan NorgU_z NalC_an Namtay Nelgur Nurmuk NustaG_ NemC_ek
+		Odolgan Okhsi Okhsun Okors Omurtag Onegavon Organ Organa Ornag Oshi Ostro O_kan O_rtaG_ O_tun O_rmI_n O_rI_nsay O_C_al O_kI_ray O_kbay O_lganay O_lbar O_lbay O_ltay O_lmaz O_lmI_S_ O_ltaS_ O_rkI_n O_rtanay O_sI_r O_stun O_tar O_tarkan O_tC_I_n O_tmuS_ O_tU_S_ O_uyanay O_uyanI_l
+		Pagan Pakhtiyar PavA_l Praksa PA_rU_l PE_suk Pavrak PazI_l Peleng PerkU_t PinC_ik Piyazk Pollak Plutik PE_sU_m PI_kan PA_bI_l PO_bI_n PA_lI_k PA_lkart PA_lC_A_tok PA_rgA_bay PA_rzul PA_sut PA_rlak Psozak Prunaz
+		Rassate Rugila
+		Sabin Sandil Sandilkh Sarkhan SartA_C_ Savin Sevar Shilki Sondoke SA_ur SA_uk SE_ar2 SI_ar SI_un Satar Saban Saidak SarI_k SaygI_ Senek SI_G_I_r SeyfU_l Soyan Suhak
+		TA_htaman Tarasiy Taridin Tatra Telec Telerig Tervel TimE_r TimE_reC_ TimE_rpA_lat Tingiz Tiradin Tokhtaman Toktu Tsog Tsul Tuk Tukiy TA_H_ur TA_G_rI_k TA_lA_k TA_riq TO_mU_r TO_kel Teber Tulga
+		Umor Uturgur
+		Vakrim Venda Vetam Vinekh VA_rgU_n VA_lkar VA_lkor VA_rgul VA_ryak VI_dmir VI_dgan VO_skar VU_ktar VetS_an Vestib
+		Yani Yavantey YenC_epi Yerneslu YeC_tirek YalC_I_n Yaman Yavuz Yayla YelC_i Yelgin YelmU_z YI_ldI_zhan YI_ldI_zkut
+		Zabergan Zenti ZaG_ul ZaG_ur ZaG_ir ZaG_ut ZaG_nI_r ZaltU_n
 
 	}
 	female_names = {
-		C_eC_ek C_eC_eppi C_eC_ki C_eC_tilet C_ilen C_iltanesi O_zgul O_zlem Akgul Asli Ayasun Ayten BozC_in Dilek Esin GulC_eC_ek Gulay Gunduz Gundes Gunes Ikalay Ilkay Ipek Ipekel Irge
-		Karacik KA_tyarikka KE_lnissa KE_lyamal LA_rkka Lyukha Mala Maturkka Mutlu NaC_a Patiyer PaykE_lti Peksen Puyantay Samur Sarantay SarA_ Sarica Sarikel
-		Sati SavaC_ka SavkE_lti Savtilek Savilay Savintik Shurkka Sibel Sirin Sirma Songul TA_htani TekC_e Tura Umay Usunbike Yasar Yeldem Yildiz Yartilek
+		Akgul Asli Ayasun Ayten Agabike AgaC_I_n Agadil AgagU_l Agasu ArsU_z AkC_I_n AtgU_l Adaya AdgU_l AkC_aG_ AkgU_l Alban Aldem AlS_ar AluG_ AlC_a Amka AyC_in
+		BozC_in BA_gin BA_kyt BA_rin BairyA_ Balyra Baqsha BargU_l BA_rgA_ni BA_rkA_ni BarA_yU_l BA_stA_gU_l BA_rtil BA_rC_ika BA_riya BO_rkU_z BO_rU_ka BaG_I_S_ BA_het BerU_gU_l BegenC_
+		C_eC_ek C_eC_eppi C_eC_ki C_eC_tilet C_ilen C_iltanesi CU_S_eyn Cevlah CU_reC_ CU_ksel CiviS_ Cevrez CU_zA_r CO_rU_m CU_vA_l CA_sim CU_S_ye CU_zgar CU_C_en Cimke CI_vI_l Cezra CankI_z
+		Dilek DaG_ana DaG_su DaG_U_n Dalar DalgI_n DanI_S_un Dana Darmun DaG_gU_l Daltun Derinun Dereba DileyU_n DinC_er DinC_U_n Dirila DI_yaz DI_S_ka DU_nayul Doyen DoG_aS_ Dilyut Dheza
+		Esin EcegU_l Eceay EcegU_n Ecenur Ecelik Egeldir Enisel Enisar EdnA_el Elisheva Egekin EgurC_im Egurdil Eniles Enisuy EnikI_z Enikan Eniden EniyaG_ Enazur Envuz EsinqI_l EsinO_z
+		GulC_eC_ek Gulay Gunduz Gundes Gunes GO_lcan GO_lC_in GO_kay GO_kkut GU_lsan GU_zcan GO_zkut GU_zsu GU_ndU_zcan GU_ldan GU_ldU_n GO_kC_en GU_nesun GU_ray GO_zdeg GO_zdem GU_nakI_n GO_zayla
+		Ikalay Ilkay Ipek Ipekel Irge IbarU_n Iblisa Ibrut IdA_k IdilU_n I_lemaksat I_nbuse I_ncyI_ldI_z I_diz I_han I_karin I_lbekin I_lgU_ne I_lginay I_lginin I_lkarin I_llakin I_lsuya I_lnura I_mU_kin
+		Karacik KA_tyarikka KE_lnissa KE_lyamal KaraC_iC_ek Karaay KarayI_ldI_z Karayel KaraI_S_I_l Karakartal KI_zI_lC_iC_ek KI_zI_lgU_l KI_zI_lsev KO_kgU_l KI_rsev KuS_dU_S_ KI_zyel KI_zgU_l
+		LA_rkka Lyukha Lusha Lysha Lisur LiC_ka Lijar LikaS_ Lavur LA_kiz LA_mU_k LA_ven LA_var LE_rtU_n LA_lin LO_lU_n LU_ti LU_N_ir LU_rU_l LabegU_l Ladegen Ladeysu Lahsu LejU_n LobegU_l Lanak
+		Mala Maturkka Mutlu Mabir Macun Madal Mahir Mandar Mapar MarC_in Maril Marya Moren Musan MjO_ra MjO_ya MU_lay MA_llU_kU_ MergenC_iC_ MA_yrU_nay MA_liktay MA_linS_ar MA_yiknur MA_yI_rca
+		NaC_a NalaC_in NarinaS_ Naqtura NaS_ilga NesU_na NarikE_ Naganur Niyash NU_gU_r Nurishta NokU_n Nerghis Nashira Nizane Noyata Nasyra NO_rU_m NulukE_
+		O_zgul O_zlem Oalun Obagan Obanur Obashir Obayla Oberil Ochaya Ochilun Odagun Odaya Odelyn Ogulaya Ogilda Ogulcha Ogulya Oitalin Okeril Okaisha Olarin Olayza
+		Patiyer PaykE_lti Peksen Puyantay PalaC_un ParC_ila PazirA_n PekU_ze Periza PulC_in Parzila PautU_n PeltU_ka Pazila PanikE_ PekA_z PeyzA_n
+		Samur Sarantay SarA_ Sarica Sarikel Sati SavaC_ka SavkE_lti Savtilek Savilay Savintik Shurkka Sibel Sirin Sirma Songul Sagra Salay SamI_S_ SabanqI_S_ SI_nar SU_rmen SA_yrU_gU_l
+		TA_htani TekC_e Tura TaN_su TatlI_ Tayla Temriye Teyir ToG_anay TO_nU_k TO_resu Tuhira TunG_ar TA_rilA_ TangsA_ TA_leme TA_C_sU_l TarsI_l TaS_kI_n
+		Umay Usunbike Umera Umetgul Umetnoy Umida Umirqa Unaygul Ungaynur Urazha Urazgul Uraznur Urazdin Urazka Urazgir Ursagul Urshungul Urtagul
+		Yasar Yeldem Yildiz Yartilek Yamansu Yarasu Yaraay YU_ceay YU_ceun YalI_nsu YarI_lgan Yarnur Yavuzsu Yertay Yurtay Yurtel
 	}
 
 	founder_named_dynasties = yes
@@ -1177,6 +1265,17 @@ name_list_avar = {
 		"dynn_Yandalal"
 		"dynn_Tsumadal"
 		"dynn_Tsuntab"
+		"dynn_Bataulib"
+		"dynn_Apskhihrak"
+		"dynn_AktoG_rul"
+		"dynn_Cankutlug"
+		"dynn_Daykhil"
+		"dynn_DG_aghrI_l"
+		"dynn_Ebaghatur"
+		"dynn_Ebataul"
+		"dynn_GyeC_tirek"
+		"dynn_IS_bO_rU_oG_lu"
+		"dynn_MarmurtaS_"
 	}
 	
 	dynasty_names = {
@@ -1191,20 +1290,60 @@ name_list_avar = {
 		"dynn_Yandalal"
 		"dynn_Tsumadal"
 		"dynn_Tsuntab"
+		"dynn_Bataulib"
+		"dynn_Apskhihrak"
+		"dynn_AktoG_rul"
+		"dynn_Cankutlug"
+		"dynn_Daykhil"
+		"dynn_DG_aghrI_l"
+		"dynn_Ebaghatur"
+		"dynn_Ebataul"
+		"dynn_GyeC_tirek"
+		"dynn_IS_bO_rU_oG_lu"
+		"dynn_MarmurtaS_"
 	}
 
 	male_names = {
-		Almish Alp Alzek Anzi Apskhih Araslan Asparukh Bagha Baghatur BalambA_r Barjik Bars Barsbek Bashtwa Bastu Bataul Batbayan Batoya Batulia Bayan Belkermak Bezmer Bihor Boyan Bugha Bughra Bulan Bulger BulC_an Busir Buzan Buzer BA_lgiC_i BO_ri
-		Chepa Chinialush Dengizikh Dizeng Dometa Dristar Drong Dukum Elemag Ellak Ernakh Eskhakh Goleda Gostun Guar Hudbad Iani Ilik IltA_bA_r Irnek Isbul Islivan Isperikh Ispor Itakh Kamaj Kano Karadakh Karan Karaton Kardam Kayghalagh Kharaton Khatir Khinialon
-		Khudbard Khuterkin Kibar Kisa Kordil Kormesiy Kormisosh Kotrag Krovat Krum Kuber Kubrat KundaC_ KundaC_iq Kurt Kutrigur KA_laC_ Labertam Magotin Malamir Mugel MA_nA_r MA_nA_s ME_nU_marO_t Odolgan Okhsi Okhsun Okors Omurtag Onegavon Organ Organa Ornag
-		Oshi Ostro Pagan Pakhtiyar PapaC_yz PavA_l Praksa Rassate Rugila Sabin Samsam Sandil Sandilkh Sarkhan SartA_C_ Savin Sevar Shilki Simsam Sondoke TabghaC_ Tarasiy Taridin Tarkhan TarmaC_ Tatra Telec Telerig Tervel TimE_r TimE_reC_ TimE_rpA_lat
-		Tingiz Tiradin Toghan ToghrI_l Tokhtaman Toktu Tsog Tsul Tuk Tuzniq TA_bA_r TA_htaman Umor Uturgur Vakrim Venda Vetam Vinekh Yabghu Yani Yavantey YenC_epi Yerneslu YeC_tirek Yilig Zabergan Zenti C_at C_at_n C_orpan O_temis
+		Almish Alp Alzek Anzi Apskhih Araslan Asparukh Almishalp Almishbek Alpakan Anzidar Anzibay Apskhihrak Araslanbek Abaray Abulkhayr AdgU_r Adilkhan Adinur AktoG_rul Aldemir Alqamar Andaril
+		Bagha Baghatur BalambA_r Barjik Bars Barsbek Bashtwa Bastu Bataul Batbayan Batoya Batulia Bayan Belkermak Bezmer Bihor Boyan Bugha Bughra Bulan Bulger BulC_an Busir Buzan Buzer BA_lgiC_i BO_ri
+		Chepa Chinialush C_at C_at_n C_orpan CahI_r Cakbayan C_alash Cakmir C_anak C_aman Cankutlug Carapaz CektaS_ Cengiz C_erkut Ceylan CaskanlI_ Canbayan Caltun Canpolat CelgU_r
+		Dengizikh Dizeng Dometa Dristar Drong Dukum DA_lmish Dalbayan DalC_anG_I_r DabaylI_ Dapasht Darzhan Dashbayan Daykhil DA_z Dezengikh Desem Dejigan DjabI_r DjA_kin DG_aghrI_l DjasU_r DZ_engis Djonar Doran DjandA_r Djarat Djentrak Dotev Dryan DU_zteng Dirbak
+		Elemag Ellak Ernakh Eskhakh EO_temis Eodogan Ebpakhtiyar Elalmish EG_telec Ealp Eazek Eanzi Eapskhih Earaslan Easparukh Ebagha EbalambA_r Ebarjik Ebars Ebarsbek Ebashtwa Ebastu Ebataul Ebatulia Ebezmer Eboyan EbA_lgiC_i EbO_ri Ehudbad Eisperikh Ekamaj EkundaC_
+		Fabagha Fabadur FabO_ri Facar Faltigin Fangur Fazaghan
+		Goleda Gostun Guar Galmish Galp Galzek Ganzi Gapskhih Garaslan Gasparukh Gbagha Gbaghatur GbalambA_r Gbarjik Gbusir GtabghaC_ Gtarasiy GtimE_reC_ GtimE_r Gtingiz Gyilig GyeC_tirek Gzenti GgO_ktaS_
+		Hudbad HU_rarslan Horil HO_C_er HU_kir Horbatu Hayruk HO_ktay Huzbek Hengel Hargun Hariskut HaG_batur HaizI_r HalgU_r HaG_er HaS_uk Helbatur HI_lgU_r Hodun
+		Iani Ilik IltA_bA_r Irnek Isbul Islivan Isperikh Ispor Itakh I_lbatI_r I_lbatu I_lgO_k I_limir I_nalgU_r I_nalarslan I_nalbO_rU_ IS_bO_rU_oG_lu
+		Kamaj Kano Karadakh Karan Karaton Kardam Kayghalagh Kharaton Khatir Khinialon Khudbard Khuterkin Kibar Kisa Kordil Kormesiy Kormisosh Kotrag Krovat Krum Kuber Kubrat KundaC_ KundaC_iq Kurt Kutrigur KA_laC_
+		Labertam LaC_I_n LazsU_ LazuG_ Levkut LoG_tigin Lialp Lubay LO_temU_r LA_temU_r LI_kaya Loyigit Lioz Leparbek LyasU_t
+		Magotin Malamir Mugel MA_nA_r MA_nA_s ME_nU_marO_t MaktaS_ MarmurtaS_ MergenkO_k MikO_k MogO_k Murtemir MasarqI_ Mirsay Mistik MO_C_U_k MazgU_r
+		Odolgan Okhsi Okhsun Okors Omurtag Onegavon Organ Organa Ornag Oshi Ostro O_temis Ordubeg Olqar O_zmut O_ztemir Oytun Oksar Okbayar Oktemir Ortugan Oslan OG_boru Ozboru Ongar Ozkut
+		Pagan Pakhtiyar PapaC_yz PavA_l Praksa Pabak Paldur PanC_uG_ ParI_l PaygI_r PazarC_ PekC_U_ Percek Poyaz PO_C_U_k PI_S_gI_n
+		Rassate Rugila RaC_bey Rakut RangkI_l RangO_z Rayel RayuG_ RaydoG_an RayoG_ul Rebatu Rebilge RekI_l ReS_alp RetO_r RI_gO_k RI_yal RI_yeg RI_kI_lI_C_ RI_erk RU_kI_lI_C_
+		Sabin Samsam Sandil Sandilkh Sarkhan SartA_C_ Savin Sevar Shilki Simsam Sondoke SancaroG_lu Sancakbey SavaS_bey SI_G_I_rbey SezergO_z Sertemir Siptemir SaruC_ SarI_yU_z SurG_anlI_
+		TabghaC_ Tarasiy Taridin Tarkhan TarmaC_ Tatra Telec Telerig Tervel TimE_r TimE_reC_ TimE_rpA_lat Tingiz Tiradin Toghan ToghrI_l Tokhtaman Toktu Tsog Tsul Tuk Tuzniq TA_bA_r TA_htaman
+		Umor Uturgur UG_urulug UlaS_ UruC_berk UruC_tigin Ulakbay US_aqcan Urazkut UC_anulug UC_arergin UC_baS_ US_an UC_aryol UG_urtuG_ UG_urtemir
+		Vakrim Venda Vetam Vinekh Vajkut Varhun Vasur Vaybek Varkut Vayir Velmur Vaztur VA_rtar VaykutluG_ Vashir Vendur VashkU_r VarkO_l Vaztumir
+		Yabghu Yani Yavantey YenC_epi Yerneslu YeC_tirek Yilig YiG_itkut YI_lmazyel Yarenyol YelkO_k Yelbeyaz YultemU_r YalgI_n Yilbek YetiS_kut
+		Zabergan Zenti ZaiS_ Zainar ZaptemU_r ZapI_l Zaryol ZarbaS_ Zardemir ZayertuG_ Zatoglu ZenarC_ ZevS_anlI_
 
 	}
 	female_names = {
-		Akgul Asli Ayasun Ayten BozC_in Dilek Esin Gulay GulC_iC_A_k Gundes Gunduz Gunes Ikalay Ilkay Ipek Ipekel Irge Karacik Khatun KA_tyarikka KE_lnissa KE_lyamal Lyukha LA_rkka Mala Maturkka Mutlu NaC_a Parsbit Patiyer PaykE_lti Peksen
-		Puyantay Samur Sarantay Sarica Sarikel SarA_ Sati SavaC_ka Savilay Savintik SavkE_lti Savtilek Shurkka Sibel Sirin Sirma Songul TekC_e Tura TA_htani Umay Usunbike Yartilek Yasar Yeldem Yildiz C_eC_eppi C_eC_ki
-		C_eC_tilet C_ilen C_iltanesi C_iC_A_k O_zgul O_zlem
+		Akgul Asli Ayasun Ayten AargU_n AS_en Aylin Aysu Aydan AykI_z AkligU_l AkC_a Altunay Altunbanu AltungU_l AlC_a
+		BozC_in Balay Balsu BalkI_z BalI_m BaygU_l BaykI_z BayuG_ur Begay Begsu Beyazsu
+		Dilek
+		Esin
+		Gulay GulC_iC_A_k Gundes Gunduz Gunes
+		Ikalay Ilkay Ipek Ipekel Irge
+		Karacik Khatun KA_tyarikka KE_lnissa KE_lyamal
+		Lyukha LA_rkka
+		Mala Maturkka Mutlu
+		NaC_a
+		Parsbit Patiyer PaykE_lti Peksen Puyantay
+		Samur Sarantay Sarica Sarikel SarA_ Sati SavaC_ka Savilay Savintik SavkE_lti Savtilek Shurkka Sibel Sirin Sirma Songul
+		TekC_e Tura TA_htani
+		Umay Usunbike
+		Yartilek Yasar Yeldem Yildiz
+		C_eC_eppi C_eC_ki C_eC_tilet C_ilen C_iltanesi C_iC_A_k O_zgul O_zlem
 	}
 
 	dynasty_of_location_prefix = "dynnp_of"

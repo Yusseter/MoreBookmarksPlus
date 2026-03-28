@@ -836,7 +836,7 @@ emishi = {
 		requires_dlc_flag = all_under_heaven
 	}
 
-	name_list = name_list_ainu
+	name_list = name_list_emishi
 
 	coa_gfx = { japanese_coa_gfx }
 	building_gfx = { emishi_building_gfx japanese_building_gfx }

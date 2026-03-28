@@ -74,8 +74,6 @@
 		{ name = "holy_order_shakyan_faithful" }
 	}
 
-	holy_order_maa = { khandayat }
-
 	localization = {
 		#HighGodName
 		HighGodName = buddhism_high_god_name
@@ -525,6 +523,11 @@
 			
 			# Special
 			doctrine = special_doctrine_immaterial_harmony
+			
+			localization = {
+				ReligiousHeadName = maitreya_religious_head_title
+				ReligiousHeadTitleName = maitreya_religious_head_title_name
+			}
 
 		}
 		

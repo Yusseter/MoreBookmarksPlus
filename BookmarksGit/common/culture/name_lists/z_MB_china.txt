@@ -247,6 +247,19 @@ name_list_korean = {
 		"dynn_Wang_738B_KO"
 		"dynn_Yeon_6DF5"
 		"dynn_Yun_5C39"
+		"dynn_Yi_KR"
+		"dynn_Gil_KR"
+		"dynn_Ha_KR"
+		"dynn_Bak_KR"
+		"dynn_Pak"
+		"dynn_Seol"
+		"dynn_Hae"
+		"dynn_Maeng"
+		"dynn_O"
+		"dynn_Na"
+		"dynn_Guk"
+		"dynn_Shin"
+		"dynn_Chang_KR"
 	}
 
 	cadet_dynasty_names = {
@@ -281,6 +294,19 @@ name_list_korean = {
 		"dynn_Wang_738B_KO"
 		"dynn_Yeon_6DF5"
 		"dynn_Yun_5C39"
+		"dynn_Yi_KR"
+		"dynn_Gil_KR"
+		"dynn_Ha_KR"
+		"dynn_Bak_KR"
+		"dynn_Pak"
+		"dynn_Seol"
+		"dynn_Hae"
+		"dynn_Maeng"
+		"dynn_O"
+		"dynn_Na"
+		"dynn_Guk"
+		"dynn_Shin"
+		"dynn_Chang_KR"
 	}
 
 	male_names = {
@@ -354,6 +380,7 @@ name_list_korean = {
 		Yeong_82F1 Yeong_chang Yeong_gil Yeong_gyeon Yeong_gwang Yeong_gyu Yeong_gwan Yeong_hwan Yeong_jae Yeong_jin Yeong_in Yeong_nang
 		# Yu - 유
 		Yu_cheong Yu_chung Yu_gil Yu_gyeong Yu_in Yu_jeong Yu_jik Yu_on Yu_pil Yu_ri  Yu_rye Yu_seon Yu_ui Yu_wi Yu_yang
+		Ji_hwan Myeong_su Dae_so Jin_ho Yeo_hae Mo_su Gyo_gak Mong_ju Gyeong_ho Gwang_seok Dae_deok Do_jun Tae_ryeom Dong_yeop Cheol_hwan Jae_hun Jung_kyu Hyeon_gi Hui_seong Jae_keun Cheol_gyu Jin_woo Soo_hwan Chong_dok Chong_hak Chong_son Do_jeon Hae_jin Eui_seok Gyeong_seo Gyeong_hyeon Gyeong_ryeong Jong_myeong Yeong_sul Yu_seok Seong_gye Sang_guk Sang_hwan Heung_ju Do_jeung Won_cheuk Ui_sang Nan_jeung Hye_jo Gwang_chung Jong_jung Tae_yu In_won Im_hyeon Gyeon_il Gyeon_keun Dong_su Jeong_no Bok_heung Eung_seo Bang_jun Mu_seon Mun_bu Eon_gak Seong_im Eung_tae Jeong_eon Se_pil In_gan Dal_won Hye_won Geuk_ham Gyeok Gyeon_gin Yeo_rip I Myeong_hwa Gwang_jo Won_gang Gwaeng_pil Jong_jik Suk_ja Jong_bo Jong_ik Jong_seok Jong_yu Gye_mun Eok Gon Tam Sung_nyeon Hui_an Hui_maeng Seok_deok Man_ri Eok_nyeon Hui_pil Cheol_9435 Yu_chim Seong_han Al_chi Al_pyeong Hyeok_geose Eum_u Sang_nu Jori
 	}
 
 	female_names = {
@@ -395,6 +422,7 @@ name_list_korean = {
 		Seung_gyeong Seung_man
 		# Yu - 유
 		Yu_hwa
+		Gyeong_hwa Hwon_ae Mi_yeon Yong_deok Cheon_nyeong Heon_kyeom Yeong_ran Ae_suk Hwa_jeong Eun_ran Byeok_nyong Suk_jin Si_dae Mi_hye Goeng_baek Hae_nye Jun_byeol Suk_young Yu_gyo Myeong_bo Seon_mi gyeong_mi gyeong_bi
 	}
 
 	# Keep names changing

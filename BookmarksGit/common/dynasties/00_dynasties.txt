@@ -5600,6 +5600,7 @@ quraysh = {
 
 1101239 = {
 	name = "dynn_Hadariba"
+	prefix = "dynnp_al-"
 	culture = beja
 }
 
@@ -5610,11 +5611,13 @@ quraysh = {
 
 1101241 = {
 	name = "dynn_Suakini"
+	prefix = "dynnp_al-"
 	culture = beja
 }
 
 1101242 = {
 	name = "dynn_Besharin"
+	prefix = "dynnp_al-"
 	culture = beja
 }
 
@@ -5635,6 +5638,7 @@ quraysh = {
 
 1101246 = {
 	name = "dynn_Almada"
+	prefix = "dynnp_al-"
 	culture = beja
 }
 
@@ -5685,6 +5689,7 @@ quraysh = {
 
 1000101239 = {
 	name = "dynn_Hadariba"
+	prefix = "dynnp_al-"
 	culture = beja
 }
 
@@ -5695,6 +5700,7 @@ quraysh = {
 
 1000101241 = {
 	name = "dynn_Suakini"
+	prefix = "dynnp_al-"
 	culture = beja
 }
 

@@ -79,6 +79,15 @@ can_be_knight_trigger = {
 		}
 		this != liege.diarch
 	}
+	# knight permissions for players
+	trigger_if = {
+		limit = {
+			$ARMY_OWNER$ = {
+				is_ai = no
+			}
+		}
+		is_knight_permitted = $ARMY_OWNER$
+	}
 }
 
 can_be_commander_basic_trigger = {

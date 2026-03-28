@@ -354,7 +354,9 @@ types DynastyTreeView
 
 					button = {
 						name = "show_hide"
-						visible = "[DataModelHasItems(DynastyTreeItem.GetChildren)]"
+						# Dynasty Tree Re-Simplified Edited Files
+						# visible = "[DataModelHasItems(DynastyTreeItem.GetChildren)]"
+						visible = "[And(DataModelHasItems(DynastyTreeItem.GetChildren), Or(And(DynastyTreeItem.GetCharacter.GetHouse.GetFounder.IsFemale, DynastyTreeItem.GetCharacter.IsFemale), And(Not(DynastyTreeItem.GetCharacter.GetHouse.GetFounder.IsFemale), Not(DynastyTreeItem.GetCharacter.IsFemale))))]"
 						size = { 25 25 }
 						framesize = { 60 60 }
 						texture = "gfx/interface/icons/symbols/plus_minus.dds"
@@ -368,7 +370,9 @@ types DynastyTreeView
 
 			widget = {
 				parentanchor = hcenter
-				visible = "[DynastyTreeItem.AreChildrenVisible]"
+				# Dynasty Tree Re-Simplified Edited Files
+				# visible = "[DynastyTreeItem.AreChildrenVisible]"
+				visible = "[And(DynastyTreeItem.AreChildrenVisible, Or(And(DynastyTreeItem.GetCharacter.GetHouse.GetFounder.IsFemale, DynastyTreeItem.GetCharacter.IsFemale), And(Not(DynastyTreeItem.GetCharacter.GetHouse.GetFounder.IsFemale), Not(DynastyTreeItem.GetCharacter.IsFemale))))]"
 
 				line = {
 					resizeparent = yes
@@ -381,7 +385,9 @@ types DynastyTreeView
 
 			container = {
 				parentanchor = hcenter
-				visible = "[DynastyTreeItem.AreChildrenVisible]"
+				# Dynasty Tree Re-Simplified Edited Files
+				# visible = "[DynastyTreeItem.AreChildrenVisible]"
+				visible = "[And(DynastyTreeItem.AreChildrenVisible, Or(And(DynastyTreeItem.GetCharacter.GetHouse.GetFounder.IsFemale, DynastyTreeItem.GetCharacter.IsFemale), And(Not(DynastyTreeItem.GetCharacter.GetHouse.GetFounder.IsFemale), Not(DynastyTreeItem.GetCharacter.IsFemale))))]"
 
 				dynamicgridbox = {
 					datamodel = "[DynastyTreeItem.GetChildren]"

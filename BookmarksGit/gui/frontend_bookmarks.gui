@@ -222,6 +222,7 @@
 							onclick = "[GameSetup.SetSelectedCharacter( BookmarkCharacter.Self )]"
 							onclick = "[GetVariableSystem.Set( 'show_character_info', 'true' )]"
 							alwaystransparent = "[GameSetup.IsCharacterSelected( BookmarkCharacter.Self )]"
+						    using = MenuShortcut
 
 							state = {
 								name = _mouse_hierarchy_enter
@@ -1059,6 +1060,7 @@
 				position = { -45 -44 }
 				size = { 400 195 }
 				scale = 0.73
+				shortcut = any_ruler		
 
 				enabled = "[GameSetup.IsCurrentBookmarkPlayable]"
 				onclick = "[PdxGuiTriggerAllAnimations('bookmarks_game_start')]"
@@ -2102,6 +2104,7 @@
 											onclick = "[PdxGuiTriggerAllAnimations('start_game_audio')]"
 											enabled = "[GameSetup.CanStart]"
 											tooltip = "[GameSetup.PlayTooltip]"
+											shortcut = "confirm_2"
 
 											#text = "START"
 											#using = Font_Size_Big
@@ -2925,6 +2928,7 @@ types BookmarkPortraits
 
 		button_normal = {
 			parentanchor = top|hcenter
+			using = TabShortcut		  
 			position = { 5 5 }
 			size = { 100% 100% }
 			onclick = "[GameSetup.SelectBookmarkGroup( BookmarkGroup.Self )]"
@@ -3280,6 +3284,7 @@ types BookmarkPortraits
 		onclick = "[GetVariableSystem.Clear( 'show_character_info' )]"
 		down = "[GameSetup.IsBookmarkSelected( Bookmark.Self )]"
 		alwaystransparent = "[GameSetup.IsBookmarkSelected( Bookmark.Self )]"
+		using = SubTabShortcut				
 
 		state = {
 			name = "_mouse_enter"

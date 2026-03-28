@@ -33718,7 +33718,7 @@ c_em_hepung = {
 	
 	758.9.18 = {
 		holder = MongolNew714  # Bagaridai
-		liege = d_EM_wuguguo
+		liege = d_em_wuguguo
 	}
 	
 	789.11.7 = {

@@ -1,4 +1,7 @@
-﻿name_list_bedouin = {
+﻿# ARABIC NAME LISTS
+
+
+name_list_bedouin = {
 
 	house_based_map_names = yes
 	
@@ -167,15 +170,44 @@
 	}
 
 	male_names = {
-		Abu-Bakr Aarif Abdul-Gafur Abdul-Jaleel Abdul-Qadir Abdul-Wahab Abdul Abdullah Aghlab Akin Ali Alim Aram Azam Bahir Burhanaddin
-		Fadil Fadl Faruk Ghalib Hafiz Halil Hasan Husam Hussayn Ibrahim Idris Is_mail Isa Jabir Jalil Jibril Khaireddin Khalil Mahdi Mahmud
-		Mansur Mirza Mubarak Muhammad Mukhtar Murad Musa Muslihiddin Muzaffaraddin Najib Nasr Nizam Qawurd Ramadan Sa_daddin Sadiq Sami Samir Shaiban
-		Shamir Shujah Sulayman Talib Ubayd Uways Yahya Ya_qub Youkhanna Yusuf Zeyd
+		Abu-Bakr Aarif Abdul-Gafur Abdul-Jaleel Abdul-Qadir Abdul-Wahab Abdullah Aghlab Akin Ali Alim Aram Azam Abbas Abduhu Adil Ahmed Amer Ammar Amin Amir Aquil_Aziz Ataullah Anis Anas Ayub Aban Abbad Abdallah Abdirahman Abu_Abdallah Abu_Ahmad Abu_Bakr Abu_Firas Abu_Isa Abu_Ja_far Abu_l_Aysh Abu_Mansur Abu_Muhammad Abu_Taghlib Abu_l_Asha_ir Abu_l_Faraj Abu_l_Hasan Abu_l_Abbas Abu_l_Futuh Abu Abu_l_Qasim Abu_l_Husayn Al-Fadl Al-Aziz al-Abbas Al-Husayn Abd_allah Abd-al-Rahman Abd_Al_Rahim Abd_al-Malik Abd_Al_Quddus Abd_As_Salam Abd_Al_Mu_min Abd_Al_Muhaymin Abd_al-Aziz Abd_al-Jabbar Abd_Al_Mutakabbir Abd_Al_Khaliq Abu_Ghalib Abu_Imran Aayon al-Mansur al_Mu_ayyad Abu_Tahir_Ibrahim al_Mu_izz al_Mukhtar al_Muntakhab al_Maqdisi al_MuqaddasI_ al-Murtada al-Musayyab al-Mahdi_al-Husayn al_Masudi al_Qadi_al_Nu_man al_Qadi abd-al-Rahman al_SarI_al_RaffA_ abU_Zayd_al_SI_rA_fI_ al_Tabarani al_Zahrawi Abd_al-Malik Abd_al-Malik Abd_Allah_al_Qaysi Abd_Allah_al_Radi Abdawayh Al_Nu_mA_n Abu_A_mir Abdul_Rahman Abd_Al_Bari _Abd_al_WahhA_b Ahmad Azzam_Allah Awwal_al_Din
+		Bahir Bishr Buhturi BahlU_l Balj Bahdal Bukayr Busr Baha_al-Din Baha Baligh Barakat Badr Bilal Badr_al_Din Badr_al_Haq Badr_al_Islam Badr_al_Huda Badr_Allah Badr_al_Kamal Badr_al_Mulk Badr_al_Zaman Badr_al_Nasr Baha_Allah Baha_al_Din Baha_al_Haqq Baha_al_Islam Baha_al_Huda Baha_al_Kamal Baha_al_Zaman Baha_al_Mulk Baha_al_Nasr Baha_al_Khair Bakr Buraq Basil Basir Baqi Banna_ Badr_al_Salam Badr_al_Ilm Badr_al_Husayn Badr_al_Qalb Binyamin
+		Dawud DA_rim DA_ib DA_I_ DA_mi DA_S_ir DI_yA_ DI_nA_r DI_bA_j DI_nA_m Du_A_ Durayd DurrI_ DA_mir DA_ibA_n DA_shiq DA_qir DA_zik DA_yibA_n
+		EbrA_hI_m
+		Fadil Fadl Faruk FA_D_il Fakhr FA_ris FarI_d FayD_ FirA_s Fu_A_d FawwA_z FadlallA_h FA_iq Fakhr_al_Haqq Fakhr_al_Islam Fath_Allah Fath_al_Din Fayiz_Allah Firas_al_Haqq
+		Ghalib
+		Hafiz Halil Hasan Husam Hussayn Hammad
+		Ibrahim Idris Is_mail Isa
+		Jabir Jalil Jibril
+		Khalil KA_mil
+		Mahdi Mahmud Mansur Mirza Mubarak Muhammad Mukhtar Murad Musa MunI_r Mujahid Ma_rU_f
+		Najib Nasr Nizam
+		Qawurd Qutayba
+		Ramadan
+		Sadiq Sami Samir Shaiban Shamir Shujah Sulayman Sarjun Sa_I_d Sufyan S_iddI_q
+		Talib
+		Ubayd Uways Umayr
+		WA_S_il
+		Yahya Ya_qub Youkhanna Yusuf YU_hana
+		Zeyd Zuhayr
 	}
 	female_names = {
-		Adila Amsha Asiya Faghira Habiba Hanifa Jahaira Kamala Layla Maryam Nafisa Nyawela Parand Parween Paymaneh Paywand Qamara Rafiqa Rasa Rashida Reshawna
-		Saaman Sabba Saghar Sahba Sajida Samira Semeah Setara Shahrbano Shahzadah Shameem Shararah Sheeftah Sheeva Shogofa Shokouh Shola Sholah Simin Souzan
-		Taliba Tanaz Taneen Yagana Yakta Yasmin Zaynab
+		Adila Amsha Asiya
+		Faghira
+		Habiba Hanifa H_afS_ah Halimah
+		Jahaira Juwayriyya JamI_lah
+		Kamala
+		Layla LubnA_
+		Maryam MaymU_nah
+		Nafisa Nyawela
+		Parand Parween Paymaneh Paywand
+		Qamara
+		Rafiqa Rasa Rashida Reshawna Ruqayyah RabI_ah
+		Saaman Sabba Saghar Sahba Sajida Samira Semeah Setara Shahrbano Shahzadah Shameem Shararah Sheeftah Sheeva Shogofa Shokouh Shola Sholah Simin Souzan Sumayyah Safiyya Salmah
+		Taliba Tanaz Taneen
+		Umm_KulthU_m Umm_Salama Umm_HabI_bah
+		Yagana Yakta Yasmin
+		Zaynab ZubA_ydah
 	}
 	dynasty_of_location_prefix = "dynnp_mn"
 	
@@ -345,15 +377,44 @@ name_list_levantine = {
 	}
 
 	male_names = {
-		Abdul-Azeem Abdul-Hamid Abdul-Lateef Abdul-Razzaq Abdul-Wahad Abdullah Adhid Adil Akab Ala_i Ali Amir Ashraf Aziz Bashar Boutros Da_ud Faisal
-		Fayiz Ghazi Hakam Hamdan Hashmaddin Hussayn Ibrahim Imamaddin Isa Is_mail Ismat Jahan Jamil Kamran Khalid Khudayar Majid Mas_ud
-		Muaddam Muhammad Muhsin Mukhtar Murad Musa Muzaffar Muzaffaraddin Nasraddin Nuraddin Nuri Radhi Rasul Sa_ud Salahaddin Seyfullah Sharaf
-		Sirhan Taimur Tawfiq Umaya Wahid Yahya Ya_qub Yasar Youkhanna Zahir
+		Abdul-Azeem Abdul-Hamid Abdul-Lateef Abdul-Razzaq Abdul-Wahad Abdullah Adhid Adil Akab Ala_i Ali Amir Ashraf Aziz Abbas Abduhu Adil Ahmed Amer Ammar Amin Amir Aquil_Aziz Ataullah Anis Anas Ayub Aban Abbad Abdallah Abdirahman Abu_Abdallah Abu_Ahmad Abu_Bakr Abu_Firas Abu_Isa Abu_Ja_far Abu_l_Aysh Abu_Mansur Abu_Muhammad Abu_Taghlib Abu_l_Asha_ir Abu_l_Faraj Abu_l_Hasan Abu_l_Abbas Abu_l_Futuh Abu Abu_l_Qasim Abu_l_Husayn Al-Fadl Al-Aziz al-Abbas Al-Husayn Abd_allah Abd-al-Rahman Abd_Al_Rahim Abd_al-Malik Abd_Al_Quddus Abd_As_Salam Abd_Al_Mu_min Abd_Al_Muhaymin Abd_al-Aziz Abd_al-Jabbar Abd_Al_Mutakabbir Abd_Al_Khaliq Ahmad Abu_Ghalib Abu_Imran Aayon al-Mansur al_Mu_ayyad_Ahmad al_Baqillani al_Battani al-Hasan al_Hatimi Abu_Tahir_Ibrahim al_Mu_izz al_Mukhtar al_Muntakhab al_Maqdisi al_MuqaddasI_ al-Murtada al-Musayyab al-Mahdi_al-Husayn al_Masudi al_Qadi_al_Nu_man al_Qadi abd-al-Rahman al_SarI_al_RaffA_ abU_Zayd_al_SI_rA_fI_ al_Tabarani al_Zahrawi Abd_al-Malik Abd_al-Malik Abd_Allah_al_Qaysi Abd_Allah_al_Radi Abdawayh Al_Nu_mA_n Abu_A_mir Abdul_Rahman Abd_Al_Bari _Abd_al_WahhA_b Azzam_Allah Awwal_al_Din
+		Bashar Boutros Bishr Buhturi BahlU_l Balj Bahdal Bukayr Busr Baha_al-Din Baha Baligh Barakat Badr Bilal Badr_al_Din Badr_al_Haq Badr_al_Islam Badr_al_Huda Badr_Allah Badr_al_Kamal Badr_al_Mulk Badr_al_Zaman Badr_al_Nasr Baha_Allah Baha_al_Din Baha_al_Haqq Baha_al_Islam Baha_al_Huda Baha_al_Kamal Baha_al_Zaman Baha_al_Mulk Baha_al_Nasr Baha_al_Khair Bakr Buraq Basil Basir Baqi Bahir Banna_ Badr_al_Salam Badr_al_Ilm Badr_al_Husayn Badr_al_Qalb Binyamin
+		Da_ud Dawud DA_rim DA_ib DA_I_ DA_mi DA_S_ir DI_yA_ DI_nA_r DI_bA_j DI_nA_m Du_A_ Durayd DurrI_ DA_mir DA_ibA_n DA_shiq DA_qir DA_zik DA_yibA_n
+		EbrA_hI_m
+		Faisal Fayiz FA_D_il Fakhr FA_ris FarI_d FayD_ FirA_s Fu_A_d FawwA_z FadlallA_h FA_iq Fakhr_al_Haqq Fakhr_al_Islam Fath_Allah Fath_al_Din Fayiz_Allah Firas_al_Haqq
+		Ghazi
+		Hakam Hamdan Hussayn Hammad
+		Ibrahim Isa Is_mail Ismat
+		Jahan Jamil
+		Kamran Khalid Khudayar KA_mil
+		Majid Mas_ud Muaddam Muhammad Muhsin Mukhtar Murad Musa Muzaffar MunI_r Mujahid Ma_rU_f
+		Nuri
+		Qutayba
+		Radhi Rasul
+		Sa_ud Seyfullah Sharaf Sirhan Sarjun Sa_I_d Sufyan S_iddI_q
+		Taimur Tawfiq
+		Umaya Umayr
+		Wahid WA_S_il
+		Yahya Ya_qub Yasar Youkhanna YU_hana
+		Zahir Zuhayr
 	}
 	female_names = {
-		Aisha Aziza Duha Farida Golbahar Gulnar Gulnaz Gulpari Hafsa Hasti Huma Ibtisam Jalila Kamala Karima Khandan Khaterah Khatira Kinah Lala Madiha Mahdokht
-		Mahsa Mahwash Marwa Mastana Mehri Mina Minoo Munawwar Muzhdah Nahal Najela Nasiba Nastaran Nazaneen Nazy Neelab Negar Niki Nikoo Noushin Rabiya
-		Rajiya Sadiya Salma Sitara Thana Zahra Zuhayra
+		Aisha Aziza
+		Duha
+		Farida
+		Golbahar Gulnar Gulnaz Gulpari
+		Hafsa Hasti Huma H_afS_ah Halimah
+		Ibtisam
+		Jalila Juwayriyya JamI_lah
+		Kamala Karima Khandan Khaterah Khatira Kinah
+		Lala LubnA_
+		Madiha Mahdokht Mahsa Mahwash Marwa Mastana Mehri Mina Minoo Munawwar Muzhdah MaymU_nah
+		Nahal Najela Nasiba Nastaran Nazaneen Nazy Neelab Negar Niki Nikoo Noushin
+		Rabiya Rajiya Ruqayyah RabI_ah
+		Sadiya Salma Sitara Sumayyah Safiyya Salmah
+		Thana
+		Umm_KulthU_m Umm_Salama Umm_HabI_bah
+		Zahra Zuhayra ZubA_ydah
 	}
 	dynasty_of_location_prefix = "dynnp_mn"
 	
@@ -436,15 +497,45 @@ name_list_egyptian = {
 	}
 
 	male_names = {
-		Abdul-Azeem Abdul-Hamid Abdul-Lateef Abdul-Razzaq Abdul-Wahad Abdullah Adhid Adil Akab Ala_i Ali Amir Ashraf Aziz Bashar Boutros Da_ud Faisal
-		Fayiz Ghazi Hakam Hamdan Hashmaddin Hussayn Ibrahim Imamaddin Isa Is_mail Ismat Jahan Jamil Kamran Khalid Khudayar Majid Mas_ud
-		Muaddam Muhammad Muhsin Mukhtar Murad Musa Muzaffar Muzaffaraddin Nasraddin Nuraddin Nuri Radhi Rasul Sa_ud Salahaddin Seyfullah Sharaf
-		Sirhan Taimur Tawfiq Umaya Wahid Yahya Ya_qub Yasar Youkhanna Zahir
+		Aaron Abanoub Abderahman Abd-al-Aziz Abdul-Haq Abdul-Madjid Abdul-Salaam Abdullah Abianos Abisalom Ablarion Abraam Abu-Bakr Adnan Agathon Agathonikos Agathos Ahmad Akbar Alam Ali Amr Androus Anthinos Arsenios Ashraf Asim Athanasios Abbas Abduhu Adil Ahmed Amer Ammar Amin Amir Aquil_Aziz Ataullah Anis Anas Ayub Aban Abdallah Abdirahman Abu_Abdallah Abu_Ahmad Abu_Bakr Abu_Firas Abu_Isa Abu_Ja_far Abu_l_Aysh Abu_Mansur Abu_Muhammad Abu_Taghlib Abu_l_Asha_ir Abu_l_Faraj Abu_l_Hasan Abu_l_Abbas Abu_l_Futuh Abu Abu_l_Qasim Abu_l_Husayn Al-Fadl Al-Aziz al-Abbas Al-Husayn Abd_allah Abd-al-Rahman Abd_Al_Rahim Abd_al-Malik Abd_Al_Quddus Abd_As_Salam Abd_Al_Mu_min Abd_Al_Muhaymin Abd_al-Aziz Abd_al-Jabbar Abd_Al_Mutakabbir Abd_Al_Khaliq Abu_Ghalib Abu_Imran Aayon al-Mansur al_Mu_ayyad_Ahmad al_Baqillani al_Battani al-Hasan al_Hatimi Abu_Tahir_Ibrahim al_Mu_izz al_Mukhtar al_Muntakhab al_Maqdisi al_MuqaddasI_ al-Murtada al-Musayyab al-Mahdi_al-Husayn al_Masudi al_Qadi_al_Nu_man al_Qadi abd-al-Rahman al_SarI_al_RaffA_ abU_Zayd_al_SI_rA_fI_ al_Tabarani al_Zahrawi Abd_al-Malik Abd_al-Malik Abd_Allah_al_Qaysi Abd_Allah_al_Radi Abdawayh Al_Nu_mA_n Abu_A_mir Abdul_Rahman Abd_Al_Bari _Abd_al_WahhA_b Azzam_Allah Awwal_al_Din
+		Badr Bashir Biktor Binyamin Bishoi Boutros Bishr Buhturi BahlU_l Balj Bahdal Bukayr Busr Baha_al-Din Baha Baligh Barakat Bilal Badr_al_Din Badr_al_Haq Badr_al_Islam Badr_al_Huda Badr_Allah Badr_al_Kamal Badr_al_Mulk Badr_al_Zaman Badr_al_Nasr Baha_Allah Baha_al_Din Baha_al_Haqq Baha_al_Islam Baha_al_Huda Baha_al_Kamal Baha_al_Zaman Baha_al_Mulk Baha_al_Nasr Baha_al_Khair Bakr Buraq Basil Basir Baqi Bahir Banna_ Badr_al_Salam Badr_al_Ilm Badr_al_Husayn Badr_al_Qalb
+		Danyal Dawlat Da_oud Dawud DA_rim DA_ib DA_I_ DA_mi DA_S_ir DI_yA_ DI_nA_r DI_bA_j DI_nA_m Du_A_ Durayd DurrI_ DA_mir DA_ibA_n DA_shiq DA_qir DA_zik DA_yibA_n
+		Ezra EbrA_hI_m
+		Farhan Firuz FA_D_il Fakhr FA_ris FarI_d FayD_ FirA_s Fu_A_d FawwA_z FadlallA_h FA_iq Fakhr_al_Haqq Fakhr_al_Islam Fath_Allah Fath_al_Din Fayiz_Allah Firas_al_Haqq
+		Gabri_el Georgios
+		Habil Hakam Hammud Hanri Haroun Hisham Hussayn Hammad
+		Ibrahim Ilyas Is_mail
+		Jawdat Jerjer
+		Khalil Krystafer KA_mil
+		Latif Lot
+		Malik Matta Mehtar Mikail Mikhael Milad Mina Muammar Muhammad Mukhtar Murad Murshid Musa MunI_r Mujahid Ma_rU_f
+		Nabil Nasir Nassib
+		Pamin
+		Qadir Qutayba
+		Ra_uf Rafiq Ridwan
+		Sabah Salim Sha_ban Sharif Suhail Sarjun Sa_I_d Sufyan S_iddI_q
+		Tadros Tayyib Touma
+		Usama Umayr 
+		Walid WA_S_il
+		Yahya Yared Yassir Youkhanna Youssef YU_hana
+		Zaia Zakariyah Zuhayr
 	}
 	female_names = {
-		Aisha Aziza Duha Farida Golbahar Gulnar Gulnaz Gulpari Hafsa Hasti Huma Ibtisam Jalila Kamala Karima Khandan Khaterah Khatira Kinah Lala Madiha Mahdokht
-		Mahsa Mahwash Marwa Mastana Mehri Mina Minoo Munawwar Muzhdah Nahal Najela Nasiba Nastaran Nazaneen Nazy Neelab Negar Niki Nikoo Noushin Rabiya
-		Rajiya Sadiya Salma Sitara Thana Zahra Zuhayra
+		Acenith Alia Amunet Andali Asanet Asenath Asenet Azenet
+		Badiat
+		Cena
+		Fatima
+		Halima H_afS_ah Halimah
+		Jamila Juwayriyya JamI_lah
+		Khadija
+		LubnA_
+		Majida Mariam MaymU_nah
+		Nabila Nura
+		Radiya Rana Ruqayyah RabI_ah
+		Sacmis Safiya Samira Suhaila Sumayyah Safiyya Salmah
+		Tawaret Taweret Titi Thuriya
+		Umm_KulthU_m Umm_Salama Umm_HabI_bah
+		Zara Zahra ZubA_ydah
 	}
 	dynasty_of_location_prefix = "dynnp_mn"
 	
@@ -636,20 +727,45 @@ name_list_maghrebi = {
 	}
 
 	male_names = {
-		Aaron Abanoub Abderahman Abdul-Aziz Abdul-Haq Abdul-Madjid Abdul-Salaam Abdullah
-		Abianos Abisalom Ablarion Abraam Abu-Bakr Adnan Agathon Agathonikos Agathos
-		Ahmad Akbar Alam Ali Amr Androus Anthinos Arsenios Ashraf Asim
-		Athanasios Badr Bashir Biktor Binyamin Bishoi Boutros Danyal Dawlat Da_oud
-		Ezra Farhan Firuz Gabri_el Georgios Ghiyasaddin Habil Hakam Hammud Hanri Haroun Hisham
-		Hussayn Ibrahim Ilyas Is_mail Izzaddin Jalaaladdin Jawdat Jerjer Kemaladdin Khalil Krystafer
-		Latif Lot Malik Matta Mehtar Mikail Mikhael Milad Mina Muammar Muhammad
-		Mukhtar Murad Murshid Musa Muzaffaraddin Nabil Nasir Nassib Nuraddin Pamin Qadir Ra_uf Rafiq Ridwan Sabah Salim Sha_ban
-		Sharif Suhail Tadros Tajaddin Tayyib Touma Usama Walid Yahya Yared Yassir Youkhanna Youssef Zaia Zakariyah
+		Aaron Abanoub Abderahman Abd-al-Aziz Abdul-Haq Abdul-Madjid Abdul-Salaam Abdullah Abianos Abisalom Ablarion Abraam Abu-Bakr Adnan Agathon Agathonikos Agathos Ahmad Akbar Alam Ali Amr Androus Anthinos Arsenios Ashraf Asim Athanasios Abbas Abduhu Adil Ahmed Amer Ammar Amin Amir Aquil_Aziz Ataullah Anis Anas Ayub Aban Abbad Abdallah Abdirahman Abu_Abdallah Abu_Ahmad Abu_Bakr Abu_Firas Abu_Isa Abu_Ja_far Abu_l_Aysh Abu_Mansur Abu_Muhammad Abu_Taghlib Abu_l_Asha_ir Abu_l_Faraj Abu_l_Hasan Abu_l_Abbas Abu_l_Futuh Abu Abu_l_Qasim Abu_l_Husayn Al-Fadl Al-Aziz al-Abbas Al-Husayn Abd_allah Abd-al-Rahman Abd_Al_Rahim Abd_al-Malik Abd_Al_Quddus Abd_As_Salam Abd_Al_Mu_min Abd_Al_Muhaymin Abd_al-Aziz Abd_al-Jabbar Abd_Al_Mutakabbir Abd_Al_Khaliq Abu_Ghalib Abu_Imran Aayon al-Mansur al_Mu_ayyad_Ahmad al_Baqillani al_Battani al-Hasan al_Hatimi Abu_Tahir_Ibrahim al_Mu_izz al_Mukhtar al_Muntakhab al_Maqdisi al_MuqaddasI_ al-Murtada al-Musayyab al-Mahdi_al-Husayn al_Masudi al_Qadi_al_Nu_man al_Qadi abd-al-Rahman al_SarI_al_RaffA_ abU_Zayd_al_SI_rA_fI_ al_Tabarani al_Zahrawi Abd_al-Malik Abd_al-Malik Abd_Allah_al_Qaysi Abd_Allah_al_Radi Abdawayh Al_Nu_mA_n Abu_A_mir Abdul_Rahman Abd_Al_Bari _Abd_al_WahhA_b Azzam_Allah Awwal_al_Din
+		Badr Bashir Biktor Binyamin Bishoi Boutros Bishr Buhturi BahlU_l Balj Bahdal Bukayr Busr Baha_al-Din Baha Baligh Barakat Bilal Badr_al_Din Badr_al_Haq Badr_al_Islam Badr_al_Huda Badr_Allah Badr_al_Kamal Badr_al_Mulk Badr_al_Zaman Badr_al_Nasr Baha_Allah Baha_al_Din Baha_al_Haqq Baha_al_Islam Baha_al_Huda Baha_al_Kamal Baha_al_Zaman Baha_al_Mulk Baha_al_Nasr Baha_al_Khair Bakr Buraq Basil Basir Baqi Bahir Banna_ Badr_al_Salam Badr_al_Ilm Badr_al_Husayn Badr_al_Qalb
+		Danyal Dawlat Da_oud Dawud DA_rim DA_ib DA_I_ DA_mi DA_S_ir DI_yA_ DI_nA_r DI_bA_j DI_nA_m Du_A_ Durayd DurrI_ DA_mir DA_ibA_n DA_shiq DA_qir DA_zik DA_yibA_n
+		Ezra EbrA_hI_m
+		Farhan Firuz FA_D_il Fakhr FA_ris FarI_d FayD_ FirA_s Fu_A_d FawwA_z FadlallA_h FA_iq FayyU_mI_ FA_rU_qI_ FarrA_j Fakhr_al_Haqq Fakhr_al_Islam Fath_Allah Fath_al_Din Fayiz_Allah Firas_al_Haqq
+		Gabri_el Georgios
+		Habil Hakam Hammud Hanri Haroun Hisham Hussayn Hammad
+		Ibrahim Ilyas Is_mail
+		Jawdat Jerjer
+		Khalil Krystafer KA_mil
+		Latif Lot
+		Malik Matta Mehtar Mikail Mikhael Milad Mina Muammar Muhammad Mukhtar Murad Murshid Musa MunI_r Mujahid Ma_rU_f
+		Nabil Nasir Nassib
+		Pamin
+		Qadir Qutayba
+		Ra_uf Rafiq Ridwan
+		Sabah Salim Sha_ban Sharif Suhail Sarjun Sa_I_d Sufyan S_iddI_q
+		Tadros Tayyib Touma
+		Usama Umayr
+		Walid WA_S_il
+		Yahya Yared Yassir Youkhanna Youssef YU_hana
+		Zaia Zakariyah Zuhayr
 	}
 	female_names = {
-		Acenith Alia Amunet Andali Asanet Asenath Asenet Azenet Badiat Cena Fatima Halima
-		Jamila Khadija Majida Mariam Nabila Nura Radiya Rana Sacmis Safiya
-		Samira Suhaila Tawaret Taweret Titi Thuriya Zara Zahra
+		Acenith Alia Amunet Andali Asanet Asenath Asenet Azenet
+		Badiat
+		Cena
+		Fatima
+		Halima H_afS_ah Halimah
+		Jamila Juwayriyya JamI_lah
+		Khadija
+		LubnA_
+		Majida Mariam MaymU_nah
+		Nabila Nura
+		Radiya Rana Ruqayyah RabI_ah
+		Sacmis Safiya Samira Suhaila Sumayyah Safiyya Salmah
+		Tawaret Taweret Titi Thuriya
+		Umm_KulthU_m Umm_Salama Umm_HabI_bah
+		Zara Zahra ZubA_ydah
 	}
 	dynasty_of_location_prefix = "dynnp_mn"
 	
@@ -713,6 +829,15 @@ name_list_andalusian = {
 		{ "dynnp_al-" "dynn_Khatib" }
 		"dynn_Rushd"
 		"dynn_Hafsid"
+		{ "dynnp_al-" "dynn_KhA_liq" }
+		{ "dynnp_al-" "dynn_WahhA_b" }
+		{ "dynnp_al-" "dynn_SalA_m" }
+		"dynn_H_asanaynid"
+		"dynn_JuhayyA_nid"
+		"dynn_MughI_th"
+		"dynn_TaysI_ruid"
+		"dynn_Munabbihid"
+		"dynn_H_ubayrid"
 	}
 
 	dynasty_names = {
@@ -758,18 +883,60 @@ name_list_andalusian = {
 		{ "dynnp_al-" "dynn_Khatib" }
 		"dynn_Rushd"
 		"dynn_Hafsid"
+		{ "dynnp_al-" "dynn_KhA_liq" }
+		{ "dynnp_al-" "dynn_WahhA_b" }
+		{ "dynnp_al-" "dynn_SalA_m" }
+		"dynn_H_asanaynid"
+		"dynn_JuhayyA_nid"
+		"dynn_MughI_th"
+		"dynn_TaysI_ruid"
+		"dynn_Munabbihid"
+		"dynn_H_ubayrid"
 	}
 
 	male_names = {
-		Aban Abbad Abbas Abdallah Abd-al-Baqi Abd-al-Gafur Abd-al-Majid Abd-al-Nur Abd-al-Qadir Abd-al-Ra_uf Abd-al-Warith Abdul-Aziz Abdul-Hakam Abdul-Hasan Abdul-Hazm Abdul-Rahman Abdul-Razzaq Abdul Abu Abu-al-Qasim
-		Abu-Bakr Adfuns Adi Affan Aflah Ahmad A_idh Ajannas Ala Ali Amir Asas Asbat Ashhab Asim Aslam Atarid Atiyya Atrad Ayshun Ayyash Ayyub Aziz Bahram Bakr Balashk Balj Baqi Bashir Bilal Dimam Darras Dhu_al_N_n Dulaf Fadl Faraj Farqad Fath Fulayh Galib Galind Ganim Garsiya Gazi Habib Hakam Hamda Hamdin Hamid Hamza Haway Hayyan Hazm Hilal Hiyaz Hizam Hubab Hani_ Harith Hatim Haykal Hisham Ibrahim Idris Imran Isa Isma_il Iyad Jahhaf Jahwar Jalaf_Allah Jalhama Jalil Jami Jarir Jattab Jayr Jayrun Jidr Jubayr Juda Jumahir Juzayy 
-		Jyad Kathir Kaysan Kulayb Lubb Mahbub Majluf Malik Ma_n Mansur Marwan Maymun Mirdas Mu_awiyah Mubashir Mudrik Muffarij Muhallab Muhammad Mundir Musa Mus_ab Mutarrif Muyahid Nadar Nasir Nizar Nudhayr Qar_us Qasim Qatan Qays Raf Rashid Rasiq Razin Sa_d Sa_dan Safwan Sa_ib_Jatir Sajr Salmun Sanyo Saqi Sarur Shabtun Shajara Siddray Siraj Sufyan Suleyman Tahir Talha Tamim Tammam Tariq Taytal Tayyib Tawd Tifilwit Tuways Ubada Ubayd Ubayd_Allah Ubaydun Ulaym  
-		Umar Umayyah Urayb Utman Wadih Wahb Walid Wannaqo Wasim Wathima Wazir Ya_far Yahaff Yahya Ya_ish Yasin Yaskar Yasid Yujamir Yusr Yusuf Zaban Zafir Zakariyya Zarb Ziyad Zuhayr Zuhr Zurar 
+		Aban Abbad Abbas Abdallah Abd-al-Baqi Abd-al-Gafur Abd-al-Majid Abd-al-Nur Abd-al-Qadir Abd-al-Ra_uf Abd-al-Warith Abd-al-Aziz Abdul-Hakam Abdul-Hasan Abdul-Hazm Abdul-Rahman Abdul-Razzaq Abu-al-Qasim Abu-Bakr Adfuns Adi Affan Aflah Ahmad A_idh Ajannas Ala Ali Amir Asas Asbat Ashhab Asim Aslam Atarid Atiyya Atrad Ayshun Ayyash Ayyub Aziz Adam AlI_ Abbas Abduhu Adil Ahmed Amer Ammar Amin Amir Aquil_Aziz Ataullah Anis Anas Ayub Aban Abdirahman Abu_Abdallah Abu_Ahmad Abu_Bakr Abu_Firas Abu_Isa Abu_Ja_far Abu_l_Aysh Abu_Mansur Abu_Muhammad Abu_Taghlib Abu_l_Asha_ir Abu_l_Faraj Abu_l_Hasan Abu_l_Abbas Abu_l_Futuh Abu Abu_l_Qasim Abu_l_Husayn Al-Fadl Al-Aziz al-Abbas Al-Husayn Abd_allah Abd-al-Rahman Abd_Al_Rahim Abd_al-Malik Abd_Al_Quddus Abd_As_Salam Abd_Al_Mu_min Abd_Al_Muhaymin Abd_al-Aziz Abd_al-Jabbar Abd_Al_Mutakabbir Abd_Al_Khaliq Abu_Ghalib Abu_Imran Aayon al-Mansur al_Mu_ayyad_Ahmad al_Baqillani al_Battani al-Hasan al_Hatimi Abu_Tahir_Ibrahim al_Mu_izz al_Mukhtar al_Muntakhab al_Maqdisi al_MuqaddasI_ al-Murtada al-Musayyab al-Mahdi_al-Husayn al_Masudi al_Qadi_al_Nu_man al_Qadi abd-al-Rahman al_SarI_al_RaffA_ abU_Zayd_al_SI_rA_fI_ al_Tabarani al_Zahrawi Abd_al-Malik Abd_al-Malik Abd_Allah_al_Qaysi Abd_Allah_al_Radi Abdawayh Al_Nu_mA_n Abu_A_mir Abdul_Rahman Abd_Al_Bari _Abd_al_WahhA_b Azzam_Allah Awwal_al_Din AnT_U_ni Abd_al_AnT_U_ni AqI_l Abd_al_KhA_liq Abd_al_SalA_m Akhdhar AqlA_ni
+		Bahram Bakr Balashk Balj Baqi Bashir Bilal Bishr Buhturi BahlU_l Bahdal Bukayr Busr Baha_al-Din Baha Baligh Barakat Badr Badr_al_Din Badr_al_Haq Badr_al_Islam Badr_al_Huda Badr_Allah Badr_al_Kamal Badr_al_Mulk Badr_al_Zaman Badr_al_Nasr Baha_Allah Baha_al_Din Baha_al_Haqq Baha_al_Islam Baha_al_Huda Baha_al_Kamal Baha_al_Zaman Baha_al_Mulk Baha_al_Nasr Baha_al_Khair Buraq Basil Basir Bahir Banna_ Badr_al_Salam Badr_al_Ilm Badr_al_Husayn Badr_al_Qalb Binyamin BirinjA_r BaS_qwalU_ BartulmI_ BirU_nu BA_bilu Budru
+		Dimam Darras Dhu_al_N_n Dulaf Dawud DA_rim DA_ib DA_I_ DA_mi DA_S_ir DI_yA_ DI_nA_r DI_bA_j DI_nA_m Du_A_ Durayd DurrI_ DA_mir DA_ibA_n DA_shiq DA_qir DA_zik DA_yibA_n DI_yA_ghu Dumink
+		EbrA_hI_m
+		Fadl Faraj Farqad Fath Fulayh FA_D_il Fakhr FA_ris FarI_d FayD_ FirA_s Fu_A_d FawwA_z FadlallA_h FA_iq FaradU_l FilI_ba FaH_dI_ FaS_T_A_T_I_ Fakhr_al_Haqq Fakhr_al_Islam Fath_Allah Fath_al_Din Fayiz_Allah Firas_al_Haqq
+		Galib Galind Ganim Garsiya Gazi Garsiyya GhanI_ GhaylA_n GhA_lib
+		Habib Hakam Hamda Hamdin Hamid Hamza Haway Hayyan Hazm Hilal Hiyaz Hizam Hubab Hani_ Harith Hatim Haykal Hisham H_ayrdu HaktU_r H_aqI_n H_asanayn H_ujjA_j H_A_rith H_afS_ H_ubayr HajjA_ru Hammad
+		Ibrahim Idris Imran Isa Isma_il Iyad IjkA_ IrkA_ InrikI_ IsbA_nU_ Ildifunsu IrbA_nu ImrA_n
+		Jahhaf Jahwar Jalaf_Allah Jalhama Jalil Jami Jarir Jattab Jayr Jayrun Jidr Jubayr Juda Jumahir Juzayy Jyad JurjiyU_ JuhayyA_n JurjA_nI_ JundiyyU_ JA_bir JalA_l
+		Kathir Kaysan Kulayb KA_mil Khudayr KhalI_lu KA_lidu
+		Lubb LayU_nu Laranzu Luysu LH_ayT_A_n LA_T_if LatI_f LayI_u LaythI_ Layth
+		Mahbub Majluf Malik Ma_n Mansur Marwan Maymun Mirdas Mu_awiyah Mubashir Mudrik Muffarij Muhallab Muhammad Mundir Musa Mus_ab Mutarrif Muyahid MunI_r Mujahid Ma_rU_f MI_kA_I_lU_ MI_A_ghI_lU_ Mughu ManU_r Murku MartI_n3 MattA_yu MI_ghilu MiqdA_d MunT_asir Mu_A_dh MughI_th Mun_im Munabbih MardanI_sh
+		Nadar Nasir Nizar Nudhayr NI_qasiyU_su NU_ruddI_n Nujaym NawfalI_ NadhlU_n NU_H_ir NajI_b NA_S_ir
+		Qar_us Qasim Qatan Qays Qutayba QiristU_bA_l QunzA_lu Qaysar QibT_I_ Qushayr 
+		Raf Rashid Rasiq Razin RadajI_s RafA_ilu RA_mU_n RI_kkardu Rudrigu RubA_nu RayH_A_n Ra_U_f RiyA_D_I_
+		Sa_d Sa_dan Safwan Sa_ib_Jatir Sajr Salmun Sanyo Saqi Sarur Shabtun Shajara Siddray Siraj Sufyan Suleyman Sarjun Sa_I_d S_iddI_q SalA_H_uddI_n SantiyA_ghu SivsT_iA_nu SirA_j SalA_m Sayyid SikhI_
+		Tahir Talha Tamim Tammam Tariq Taytal Tayyib Tawd Tifilwit Tuways TU_mA_su TawfI_q TayfU_r T_albA_n TamI_mI_
+		Ubada Ubayd Ubayd_Allah Ubaydun Ulaym Umar Umayyah Urayb Utman Umayr UthmA_n UbaydullA_h Uzayr Uthayf
+		Wadih Wahb Walid Wannaqo Wasim Wathima Wazir Wilaymu WA_H_idu WA_liH_u WalI_du WahbA_n WazI_ru WA_S_il
+		Ya_far Yahaff Yahya Ya_ish Yasin Yaskar Yasid Yujamir Yusr Yusuf YU_hana Ya_qU_bu YU_H_annu YulayA_n YazI_dI_ YibrA_hI_m
+		Zaban Zafir Zakariyya Zarb Ziyad Zuhayr Zuhr Zurar ZahrA_n ZaydA_n Zuhayl Zubayd ZiyA_dI_ 
 	}
 	female_names = {
-		Abda Ahu Aiza A_isha Afiya Aliyah al-Shura Amat_al_Aziz Amat_al_Izz Amat_al_Jaliq Amat_al_Rahman Amat_al_Wahhab Amina Amira Arwa Asma Asmuna Asmuniya Atika Awriya Ayluh Ayshuna Aziza Baraka Bazi_a Butayna Dana Daniyah Dhuna Dima Fahra Fahriya Fatima Faynan Gamila Ganiya Ghada Gislan Habiba Hadija Hakima Halawa Hamda Hamida Hassana Hawa_ Hayal Hayzuran Hind Huda Ibtisam Idlal Ihtizaz Ishush Isra Jalida Jawra Kanza Karima Kera Khadija Kinda Layla Lidhdha
-		Maha Mahabba Mahjuna Makkiya Malika Mariam Masabih Ma_shuq Maymuna Mayya Mu_amarra Muhja Munya Muzahima Muzna Nadia Naila Najat Najma Nazhun Nu_ayma Nur Nuwayra Nuzha Qasmuna Qusayma Rafiqa Rahat Raisa Randa Rasis Ra_y Rayhana Ruhayma Ruqayya Sa_ada Sa_duna Safiya Sakan Salma Samra Shakira Shawwab Su_ad Sukayna Suraya Tahira Tahr Tahtazz Tarifa Tarub Thashim Umayna Umm Urraka Usayma Utayqa Wahida Wallada 
-		Yasmin Zahida Zahra
+		Abda Ahu Aiza A_isha Afiya Aliyah al-Shura Amat_al_Aziz Amat_al_Izz Amat_al_Jaliq Amat_al_Rahman Amat_al_Wahhab Amina Amira Arwa Asma Asmuna Asmuniya Atika Awriya Ayluh Ayshuna Aziza
+		Baraka Bazi_a Butayna
+		Dana Daniyah Dhuna Dima
+		Fahra Fahriya Fatima Faynan
+		Gamila Ganiya Ghada Gislan
+		Habiba Hadija Hakima Halawa Hamda Hamida Hassana Hawa_ Hayal Hayzuran Hind Huda H_afS_ah Halimah
+		Ibtisam Idlal Ihtizaz Ishush Isra
+		Jalida Jawra Juwayriyya JamI_lah
+		Kanza Karima Kera Khadija Kinda
+		Layla Lidhdha LubnA_
+		Maha Mahabba Mahjuna Makkiya Malika Mariam Masabih Ma_shuq Maymuna Mayya Mu_amarra Muhja Munya Muzahima Muzna MaymU_nah
+		Nadia Naila Najat Najma Nazhun Nu_ayma Nur Nuwayra Nuzha
+		Qasmuna Qusayma
+		Rafiqa Rahat Raisa Randa Rasis Ra_y Rayhana Ruhayma Ruqayya Ruqayyah RabI_ah
+		Sa_ada Sa_duna Safiya Sakan Salma Samra Shakira Shawwab Su_ad Sukayna Suraya Sumayyah Safiyya Salmah
+		Tahira Tahr Tahtazz Tarifa Tarub Thashim
+		Umayna Urraka Usayma Utayqa Umm_KulthU_m Umm_Salama Umm_HabI_bah
+		Wahida Wallada 
+		Yasmin Zahida Zahra ZubA_ydah
 	}
 	dynasty_of_location_prefix = "dynnp_mn"
 
@@ -940,16 +1107,46 @@ name_list_yemeni = {
 		"dynn_Sulaymanid"
 	}
 
-	male_names = {
-		Abu-Bakr Aarif Abdul-Gafur Abdul-Jaleel Abdul-Qadir Abdul-Wahab Abdul Abdullah Aden Aghlab Akin Ali Alim Aram Azam Bahir Burhanaddin
-		Fadil Fadl Faruk Ghalib Hafiz Halil Hasan Husam Hussayn Ibrahim Idris Is_mail Isa Jabir Jalil Jibril Khaireddin Khalil Malik Mahdi Mahmud
-		Mansur Mirza Mubarak Muhammad Mukhtar Murad Musa Muslihiddin Muzaffaraddin Najib Nasr Nizam Qawurd Ramadan Sa_daddin Sadiq Sami Samir Shaiban
-		Shamir Shujah Sulayman Talib Ubayd Uways Yahya Ya_qub Youkhanna Yusuf Zainuddin Zeyd Zulfiqar
+	male_Names = {
+		Abu-Bakr Aarif Abdul-Gafur Abdul-Jaleel Abdul-Qadir Abdul-Wahab Abdullah Aden Aghlab Akin Ali Alim Aram Azam Abbas Abduhu Adil Ahmed Amer Ammar Amin Amir Aquil_Aziz Ataullah Anis Anas Ayub Aban Abbad Abdallah Abdirahman Abu_Abdallah Abu_Ahmad Abu_Bakr Abu_Firas Abu_Isa Abu_Ja_far Abu_l_Aysh Abu_Mansur Abu_Muhammad Abu_Taghlib Abu_l_Asha_ir Abu_l_Faraj Abu_l_Hasan Abu_l_Abbas Abu_l_Futuh Abu Abu_l_Qasim Abu_l_Husayn Al-Fadl Al-Aziz al-Abbas Al-Husayn Abd_allah Abd-al-Rahman Abd_Al_Rahim Abd_al-Malik Abd_Al_Quddus Abd_As_Salam Abd_Al_Mu_min Abd_Al_Muhaymin Abd_al-Aziz Abd_al-Jabbar Abd_Al_Mutakabbir Abd_Al_Khaliq Abu_Ghalib Abu_Imran Aayon al-Mansur al_Mu_ayyad_Ahmad al_Baqillani al_Battani al-Hasan al_Hatimi Abu_Tahir_Ibrahim al_Mu_izz al_Mukhtar al_Muntakhab al_Maqdisi al_MuqaddasI_ al-Murtada al-Musayyab al-Mahdi_al-Husayn al_Masudi al_Qadi_al_Nu_man al_Qadi abd-al-Rahman al_SarI_al_RaffA_ abU_Zayd_al_SI_rA_fI_ al_Tabarani al_Zahrawi Abd_al-Malik Abd_al-Malik Abd_Allah_al_Qaysi Abd_Allah_al_Radi Abdawayh Al_Nu_mA_n Abu_A_mir Abdul_Rahman Abd_Al_Bari _Abd_al_WahhA_b Ahmad Azzam_Allah Awwal_al_Din
+		Bahir Barakat Badr Bilal Badr_al_Din Badr_al_Haq Badr_al_Islam Badr_al_Huda Badr_Allah Badr_al_Kamal Badr_al_Mulk Badr_al_Zaman Badr_al_Nasr Baha_Allah Baha_al_Din Baha_al_Haqq Baha_al_Islam Baha_al_Huda Baha_al_Kamal Baha_al_Zaman Baha_al_Mulk Baha_al_Nasr Baha_al_Khair Bakr Bishr Buraq Basil Basir Baqi Banna_ Badr_al_Salam Badr_al_Ilm Badr_al_Husayn Badr_al_Qalb Binyamin
+		Dawud DA_rim DA_ib DA_I_ DA_mi DA_S_ir DI_yA_ DI_nA_r DI_bA_j DI_nA_m Du_A_ Durayd DurrI_ DA_mir DA_ibA_n DA_shiq DA_qir DA_zik DA_yibA_n
+		EbrA_hI_m
+		Fadil Fadl Faruk FA_D_il Fakhr FA_ris FarI_d FayD_ FirA_s Fu_A_d FawwA_z FadlallA_h FA_iq Fakhr_al_Haqq Fakhr_al_Islam Fath_Allah Fath_al_Din Fayiz_Allah Firas_al_Haqq
+		Ghalib
+		Hafiz Halil Hasan Husam Hussayn Hammad
+		Ibrahim Idris Is_mail Isa
+		Jabir Jalil Jibril
+		Khalil
+		Malik Mahdi Mahmud Mansur Mirza Mubarak Muhammad Mukhtar Murad Musa MunI_r Mujahid Ma_rU_f
+		Najib Nasr Nizam
+		Qawurd Qutayba
+		Ramadan
+		Sadiq Sami Samir Shaiban Shamir Shujah Sulayman Sarjun Sa_I_d Sufyan S_iddI_q
+		Talib
+		Ubayd Uways Umayr
+		WA_S_il
+		Yahya Ya_qub Youkhanna Yusuf
+		Zeyd Zulfiqar Zuhayr
 	}
-	female_names = {
-		Adila Amsha Asiya Faghira Habiba Hanifa Isra Jahaira Kamala Layla Maryam Munya Nafisa Nyawela Parand Parween Paymaneh Paywand Qamara Rafiqa Rasa Rashida Reshawna
-		Saaman Sabba Saghar Sahba Sajida Samira Semeah Setara Shahrbano Shahzadah Shameem Shararah Sheeftah Sheeva Shogofa Shokouh Shola Sholah Simin Souzan
-		Taliba Tanaz Taneen Yagana Yakta Yasmin Zaynab
+	female_Names = {
+		Adila Amsha Asiya
+		Faghira
+		Habiba Hanifa H_afS_ah Halimah
+		Isra
+		Jahaira Juwayriyya JamI_lah
+		Kamala
+		Layla LubnA_
+		Maryam Munya MaymU_nah
+		Nafisa Nyawela
+		Parand Parween Paymaneh Paywand
+		Qamara
+		Rafiqa Rasa Rashida Reshawna Ruqayyah RabI_ah
+		Saaman Sabba Saghar Sahba Sajida Samira Semeah Setara Shahrbano Shahzadah Shameem Shararah Sheeftah Sheeva Shogofa Shokouh Shola Sholah Simin Souzan Sumayyah Safiyya Salmah
+		Taliba Tanaz Taneen
+		Umm_KulthU_m Umm_Salama Umm_HabI_bah
+		Yagana Yakta Yasmin
+		Zaynab ZubA_ydah
 	}
 	dynasty_of_location_prefix = "dynnp_mn"
 	

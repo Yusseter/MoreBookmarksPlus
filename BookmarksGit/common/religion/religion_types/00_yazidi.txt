@@ -61,8 +61,6 @@
 		{ name = "holy_order_servants_of_melek_taus" }
 	}
 
-	holy_order_maa = { cataphract }
-
 	localization = {
 		#HighGod
 		HighGodName = yazidi_high_god_name

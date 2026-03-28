@@ -57,7 +57,7 @@
 		{ name = "holy_order_order_of_warahram"}
 	}
 
-	holy_order_maa = { mubarizun }
+	holy_order_maa = { ayyar }
 
 	localization = {
 		HighGodName = zoroastrianism_high_god_name

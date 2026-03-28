@@ -89,6 +89,11 @@
 		"dynn_Gorno"
 		"dynn_Guliab"
 		"dynn_Zulcarnei"
+		{ "dynnp_al-" "dynn_H_aqq" }
+		{ "dynnp_al-" "dynn_KarI_m" }
+		{ "dynnp_al-" "dynn_DI_n" }
+		{ "dynnp_al-" "dynn_Mulk" }
+		"dynn_EbrA_hI_mI_"
 	}
 
 	dynasty_names = {
@@ -180,25 +185,54 @@
 		"dynn_Gorno"
 		"dynn_Guliab"
 		"dynn_Zulcarnei"
+		{ "dynnp_al-" "dynn_H_aqq" }
+		{ "dynnp_al-" "dynn_KarI_m" }
+		{ "dynnp_al-" "dynn_DI_n" }
+		{ "dynnp_al-" "dynn_Mulk" }
 	}
 
 	male_names = {
-		Abbas Abolhassan Afshar Afshin Ahmad Akbar Ali Allahyar Amin Anushirvan Aram Arash Ardahan Ardavan Ardeshir Arya Assad Ashk Aurang Ayeshah Babak
-		Bahman Bahram Bakhtiar Behrad Behrouz Bozorg Danush Darab Dariush Davud Ebrahim Ehsan Erfan Esfandiar Eskander Esma_il Farbod Faramarz Faraz
-		Fareed Farhad Fariborz Farroukh Farrukhzad Farzad Fath Ferdows Fereydoun Ghasem Ghobad Gholam Godarz Goshtasb Hafez Hassan Hashem Hazarasp
-		Hedayat Homayoun Hooshyar Hormazd Hormoz Hossein Jahan Jahandar Jahangir Jahanshah Jamasp Jamshid Javad Javeed Junaid Kambiz Kamran Karvan Kavoos
-		Kayvan Keyghobad Keykhosrow Kharmandar Khashayar Kavadh Khodadad Khosrau Khudayar Khurshid Kurush Mahmud Manuchihr Manushihr Marzuban Mashad Maziar
-		Mehrab Mehrzad Milad Mohammed Morad Morteza Momtaz Mostafa Mozaffar Nader Nard Nariman Narsieh Naveed Nezam Omid Parviz Pashang Peroz Peyman Pujman
-		Reza Rostam Sadri Salman Sephr Shahab Shahbaz Shahin Shahram Shahrokh Shahruz Shahryar Shapur Shayan Siavash Sohrab Soleyman Soroush Sina
-		Sunpadh Tahmasb Vahhab Vahid Vali Vandad Varshasb Vishtasb Yaghoub Yazdegerd Yousef Zahak Zakaria Zand Zartosht Zia
+		Abbas Abolhassan Afshar Ahmad Akbar Ali Allahyar Amin Anushirvan Aram Ardahan Ardavan Ardeshir Assad Aurang Ayeshah Abarmazd AdarO_S_ A_darbO_rz A_darfarnbag A_dardad A_daramA_n A_darpat A_darpA_d A_darmihr A_darzA_d AfrI_wE_h AfrI_nA_g Ahurgushnasp Ahurpat Aivibakht _Ayn_al_QudA_t _Abid_al_H_aqq _Ali_Zar Ardashir Arshak Arman Arjasp Artaban Arsham Arshad Arvand Artin Alirad Alirokh Alisara Azad Azargushnasp Azarkhodad Atashbod Atarkiya
+		Babak Bahman Bahram Bakhtiar Behrad Behrouz Bozorg Borzin Bahdad Bazrang Burzmehr BO_xtA_r BO_yA_n Bagdad Bagmehr Bagborz BorzI_nshA_h Bamdad BahA_frid BayA_nmehr BurzshA_d Bayaspand BahwA_nd BorzaghnA_ Borzazad BahrahnA_z BayU_rzarmI_hr Badr_al_ZamA_n BakhtiyA_r BahA__al_DI_n Bahram_Dad Bahriz Bakhshish Banuvand Barmak Barzin Bihruz Bihzad Binesh Bizhan Bokhtan Borzou Bozorgmehr Badin Badri Badrizad Badrvan Bagher Baghdad Bahir Bahri Bahruz Bakht Bakhtiar
+		Cavahrazasp Cavaspand Camaspand Caspenta Cayomert Cahusrav Cazrazasp Cavarmat Catrasp Cavastro Caharvat Caviran Camarthush Chahak Chavush Chingiz Chubin Chupan Chavushgar Cheragh Charkh Chiraghchi Chahbod Chahban Cheshmban Cheshmfar Chamfar Chamshah Chamzad Chamdil Chirbod Chirban Chiryar Chirshayan Chirbodan Chamshahbod
+		Danush Darab Dariush Davud Djamasp DA_darO_eS_t DA_dO_mehr DA_dO_fravard DA_dO_S_A_h DA_dO_zar DA_dhormizd DA_darhusrav DA_dstaxm DA_dO_wE_h DA_dO_bahman DE_nO_zA_d DE_nO_farrox DE_nO_S_A_h DA_rA_ DA_rA_r DA_dbakhsh DA_dmA_n 
+		Ebrahim Ehsan Esfandiar Eskander Esma_il Ebadmehr Ebnazar Ebaspand Ebmehr Ebaspandad Ebdoxt Ebvarz Eramdin Eramshad Erammehr Eraspand Ervadmehr Ervandshah Ervanshah Eranvarz Espandad Ervandazur EsH_A_q EsmA_I_l EmA_d ElyA_s EyyU_b EzI_d ErshA_d
+		Faramarz Faraz Fareed Farhad Fariborz Farroukh Farrukhzad Farzad Fath Ferdows Fereedun FarA_nak FrE_dO_n FravardI_n FrashO_shtra FrA_xvast FrA_tag Farnbag Frashkard Farrox FradA_d FarI_dU_n FarhA_m FraspO_ FarrokhA_n
+		Ghobad Gholam Godarz Goshtasb GarmO_bad GO_darz GarS_A_sp GE_v GA_wbad GurgA_z GurdA_z GO_rbehzA_d GuS_nA_sp GO_spandA_d GarO_mard GanjA_far
+		Hafez Hassan Hazarasp Hedayat Hooshyar Hormazd Hormoz Hossein Humayun HA_mA_farang HO_shang HA_vA_rez HusrO_y HO_mA_n HA_frE_h HusrA_v HA_dO_xt HU_rA_ft HA_mA_zO_r HU_rdA_d HO_bO_r HU_rbarzI_n HU_rmazddA_d HusA_m_al_DI_n
+		_Izz_al_Mulk Iradad Iradat Irbahram Irbod Irdad Irgushnasp Irij Irnasp Irsiyan Irvojan
+		Jahandar Jahangir Jahanshah Jamshid Javeed JA_mA_sp JA_mshE_d JA_vidA_n JA_sfrE_h JA_vA_nmehr JA_nspahr JahA_nbakhsh JA_mard JuwA_nbaxS_ JamA_l_al_DI_n JA_mE_hr JA_nxwE_dA_y JuwA_ndA_d JA_mA_raxt JuwA_nasp JA_nfarrux JA_nwirO_z JahA_npU_r
+		Kambiz Kamran Kavoos Keyghobad Keykhosrau Kharmandar Khashayar Kavadh Khodadad Khosrau Khudayar Khurshid Kurush KA_magS_A_h KarS_A_sp KayA_dur KA_rmA_nS_A_h KA_magdA_d KA_rA_S_A_spa Kayaxvat KavihrA_m KayO_mart KarA_vazd
+		Mahmud Manuchihr Manushihr Marzuban Mashad Maziar Mehrab Mehrzad Mohammed Morad Morteza Mozaffar Mah_A_tar MazdA_frI_d MehrA_frI_d MihrA_n MihrdA_d MihrbO_xt MihrO_E_ MihrvaxS_ MardO_mA_n MaH_mU_dA_n 
+		Nard Naveed Nawid Nezam NairyO_mehr NarsE_h NairyO_A_tar NA_makhshI_d NA_fsak NA_mA_vazd NairyO_S_A_n Nawbakht NA_zE_nI_n NA_vA_yI_n 
+		Parviz Pashang Peroz Pujman PadI_gar PahrE_zgar PadA_m PE_rO_zdA_d ParwE_z Padshah PA_kfrE_n ParshnI_g PA_rsO_g PE_rO_zbakht PE_rO_zA_m PA_dyA_r PA_nA_hgar
+		Reza Rostam Ruhollah Radbakht RadO_farrokh RadA_vand Radrost RA_man RamzA_d Ramfarrokh Ramdeh RamO_spA_S_ RaS_nO_gar RaE_S_A_sp RaE_S_O_dar RaE_S_bakht Raocahmehr RaocahA_n Raocahfarrokh RaocahS_A_y RaocahbA_n RaocahA_mard RaocahO_frI_n RaocahA_nS_A_h RaS_A_nO_S_ RaS_zA_d RaS_A_n
+		Sadri Salman Shahab Shahbaz Shahin Shahram Shahrokh Shahruz Shahryar Shapur Shayan Sina SA_hpanA_h SA_mrad SA_dayA_n SA_frez SA_garO_S_ SA_nasp SA_nag SpandA_d SpenA_m Spenyar Spitam SU_rA_k
+		Tahmasb Tahikard Tahimanah Tahiravan Tahichithra TahituxS_ TahiO_ra Tahispand TahiarS_ Tahidarav TakmatuxS_ TakmA_tar TanuspaS_ TanuxrA_ta
+		Vahhab Vahid Vali Vandad Varshasb Vishtasb Vahram Vazurg Vohuman Vairya Vahro Vazrang Varaksh Vohuxwar VarA_frI_d Vohuvakhsh VI_rayU_sh
+		Yazdegerd Yousef YazdA_nmehr YazdA_npA_d Yazdvarz YazdA_nfar YazdA_dA_r YasnA_vand YimxS_id YimO_baxS_ Yazdmehr YazdA_nxS_id YazdA_nbaxS_ YazdA_n_Bakht
+		Zahak Zakaria Zand Zartosht Zia ZardA_S_t ZarxusrO_ Zarmahr Zarspand ZarnA_mak ZarnawA_z Zandak ZardA_n ZartuxS_
 	}
 	female_names = {
-		Afsaneh Ahu Amineh Anahita Arghavan Arezou Azarmidokht Asa Assieh Atefeh Azadeh Azita Bahar Banafsheh Behnaz Behrokh Burandokht Darya Delaram
-		Delbar Delkash Dinah Donya Eftekhar Ehteram Elham Elnaz Farah Fariba Farideh Farnaz Farrin Farva Farzaneh Fatemeh Firouzeh Furuzan Gelareh Ghamze
-		Ghazal Ghoncheh Golbahar Golnar Golnaz Golpari Golshan Hamdam Hedieh Hengameh Hurmat Irandokht Jamileh Javaneh Katayoun Khatereh Kimia Leila Mahaya
-		Mahdokht Mahnoosh Mahvash Mahtab Manijeh Manizheh Mariam Masoumeh Mehrangiz Mina Nadia Narges Nasrin Navvaba Nazanin Nazgol Nazilla Nedzara Noor
-		Parastu Parvaneh Parvin Pertevniyal Poupak Pourandokht Rana Roshanora Roxana Roya Sahar Salomeh Samira Sareh Setareh Shabnam Shahrzad Shirin
-		Sholeh Soheila Soraya Sudabeh Tahmineh Tala Tannaz Taravat Touran Tourandokht Yasaman Yekta Zarrindokht Zeynab Zohreh
+		Afsaneh Ahu Arghavan Azarmidokht Asa Azadeh AbA_xtar Abandukht AdarA_nag A_durgund A_durbanu A_durA_rzU_ A_frI_nO_ A_frI_nag A_frI_nA_duxt A_mA_spand A_nO_S_agduxt A_bA_nwA_d A_bA_nmehr A_taxS_dU_kht A_rmagdnO_
+		Bahar Banafsheh Behnaz Burandokht BA_miS_n BA_hrU_n BE_hduxt BE_hnaz BE_hrang BO_dA_farI_d BA_miya BE_hzarmI_ BE_hA_zarmI_ BE_hnO_S_ BA_druzgar BE_hnarm BO_xS_A_yE_n BahrA_mduxt BO_zA_dA_n BO_xS_nA_z BE_hA_nbar
+		CA_harpA_d CA_hI_m CA_hO_r CA_drI_n CA_maE_S_ CarA_drI_n CarS_A_p CatO_kht CedA_p CedA_hO_r CI_xA_ CisA_zA_n ChrishtA_ ChI_kkA_r ChI_hO_r ChI_gA_r ChI_drI_n ChE_rO_zA_n ChE_rO_S_ ChA_miS_t ChA_khrI_ ChA_krA_
+		Darya Delaram Delbar Dinah Donya DA_nastA_ DA_yA_nag DastU_rdukht DA_ityA_na DE_nag DE_ndokht DahvishnI_ DI_nA_ra DE_npE_rO_z DA_ddokht DE_nA_nag DA_noshbA_nU_ DE_nfrahang DA_dvarishnI_ DI_nbA_nU_ DA_nagdukht DI_nA_farI_d
+		Elham Elnaz EbarS_nU_S_ EbanA_z EbarvA_n EbA_yA_f Ebduxt EbaspA_n Ebandokht Ebmehr EbA_rE_d EbahA_mazd Ebazar EbA_rakht EbaE_din ErsA_nA_ ErtA_meh ErA_duxt ErA_nmehr ErA_pA_d ErA_frE_n EramE_nO_ ErvA_hmI_r EsnA_duxt
+		Farah Fareedeh Farnaz Farrin Farva FarkhU_ndeh FrA_nE_g FE_rU_zdukht FrayA_na FarnE_h FarnbA_nU_ FarA_bA_nU_ FA_razA_z FE_rO_zah FA_rA_yA_z
+		Furuzan Ghamze Ghazal Ghoncheh Golbahar Golnaz Golpari Golshan GabA_g GadA_friya GaS_nA_z GaS_duxt GaS_afrid GO_spE_n GO_spA_nA_z
+		Hamdam Hurmat HazarA_ft HamE_gun HordA_d HU_rbA_nU_ HazA_rafrI_n HA_niya Hamdil Hamgir HamnavA_ HamshI_r HA_frI_n HA_gan HA_lineh HA_ne HA_nig HA_ni
+		Irandokht IranbA_nU_ IzyadA_nA_z IshatdI_d Ishatrokhsh IrdbA_nU_ InA_dokht Izdokht IrdA_h IrdaS_ IrdaraE_n IrdavaxS_
+		Jamileh Javaneh JamA_gA_n JamA_gU_sh JamA_zar JamA_frI_d JamA_doxt JamA_zarI_n JamA_banU_ JanA_far JanA_doxt JanA_mih JanA_zar JasdO_xt JasbA_nU_ Jasmih
+		Leila LA_dan LA_leh LA_liz LA_raz LA_hin LA_shk LA_shA_y LA_resh LA_far LA_din LA_shI_n
+		Mahdokht Mahtab Mariam MahA_frI_n MahA_rokh MahbA_nU_ MahdU_z Mahnoosh MahshI_d MahyA_r MahdI_s MahparI_ Mahstan MahyA_ MahzA_d
+		Navvaba Nazgol Nazilla Noor Nahid Nargis NarmI_n NayirA_h NayA_z NihA_d NI_lufar NushA_farI_n NushI_n NushdU_kht NushI_ndokht NushA_ba Nusrat
+		Parvaneh Parvin Pertevniyal Pourandokht ParI_gA_n ParI_dokht ParI_zA_d ParI_wand ParI_rokh ParI_farrokh ParI_andaz ParI_mithra
+		Roshanora Roxana Roxanak RudA_ba RA_yA_ RA_stI_ RA_hA_ RA_mA_ RA_minA_ RudA_ndokht RA_stA_ RA_hdoxt RA_ygol RA_yzA_hr RA_yeh RA_mdokht
+		Salomeh Shahrzad Shahzadeh Shirin Soraya SA_dhubA_nU_ SA_farkh SA_fargul SA_kdO_kht SA_mehr SA_navaz SA_rdokht SA_rmigA_n
+		Touran Tourandokht TarA_d TahmA_d TahmI_neh TA_hmI_neh TarA_shI_n TarA_nI_d TabankhA_tU_n TabA_nrokht
+		Yasaman Yekta YashtA_n YashtayA_n Yashtadokht YazdA_ndokht YazdA_nbA_nU_ YasnA_nush
+		Zarrindokht Zeynab Zohreh ZA_da ZA_dA_n ZarrI_n Zargol ZarnA_z ZarnoS_ ZA_hbanU_ ZivA_n
 	}
 
 	founder_named_dynasties = yes
@@ -369,6 +403,10 @@ name_list_sogdian = {
 		"dynn_Kayani"
 		"dynn_Muqannid"
 		"dynn_Al-Barm"
+		"dynn_C_artak"
+		"dynn_BA_Y_uS_"
+		"dynn_DA_dfrO_x"
+		"dynn_Keharat"
 	}
 
 	dynasty_names = {
@@ -382,36 +420,49 @@ name_list_sogdian = {
 		"dynn_Kayani"
 		"dynn_Muqannid"
 		"dynn_Al-Barm"
+		"dynn_C_artak"
+		"dynn_BA_Y_uS_"
+		"dynn_DA_dfrO_x"
+		"dynn_Keharat"
 	}
-
+	
 	male_names = {
-		Gurak Divashtich Yodkhsetak Tuhun Tarkhun Urak Turghar Lushan Nanaifarn Avyaman Yechi Chaki Mechun Tishifan Wupoyan
-		Tarxun Wanxanak Nawekat Wiyus Uxushukan Bharxuman Skatch Sheshch Chaxren Ramch Shaw Maxak Ramtish Axushfarn Bhurz Chukshak Fudanyan Dishebo Vandak Khudayfarn Sili Tishrat Chunakk Namdar Xutawch Pisak Karz Nijat Chatfaratsaran Dewastich Varzakk Nanai-thvar Chuzakk Khwatawch Karzh Nizat Nanaikuch Ukhwan Pator Wakhushuvirt Maniakh Watch Shafnoshak
-
-		Akhurmaztakk Akhushfarn Anghatnaw Anghatspadh Anushirvan Ardavan Ardeshir Armatsach Arsach Artikhuvandakh
-		Artivan Aspandhat Astken Aurang Avyaman-yan Avyaman Avyamanch Avyamanvandak Babak Bahram
-		Banda Barak Bharkhuman Bhurz Buddhadasa Chakar Chakhapak Chakhren Cher Chetvandak Dariush
-		Devadasa Dewashtich Dhakh Dhruwaspvandak Esfandiar Eskander Ewakhsh Faramarz Farhad Farn Farnaghat
-		Farnch Farnkhund Farroukh Farrukhzad Farzad Fatmiwach Ferdows Fereedun Frikhwataw Ghawtus Ghobad
-		Ghoshfarn Ghotamsach Godarz Goshtasb Hazarasp Hormazd Hormoz Induk Irkin Jamshid Jiamut
-		Jimatvande Kanak Kanakk Kartir Karzhtik Kavoos Kaway Kharstrang Khosrow Khun Khurshid Khwadhawanakk
-		Khwarmew Khwasaw Khwasawch Kund Kundakk Kurush Kushan Kushanakanak Makhak Marti Marzuban Maymarghch Methakan Mew Miren
-		Muqanna Nanai Nanaidhvar Nanaifarn Nanaikhsay Nanaithvar Nanaizanch Nanayakk Nanevante Narisaf Narshakhi Nawchirth
-		Nibothak Nipak Nithan Ot-tegin Papakk Parsak Parviz Pashang Patrodhan Pekako Peroz Pesakk
-		Pujman Qishiq Ramtish Rashdhes Razmwanwan Resan Rewdhvar Rokhshan Rostam Rutha Sagharak Sas Sasan Satasp
-		Sesh Shahbaz Shahin Shahrokh Shans Shapur Shaw Shennu Shirch Sina Spadh Spadhkharsh Srawakk
-		Stayidh Suryakk Tahmasb Takhsich Takhsichvandak Takut Tarkhun Taw Tir Tishtrya Tishvandak Turghar Ukhushukan
-		Urak Vagh Vaghrew Vahhab Varshasb Varzak Varzirak Vishtasb Viyus Vuvva Wakhunam Wakhushakk Wakhushu Wanenak
-		Wankaway Wankhanak Wanrazmak Wanwans Wishaghn Xeykhosrow Y_n Zand Zartosht Zymt
+		Akhurmaztakk Akhushfarn Anghatnaw Anghatspadh Anushirvan Ardavan Ardeshir Armatsach Arsach Artikhuvandakh Artivan Aspandhat Astken Aurang Avyaman-yan Avyaman Avyamanch Avyamanvandak Axushfarn ArdaS_I_r AO_rafarn AhuvA_n ArdA_y ArA_mazd ArdA_wan Artagushn ArdaB_azd Artayan AS_avan AS_tI_gar ArdaC_ahr ArdaO_wan ArtA_ya ArdaB_ahr ArdA_sp ArdaB_iS_ ArdaS_win ArtivA_h ArdA_gan Adurfarn Adurmihr AdurzA_d Ardwahist A_Y_mA_nO_S_ Angadfarn ArS_O_S_n AY_O_S_n
+		Babak Bahram Banda Barak Bharkhuman Bhurz Buddhadasa Bharxuman BagdA_t Bagart Barmazd BusA_n BurzA_n BA_Y_uS_ BA_Y_bakt BA_Y_vahr BA_Y_band BA_Y_dA_n BA_rfrA_n BA_rB_ad BagA_xwaday BagA_pU_r BagA_mI_hr BagA_bahrA_m BagA_dA_t BagA_farrox BagA_wA_n BagA_spandA_r BagA_wI_S_ BagA_O_ran BagA_meO_r BagA_bahr BagA_C_ih BahrA_m BahrS_A_h Bahrfarn BA_rC_ih BA_rgil BA_xS_A_y BA_gA_n BA_gdat BA_gxwad BA_gdA_d BA_gxS_ BA_gxudA_ BA_gxwA_n BA_gxrad BA_gxzA_d BarS_O_S_n
+		Chakar Chakhapak Chakhren Cher Chetvandak Chaki Chaxren Chukshak Chunakk Chatfaratsaran Chuzakk C_artak C_irA_sp C_A_far C_irwan C_A_ran C_irfarn C_A_waz C_irzag C_amrad C_irwanak C_A_rdiz C_irbA_z C_amfar C_ahrvazd C_ahrvar C_irhak C_andA_z C_irgar C_A_zar C_irfay C_amvaz C_irwanig C_amdar C_irgan C_irbarz C_amzag C_irwaz C_ahrbaN_ C_ahravA_K_ C_artaviz C_ahravA_nI_d C_ahrfrA_z CA_Y_n CayB_ar CA_wA_n CeY_m CeB_m CawI_S_ CA_B_A_n
+		Dariush Devadasa Dewashtich Dhakh Dhruwaspvandak Divashtich Dishebo Dewastich DA_dsigzar DA_tA_rfarrox DE_nfarz DaO_arman DaO_amihr Daivadas DI_nvar DA_yavahram DI_nO_sp DI_nband DI_nfrad DI_nbA_z DI_nvarman DI_nO_war Dastagfarn Dayamihr DadarS_O_S_ DastgA_h DU_napaz Duxasp Daivamurz Daivaband Daivadas DA_dfrO_x DA_drU_z DA_dbarz DA_dsug DA_tgushn DA_tvaS_ DA_tvaN_ DE_nvaN_ DE_ngaz DA_tgaz DE_nwanag DA_twanag DA_tfarr DE_nfarr DA_tgA_hA_n DE_ngA_hA_n DA_dwA_nd DA_dO_S_
+		Esfandiar Eskander Ewakhsh Ehrmazd EhrmazdA_d Ehrpat EhrdI_n EhrdA_d EhrA_m EhrbA_n Ehrshahr EhrdayA_n E_tdA_d E_tvandeh E_tpat E_tkA_rt EhrkA_ EhrdA_N_ EhrdA_var Ehrwaz EhrganA_ EhrmarA_z Eranfar Eranbarz Eranbar EranC_iy ES_A_win ES_A_vanak EfrA_n EfrA_y Ehrman EfrA_k Erdam EhrwA_n ErdA_y EfrA_t Ehrvad ErdabA_n Ehram ErdavA_ EfrayA_n Efrud Erdiyan EhrdA_ E_sB_and E_rB_I_n E_rvahS_ Erezvand E_S_kart E_stofar E_szvar E_vI_j E_rmA_z
+		Faramarz Farhad Farn Farnaghat Farnch Farnkhund Farroukh Farrukhzad Farzad Fatmiwach Ferdows Fereedun Frikhwataw Fudanyan Farrux FarrA_bad FarrA_y FarrA_sh FarrA_d FarruxA_n FarrA_m FarrA_sp FarrA_zar FarrA_g FarrA_dA_n FarrA_S_I_d FarrA_barz FarshI_dA_n FarhA_dA_n Faruz FarnI_r FarA_marz Farrbad Farrbad FarrdA_t FarrdI_d Farrdrok FrA_shmA_n Fravashaspur FravashrA_z Friyasp Friyur FriyA_t FA_raH_mazd FarcA_s FarrA_z Friyvashn Friyavaraz
+		Ghawtus Ghobad Ghoshfarn Ghotamsach Godarz Goshtasb Gurak Gushnasp Gushn Gauhr GA_spand GushnA_d GushradA_z Guwig GuwI_ Guwahr Guwand Gushad GushdI_ Gushram Godarz Guzurg Gushban Gushfar GustA_Y_ar Gustafar GO_O_farn GO_O_vA_r GO_B_ramn GO_B_vA_n GO_vand GO_vA_z GO_vA_rn GarmB_azd GarmB_and Garfarn Garfazd GaranB_azd GaranB_and GaraO_var Garmazd GarmB_A_nd GarmB_A_n GarmB_az Garband GarbA_z Garvand Garvazd Garvar GazB_ar GazB_ad GazB_and Garamasp GA_wband
+		Hazarasp Hormazd Hormoz HumA_n HuvA_h HU_frad Humand HumA_nfar Humir Hufarn Huwad Humid HU_zA_ HufradA_n Hufir Hufarz Hufram Humizd Hufarr Humist Hufradaz HumirA_n Humig HufarzA_n Humast Hufarg Hufradish Haomasp HaomadA_n HvarrA_ HvarS_ Hvarvid Hvarmad Hvarzan Hvarzasp Hvariz Hvarfar Haomaghyyat HaomaspA_S_ Hormizd HurmiztaxS_ Hurmizbad HvA_rdat HvarzU_d Hvaravand Huxtafar Huxtasp Huxtaspand HarS_afar Hazavar HurmE_z HuS_agar
+		Induk Irkin IzA_dB_uS_ IzA_dwar IzA_dman IzA_dB_ar Izdabar IzadpU_r IzA_dvar IS_tA_Y_uS_ IS_tayB_ar IS_taB_ar IS_tI_war IS_tiY_man IS_tiB_uS_ IS_tO_B_an IS_C_eY_uS_ IscA_O_sp Izadbun IS_tigund IscA_nwar IscA_Y_ar IscA_O_A_r IzaO_rB_uS_ IrzO_B_uS_ Izdafarn Izdazad IzadY_ar IS_at IS_ad IS_ant IS_ban IS_dA_ IS_van IS_wan IS_bah IS_vanak IS_gan IS_pat IS_wanak Izad Izadban Izadwan Izadgar Izadbarz Izadfarz IS_atbah
+		Jamshid Jiamut Jimatvande JA_mA_sp JuwA_sp JA_mA_spvard JA_mA_spfarn JA_mA_spgushn JA_yA_zA_d JA_farnshI_r Jazdakhsh JazdoxS_ JA_mS_E_r JazdnA_S_ JazdO_hram JazdnO_k JazdR_t JazdkA_r JO_hdfrad Jaswban JO_S_dA_r JA_mihr_khshatra JA_dO_grI_ Jazdfuz JahmrU_d JA_mA_B_ar JI_vA_nker JA_msuf JA_mnag JA_mbiz JI_vA_n JuvA_n JuwA_S_k JA_mU_S_ JI_vA_O_ar
+		Lushan Lahurfarn LwH_d LyS_w_ LwS_H_t Lptyh Lpt_ Lfrwd Lprwk Lwzk LhmT_ LS_wt Lsknt Lb_n Lwrby LnD_m LzB_D_ Layban LayS_A_d LA_T_A_n Lavarmazd Loharwarrakh Lavarfarn LohrA_sp LakhmA_n Lutasp LavA_n LahvA_n LahrO_S_t
+		Kanak Kanakk Kartir Karzhtik Kavoos Kaway Kharstrang Khosrow Khun Khurshid Khwadhawanakk Khwarmew Khwasaw Khwasawch Kund Kundakk Kurush Kushan Kushanakanak Khudayfarn Karz Khwatawch Karzh Kavad KirdI_r KhurS_I_d Khurmazd Kafarn Kavard Kamazd Karta Karast Kaward KadA_S_t Kaharat KaxwadA_ Kaburz Kerast Kerta Keharat Kivard Kimazd KvartfryO_ Kvartzhn Kvartsknd Kvartmyr KvartxwS_ Kvartsp_r Kvart_zd KfryO_B_rt KfryO_xwS_
+		Makhak Marti Marzuban Maymarghch Methakan Mew Miren Muqanna Mechun Maxak Maniakh MiO_ravad MazdA_sp MA_zdaO_mad MahrA_n MiO_rA_sp MazdA_O_wan MazdA_B_ar ManuS_ ManO_uS_ MaO_rafarn MiO_radA_ta Mani MA_ner MA_ndA_ MA_ntrA_k ManA_ra
+		Nanai Nanaidhvar Nanaifarn Nanaikhsay Nanaithvar Nanaizanch Nanayakk Nanevante Narisaf Narshakhi Nawchirth Nibothak Nipak Nithan Nawekat Namdar Nijat Nanai-thvar Nizat Nanaikuch
+		Ot-tegin
+		Papakk Parsak Parviz Pashang Patrodhan Pekako Peroz Pesakk Pujman Pisak Pator
+		Qishiq
+		Ramtish Rashdhes Razmwanwan Resan Rewdhvar Rokhshan Rostam Rutha Ramch 
+		Sagharak Sas Sasan Satasp Sesh Shahbaz Shahin Shahrokh Shans Shapur Shaw Shennu Shirch Sina Spadh Spadhkharsh Srawakk Stayidh Suryakk Skatch Sheshch Sili Shafnoshak
+		Tahmasb Takhsich Takhsichvandak Takut Tarkhun Taw Tir Tishtrya Tishvandak Turghar Tuhun Tishifan Tarxun Tishrat
+		Ukhushukan Urak Uxushukan Ukhwan
+		Vagh Vaghrew Vahhab Varshasb Varzak Varzirak Vishtasb Viyus Vuvva Vandak Varzakk
+		Wakhunam Wakhushakk Wakhushu Wanenak Wankaway Wankhanak Wanrazmak Wanwans Wishaghn Wupoyan Wanxanak Wiyus Wakhushuvirt Watch
+		Xeykhosrow Xutawch
+		Y_n Yodkhsetak Yechi
+		Zand Zartosht Zymt
 	}
 	female_names = {
 		Nana Upach An Kang
-
+		
 		Aghatzak Anakhit Arghavan Banafsheh Chat Chatis Chet Chinanch Darya Funa Furuzan Ghamze Ghoncheh
 		Golbahar Golshan Khansch Makh Mah Mahtab Miwnay Nana Nanai Nanaidhat Navvaba Nazgol
 		Nazilla Parvaneh Parvin Ranisa Roxana Sanakhram Shahrzad Shahzadeh Shayn Shirin Touran
 		Yasaman Yena
 	}
+	
 	founder_named_dynasties = yes
 	house_based_map_names = yes
 	
