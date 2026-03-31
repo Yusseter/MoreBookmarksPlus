@@ -13343,19 +13343,6 @@ dummy1039 = {
     }
 }
 
-dummy1040 = {
-    name="William"
-    culture = english
-    religion = catholic
-    dynasty = greek_rogerios_dalassenos
-    1400.1.1={
-        birth = yes
-    }
-    1450.1.1={
-        death=yes
-    }
-}
-
 dummy1041 = {
     name="William"
     culture = english
@@ -97692,18 +97679,7 @@ dummy8141 = {
 		death=yes
 	}
 }
-dummy8142 = {
-	name="William"
-	culture = english
-	religion = catholic
-	dynasty = korean_wang_haeju
-	1400.1.1={
-		birth = yes
-	}
-	1450.1.1={
-		death=yes
-	}
-}
+
 dummy8143 = {
 	name="William"
 	culture = english

@@ -57028,7 +57028,7 @@ korean_baek_daeheung={
 		}
 	}
 }
-korean_choe_ubong={
+1000155206={
 	pattern="pattern_solid.dds"
 	color1=blue
 	colored_emblem={

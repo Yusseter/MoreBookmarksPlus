@@ -24,6 +24,7 @@ secure_high_kingdom_north_sea_decision = {
 	selection_tooltip = secure_high_kingdom_north_sea_decision_tooltip
 
 	is_shown = {
+		is_independent_ruler = yes					
 		#DLC check.
 		has_fp1_dlc_trigger = yes
 		#Standard filter checks.

@@ -26,7 +26,7 @@ vodun_religion = {
 	doctrine = doctrine_adultery_women_crime
 	doctrine = doctrine_kinslaying_close_kin_crime
 	doctrine = doctrine_deviancy_shunned
-	doctrine = doctrine_witchcraft_accepted
+	doctrine = doctrine_witchcraft_virtuous
 
 	#Clerical Functions
 	doctrine = doctrine_clerical_function_taxation

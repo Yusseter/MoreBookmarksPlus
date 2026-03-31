@@ -4882,7 +4882,7 @@ mpo_1220_tributary_setup_effect = {
 			title:d_SW_lingxiguo.holder = {
 				break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
 			}
-			title:d_SW_rusheguo.holder = {
+			title:d_SW_ruzheguo.holder = {
 				break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
 			}
 			title:d_BAL_hoewon.holder = {
@@ -5194,7 +5194,7 @@ mpo_1234_tributary_setup_effect = {
 		title:d_SW_lingxiguo.holder = {
 			break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
 		}
-		title:d_SW_rusheguo.holder = {
+		title:d_SW_ruzheguo.holder = {
 			break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
 		}
 		title:d_BAL_hoewon.holder = {
@@ -5500,7 +5500,7 @@ mpo_1246_tributary_setup_effect = {
 		title:d_SW_lingxiguo.holder = {
 			break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
 		}
-		title:d_SW_rusheguo.holder = {
+		title:d_SW_ruzheguo.holder = {
 			break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
 		}
 		title:d_BAL_hoewon.holder = {
@@ -5951,7 +5951,7 @@ mpo_1258_tributary_setup_effect = {
 		title:d_SW_lingxiguo.holder = {
 			break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
 		}
-		title:d_SW_rusheguo.holder = {
+		title:d_SW_ruzheguo.holder = {
 			break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
 		}
 		title:d_BAL_hoewon.holder = {
@@ -6426,7 +6426,7 @@ mpo_1267_tributary_setup_effect = {
 		title:d_SW_lingxiguo.holder = {
 			break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
 		}
-		title:d_SW_rusheguo.holder = {
+		title:d_SW_ruzheguo.holder = {
 			break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
 		}
 		title:d_BAL_hoewon.holder = {
@@ -6876,9 +6876,6 @@ mpo_1286_tributary_setup_effect = {
 		title:d_altaishan.holder = {
 			break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
 		}
-		title:d_SW_rusheguo.holder = {
-			break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
-		}
 
 	}
 
@@ -7298,10 +7295,7 @@ mpo_1300_tributary_setup_effect = {
 		title:d_altaishan.holder = {
 			break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
 		}
-		title:d_SW_rusheguo.holder = {
-			break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
-		}
-		
+
 	}
 
 	####Successor States
@@ -7713,9 +7707,6 @@ mpo_1310_tributary_setup_effect = {
 		title:d_altaishan.holder = {
 			break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
 		}
-		title:d_SW_rusheguo.holder = {
-			break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
-		}
 		
 	}
 
@@ -8117,9 +8108,6 @@ mpo_1324_tributary_setup_effect = {
 			break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
 		}
 		title:d_altaishan.holder = {
-			break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
-		}
-		title:d_SW_rusheguo.holder = {
 			break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
 		}
 
@@ -8531,9 +8519,6 @@ mpo_1337_tributary_setup_effect = {
 			break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
 		}
 		title:d_altaishan.holder = {
-			break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
-		}
-		title:d_SW_rusheguo.holder = {
 			break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
 		}
 

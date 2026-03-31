@@ -3221,7 +3221,7 @@ berberuprising001 = {
 }
 
 berberuprising002 = {
-	name = "dynn_Mawati" # Removed "Al_" prefix from name
+	name = "dynn_Al_Mawati" 
 	prefix = "dynnp_al-"
 	culture = baranis
 }
@@ -3239,7 +3239,7 @@ iblbaranisdyn003 = {
 }
 
 iblbaranisdyn004 = {
-	name = "dynn_Wawazgit" # Removed "Banu_"
+	name = "dynn_Banu_Wawazgit" 
 	prefix = "dynnp_banu"
 	culture = baranis
 }
@@ -45792,7 +45792,7 @@ mentawai_d002 = {
 }
 
 2001144 = {
-	name = "dynn_Qa'ad"
+	name = "dynn_Qa_ad"
 	culture = merkit
 }
 
@@ -45807,7 +45807,7 @@ mentawai_d002 = {
 }
 
 1000049257 = {
-	name = "dynn_Qa'ad" #Merkid
+	name = "dynn_Qa_ad" #Merkid
 	culture = merkit
 }
 

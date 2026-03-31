@@ -25337,7 +25337,7 @@ MB_set_de_jure = {
 
 		if = {
 			limit = {
-				game_start_date >= 1200.1.1
+				game_start_date >= 1170.1.1
 			}
 
 			title:d_poitou = { set_de_jure_liege_title = title:k_france }

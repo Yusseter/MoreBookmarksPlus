@@ -33,6 +33,8 @@
 	doctrine = doctrine_clerical_marriage_allowed
 	doctrine = doctrine_clerical_succession_temporal_appointment
 
+	#Allow pilgrimages
+	doctrine = doctrine_pilgrimage_encouraged			   
 	#Funeral tradition
 	doctrine = doctrine_funeral_bewailment
 	
@@ -61,7 +63,7 @@
 
 	localization = {
 		HighGodName = yoruba_high_god_name
-		HighGodName2 = yoruba_high_god_name
+		HighGodName2 = yoruba_high_god_name_2
 		HighGodNamePossessive = yoruba_high_god_name_possessive
 		HighGodNameSheHe = CHARACTER_SHEHE_HE
 		HighGodHerselfHimself = CHARACTER_HIMSELF
@@ -148,8 +150,8 @@
 
 
 		PantheonTerm = yoruba_the_orisa
-		PantheonTerm2 = yoruba_the_orisa
-		PantheonTerm3 = yoruba_the_orisa
+		PantheonTerm2 = yoruba_the_orisa_2
+		PantheonTerm3 = yoruba_the_orisa_3
 		PantheonTermHasHave = pantheon_term_have
 		GoodGodNames = { yoruba_health_god_name yoruba_fertility_god_name yoruba_wealth_god_name yoruba_household_god_name yoruba_knowledge_god_name yoruba_war_god_name yoruba_night_god_name yoruba_water_god_name }
 		DevilName = yoruba_devil_name
@@ -163,11 +165,11 @@
 		HouseOfWorship3 = yoruba_house_of_worship
 		HouseOfWorshipPlural = yoruba_house_of_worship_plural
 		ReligiousSymbol = yoruba_religious_symbol
+		ReligiousSymbol2 = yoruba_religious_symbol_2
+		ReligiousSymbol3 = yoruba_religious_symbol_3
 		ReligiousText = yoruba_religious_text
-		ReligiousSymbol2 = yoruba_religious_symbol
-		ReligiousText2 = yoruba_religious_text
-		ReligiousSymbol3 = yoruba_religious_symbol
-		ReligiousText3 = yoruba_religious_text
+		ReligiousText2 = yoruba_religious_text_2
+		ReligiousText3 = yoruba_religious_text_3
 		ReligiousHeadName = yoruba_religious_head_title
 		ReligiousHeadTitleName = yoruba_religious_head_title_name
 		DevoteeMale = paganism_devotee
@@ -190,6 +192,8 @@
 		BishopNeuter =yoruba_bishop_neuter
 		BishopNeuterPlural = yoruba_bishop_neuter_plural
 		DivineRealm = yoruba_divine_realm
+		DivineRealm2 = yoruba_divine_realm_2
+		DivineRealm3 = yoruba_divine_realm_3
 		PositiveAfterLife = yoruba_divine_realm
 		NegativeAfterLife = yoruba_divine_realm_bad
 		DivineRealm2 = yoruba_divine_realm
@@ -210,7 +214,7 @@
 		WitchGodHerHim = CHARACTER_HERHIM_HER
 		WitchGodMistressMaster = mistress
 		WitchGodMotherFather = mother
-
+		
 		GHWName = ghw_great_holy_war
 		GHWNamePlural = ghw_great_holy_wars
 	}

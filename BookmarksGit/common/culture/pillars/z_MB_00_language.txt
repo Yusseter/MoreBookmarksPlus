@@ -103,6 +103,36 @@ language_phoenician = { #
 	color = { 0.15 0.18 0.62 }
 }
 
+language_carthaginian = { #
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_carthaginian
+		}
+	}
+	parameters = {
+		language_branch_semitic = yes
+		language_family_afro_asiatic = yes
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_carthaginian }
+			multiply = 10
+		}
+		else_if = {
+			limit = { has_cultural_parameter = language_branch_semitic }
+			multiply = 5
+		}
+		else_if = {
+			limit = { has_cultural_parameter = language_family_afro_asiatic }
+			multiply = 2.5
+		}
+	}
+
+	color = { 0.15 0.18 0.62 }
+}
+
 language_celtiberian = {
 	type = language
 	is_shown = {

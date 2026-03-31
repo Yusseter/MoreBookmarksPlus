@@ -228,6 +228,22 @@ heritage_hunnic = {
 	audio_parameter = european
 }
 
+heritage_phoenician = { # I'm not making up parameters for Paradox's obsession with making cultures and heritages for long long long lnog dead cultures
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_phoenician
+		}
+	}
+	parameters = {
+		heritage_group_levantine = yes
+		heritage_group_iranian = yes
+		heritage_family_middle_eastern = yes
+		heritage_family_west_asian = yes
+	}
+	audio_parameter = european
+}
+
 
 ################################################################## EUROPEAN #############################################################################
 

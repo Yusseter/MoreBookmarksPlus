@@ -1,6 +1,8 @@
 ﻿# Buddhist Canon Doctrines
 
 rice_mahayana_canon_doctrine = {		# Chinese Canon/Dazangjing
+	icon = "RICE_mahayana_canon_doctrine"
+	
 	piety_cost = {
 		value = faith_doctrine_cost_mid
 		if = {
@@ -30,6 +32,8 @@ rice_mahayana_canon_doctrine = {		# Chinese Canon/Dazangjing
 }
 
 rice_theravada_canon_doctrine = {		# Pali Canon
+	icon = "RICE_theravada_canon_doctrine"
+	
 	piety_cost = {
 		value = faith_doctrine_cost_mid
 		if = {
@@ -59,6 +63,8 @@ rice_theravada_canon_doctrine = {		# Pali Canon
 }
 
 rice_vajrayana_canon_doctrine = {		# Tibetan Canon/Kanngur and Tanggur
+	icon = "RICE_vajrayana_canon_doctrine"
+	
 	piety_cost = {
 		value = faith_doctrine_cost_mid
 		if = {
@@ -87,6 +93,8 @@ rice_vajrayana_canon_doctrine = {		# Tibetan Canon/Kanngur and Tanggur
 }
 
 rice_pudgalavada_canon_doctrine = {		# Pudgalavada/Sammitiya Canon
+	icon = "rice_buddhist_canon_pudgalavada_canon_doctrine"
+	
 	piety_cost = {
 		value = faith_doctrine_cost_mid
 		if = {
@@ -113,9 +121,4 @@ rice_pudgalavada_canon_doctrine = {		# Pudgalavada/Sammitiya Canon
 	}
 }
 
-special_doctrine_three_teachings = {
-	parameters = {
-		hostility_override_special_doctrine_three_teachings = 0
-		hostility_override_rice_mahayana_canon_doctrine = 0
-	}
-}
+ 

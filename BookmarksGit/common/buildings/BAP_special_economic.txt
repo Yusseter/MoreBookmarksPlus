@@ -1,4 +1,7 @@
-﻿##############################
+﻿
+### OVERRIDE ###
+
+##############################
 # Takkeda Copper Mines
 ##############################
 
@@ -34,11 +37,21 @@ takkeda_mines_01 = {
 	
 	next_building = takkeda_mines_02
 	
+	province_culture_modifier = {
+		parameter = cupellation_mine_building_bonuses
+		tax_mult = innovation_cupellation_mine_tax_bonus_value
+	}
+
 	ai_value = {
 		base = 100
+		directive_to_build_economy_modifier = yes
 	}
-	flag = travel_point_of_interest_economic
+	
 	type = special
+	
+	flag = travel_point_of_interest_economic
+	flag = special_mine
+	flag = special_mine_copper
 }
 
 takkeda_mines_02 = {
@@ -77,13 +90,21 @@ takkeda_mines_02 = {
 	
 	next_building = takkeda_mines_03
 	
-	ai_value = {
-		base = 100
+	province_culture_modifier = {
+		parameter = cupellation_mine_building_bonuses
+		tax_mult = innovation_cupellation_mine_tax_bonus_value
 	}
 
-	flag = travel_point_of_interest_economic
-
+	ai_value = {
+		base = 100
+		directive_to_build_economy_modifier = yes
+	}
+	
 	type = special
+	
+	flag = travel_point_of_interest_economic
+	flag = special_mine
+	flag = special_mine_copper
 }
 
 takkeda_mines_03 = {
@@ -122,13 +143,21 @@ takkeda_mines_03 = {
 	
 	next_building = takkeda_mines_04
 	
-	ai_value = {
-		base = 100
+	province_culture_modifier = {
+		parameter = cupellation_mine_building_bonuses
+		tax_mult = innovation_cupellation_mine_tax_bonus_value
 	}
 
-	flag = travel_point_of_interest_economic
-
+	ai_value = {
+		base = 100
+		directive_to_build_economy_modifier = yes
+	}
+	
 	type = special
+	
+	flag = travel_point_of_interest_economic
+	flag = special_mine
+	flag = special_mine_copper
 }
 
 takkeda_mines_04 = {
@@ -165,14 +194,246 @@ takkeda_mines_04 = {
 		development_growth_factor = 0.2
 	}
 	
-	ai_value = {
-		base = 100
+	province_culture_modifier = {
+		parameter = cupellation_mine_building_bonuses
+		tax_mult = innovation_cupellation_mine_tax_bonus_value
 	}
 
-	flag = travel_point_of_interest_economic
-
+	ai_value = {
+		base = 100
+		directive_to_build_economy_modifier = yes
+	}
+	
 	type = special
+	
+	flag = travel_point_of_interest_economic
+	flag = special_mine
+	flag = special_mine_copper
 }
+
+##############################
+# Taghaza Salt Mines
+##############################
+
+taghaza_mines_01 = {
+	effect_desc = mines_effect_desc
+
+	asset = {
+		type = pdxmesh
+		name = "building_special_mines_mesh"
+	}
+
+	construction_time = slow_construction_time
+
+	type_icon = "icon_structure_mines.dds"
+
+	can_construct_potential = {
+		culture = {
+			has_innovation = innovation_crop_rotation
+		}
+	}
+	
+	cost_gold = expensive_building_tier_3_cost
+	
+	province_modifier = {
+		monthly_income = copper_mine_building_tax_tier_1
+		stationed_siege_weapon_siege_value_mult = high_maa_siege_value_tier_1
+	}
+	county_modifier = {
+		tax_mult = 0.05
+		development_growth_factor = 0.05
+	}
+	character_modifier = {
+		levy_maintenance = -0.04
+		supply_limit_mult = 0.05
+	}
+	
+	next_building = taghaza_mines_02
+	
+	province_culture_modifier = {
+		parameter = cupellation_mine_building_bonuses
+		tax_mult = innovation_cupellation_mine_tax_bonus_value
+	}
+
+	ai_value = {
+		base = 100
+		directive_to_build_economy_modifier = yes
+	}
+	
+	type = special
+	
+	flag = travel_point_of_interest_economic
+	flag = special_mine
+	flag = special_mine_salt
+}
+
+taghaza_mines_02 = {
+	effect_desc = mines_effect_desc
+
+	asset = {
+		type = pdxmesh
+		name = "building_special_mines_mesh"
+	}
+
+	construction_time = slow_construction_time
+
+	type_icon = "icon_structure_mines.dds"
+
+	can_construct_potential = {
+		building_requirement_tribal = no
+	}
+	can_construct = {
+		building_requirement_castle_city_church = { LEVEL = 02 }
+		culture = {
+			has_innovation = innovation_manorialism
+		}
+	}
+	
+	cost_gold = expensive_building_tier_4_cost
+	
+	province_modifier = {
+		monthly_income = copper_mine_building_tax_tier_2
+		stationed_siege_weapon_siege_value_mult = high_maa_siege_value_tier_2
+	}
+	county_modifier = {
+		tax_mult = 0.1
+		development_growth_factor = 0.1
+	}
+	character_modifier = {
+		levy_maintenance = -0.08
+		supply_limit_mult = 0.1
+	}
+	
+	next_building = taghaza_mines_03
+	
+	province_culture_modifier = {
+		parameter = cupellation_mine_building_bonuses
+		tax_mult = innovation_cupellation_mine_tax_bonus_value
+	}
+
+	ai_value = {
+		base = 100
+		directive_to_build_economy_modifier = yes
+	}
+	
+	type = special
+	
+	flag = travel_point_of_interest_economic
+	flag = special_mine
+	flag = special_mine_salt
+}
+
+taghaza_mines_03 = {
+	effect_desc = mines_effect_desc
+
+	asset = {
+		type = pdxmesh
+		name = "building_special_mines_mesh"
+	}
+
+	construction_time = slow_construction_time
+
+	type_icon = "icon_structure_mines.dds"
+
+	can_construct_potential = {
+		building_requirement_tribal = no
+	}
+	can_construct = {
+		building_requirement_castle_city_church = { LEVEL = 03 }
+		culture = {
+			has_innovation = innovation_windmills
+		}
+	}
+	
+	cost_gold = expensive_building_tier_5_cost
+	
+	province_modifier = {
+		monthly_income = copper_mine_building_tax_tier_3
+		stationed_siege_weapon_siege_value_mult = high_maa_siege_value_tier_3
+	}
+	county_modifier = {
+		tax_mult = 0.15
+		development_growth_factor = 0.15
+	}
+	character_modifier = {
+		levy_maintenance = -0.12
+		supply_limit_mult = 0.15
+	}
+	
+	next_building = taghaza_mines_04
+	
+	province_culture_modifier = {
+		parameter = cupellation_mine_building_bonuses
+		tax_mult = innovation_cupellation_mine_tax_bonus_value
+	}
+
+	ai_value = {
+		base = 100
+		directive_to_build_economy_modifier = yes
+	}
+	
+	type = special
+	
+	flag = travel_point_of_interest_economic
+	flag = special_mine
+	flag = special_mine_salt
+}
+
+taghaza_mines_04 = {
+	effect_desc = mines_effect_desc
+
+	asset = {
+		type = pdxmesh
+		name = "building_special_mines_mesh"
+	}
+
+	construction_time = slow_construction_time
+
+	type_icon = "icon_structure_mines.dds"
+
+	can_construct_potential = {
+		building_requirement_tribal = no
+	}
+	can_construct = {
+		building_requirement_castle_city_church = { LEVEL = 04 }
+		culture = {
+			has_innovation = innovation_cranes
+		}
+	}
+	
+	cost_gold = expensive_building_tier_6_cost
+	
+	province_modifier = {
+		monthly_income = copper_mine_building_tax_tier_4
+		stationed_siege_weapon_siege_value_mult = high_maa_siege_value_tier_4
+	}
+	county_modifier = {
+		tax_mult = 0.20
+		development_growth_factor = 0.2
+	}
+	character_modifier = {
+		levy_maintenance = -0.16
+		supply_limit_mult = 0.2
+	}
+	
+	province_culture_modifier = {
+		parameter = cupellation_mine_building_bonuses
+		tax_mult = innovation_cupellation_mine_tax_bonus_value
+	}
+
+	ai_value = {
+		base = 100
+		directive_to_build_economy_modifier = yes
+	}
+	
+	type = special
+	
+	flag = travel_point_of_interest_economic
+	flag = special_mine
+	flag = special_mine_salt
+}
+
+### ADDITIONS ###
 
 #Generic copper mine
 wap_copper_mine_01 = {
@@ -205,10 +466,16 @@ wap_copper_mine_01 = {
 		development_growth_factor = 0.05
 	}
 	
+	province_culture_modifier = {
+		parameter = cupellation_mine_building_bonuses
+		tax_mult = innovation_cupellation_mine_tax_bonus_value
+	}
+	
 	next_building = wap_copper_mine_02
 	
 	ai_value = {
 		base = 100
+		directive_to_build_economy_modifier = yes
 	}
 	flag = travel_point_of_interest_economic
 	type = special
@@ -248,10 +515,16 @@ wap_copper_mine_02 = {
 		development_growth_factor = 0.1
 	}
 	
+	province_culture_modifier = {
+		parameter = cupellation_mine_building_bonuses
+		tax_mult = innovation_cupellation_mine_tax_bonus_value
+	}
+	
 	next_building = wap_copper_mine_03
 	
 	ai_value = {
 		base = 100
+		directive_to_build_economy_modifier = yes
 	}
 	flag = travel_point_of_interest_economic
 	type = special
@@ -291,10 +564,16 @@ wap_copper_mine_03 = {
 		development_growth_factor = 0.15
 	}
 	
+	province_culture_modifier = {
+		parameter = cupellation_mine_building_bonuses
+		tax_mult = innovation_cupellation_mine_tax_bonus_value
+	}
+	
 	next_building = wap_copper_mine_04
 	
 	ai_value = {
 		base = 100
+		directive_to_build_economy_modifier = yes
 	}
 	flag = travel_point_of_interest_economic
 	type = special
@@ -334,8 +613,14 @@ wap_copper_mine_04 = {
 		development_growth_factor = 0.2
 	}
 	
+	province_culture_modifier = {
+		parameter = cupellation_mine_building_bonuses
+		tax_mult = innovation_cupellation_mine_tax_bonus_value
+	}
+	
 	ai_value = {
 		base = 100
+		directive_to_build_economy_modifier = yes
 	}
 	flag = travel_point_of_interest_economic
 	type = special
@@ -378,10 +663,16 @@ wap_salt_mine_01 = {
 		supply_limit_mult = 0.05
 	}
 	
+	province_culture_modifier = {
+		parameter = cupellation_mine_building_bonuses
+		tax_mult = innovation_cupellation_mine_tax_bonus_value
+	}
+	
 	next_building = wap_salt_mine_02
 	
 	ai_value = {
 		base = 100
+		directive_to_build_economy_modifier = yes
 	}
 	flag = travel_point_of_interest_economic
 	type = special
@@ -424,10 +715,16 @@ wap_salt_mine_02 = {
 		supply_limit_mult = 0.1
 	}
 	
+	province_culture_modifier = {
+		parameter = cupellation_mine_building_bonuses
+		tax_mult = innovation_cupellation_mine_tax_bonus_value
+	}
+	
 	next_building = wap_salt_mine_03
 	
 	ai_value = {
 		base = 100
+		directive_to_build_economy_modifier = yes
 	}
 	flag = travel_point_of_interest_economic
 	type = special
@@ -469,11 +766,18 @@ wap_salt_mine_03 = {
 		levy_maintenance = -0.12
 		supply_limit_mult = 0.15
 	}
+	
+	province_culture_modifier = {
+		parameter = cupellation_mine_building_bonuses
+		tax_mult = innovation_cupellation_mine_tax_bonus_value
+	}
+	
 	flag = travel_point_of_interest_economic
 	next_building = wap_salt_mine_04
 	
 	ai_value = {
 		base = 100
+		directive_to_build_economy_modifier = yes
 	}
 	
 	type = special
@@ -516,190 +820,14 @@ wap_salt_mine_04 = {
 		supply_limit_mult = 0.2
 	}
 	
-	ai_value = {
-		base = 100
-	}
-	flag = travel_point_of_interest_economic
-	type = special
-}
-
-##############################
-# Taghaza Salt Mines
-##############################
-
-taghaza_mines_01 = {
-	effect_desc = mines_effect_desc
-
-	asset = {
-		type = pdxmesh
-		name = "building_special_mines_mesh"
-	}
-
-	construction_time = slow_construction_time
-
-	type_icon = "icon_structure_mines.dds"
-
-	can_construct_potential = {
-		culture = {
-			has_innovation = innovation_crop_rotation
-		}
-	}
-	
-	cost_gold = expensive_building_tier_3_cost
-	
-	province_modifier = {
-		monthly_income = copper_mine_building_tax_tier_1
-		stationed_siege_weapon_siege_value_mult = high_maa_siege_value_tier_1
-	}
-	county_modifier = {
-		tax_mult = 0.05
-		development_growth_factor = 0.05
-	}
-	character_modifier = {
-		levy_maintenance = -0.04
-		supply_limit_mult = 0.05
-	}
-	
-	next_building = taghaza_mines_02
-	
-	ai_value = {
-		base = 100
-	}
-	flag = travel_point_of_interest_economic
-	type = special
-}
-
-taghaza_mines_02 = {
-	effect_desc = mines_effect_desc
-
-	asset = {
-		type = pdxmesh
-		name = "building_special_mines_mesh"
-	}
-
-	construction_time = slow_construction_time
-
-	type_icon = "icon_structure_mines.dds"
-
-	can_construct_potential = {
-		building_requirement_tribal = no
-	}
-	can_construct = {
-		building_requirement_castle_city_church = { LEVEL = 02 }
-		culture = {
-			has_innovation = innovation_manorialism
-		}
-	}
-	
-	cost_gold = expensive_building_tier_4_cost
-	
-	province_modifier = {
-		monthly_income = copper_mine_building_tax_tier_2
-		stationed_siege_weapon_siege_value_mult = high_maa_siege_value_tier_2
-	}
-	county_modifier = {
-		tax_mult = 0.1
-		development_growth_factor = 0.1
-	}
-	character_modifier = {
-		levy_maintenance = -0.08
-		supply_limit_mult = 0.1
-	}
-	
-	next_building = taghaza_mines_03
-	
-	ai_value = {
-		base = 100
-	}
-	flag = travel_point_of_interest_economic
-	type = special
-}
-
-taghaza_mines_03 = {
-	effect_desc = mines_effect_desc
-
-	asset = {
-		type = pdxmesh
-		name = "building_special_mines_mesh"
-	}
-
-	construction_time = slow_construction_time
-
-	type_icon = "icon_structure_mines.dds"
-
-	can_construct_potential = {
-		building_requirement_tribal = no
-	}
-	can_construct = {
-		building_requirement_castle_city_church = { LEVEL = 03 }
-		culture = {
-			has_innovation = innovation_windmills
-		}
-	}
-	
-	cost_gold = expensive_building_tier_5_cost
-	
-	province_modifier = {
-		monthly_income = copper_mine_building_tax_tier_3
-		stationed_siege_weapon_siege_value_mult = high_maa_siege_value_tier_3
-	}
-	county_modifier = {
-		tax_mult = 0.15
-		development_growth_factor = 0.15
-	}
-	character_modifier = {
-		levy_maintenance = -0.12
-		supply_limit_mult = 0.15
-	}
-	
-	next_building = taghaza_mines_04
-	
-	ai_value = {
-		base = 100
-	}
-	flag = travel_point_of_interest_economic
-	type = special
-}
-
-taghaza_mines_04 = {
-	effect_desc = mines_effect_desc
-
-	asset = {
-		type = pdxmesh
-		name = "building_special_mines_mesh"
-	}
-
-	construction_time = slow_construction_time
-
-	type_icon = "icon_structure_mines.dds"
-
-	can_construct_potential = {
-		building_requirement_tribal = no
-	}
-	can_construct = {
-		building_requirement_castle_city_church = { LEVEL = 04 }
-		culture = {
-			has_innovation = innovation_cranes
-		}
-	}
-	
-	cost_gold = expensive_building_tier_6_cost
-	
-	province_modifier = {
-		monthly_income = copper_mine_building_tax_tier_4
-		stationed_siege_weapon_siege_value_mult = high_maa_siege_value_tier_4
-	}
-	county_modifier = {
-		tax_mult = 0.20
-		development_growth_factor = 0.2
-	}
-	character_modifier = {
-		levy_maintenance = -0.16
-		supply_limit_mult = 0.2
+	province_culture_modifier = {
+		parameter = cupellation_mine_building_bonuses
+		tax_mult = innovation_cupellation_mine_tax_bonus_value
 	}
 	
 	ai_value = {
 		base = 100
+		directive_to_build_economy_modifier = yes
 	}
 	flag = travel_point_of_interest_economic
 	type = special
@@ -740,10 +868,16 @@ wap_iron_mine_01 = {
 		development_growth_factor = 0.05
 	}
 	
+	province_culture_modifier = {
+		parameter = cupellation_mine_building_bonuses
+		tax_mult = innovation_cupellation_mine_tax_bonus_value
+	}
+	
 	next_building = wap_iron_mine_02
 	
 	ai_value = {
 		base = 100
+		directive_to_build_economy_modifier = yes
 	}
 	flag = travel_point_of_interest_economic
 	type = special
@@ -785,10 +919,16 @@ wap_iron_mine_02 = {
 		development_growth_factor = 0.1
 	}
 	
+	province_culture_modifier = {
+		parameter = cupellation_mine_building_bonuses
+		tax_mult = innovation_cupellation_mine_tax_bonus_value
+	}
+	
 	next_building = wap_iron_mine_03
 	
 	ai_value = {
 		base = 100
+		directive_to_build_economy_modifier = yes
 	}
 	flag = travel_point_of_interest_economic
 	type = special
@@ -828,10 +968,16 @@ wap_iron_mine_03 = {
 		development_growth_factor = 0.15
 	}
 	
+	province_culture_modifier = {
+		parameter = cupellation_mine_building_bonuses
+		tax_mult = innovation_cupellation_mine_tax_bonus_value
+	}
+	
 	next_building = wap_iron_mine_04
 	
 	ai_value = {
 		base = 100
+		directive_to_build_economy_modifier = yes
 	}
 	flag = travel_point_of_interest_economic
 	type = special
@@ -873,8 +1019,14 @@ wap_iron_mine_04 = {
 		development_growth_factor = 0.2
 	}
 	
+	province_culture_modifier = {
+		parameter = cupellation_mine_building_bonuses
+		tax_mult = innovation_cupellation_mine_tax_bonus_value
+	}
+	
 	ai_value = {
 		base = 100
+		directive_to_build_economy_modifier = yes
 	}
 	flag = travel_point_of_interest_economic
 	type = special
@@ -913,10 +1065,16 @@ wap_gold_mines_01 = {
 		development_growth_factor = 0.1
 	}
 	
+	province_culture_modifier = {
+		parameter = cupellation_mine_building_bonuses
+		tax_mult = innovation_cupellation_mine_tax_bonus_value
+	}
+	
 	next_building = wap_gold_mines_02
 	
 	ai_value = {
 		base = 100
+		directive_to_build_economy_modifier = yes
 	}
 	flag = travel_point_of_interest_economic
 	type = special
@@ -955,10 +1113,16 @@ wap_gold_mines_02 = {
 		development_growth_factor = 0.15
 	}
 	
+	province_culture_modifier = {
+		parameter = cupellation_mine_building_bonuses
+		tax_mult = innovation_cupellation_mine_tax_bonus_value
+	}
+	
 	next_building = wap_gold_mines_03
 	
 	ai_value = {
 		base = 100
+		directive_to_build_economy_modifier = yes
 	}
 	flag = travel_point_of_interest_economic
 	type = special
@@ -997,10 +1161,16 @@ wap_gold_mines_03 = {
 		development_growth_factor = 0.2
 	}
 	
+	province_culture_modifier = {
+		parameter = cupellation_mine_building_bonuses
+		tax_mult = innovation_cupellation_mine_tax_bonus_value
+	}
+	
 	next_building = wap_gold_mines_04
 	
 	ai_value = {
 		base = 100
+		directive_to_build_economy_modifier = yes
 	}
 	flag = travel_point_of_interest_economic
 	type = special
@@ -1039,8 +1209,14 @@ wap_gold_mines_04 = {
 		development_growth_factor = 0.25
 	}
 	
+	province_culture_modifier = {
+		parameter = cupellation_mine_building_bonuses
+		tax_mult = innovation_cupellation_mine_tax_bonus_value
+	}
+	
 	ai_value = {
 		base = 100
+		directive_to_build_economy_modifier = yes
 	}
 	flag = travel_point_of_interest_economic
 	type = special

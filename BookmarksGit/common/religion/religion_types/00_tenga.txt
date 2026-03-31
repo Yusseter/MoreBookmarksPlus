@@ -37,7 +37,7 @@
 	doctrine = doctrine_pilgrimage_encouraged
 
 	#Funeral tradition
-	doctrine = doctrine_funeral_cremation
+	doctrine = doctrine_funeral_bewailment
 	
 	#Coronation tradition
 	doctrine = doctrine_no_anointment

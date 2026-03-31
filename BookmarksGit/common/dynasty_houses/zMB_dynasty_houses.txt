@@ -5441,3 +5441,8 @@ house_gim_gwangsan = { #Gim Gwangsan
 	name = "dynn_Gim"
 	dynasty = 1000062005
 }
+
+house_rocaberti-empuries = { 
+	name = "dynn_Rocaberti_E"
+	dynasty = 393
+}

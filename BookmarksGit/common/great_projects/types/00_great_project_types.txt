@@ -22,6 +22,10 @@ mandala_capital_01 = {
 		reference = @mandala_capital_illustration
 	}
 
+	name = {
+		desc = great_project_type_mandala_capital_01
+	}
+
 	is_important = yes
 	is_shown = {
 		government_has_flag = government_is_mandala
@@ -29,6 +33,12 @@ mandala_capital_01 = {
 			NOT = { has_building_with_flag = mandala_capital_building }
 		}
 		NOT = { is_planning_great_project = mandala_capital_01 }
+	}
+
+	is_valid = {
+		scope:province.barony.holder = {
+			government_has_flag = government_is_mandala
+		}
 	}
 
 	can_start_planning = {
@@ -264,28 +274,28 @@ mandala_capital_01 = {
 					#Aspect of Creation
 					trigger_if = {
 						limit = {
-							scope:owner.house = { has_house_power_parameter = aspect_of_creation }
+							scope:owner.house = { has_house_aspiration_parameter = aspect_of_creation }
 						}
 						creation_first_tier_trigger = yes
 					}
 					#Aspect of Serenity
 					trigger_else_if = {
 						limit = {
-							scope:owner.house = { has_house_power_parameter = aspect_of_serenity }
+							scope:owner.house = { has_house_aspiration_parameter = aspect_of_serenity }
 						}
 						serenity_first_tier_trigger = { MANDALA = scope:owner }
 					}
 					#Aspect of Destruction
 					trigger_else_if = {
 						limit = {
-							scope:owner.house = { has_house_power_parameter = aspect_of_destruction }
+							scope:owner.house = { has_house_aspiration_parameter = aspect_of_destruction }
 						}
 						destruction_first_tier_trigger = yes
 					}
 					#Aspect of Trickery
 					trigger_else_if = {
 						limit = {
-							scope:owner.house = { has_house_power_parameter = aspect_of_trickery }
+							scope:owner.house = { has_house_aspiration_parameter = aspect_of_trickery }
 						}
 						trickery_first_tier_trigger = yes
 					}
@@ -702,6 +712,11 @@ mandala_capital_02 = {
 	illustration = {
 		reference = @mandala_capital_illustration
 	}
+
+	name = {
+		desc = great_project_type_mandala_capital_02
+	}
+	
 	owner = province_owner
 
 	is_important = yes
@@ -712,6 +727,12 @@ mandala_capital_02 = {
 			NOT = { has_building_with_flag = second_tier_mandala_capital_building }
 		}
 		NOT = { is_planning_great_project = mandala_capital_02 }
+	}
+
+	is_valid = {
+		scope:province.barony.holder = {
+			government_has_flag = government_is_mandala
+		}
 	}
 
 	can_start_planning = {
@@ -906,28 +927,28 @@ mandala_capital_02 = {
 				#Aspect of Creation
 				trigger_if = {
 					limit = {
-						scope:owner.house = { has_house_power_parameter = aspect_of_creation }
+						scope:owner.house = { has_house_aspiration_parameter = aspect_of_creation }
 					}
 					creation_second_tier_trigger = yes
 				}
 				#Aspect of Serenity
 				trigger_else_if = {
 					limit = {
-						scope:owner.house = { has_house_power_parameter = aspect_of_serenity }
+						scope:owner.house = { has_house_aspiration_parameter = aspect_of_serenity }
 					}
 					serenity_second_tier_trigger = { MANDALA = scope:owner }
 				}
 				#Aspect of Destruction
 				trigger_else_if = {
 					limit = {
-						scope:owner.house = { has_house_power_parameter = aspect_of_destruction }
+						scope:owner.house = { has_house_aspiration_parameter = aspect_of_destruction }
 					}
 					destruction_second_tier_trigger = yes
 				}
 				#Aspect of Trickery
 				trigger_else_if = {
 					limit = {
-						scope:owner.house = { has_house_power_parameter = aspect_of_trickery }
+						scope:owner.house = { has_house_aspiration_parameter = aspect_of_trickery }
 					}
 					trickery_second_tier_trigger = yes
 				}
@@ -1323,6 +1344,11 @@ mandala_capital_03 = {
 	illustration = {
 		reference = @mandala_capital_illustration
 	}
+
+	name = {
+		desc = great_project_type_mandala_capital_03
+	}
+
 	owner = province_owner
 
 	is_important = yes
@@ -1333,6 +1359,12 @@ mandala_capital_03 = {
 			NOT = { has_building_with_flag = third_tier_mandala_capital_building }
 		}
 		NOT = { is_planning_great_project = mandala_capital_03 }
+	}
+
+	is_valid = {
+		scope:province.barony.holder = {
+			government_has_flag = government_is_mandala
+		}
 	}
 
 	can_start_planning = {
@@ -1540,28 +1572,28 @@ mandala_capital_03 = {
 				#Aspect of Creation
 				trigger_if = {
 					limit = {
-						scope:owner.house = { has_house_power_parameter = aspect_of_creation }
+						scope:owner.house = { has_house_aspiration_parameter = aspect_of_creation }
 					}
 					creation_third_tier_trigger = yes
 				}
 				#Aspect of Serenity
 				trigger_else_if = {
 					limit = {
-						scope:owner.house = { has_house_power_parameter = aspect_of_serenity }
+						scope:owner.house = { has_house_aspiration_parameter = aspect_of_serenity }
 					}
 					serenity_third_tier_trigger = { MANDALA = scope:owner }
 				}
 				#Aspect of Destruction
 				trigger_else_if = {
 					limit = {
-						scope:owner.house = { has_house_power_parameter = aspect_of_destruction }
+						scope:owner.house = { has_house_aspiration_parameter = aspect_of_destruction }
 					}
 					destruction_third_tier_trigger = yes
 				}
 				#Aspect of Trickery
 				trigger_else_if = {
 					limit = {
-						scope:owner.house = { has_house_power_parameter = aspect_of_trickery }
+						scope:owner.house = { has_house_aspiration_parameter = aspect_of_trickery }
 					}
 					trickery_third_tier_trigger = yes
 				}
@@ -1771,7 +1803,7 @@ mandala_capital_03 = {
 					always = yes
 				}
 				trigger_else = {
-					scope:owner.house ?= { has_house_power_parameter = aspect_of_creation }
+					scope:owner.house ?= { has_house_aspiration_parameter = aspect_of_creation }
 				}
 			}
 
@@ -1782,7 +1814,7 @@ mandala_capital_03 = {
 				piety_level >= max_piety_level
 				custom_tooltip = {
 					text = great_project_mandala_capital_has_creation_aspect_tt
-					house = { has_house_power_parameter = aspect_of_creation }
+					house = { has_house_aspiration_parameter = aspect_of_creation }
 				}
 			}
 
@@ -1839,7 +1871,7 @@ mandala_capital_03 = {
 					always = yes
 				}
 				trigger_else = {
-					scope:owner.house ?= { has_house_power_parameter = aspect_of_serenity }
+					scope:owner.house ?= { has_house_aspiration_parameter = aspect_of_serenity }
 				}
 			}
 
@@ -1850,7 +1882,7 @@ mandala_capital_03 = {
 				piety_level >= max_piety_level
 				custom_tooltip = {
 					text = great_project_mandala_capital_has_serenity_aspect_tt
-					house = { has_house_power_parameter = aspect_of_serenity }
+					house = { has_house_aspiration_parameter = aspect_of_serenity }
 				}
 			}
 
@@ -1907,7 +1939,7 @@ mandala_capital_03 = {
 					always = yes
 				}
 				trigger_else = {
-					scope:owner.house ?= { has_house_power_parameter = aspect_of_destruction }
+					scope:owner.house ?= { has_house_aspiration_parameter = aspect_of_destruction }
 				}
 			}
 
@@ -1918,7 +1950,7 @@ mandala_capital_03 = {
 				piety_level >= max_piety_level
 				custom_tooltip = {
 					text = great_project_mandala_capital_has_destruction_aspect_tt
-					house = { has_house_power_parameter = aspect_of_destruction }
+					house = { has_house_aspiration_parameter = aspect_of_destruction }
 				}
 			}
 
@@ -1975,7 +2007,7 @@ mandala_capital_03 = {
 					always = yes
 				}
 				trigger_else = {
-					scope:owner.house ?= { has_house_power_parameter = aspect_of_trickery }
+					scope:owner.house ?= { has_house_aspiration_parameter = aspect_of_trickery }
 				}
 			}
 
@@ -1986,7 +2018,7 @@ mandala_capital_03 = {
 				piety_level >= max_piety_level
 				custom_tooltip = {
 					text = great_project_mandala_capital_has_trickery_aspect_tt
-					house = { has_house_power_parameter = aspect_of_trickery }
+					house = { has_house_aspiration_parameter = aspect_of_trickery }
 				}
 			}
 
@@ -2089,7 +2121,10 @@ mandala_capital_03 = {
 			}
 
 			contributor_is_valid = {
-				this = scope:owner
+				custom_tooltip = {
+					text = you_are_owner_of_the_project
+					this = scope:owner
+				}
 				custom_tooltip = {
 					text = tgp_sea_legacy_3_name
 					dynasty = { has_dynasty_perk = tgp_sea_legacy_3 }
@@ -2161,6 +2196,11 @@ mandala_capital_04 = {
 	illustration = {
 		reference = @mandala_capital_illustration
 	}
+
+	name = {
+		desc = great_project_type_mandala_capital_04
+	}
+
 	owner = province_owner
 
 	is_important = yes
@@ -2171,6 +2211,12 @@ mandala_capital_04 = {
 			NOT = { has_building_with_flag = fourth_tier_mandala_capital_building }
 		}
 		NOT = { is_planning_great_project = mandala_capital_04 }
+	}
+
+	is_valid = {
+		scope:province.barony.holder = {
+			government_has_flag = government_is_mandala
+		}
 	}
 
 	can_start_planning = {
@@ -2370,28 +2416,28 @@ mandala_capital_04 = {
 				#Aspect of Creation
 				trigger_if = {
 					limit = {
-						scope:owner.house = { has_house_power_parameter = aspect_of_creation }
+						scope:owner.house = { has_house_aspiration_parameter = aspect_of_creation }
 					}
 					creation_fourth_tier_trigger = yes
 				}
 				#Aspect of Serenity
 				trigger_else_if = {
 					limit = {
-						scope:owner.house = { has_house_power_parameter = aspect_of_serenity }
+						scope:owner.house = { has_house_aspiration_parameter = aspect_of_serenity }
 					}
 					serenity_fourth_tier_trigger = { MANDALA = scope:owner }
 				}
 				#Aspect of Destruction
 				trigger_else_if = {
 					limit = {
-						scope:owner.house = { has_house_power_parameter = aspect_of_destruction }
+						scope:owner.house = { has_house_aspiration_parameter = aspect_of_destruction }
 					}
 					destruction_fourth_tier_trigger = yes
 				}
 				#Aspect of Trickery
 				trigger_else_if = {
 					limit = {
-						scope:owner.house = { has_house_power_parameter = aspect_of_trickery }
+						scope:owner.house = { has_house_aspiration_parameter = aspect_of_trickery }
 					}
 					trickery_fourth_tier_trigger = yes
 				}
@@ -2781,6 +2827,11 @@ mandala_capital_05 = {
 	illustration = {
 		reference = @mandala_capital_illustration
 	}
+
+	name = {
+		desc = great_project_type_mandala_capital_05
+	}
+
 	owner = province_owner
 
 	is_important = yes
@@ -2791,6 +2842,12 @@ mandala_capital_05 = {
 			NOT = { has_building_with_flag = final_tier_mandala_capital_building }
 		}
 		NOT = { is_planning_great_project = mandala_capital_05 }
+	}
+
+	is_valid = {
+		scope:province.barony.holder = {
+			government_has_flag = government_is_mandala
+		}
 	}
 
 	can_start_planning = {
@@ -3024,28 +3081,28 @@ mandala_capital_05 = {
 				#Aspect of Creation
 				trigger_if = {
 					limit = {
-						scope:owner.house = { has_house_power_parameter = aspect_of_creation }
+						scope:owner.house = { has_house_aspiration_parameter = aspect_of_creation }
 					}
 					creation_fifth_tier_trigger = yes
 				}
 				#Aspect of Serenity
 				trigger_else_if = {
 					limit = {
-						scope:owner.house = { has_house_power_parameter = aspect_of_serenity }
+						scope:owner.house = { has_house_aspiration_parameter = aspect_of_serenity }
 					}
 					serenity_fifth_tier_trigger = { MANDALA = scope:owner }
 				}
 				#Aspect of Destruction
 				trigger_else_if = {
 					limit = {
-						scope:owner.house = { has_house_power_parameter = aspect_of_destruction }
+						scope:owner.house = { has_house_aspiration_parameter = aspect_of_destruction }
 					}
 					destruction_fifth_tier_trigger = yes
 				}
 				#Aspect of Trickery
 				trigger_else_if = {
 					limit = {
-						scope:owner.house = { has_house_power_parameter = aspect_of_trickery }
+						scope:owner.house = { has_house_aspiration_parameter = aspect_of_trickery }
 					}
 					trickery_fifth_tier_trigger = yes
 				}
@@ -3394,6 +3451,10 @@ construct_great_barracks = {
 	illustration = {
 		reference = @castle_china_illustration
 	}
+
+	name = {
+		desc = great_project_type_construct_great_barracks
+	}
 	
 	is_shown = {
 		has_tgp_dlc_trigger = yes
@@ -3405,6 +3466,7 @@ construct_great_barracks = {
 			}
 			has_title = title:e_minister_of_war
 			has_title = title:e_minister_grand_marshal
+			has_title = title:e_minister_of_works
 		}
 		NOT = { is_planning_great_project = construct_great_barracks }
 	}
@@ -3433,13 +3495,14 @@ construct_great_barracks = {
 				limit = {
 					barony.county.holder = {
 						is_ai = no
+						this != root
 					}
 				}
-				NOT = {
-					has_building_with_flag = duchy_building
-				}		
 				custom_tooltip = {
 					text = great_project_type_construct_great_barracks_do_not_override_player_building
+					NOT = {
+						has_building_with_flag = duchy_building
+					}
 				}
 			}
 		}
@@ -3447,12 +3510,11 @@ construct_great_barracks = {
 
 	can_start_planning = {
 		# You/your liege/the minister have not already planned this project
-		NOR = {
-			is_planning_great_project = construct_great_barracks
-			custom_tooltip = {
-				text = only_single_great_project_type_allowed
-				any_great_project = {
-					great_project_type = construct_great_barracks
+		NOT = {
+			top_liege = {
+				custom_tooltip = {
+					text = only_single_great_project_type_allowed
+					is_planning_great_project = construct_great_barracks
 				}
 			}
 		}
@@ -3478,21 +3540,39 @@ construct_great_barracks = {
 	on_start_build = {}
 	
 	on_complete = {
-		custom_tooltip = {
-			text = great_project_type_construct_great_barracks_province_gains_great_barracks
-			scope:province = {
-				add_building = celestial_great_barracks_01
+		if = {
+			limit = {
+				NOT = {
+					scope:province ?= {
+						has_building_with_flag = duchy_building
+					}
+				}
+			}
+			custom_tooltip = {
+				text = great_project_type_construct_great_barracks_province_gains_great_barracks
+				scope:province ?= {
+					add_building = celestial_great_barracks_01
+				}
 			}
 		}
-		scope:province ?= {
-			if = {
-				limit = {
-					has_building_with_flag = duchy_building
+		else = {
+			custom_tooltip = {
+				text = project_great_barracks_replace_tt
+				scope:province ?= {
+					replace_building_effect = celestial_great_barracks_01
 				}
-				custom_tooltip = project_great_barracks_replace_tt
 			}
 		}
 		great_project_notify_completion = { CHARACTER = scope:owner }
+		scope:founder ?= {
+			if = {
+				limit = {
+					tgp_is_any_minister = yes
+					is_alive = yes # this is actually necessary, because they remain the scope character and accessible even after death
+				}
+				change_influence = minister_influence_gain_value
+			}
+		}
 	}
 	
 	on_cancel = {}
@@ -3507,6 +3587,7 @@ construct_great_barracks = {
 						is_liege_or_above_of = scope:great_project.great_project_location.province_owner
 						has_title = title:e_minister_of_war
 						has_title = title:e_minister_grand_marshal
+						has_title = title:e_minister_of_works
 					}
 				}
 			}
@@ -3555,6 +3636,7 @@ construct_great_barracks = {
 						is_liege_or_above_of = scope:great_project.great_project_location.province_owner
 						has_title = title:e_minister_of_war
 						has_title = title:e_minister_grand_marshal
+						has_title = title:e_minister_of_works
 					}
 				}
 			}
@@ -3603,6 +3685,7 @@ construct_great_barracks = {
 						is_liege_or_above_of = scope:great_project.great_project_location.province_owner
 						has_title = title:e_minister_of_war
 						has_title = title:e_minister_grand_marshal
+						has_title = title:e_minister_of_works
 					}
 				}
 			}
@@ -3651,6 +3734,7 @@ construct_great_barracks = {
 						is_liege_or_above_of = scope:great_project.great_project_location.province_owner
 						has_title = title:e_minister_of_war
 						has_title = title:e_minister_grand_marshal
+						has_title = title:e_minister_of_works
 					}
 				}
 			}
@@ -3742,11 +3826,26 @@ strengthen_capital = {
 	illustration = {
 		reference = @courtyard_asia_illustration
 	}
+
+	name = {
+		desc = great_project_type_strengthen_capital
+	}
 	
 	is_shown = {
 		has_tgp_dlc_trigger = yes
-		any_held_title = { this = title:h_china }
-		NOT = { is_planning_great_project = strengthen_capital }
+		OR = {
+			has_title = title:h_china
+			has_title = title:e_minister_of_works
+		}
+		NOR = {
+			is_planning_great_project = strengthen_capital
+			custom_tooltip = {
+				text = only_single_great_project_type_allowed
+				any_great_project = {
+					great_project_type = strengthen_capital
+				}
+			}
+		}
 		NOT = {
 			any_sub_realm_county = {
 				has_county_modifier = tgp_strengthen_capital_modifier
@@ -3761,11 +3860,14 @@ strengthen_capital = {
 	}
 
 	can_start_planning = {
-		is_independent_ruler = yes
+		OR = {
+			is_independent_ruler = yes
+			has_title = title:e_minister_of_works
+		}
 	}
 	
 	is_valid = {
-		scope:owner.house = scope:founder.house
+		scope:province.county.holder.top_liege ?= scope:owner
 	}
 
 	cost = {
@@ -3796,34 +3898,77 @@ strengthen_capital = {
 				years = 20
 			}
 		}
-		scope:owner ?= {
-			send_interface_toast = {
-				type = event_generic_neutral_text
-				title = great_project_completed_msg_t
-				left_icon = scope:owner
-				right_icon = scope:province.county
-				desc = great_project_completed_msg_desc
+		show_as_tooltip = {
+			scope:founder.top_liege ?= { # because the real owner doesn't exist in the effect preview
+				send_interface_toast = {
+					type = event_generic_neutral_text
+					title = great_project_completed_msg_t
+					left_icon = scope:owner
+					right_icon = scope:province.county
+					desc = great_project_completed_msg_desc
 
-				add_character_modifier = {
-					modifier = tgp_strengthen_capital_character_modifier
-					years = 20
-				}
-				
-				if = {
-					limit = { is_valid_for_legitimacy_change = yes }
-					add_legitimacy = {
-						value = medium_legitimacy_gain
-						if = {
-							limit = {
-								any_character_situation = {
-									situation_type = dynastic_cycle
-									has_situation_top_phase_parameter = dynastic_cycle_great_projects_increased_legitimacy
+					add_character_modifier = {
+						modifier = tgp_strengthen_capital_character_modifier
+						years = 20
+					}
+					
+					if = {
+						limit = { is_valid_for_legitimacy_change = yes }
+						add_legitimacy = {
+							value = medium_legitimacy_gain
+							if = {
+								limit = {
+									any_character_situation = {
+										situation_type = dynastic_cycle
+										has_situation_top_phase_parameter = dynastic_cycle_great_projects_increased_legitimacy
+									}
 								}
+								multiply = 2
 							}
-							multiply = 2
 						}
 					}
 				}
+			}		
+		}
+		hidden_effect = {
+			scope:owner ?= {
+				send_interface_toast = {
+					type = event_generic_neutral_text
+					title = great_project_completed_msg_t
+					left_icon = scope:owner
+					right_icon = scope:province.county
+					desc = great_project_completed_msg_desc
+
+					add_character_modifier = {
+						modifier = tgp_strengthen_capital_character_modifier
+						years = 20
+					}
+					
+					if = {
+						limit = { is_valid_for_legitimacy_change = yes }
+						add_legitimacy = {
+							value = medium_legitimacy_gain
+							if = {
+								limit = {
+									any_character_situation = {
+										situation_type = dynastic_cycle
+										has_situation_top_phase_parameter = dynastic_cycle_great_projects_increased_legitimacy
+									}
+								}
+								multiply = 2
+							}
+						}
+					}
+				}
+			}
+		}
+		scope:founder ?= {
+			if = {
+				limit = {
+					tgp_is_any_minister = yes
+					is_alive = yes # this is actually necessary, because they remain the scope character and accessible even after death
+				}
+				change_influence = minister_influence_gain_value
 			}
 		}
 		# The ruling house can only do this once, so let's set a cooldown
@@ -4118,6 +4263,10 @@ great_wall = { # This is a project to upgrade pre-existing wall sections within 
 	illustration = {
 		reference = @great_wall_illustration
 	}
+
+	name = {
+		desc = great_project_type_great_wall
+	}
 	
 	is_shown = {
 		# You are the hegemon or a relevant minister
@@ -4158,8 +4307,16 @@ great_wall = { # This is a project to upgrade pre-existing wall sections within 
 	}
 
 	is_valid = {
-		scope:province = {
-			province_owner = { top_liege = scope:owner.top_liege }
+		scope:owner = {
+			any_realm_county = { # You need to still have a valid section to upgrade
+				any_county_province = {
+					OR = {
+						has_building = the_great_wall_01
+						has_building = the_great_wall_02
+						has_building = the_great_wall_03
+					}
+				}
+			}
 		}
 	}
 
@@ -4188,6 +4345,15 @@ great_wall = { # This is a project to upgrade pre-existing wall sections within 
 		# We do not build the wall here, the upgrades are done as contributions instead
 		custom_tooltip = {
 			text = great_project_type_great_wall_province_gains_great_wall
+		}
+		scope:founder ?= {
+			if = {
+				limit = {
+					tgp_is_any_minister = yes
+					is_alive = yes # this is actually necessary, because they remain the scope character and accessible even after death
+				}
+				change_influence = minister_influence_gain_value
+			}
 		}
 	}
 
@@ -4219,7 +4385,10 @@ great_wall = { # This is a project to upgrade pre-existing wall sections within 
 		master_builder = {
 			contributor_is_valid = {
 				OR = {
-					this = scope:owner
+					custom_tooltip = {
+						text = you_are_owner_of_the_project
+						this = scope:owner
+					}
 					has_title = title:e_minister_of_works
 				}
 			}
@@ -4666,7 +4835,87 @@ great_wall = { # This is a project to upgrade pre-existing wall sections within 
 			}
 		}
 		walls_11 = { # b_yongfeng
+			   
+									  
+														 
+													 
+	 
+	
+				  
+																			   
+											  
+	
+   
+		   
+													 
+	
+   
+																
+   
+				   
+   
+							 
+						   
+										
+	 
+										   
+													
+	
+
+									   
+			  
+			   
+			 
+			   
+			  
+				
+	
+				 
+																	 
+	
+   
+						  
 			is_shown = {
+									  
+														 
+													 
+	 
+	
+				  
+																			   
+											  
+	
+   
+		   
+													 
+	
+   
+																
+   
+				   
+   
+							 
+						   
+										
+	 
+										   
+													
+	
+
+									   
+			  
+			   
+			 
+			   
+			  
+				
+	
+				 
+																	 
+	
+   
+						   
+			   
 				title:b_yongfeng.title_province = {
 					NOT = { has_building_or_higher = the_great_wall_04 }
 					province_owner ?= { top_liege = root.top_liege }
@@ -5623,6 +5872,7 @@ great_wall = { # This is a project to upgrade pre-existing wall sections within 
 		#	}
 		#	ai_will_do = {
 		#		value = chinese_great_projects_contribution_ai_will_do_base_value
+	
 		#	}
 		#}
 		#walls_35 = { # b_cirlxj_yangcheng
@@ -5663,6 +5913,7 @@ great_wall = { # This is a project to upgrade pre-existing wall sections within 
 		#	}
 		#	ai_will_do = {
 		#		value = chinese_great_projects_contribution_ai_will_do_base_value
+	
 		#	}
 		#}
 	}
@@ -5699,6 +5950,10 @@ great_wall_extend_to_shanhai_pass = {
 	illustration = {
 		reference = @great_wall_illustration
 	}
+
+		 
+															 
+  
 
 	is_shown = {
 		# The wall has not already been built
@@ -5888,6 +6143,15 @@ great_wall_extend_to_shanhai_pass = {
 			name = great_wall_extend_to_shanhai_pass_complete
 			value = yes
 		}
+		scope:founder ?= {
+			if = {
+				limit = {
+					tgp_is_any_minister = yes
+					is_alive = yes # this is actually necessary, because they remain the scope character and accessible even after death
+				}
+				change_influence = minister_influence_gain_value
+			}
+		}
 	}
 
 	on_cancel = {
@@ -5914,7 +6178,7 @@ great_wall_extend_to_shanhai_pass = {
 	}
 
 	project_contributions = {
-		materials_01 = {
+		materials = {
 			contributor_is_valid = {
 				OR = {
 					top_liege = scope:owner
@@ -5949,7 +6213,7 @@ great_wall_extend_to_shanhai_pass = {
 				value = chinese_great_projects_contribution_ai_will_do_base_value
 			}
 		}
-		materials_02 = {
+		land_clearance = {
 			contributor_is_valid = {
 				OR = {
 					top_liege = scope:owner
@@ -5984,7 +6248,7 @@ great_wall_extend_to_shanhai_pass = {
 				value = chinese_great_projects_contribution_ai_will_do_base_value
 			}
 		}
-		materials_03 = {
+		engineers = {
 			contributor_is_valid = {
 				OR = {
 					top_liege = scope:owner
@@ -6019,7 +6283,7 @@ great_wall_extend_to_shanhai_pass = {
 				value = chinese_great_projects_contribution_ai_will_do_base_value
 			}
 		}
-		materials_04 = {
+		logistics = {
 			contributor_is_valid = {
 				OR = {
 					top_liege = scope:owner
@@ -6054,7 +6318,7 @@ great_wall_extend_to_shanhai_pass = {
 				value = chinese_great_projects_contribution_ai_will_do_base_value
 			}
 		}
-		materials_05 = {
+		personnel_construction = {
 			contributor_is_valid = {
 				OR = {
 					top_liege = scope:owner
@@ -6089,7 +6353,7 @@ great_wall_extend_to_shanhai_pass = {
 				value = chinese_great_projects_contribution_ai_will_do_base_value
 			}
 		}
-		materials_06 = {
+		personnel_dig = {
 			contributor_is_valid = {
 				OR = {
 					top_liege = scope:owner
@@ -6124,7 +6388,7 @@ great_wall_extend_to_shanhai_pass = {
 				value = chinese_great_projects_contribution_ai_will_do_base_value
 			}
 		}
-		materials_07 = {
+		architects = {
 			contributor_is_valid = {
 				OR = {
 					top_liege = scope:owner
@@ -6165,7 +6429,7 @@ great_wall_extend_to_shanhai_pass = {
 				}
 			}
 		}
-		materials_08 = {
+		fort_material = {
 			contributor_is_valid = {
 				OR = {
 					top_liege = scope:owner
@@ -6241,6 +6505,11 @@ great_wall_extend_to_liaodong = {
 		reference = @great_wall_illustration
 	}
 
+	name = {
+		desc = great_project_type_great_wall_extend_to_liaodong
+	}
+
+
 	is_shown = {
 		# The wall has not already been built
 		NOT = { has_global_variable = great_wall_extend_to_liaodong_complete }
@@ -6272,7 +6541,7 @@ great_wall_extend_to_liaodong = {
 					this = title:c_guidezhou_china
 					this = title:c_anshi_china
 					this = title:c_pozhuo_china
-					this = title:c_anju_china
+					this = title:c_uiju
 				}
 			}
 		}
@@ -6347,7 +6616,7 @@ great_wall_extend_to_liaodong = {
 				province_owner ?= { top_liege = root.top_liege }
 			}
 		}
-		title:b_fuzhou_liao_china.title_province = {
+		title:b_Liao_Yuanzhou.title_province = {
 			save_temporary_scope_as = great_wall_extend_province
 			custom_tooltip = {
 				text = great_wall_extend_to_top_liege_of_province
@@ -6427,7 +6696,7 @@ great_wall_extend_to_liaodong = {
 				province_owner ?= { top_liege = root.top_liege }
 			}
 		}
-		title:b_uiju_china.title_province = {
+		title:b_Goryeo_Bukgye_Uiju.title_province = {
 			save_temporary_scope_as = great_wall_extend_province
 			custom_tooltip = {
 				text = great_wall_extend_to_top_liege_of_province
@@ -6435,6 +6704,14 @@ great_wall_extend_to_liaodong = {
 				province_owner ?= { top_liege = root.top_liege }
 			}
 		}
+												  
+													   
+					 
+													 
+					 
+													
+	
+   
 	}
 
 	is_valid = {
@@ -6459,7 +6736,7 @@ great_wall_extend_to_liaodong = {
 		title:b_suizhoushanhe_china.title_province = {
 			province_owner ?= { top_liege = scope:owner.top_liege }
 		}
-		title:b_fuzhou_liao_china.title_province = {
+		title:b_Liao_Yuanzhou.title_province = {
 			province_owner ?= { top_liege = scope:owner.top_liege }
 		}
 		title:b_xinmin_china.title_province = {
@@ -6489,9 +6766,12 @@ great_wall_extend_to_liaodong = {
 		title:b_daxing_pozhuocheng_china.title_province = {
 			province_owner ?= { top_liege = scope:owner.top_liege }
 		}
-		title:b_uiju_china.title_province = {
+		title:b_Goryeo_Bukgye_Uiju.title_province = {
 			province_owner ?= { top_liege = scope:owner.top_liege }
 		}
+												  
+														  
+   
 	}
 
 	cost = {
@@ -6530,8 +6810,9 @@ great_wall_extend_to_liaodong = {
 			title:b_liuchengyingzhou_china.title_province = { add_great_building = the_great_wall_04 }
 			title:b_yongan_jiangsheng_china.title_province = { add_great_building = the_great_wall_04 }
 			title:b_suizhoushanhe_china.title_province = { add_great_building = the_great_wall_04 }
-			title:b_fuzhou_liao_china.title_province = { add_great_building = the_great_wall_04 }
+			title:b_Liao_Yuanzhou.title_province = { add_great_building = the_great_wall_04 }
 			title:b_xinmin_china.title_province = { add_great_building = the_great_wall_04 }
+																					
 			title:b_nansuzhou_xianzhou_china.title_province = { add_great_building = the_great_wall_04 }
 			title:b_fushan_china.title_province = { add_great_building = the_great_wall_04 }
 			title:b_gaimouzhou_china.title_province = { add_great_building = the_great_wall_04 }
@@ -6540,12 +6821,21 @@ great_wall_extend_to_liaodong = {
 			title:b_baiyacheng_china.title_province = { add_great_building = the_great_wall_liaodong }
 			title:b_wugucheng_china.title_province = { add_great_building = the_great_wall_04 }
 			title:b_daxing_pozhuocheng_china.title_province = { add_great_building = the_great_wall_04 }
-			title:b_uiju_china.title_province = { add_great_building = the_great_wall_04 }
+			title:b_Goryeo_Bukgye_Uiju.title_province = { add_great_building = the_great_wall_04 }
 		}
 		# Mark this section as complete
 		set_global_variable = {
 			name = great_wall_extend_to_liaodong_complete
 			value = yes
+		}
+		scope:founder ?= {
+			if = {
+				limit = {
+					tgp_is_any_minister = yes
+					is_alive = yes # this is actually necessary, because they remain the scope character and accessible even after death
+				}
+				change_influence = minister_influence_gain_value
+			}
 		}
 	}
 
@@ -6573,7 +6863,7 @@ great_wall_extend_to_liaodong = {
 	}
 
 	project_contributions = {
-		materials_01 = {
+		materials = {
 			contributor_is_valid = {
 				OR = {
 					top_liege = scope:owner
@@ -6608,7 +6898,7 @@ great_wall_extend_to_liaodong = {
 				value = chinese_great_projects_contribution_ai_will_do_base_value
 			}
 		}
-		materials_02 = {
+		workforce = {
 			contributor_is_valid = {
 				OR = {
 					top_liege = scope:owner
@@ -6678,7 +6968,7 @@ great_wall_extend_to_liaodong = {
 				value = chinese_great_projects_contribution_ai_will_do_base_value
 			}
 		}
-		materials_04 = {
+		engineers = {
 			contributor_is_valid = {
 				OR = {
 					top_liege = scope:owner
@@ -6748,6 +7038,11 @@ grand_canals = {
 	illustration = {
 		reference = @grand_canals_illustration
 	}
+
+	name = {
+		desc = great_project_type_grand_canals
+	}
+
 
 	is_shown = {
 		has_tgp_dlc_trigger = yes
@@ -6877,13 +7172,25 @@ grand_canals = {
 			}
 		}
 		tgp_silk_road_canal_built_effect = yes
+		scope:founder ?= {
+			if = {
+				limit = {
+					tgp_is_any_minister = yes
+					is_alive = yes # this is actually necessary, because they remain the scope character and accessible even after death
+				}
+				change_influence = minister_influence_gain_value
+			}
+		}
 	}
 
 	project_contributions = {
 		materials = {
 			contributor_is_valid = {
 				OR = {
-					this = scope:owner
+					custom_tooltip = {
+						text = you_are_owner_of_the_project
+						this = scope:owner
+					}
 					is_governor = yes
 				}
 			}
@@ -6979,7 +7286,10 @@ grand_canals = {
 		logistics = {
 			contributor_is_valid = {
 				OR = {
-					this = scope:owner
+					custom_tooltip = {
+						text = you_are_owner_of_the_project
+						this = scope:owner
+					}
 					is_governor = yes
 				}
 			}
@@ -7067,7 +7377,10 @@ grand_canals = {
 		personnel_construction = {
 			contributor_is_valid = {
 				OR = {
-					this = scope:owner
+					custom_tooltip = {
+						text = you_are_owner_of_the_project
+						this = scope:owner
+					}
 					is_governor = yes
 				}
 			}
@@ -7147,7 +7460,10 @@ grand_canals = {
 		personnel_dig = {
 			contributor_is_valid = {
 				OR = {
-					this = scope:owner
+					custom_tooltip = {
+						text = you_are_owner_of_the_project
+						this = scope:owner
+					}
 					is_governor = yes
 				}
 			}
@@ -7227,7 +7543,10 @@ grand_canals = {
 		engineers = {
 			contributor_is_valid = {
 				OR = {
-					this = scope:owner
+					custom_tooltip = {
+						text = you_are_owner_of_the_project
+						this = scope:owner
+					}
 					is_governor = yes
 				}
 			}
@@ -7307,7 +7626,10 @@ grand_canals = {
 		dredging_boats = {
 			contributor_is_valid = {
 				OR = {
-					this = scope:owner
+					custom_tooltip = {
+						text = you_are_owner_of_the_project
+						this = scope:owner
+					}
 					is_governor = yes
 				}
 				any_sub_realm_county = {

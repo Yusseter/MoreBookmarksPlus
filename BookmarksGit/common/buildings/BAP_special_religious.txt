@@ -10,7 +10,22 @@ wap_sarki_well_01 = { #Well of the serpent Sarki - credit to More buildings for 
 	type_icon = "icon_building_sarki_well.dds" 
 
 	can_construct_potential = {
-		building_requirement_tribal = no
+		trigger_if = {
+			limit = {
+				NOT = {
+					scope:holder.culture = {
+						has_cultural_parameter = tribals_can_into_temples
+					}
+				}
+			}
+			building_requirement_tribal = no
+			building_requirement_tribal_holding_in_county = yes
+		}
+		trigger_else = {
+			scope:holder.culture = {
+				has_cultural_parameter = tribals_can_into_temples
+			}
+		}
 	}
 	
 	is_enabled = {
@@ -32,8 +47,14 @@ wap_sarki_well_01 = { #Well of the serpent Sarki - credit to More buildings for 
 		monthly_county_control_growth_add = 0.5
 	}
 	
+	on_complete = {
+		#Regular Mandala Boon
+		mandala_built_piety_duchy_building_t3_effect = yes
+	}
+	
 	ai_value = {
 		base = 100
+		ai_pious_building_preference_modifier = yes
 		modifier = { # Fill all building slots before going for special buildings
 			factor = 0
 			free_building_slots > 0
@@ -78,8 +99,14 @@ wap_oracle_of_ife_01 = {
 		development_growth = 0.2
 	}
 	
+	on_complete = {
+		#Regular Mandala Boon
+		mandala_built_piety_duchy_building_t3_effect = yes
+	}
+	
 	ai_value = {
 		base = 100
+		ai_pious_building_preference_modifier = yes
 		modifier = { # Fill all building slots before going for special buildings
 			factor = 0
 			free_building_slots > 0
@@ -96,7 +123,22 @@ wap_cavern_of_bida_01 = {
 	type_icon = "icon_building_ogbunike_cave.dds"
 	
 	can_construct_potential = {
-		building_requirement_tribal = no
+		trigger_if = {
+			limit = {
+				NOT = {
+					scope:holder.culture = {
+						has_cultural_parameter = tribals_can_into_temples
+					}
+				}
+			}
+			building_requirement_tribal = no
+			building_requirement_tribal_holding_in_county = yes
+		}
+		trigger_else = {
+			scope:holder.culture = {
+				has_cultural_parameter = tribals_can_into_temples
+			}
+		}
 	}
 	is_enabled = {
 		scope:holder = { religion = religion:west_african_religion }
@@ -113,8 +155,14 @@ wap_cavern_of_bida_01 = {
 		tax_mult = 0.15
 	}
 	
+	on_complete = {
+		#Regular Mandala Boon
+		mandala_built_piety_duchy_building_t3_effect = yes
+	}
+	
 	ai_value = {
 		base = 100
+		ai_pious_building_preference_modifier = yes
 		modifier = { # Fill all building slots before going for special buildings
 			factor = 0
 			free_building_slots > 0
@@ -131,7 +179,22 @@ wap_mausoleum_of_juba_01 = {
 	type_icon = "icon_building_numidian_mausoleum.dds"
 	
 	can_construct_potential = {
-		building_requirement_tribal = no
+		trigger_if = {
+			limit = {
+				NOT = {
+					scope:holder.culture = {
+						has_cultural_parameter = tribals_can_into_temples
+					}
+				}
+			}
+			building_requirement_tribal = no
+			building_requirement_tribal_holding_in_county = yes
+		}
+		trigger_else = {
+			scope:holder.culture = {
+				has_cultural_parameter = tribals_can_into_temples
+			}
+		}
 	}
 	
 	cost_gold = 3000
@@ -144,8 +207,14 @@ wap_mausoleum_of_juba_01 = {
 		build_speed = -0.1 # 'Stealing' the metal from the ruins itself
 	}
 
+	on_complete = {
+		#Regular Mandala Boon
+		mandala_built_piety_duchy_building_t3_effect = yes
+	}
+	
 	ai_value = {
 		base = 100
+		ai_pious_building_preference_modifier = yes
 		modifier = { # Fill all building slots before going for special buildings
 			factor = 0
 			free_building_slots > 0
@@ -162,7 +231,22 @@ wap_madghacen_01 = {
 	type_icon = "icon_building_numidian_mausoleum.dds"
 	
 	can_construct_potential = {
-		building_requirement_tribal = no
+		trigger_if = {
+			limit = {
+				NOT = {
+					scope:holder.culture = {
+						has_cultural_parameter = tribals_can_into_temples
+					}
+				}
+			}
+			building_requirement_tribal = no
+			building_requirement_tribal_holding_in_county = yes
+		}
+		trigger_else = {
+			scope:holder.culture = {
+				has_cultural_parameter = tribals_can_into_temples
+			}
+		}
 	}
 	
 	cost_gold = 3000
@@ -175,8 +259,14 @@ wap_madghacen_01 = {
 		build_speed = -0.1 # 'Stealing' the metal from the ruins itself
 	}
 
+	on_complete = {
+		#Regular Mandala Boon
+		mandala_built_piety_duchy_building_t3_effect = yes
+	}
+	
 	ai_value = {
 		base = 100
+		ai_pious_building_preference_modifier = yes
 		modifier = { # Fill all building slots before going for special buildings
 			factor = 0
 			free_building_slots > 0
@@ -193,7 +283,22 @@ wap_tomb_of_tin_hinan_01 = {
 	type_icon = "icon_building_tomb_of_tin_hinan.dds"
 	
 	can_construct_potential = {
-		building_requirement_tribal = no
+		trigger_if = {
+			limit = {
+				NOT = {
+					scope:holder.culture = {
+						has_cultural_parameter = tribals_can_into_temples
+					}
+				}
+			}
+			building_requirement_tribal = no
+			building_requirement_tribal_holding_in_county = yes
+		}
+		trigger_else = {
+			scope:holder.culture = {
+				has_cultural_parameter = tribals_can_into_temples
+			}
+		}
 	}
 	
 	is_enabled = {
@@ -219,8 +324,14 @@ wap_tomb_of_tin_hinan_01 = {
 	
 	next_building = wap_tomb_of_tin_hinan_02
 	
+	on_complete = {
+		#Regular Mandala Boon
+		mandala_built_piety_duchy_building_t3_effect = yes
+	}
+	
 	ai_value = {
 		base = 100
+		ai_pious_building_preference_modifier = yes
 		modifier = { # Fill all building slots before going for special buildings
 			factor = 0
 			free_building_slots > 0
@@ -237,7 +348,22 @@ wap_tomb_of_tin_hinan_02 = {
 	type_icon = "icon_building_tomb_of_tin_hinan.dds"
 	
 	can_construct_potential = {
-		building_requirement_tribal = no
+		trigger_if = {
+			limit = {
+				NOT = {
+					scope:holder.culture = {
+						has_cultural_parameter = tribals_can_into_temples
+					}
+				}
+			}
+			building_requirement_tribal = no
+			building_requirement_tribal_holding_in_county = yes
+		}
+		trigger_else = {
+			scope:holder.culture = {
+				has_cultural_parameter = tribals_can_into_temples
+			}
+		}
 	}
 	
 	can_construct = {
@@ -287,8 +413,14 @@ wap_tomb_of_tin_hinan_02 = {
 		development_growth = 0.2
 	}
 
+	on_complete = {
+		#Regular Mandala Boon
+		mandala_built_piety_duchy_building_t3_effect = yes
+	}
+	
 	ai_value = {
 		base = 100
+		ai_pious_building_preference_modifier = yes
 		modifier = { # Fill all building slots before going for special buildings
 			factor = 0
 			free_building_slots > 0
@@ -305,7 +437,22 @@ wap_senegambian_stone_circles_01 = { #Credit to more buildings mods for the icon
 	type_icon = "icon_building_senegambian_stone_circle.dds"  
 		
 	can_construct_potential = {
-		building_requirement_tribal = no
+		trigger_if = {
+			limit = {
+				NOT = {
+					scope:holder.culture = {
+						has_cultural_parameter = tribals_can_into_temples
+					}
+				}
+			}
+			building_requirement_tribal = no
+			building_requirement_tribal_holding_in_county = yes
+		}
+		trigger_else = {
+			scope:holder.culture = {
+				has_cultural_parameter = tribals_can_into_temples
+			}
+		}
 	}
 	is_enabled = {
 		scope:holder = { religion = religion:west_african_roog_religion }
@@ -321,8 +468,14 @@ wap_senegambian_stone_circles_01 = { #Credit to more buildings mods for the icon
 		tax_mult = 0.15
 	}
 	
+	on_complete = {
+		#Regular Mandala Boon
+		mandala_built_piety_duchy_building_t3_effect = yes
+	}
+	
 	ai_value = {
 		base = 100
+		ai_pious_building_preference_modifier = yes
 		modifier = { # Fill all building slots before going for special buildings
 			factor = 0
 			free_building_slots > 0
@@ -338,7 +491,22 @@ wap_obelisk_of_aksum_01 = { #Credit to more special buildings mods for the icon
 	type_icon = "icon_building_obelisk_of_axum.dds"
 	
 	can_construct_potential = {
-		building_requirement_tribal = no
+		trigger_if = {
+			limit = {
+				NOT = {
+					scope:holder.culture = {
+						has_cultural_parameter = tribals_can_into_temples
+					}
+				}
+			}
+			building_requirement_tribal = no
+			building_requirement_tribal_holding_in_county = yes
+		}
+		trigger_else = {
+			scope:holder.culture = {
+				has_cultural_parameter = tribals_can_into_temples
+			}
+		}
 	}
 	
 	can_construct = {
@@ -361,8 +529,14 @@ wap_obelisk_of_aksum_01 = { #Credit to more special buildings mods for the icon
 		development_growth = 0.2
 	}
 	
+	on_complete = {
+		#Regular Mandala Boon
+		mandala_built_piety_duchy_building_t3_effect = yes
+	}
+	
 	ai_value = {
 		base = 100
+		ai_pious_building_preference_modifier = yes
 		modifier = { # Fill all building slots before going for special buildings
 			factor = 0
 			free_building_slots > 0
@@ -383,7 +557,22 @@ wap_temple_of_amun_01 = { #Credit to more buildings mods for the icon
 	type_icon = "icon_building_jebel_barkal.dds"
 	
 	can_construct_potential = {
-		building_requirement_tribal = no
+		trigger_if = {
+			limit = {
+				NOT = {
+					scope:holder.culture = {
+						has_cultural_parameter = tribals_can_into_temples
+					}
+				}
+			}
+			building_requirement_tribal = no
+			building_requirement_tribal_holding_in_county = yes
+		}
+		trigger_else = {
+			scope:holder.culture = {
+				has_cultural_parameter = tribals_can_into_temples
+			}
+		}
 	}
 	
 	cost_gold = 3000
@@ -399,8 +588,14 @@ wap_temple_of_amun_01 = { #Credit to more buildings mods for the icon
 	
     next_building = wap_temple_of_amun_02
 
+	on_complete = {
+		#Regular Mandala Boon
+		mandala_built_piety_duchy_building_t3_effect = yes
+	}
+	
 	ai_value = {
 		base = 100
+		ai_pious_building_preference_modifier = yes
 		modifier = { # Fill all building slots before going for special buildings
 			factor = 0
 			free_building_slots > 0
@@ -417,10 +612,25 @@ wap_temple_of_amun_02 = {
 	type_icon = "icon_building_jebel_barkal.dds"
 	
 	can_construct_potential = {
-	    building_requirement_tribal = no
+		trigger_if = {
+			limit = {
+				NOT = {
+					scope:holder.culture = {
+						has_cultural_parameter = tribals_can_into_temples
+					}
+				}
+			}
+			building_requirement_tribal = no
+			building_requirement_tribal_holding_in_county = yes
+		}
+		trigger_else = {
+			scope:holder.culture = {
+				has_cultural_parameter = tribals_can_into_temples
+			}
+		}
 		scope:holder = {
-            religion = religion:kushitism_religion
-        }   
+			religion = religion:kushitism_religion
+		}   
 	}
 	is_enabled = {
 		scope:county.holder = { 
@@ -445,8 +655,15 @@ wap_temple_of_amun_02 = {
 	province_modifier = {
 		travel_danger = -20 
 	}
+	
+	on_complete = {
+		#Regular Mandala Boon
+		mandala_built_piety_duchy_building_t3_effect = yes
+	}
+	
 	ai_value = {
 		base = 100
+		ai_pious_building_preference_modifier = yes
 		modifier = { # Fill all building slots before going for special buildings
 			factor = 0
 			free_building_slots > 0
@@ -463,7 +680,22 @@ wap_temple_of_philae_01 = { #Credit to more buildings mods for the icon
 	type_icon = "icon_building_temple_of_philae.dds"
 	
 	can_construct_potential = {
-		building_requirement_tribal = no
+		trigger_if = {
+			limit = {
+				NOT = {
+					scope:holder.culture = {
+						has_cultural_parameter = tribals_can_into_temples
+					}
+				}
+			}
+			building_requirement_tribal = no
+			building_requirement_tribal_holding_in_county = yes
+		}
+		trigger_else = {
+			scope:holder.culture = {
+				has_cultural_parameter = tribals_can_into_temples
+			}
+		}
 	}
 	
 	cost_gold = 3000
@@ -478,8 +710,14 @@ wap_temple_of_philae_01 = { #Credit to more buildings mods for the icon
 	
 	next_building = wap_temple_of_philae_02
 
+	on_complete = {
+		#Regular Mandala Boon
+		mandala_built_piety_duchy_building_t3_effect = yes
+	}
+	
 	ai_value = {
 		base = 100
+		ai_pious_building_preference_modifier = yes
 		modifier = { # Fill all building slots before going for special buildings
 			factor = 0
 			free_building_slots > 0
@@ -496,9 +734,24 @@ wap_temple_of_philae_02 = {
 	type_icon = "icon_building_temple_of_philae.dds"
 	
 	can_construct_potential = {
-	    building_requirement_tribal = no
+		trigger_if = {
+			limit = {
+				NOT = {
+					scope:holder.culture = {
+						has_cultural_parameter = tribals_can_into_temples
+					}
+				}
+			}
+			building_requirement_tribal = no
+			building_requirement_tribal_holding_in_county = yes
+		}
+		trigger_else = {
+			scope:holder.culture = {
+				has_cultural_parameter = tribals_can_into_temples
+			}
+		}
 		scope:holder = {
-           religion = religion:kushitism_religion
+			religion = religion:kushitism_religion
 		}
 	}
 	is_enabled = {
@@ -525,8 +778,14 @@ wap_temple_of_philae_02 = {
 		monthly_income = 1
 	}
 	
+	on_complete = {
+		#Regular Mandala Boon
+		mandala_built_piety_duchy_building_t3_effect = yes
+	}
+	
 	ai_value = {
 		base = 100
+		ai_pious_building_preference_modifier = yes
 		modifier = { # Fill all building slots before going for special buildings
 			factor = 0
 			free_building_slots > 0
@@ -543,7 +802,22 @@ wap_temple_of_apedemak_01 = {
 	type_icon = "icon_structure_hadrians_wall.dds"
 	
 	can_construct_potential = {
-		building_requirement_tribal = no
+		trigger_if = {
+			limit = {
+				NOT = {
+					scope:holder.culture = {
+						has_cultural_parameter = tribals_can_into_temples
+					}
+				}
+			}
+			building_requirement_tribal = no
+			building_requirement_tribal_holding_in_county = yes
+		}
+		trigger_else = {
+			scope:holder.culture = {
+				has_cultural_parameter = tribals_can_into_temples
+			}
+		}
 	}
 	
 	cost_gold = 3000
@@ -557,8 +831,14 @@ wap_temple_of_apedemak_01 = {
 	}
 	next_building = wap_temple_of_apedemak_02
 
+	on_complete = {
+		#Regular Mandala Boon
+		mandala_built_piety_duchy_building_t3_effect = yes
+	}
+	
 	ai_value = {
 		base = 100
+		ai_pious_building_preference_modifier = yes
 		modifier = { # Fill all building slots before going for special buildings
 			factor = 0
 			free_building_slots > 0
@@ -575,10 +855,25 @@ wap_temple_of_apedemak_02 = {
 	type_icon = "icon_structure_cathedral_zoroastric.dds"
 	
 	can_construct_potential = {
-	    building_requirement_tribal = no
+		trigger_if = {
+			limit = {
+				NOT = {
+					scope:holder.culture = {
+						has_cultural_parameter = tribals_can_into_temples
+					}
+				}
+			}
+			building_requirement_tribal = no
+			building_requirement_tribal_holding_in_county = yes
+		}
+		trigger_else = {
+			scope:holder.culture = {
+				has_cultural_parameter = tribals_can_into_temples
+			}
+		}
 		scope:holder = {
-            religion = religion:kushitism_religion
-        }
+			religion = religion:kushitism_religion
+		}
 	}
 	is_enabled = {
 		scope:county.holder = { religion = religion:kushitism_religion }
@@ -599,8 +894,14 @@ wap_temple_of_apedemak_02 = {
 		monthly_county_control_growth_add = 0.5
 	}
 	
+	on_complete = {
+		#Regular Mandala Boon
+		mandala_built_piety_duchy_building_t3_effect = yes
+	}
+	
 	ai_value = {
 		base = 100
+		ai_pious_building_preference_modifier = yes
 		modifier = { # Fill all building slots before going for special buildings
 			factor = 0
 			free_building_slots > 0
@@ -616,7 +917,22 @@ wap_pyramids_at_nuri_01 = { #Kushitic royal cemetary at Nuri #Credit to more bui
 	type_icon = "icon_building_nuri_pyramids.dds"
 	
 	can_construct_potential = {
-		building_requirement_tribal = no
+		trigger_if = {
+			limit = {
+				NOT = {
+					scope:holder.culture = {
+						has_cultural_parameter = tribals_can_into_temples
+					}
+				}
+			}
+			building_requirement_tribal = no
+			building_requirement_tribal_holding_in_county = yes
+		}
+		trigger_else = {
+			scope:holder.culture = {
+				has_cultural_parameter = tribals_can_into_temples
+			}
+		}
 	}
 	
 	can_construct = {
@@ -634,8 +950,14 @@ wap_pyramids_at_nuri_01 = { #Kushitic royal cemetary at Nuri #Credit to more bui
 	
 	next_building = wap_pyramids_at_nuri_02
 	
+	on_complete = {
+		#Regular Mandala Boon
+		mandala_built_piety_duchy_building_t3_effect = yes
+	}
+	
 	ai_value = {
 		base = 100
+		ai_pious_building_preference_modifier = yes
 		modifier = { # Fill all building slots before going for special buildings
 			factor = 0
 			free_building_slots > 0
@@ -651,10 +973,25 @@ wap_pyramids_at_nuri_02 = { #Kushitic royal cemetary at Nuri
 	type_icon = "icon_building_meroe_pyramids.dds"
 	
 	can_construct_potential = {
-	    building_requirement_tribal = no
+		trigger_if = {
+			limit = {
+				NOT = {
+					scope:holder.culture = {
+						has_cultural_parameter = tribals_can_into_temples
+					}
+				}
+			}
+			building_requirement_tribal = no
+			building_requirement_tribal_holding_in_county = yes
+		}
+		trigger_else = {
+			scope:holder.culture = {
+				has_cultural_parameter = tribals_can_into_temples
+			}
+		}
 		scope:holder = {
-            religion = religion:kushitism_religion
-        }
+			religion = religion:kushitism_religion
+		}
 	}
 	
 	cost_gold = 2000
@@ -680,8 +1017,14 @@ wap_pyramids_at_nuri_02 = { #Kushitic royal cemetary at Nuri
 		monthly_county_control_growth_add = 0.5
 	}
 	
+	on_complete = {
+		#Regular Mandala Boon
+		mandala_built_piety_duchy_building_t3_effect = yes
+	}
+	
 	ai_value = {
 		base = 100
+		ai_pious_building_preference_modifier = yes
 		modifier = { # Fill all building slots before going for special buildings
 			factor = 0
 			free_building_slots > 0
@@ -703,14 +1046,44 @@ wap_rockhewn_church_01 = { #Credit to more buildings mods for the icon
 	type_icon = "icon_building_rockhewn_church.dds" 
 	
 	can_construct_potential = {
-		building_requirement_tribal = no
+		trigger_if = {
+			limit = {
+				NOT = {
+					scope:holder.culture = {
+						has_cultural_parameter = tribals_can_into_temples
+					}
+				}
+			}
+			building_requirement_tribal = no
+			building_requirement_tribal_holding_in_county = yes
+		}
+		trigger_else = {
+			scope:holder.culture = {
+				has_cultural_parameter = tribals_can_into_temples
+			}
+		}
 	}
 	
 	can_construct = {
 		scope:holder = {
 			faith = { religion_tag = christianity_religion }
-			culture = {
+		}
+		trigger_if = {
+			limit = {
+				NOT = {
+					scope:holder.culture = {
+						has_cultural_parameter = temple_next_level
+					}
+				}
+			}
+			scope:holder.culture = {
 				has_innovation = innovation_cranes
+			}
+		}
+		trigger_else = {
+			scope:holder.culture = {
+				has_cultural_parameter = temple_next_level
+				has_innovation = innovation_windmills
 			}
 		}
 	}
@@ -733,8 +1106,14 @@ wap_rockhewn_church_01 = { #Credit to more buildings mods for the icon
 		monthly_county_control_growth_add = 0.2
 	}
 
+	on_complete = {
+		#Regular Mandala Boon
+		mandala_built_piety_duchy_building_t3_effect = yes
+	}
+	
 	ai_value = {
 		base = 100
+		ai_pious_building_preference_modifier = yes
 		modifier = { # Fill all building slots before going for special buildings
 			factor = 0
 			free_building_slots > 0
@@ -750,14 +1129,44 @@ wap_church_of_our_lady_mary_of_zion_01 = { #Credit to more buildings mods for th
 	type_icon = "icon_building_aksum_cathedral.dds"
 	
 	can_construct_potential = {
-		building_requirement_tribal = no
+		trigger_if = {
+			limit = {
+				NOT = {
+					scope:holder.culture = {
+						has_cultural_parameter = tribals_can_into_temples
+					}
+				}
+			}
+			building_requirement_tribal = no
+			building_requirement_tribal_holding_in_county = yes
+		}
+		trigger_else = {
+			scope:holder.culture = {
+				has_cultural_parameter = tribals_can_into_temples
+			}
+		}
 	}
 	
 	can_construct = {
 		scope:holder = {
 			faith = { religion_tag = christianity_religion }
-			culture = {
+		}
+		trigger_if = {
+			limit = {
+				NOT = {
+					scope:holder.culture = {
+						has_cultural_parameter = temple_next_level
+					}
+				}
+			}
+			scope:holder.culture = {
 				has_innovation = innovation_cranes
+			}
+		}
+		trigger_else = {
+			scope:holder.culture = {
+				has_cultural_parameter = temple_next_level
+				has_innovation = innovation_windmills
 			}
 		}
 	}	
@@ -780,8 +1189,14 @@ wap_church_of_our_lady_mary_of_zion_01 = { #Credit to more buildings mods for th
 		monthly_county_control_growth_add = 0.2
 	}
 		
+	on_complete = {
+		#Regular Mandala Boon
+		mandala_built_piety_duchy_building_t3_effect = yes
+	}
+	
 	ai_value = {
 		base = 100
+		ai_pious_building_preference_modifier = yes
 		modifier = { # Fill all building slots before going for special buildings
 			factor = 0
 			free_building_slots > 0
@@ -790,6 +1205,7 @@ wap_church_of_our_lady_mary_of_zion_01 = { #Credit to more buildings mods for th
 	
 	next_building = wap_church_of_our_lady_mary_of_zion_02
 	flag = travel_point_of_interest_religious
+	flag = religious_studies_location							  
 	type = special
 }
 
@@ -799,16 +1215,28 @@ wap_church_of_our_lady_mary_of_zion_02 = { #Credit to more buildings mods for th
 	type_icon = "icon_building_aksum_mosque.dds"
 	
 	can_construct_potential = {
-		building_requirement_tribal = no
+		trigger_if = {
+			limit = {
+				NOT = {
+					scope:holder.culture = {
+						has_cultural_parameter = tribals_can_into_temples
+					}
+				}
+			}
+			building_requirement_tribal = no
+			building_requirement_tribal_holding_in_county = yes
+		}
+		trigger_else = {
+			scope:holder.culture = {
+				has_cultural_parameter = tribals_can_into_temples
+			}
+		}
 	}
 	
 	can_construct = {
 		
 		AND = {
-			OR = {
-				scope:holder = { religion = religion:islam_religion }
-				scope:holder = { faith = { has_doctrine = tenet_islamic_syncretism } }
-			}
+			islam_or_syncretic_with_islam_trigger = { CHARACTER = scope:holder }
 			scope:holder = {
 				OR = {
 					has_title = title:k_abyssinia
@@ -822,10 +1250,7 @@ wap_church_of_our_lady_mary_of_zion_02 = { #Credit to more buildings mods for th
 	cost_piety = 1000
 	
 	is_enabled = {
-        OR = {
-            scope:holder = { religion = religion:islam_religion }
-            scope:holder = { faith = { has_doctrine = tenet_islamic_syncretism } }
-        }
+       islam_or_syncretic_with_islam_trigger = { CHARACTER = scope:holder }
 	}
 
 	county_holder_character_modifier = {
@@ -843,8 +1268,14 @@ wap_church_of_our_lady_mary_of_zion_02 = { #Credit to more buildings mods for th
 		monthly_county_control_growth_add = 0.2		
 	}
 	
+	on_complete = {
+		#Regular Mandala Boon
+		mandala_built_piety_duchy_building_t3_effect = yes
+	}
+	
 	ai_value = {
 		base = 100
+		ai_pious_building_preference_modifier = yes
 		modifier = { # Fill all building slots before going for special buildings
 			factor = 0
 			free_building_slots > 0
@@ -862,7 +1293,22 @@ wap_dabra_dammo_01 = {
 	type_icon = "icon_building_dabra_dammo.dds"
 	
 	can_construct_potential = {
-		building_requirement_tribal = no
+		trigger_if = {
+			limit = {
+				NOT = {
+					scope:holder.culture = {
+						has_cultural_parameter = tribals_can_into_temples
+					}
+				}
+			}
+			building_requirement_tribal = no
+			building_requirement_tribal_holding_in_county = yes
+		}
+		trigger_else = {
+			scope:holder.culture = {
+				has_cultural_parameter = tribals_can_into_temples
+			}
+		}
 	}
 	
 	is_enabled = {
@@ -882,8 +1328,14 @@ wap_dabra_dammo_01 = {
 		development_growth = 0.1
 	}
 	
+	on_complete = {
+		#Regular Mandala Boon
+		mandala_built_piety_duchy_building_t3_effect = yes
+	}
+	
 	ai_value = {
 		base = 100
+		ai_pious_building_preference_modifier = yes
 		modifier = { # Fill all building slots before going for special buildings
 			factor = 0
 			free_building_slots > 0
@@ -903,7 +1355,22 @@ wap_cathedral_of_our_lady_01 = {
 	type_icon = "icon_structure_cologne_cathedral.dds"
 	
 	can_construct_potential = {
-		building_requirement_tribal = no
+		trigger_if = {
+			limit = {
+				NOT = {
+					scope:holder.culture = {
+						has_cultural_parameter = tribals_can_into_temples
+					}
+				}
+			}
+			building_requirement_tribal = no
+			building_requirement_tribal_holding_in_county = yes
+		}
+		trigger_else = {
+			scope:holder.culture = {
+				has_cultural_parameter = tribals_can_into_temples
+			}
+		}
 	}
 	is_enabled = {
 		scope:holder = { religion = religion:christianity_religion }
@@ -924,8 +1391,14 @@ wap_cathedral_of_our_lady_01 = {
 		monthly_county_control_growth_add = 0.2
 	}
 	
+	on_complete = {
+		#Regular Mandala Boon
+		mandala_built_piety_duchy_building_t3_effect = yes
+	}
+	
 	ai_value = {
 		base = 100
+		ai_pious_building_preference_modifier = yes
 		modifier = { # Fill all building slots before going for special buildings
 			factor = 0
 			free_building_slots > 0
@@ -943,7 +1416,22 @@ wap_st_marys_cathedral_01 = {
 	type_icon = "icon_structure_cologne_cathedral.dds"
 	
 	can_construct_potential = {
-		building_requirement_tribal = no
+		trigger_if = {
+			limit = {
+				NOT = {
+					scope:holder.culture = {
+						has_cultural_parameter = tribals_can_into_temples
+					}
+				}
+			}
+			building_requirement_tribal = no
+			building_requirement_tribal_holding_in_county = yes
+		}
+		trigger_else = {
+			scope:holder.culture = {
+				has_cultural_parameter = tribals_can_into_temples
+			}
+		}
 	}
 	is_enabled = {
 		scope:holder = { religion = religion:christianity_religion }
@@ -964,14 +1452,21 @@ wap_st_marys_cathedral_01 = {
 		monthly_county_control_growth_add = 0.2
 	}
 	
+	on_complete = {
+		#Regular Mandala Boon
+		mandala_built_piety_duchy_building_t3_effect = yes
+	}
+	
 	ai_value = {
 		base = 100
+		ai_pious_building_preference_modifier = yes
 		modifier = { # Fill all building slots before going for special buildings
 			factor = 0
 			free_building_slots > 0
 		}
 	}
 	flag = travel_point_of_interest_religious
+	flag = religious_studies_location							  
 	type = special
 }
 
@@ -983,7 +1478,22 @@ wap_ghazali_monastery_01 = {
 	type_icon = "icon_building_ghazali_monastery.dds"
 	
 	can_construct_potential = {
-		building_requirement_tribal = no
+		trigger_if = {
+			limit = {
+				NOT = {
+					scope:holder.culture = {
+						has_cultural_parameter = tribals_can_into_temples
+					}
+				}
+			}
+			building_requirement_tribal = no
+			building_requirement_tribal_holding_in_county = yes
+		}
+		trigger_else = {
+			scope:holder.culture = {
+				has_cultural_parameter = tribals_can_into_temples
+			}
+		}
 	}
 	
 	is_enabled = {
@@ -1008,8 +1518,14 @@ wap_ghazali_monastery_01 = {
 		monthly_income = 0.5
 	}
 	
+	on_complete = {
+		#Regular Mandala Boon
+		mandala_built_piety_duchy_building_t3_effect = yes
+	}
+	
 	ai_value = {
 		base = 100
+		ai_pious_building_preference_modifier = yes
 		modifier = { # Fill all building slots before going for special buildings
 			factor = 0
 			free_building_slots > 0
@@ -1028,9 +1544,7 @@ wap_masjid_fakhr_ad_din_01 = {
 	
 	can_construct = {
 		OR = {
-			scope:holder = {
-				religion = religion:islam_religion
-			}
+			islam_or_syncretic_with_islam_trigger = { CHARACTER = scope:holder }
 			custom_description = {
 				text = holy_site_building_trigger
 				barony = {
@@ -1041,10 +1555,7 @@ wap_masjid_fakhr_ad_din_01 = {
 	}
 	
 	is_enabled = {
-        OR = {
-            scope:holder = { religion = religion:islam_religion }
-            scope:holder = { faith = { has_doctrine = tenet_islamic_syncretism } }
-        }
+		islam_or_syncretic_with_islam_trigger = { CHARACTER = scope:holder }
 	}
 	
 	cost_gold = 1000
@@ -1065,8 +1576,14 @@ wap_masjid_fakhr_ad_din_01 = {
 		monthly_income = 0.5
 	}
 	
+	on_complete = {
+		#Regular Mandala Boon
+		mandala_built_piety_duchy_building_t3_effect = yes
+	}
+	
 	ai_value = {
 		base = 100
+		ai_pious_building_preference_modifier = yes
 		modifier = { # Fill all building slots before going for special buildings
 			factor = 0
 			free_building_slots > 0
@@ -1083,9 +1600,7 @@ wap_masjid_al_qiblatayn_01 = {
 	
 	can_construct = {
 		OR = {
-			scope:holder = {
-				religion = religion:islam_religion
-			}
+			islam_or_syncretic_with_islam_trigger = { CHARACTER = scope:holder }
 			custom_description = {
 				text = holy_site_building_trigger
 				barony = {
@@ -1096,10 +1611,7 @@ wap_masjid_al_qiblatayn_01 = {
 	}
 	
 	is_enabled = {
-        OR = {
-            scope:holder = { religion = religion:islam_religion }
-            scope:holder = { faith = { has_doctrine = tenet_islamic_syncretism } }
-        }
+		islam_or_syncretic_with_islam_trigger = { CHARACTER = scope:holder }
 	}
 	
 	cost_gold = 1000
@@ -1121,8 +1633,14 @@ wap_masjid_al_qiblatayn_01 = {
 		monthly_income = 0.5
 	}
 	
+	on_complete = {
+		#Regular Mandala Boon
+		mandala_built_piety_duchy_building_t3_effect = yes
+	}
+	
 	ai_value = {
 		base = 100
+		ai_pious_building_preference_modifier = yes
 		modifier = { # Fill all building slots before going for special buildings
 			factor = 0
 			free_building_slots > 0

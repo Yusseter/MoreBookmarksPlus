@@ -257,7 +257,7 @@ RICE_greater_normandy_region = {
 }
 
 
-RICE_normandy_and_brittany d_lower_brittany_region = {
+RICE_normandy_and_brittany = {
 	duchies = {
 		# k_francia
 		d_normandy d_anjou

@@ -545,6 +545,7 @@ k_bengal = {
 	#Lasting independence from 1338
 	1337.1.1 = {
 		holder = bengal #About 5 years early
+		effect = { set_coa = bengal_sultanate }
 		liege = 0
 	}
 }

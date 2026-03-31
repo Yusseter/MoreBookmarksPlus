@@ -81,7 +81,66 @@ RICE_setup_yazidi_flavor_pack_effect = {
 	faith:urartuism = {
 		add_doctrine = special_doctrine_is_west_iranian_faith
 	}
-
+	
+	# I will never get why so many mods took the word of someone from Pakistan that the brahui were not a thing in this timeframe and didn't once think to question the nationalistic reasons for such a claim
+	#############################################################
+	##
+	## CULTURE CHANGES
+	##
+	#############################################################
+	#
+	## Get rid of weird Brahui
+	#every_county = {
+	#	limit = {
+	#		culture = culture:brahui
+	#		NOT = { county = title:c_bampur }
+	#		# title_province = {	
+	#		# 	NOR = {
+	#		# 		county = title:c_tambov
+	#		# 	}		
+	#		# }
+	#	}
+	#	set_county_culture = culture:sindhi
+	#}	
+	#if = {
+	#	limit = {
+	#		current_date < 900.1.1
+	#		current_date > 700.1.1
+	#	}
+	#	title:c_bampur = {
+	#		set_county_culture = culture:persian
+	#		holder = {			
+	#			every_courtier_or_guest = {
+	#				limit = {
+	#					is_lowborn = yes
+	#					culture = culture:brahui
+	#				}
+	#				set_culture = culture:persian
+	#			
+	#										   
+	#			}
+	#		}
+	#	}
+	#}
+	#every_ruler = {
+	#	limit = {
+	#		culture = culture:brahui
+	#	}
+	#	set_culture = culture:sindhi
+	#	every_vassal = {
+	#		limit = {
+	#			culture = culture:brahui
+	#		}
+	#		set_culture = culture:sindhi
+	#	}
+	#	every_courtier_or_guest = {
+	#		limit = {
+	#			culture = culture:brahui
+	#		}
+	#		set_culture = culture:sindhi
+	#	}
+	#}
+	
 	############################################################
 	#
 	# HISTORY CHANGES

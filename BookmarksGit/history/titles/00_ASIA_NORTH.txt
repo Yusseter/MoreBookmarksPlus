@@ -14856,7 +14856,6 @@ d_aley = {
 	
 	768.9.25 = {
 		holder = NorthTribals2314  # Semetei (oldest son)
-		liege = d_salair
 	}
 	
 	797.11.3 = {

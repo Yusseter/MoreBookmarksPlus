@@ -17,24 +17,16 @@ sanctuary_abraham_01 = {
 	}
 	
 	can_construct = {
-		scope:holder = {
-			religion = religion:islam_religion
-		}
+		islam_or_syncretic_with_islam_trigger = { CHARACTER = scope:holder }
 	}
 	
 	is_enabled = {
 		custom_description = {
 			text = holy_site_abrahamic_trigger
 			OR = {
-				scope:holder = {
-					religion = religion:islam_religion
-				}
-				scope:holder = {
-					religion = religion:christianity_religion
-				}
-				scope:holder = {
-					religion = religion:judaism_religion
-				}
+				islam_or_syncretic_with_islam_trigger = { CHARACTER = scope:holder }
+				christianity_or_syncretic_with_christianity_trigger = { CHARACTER = scope:holder }
+				judaism_or_syncretic_with_judaism_trigger = { CHARACTER = scope:holder }
 				custom_description = {
 					text = holy_site_building_trigger
 					barony = {
@@ -80,6 +72,7 @@ sanctuary_abraham_01 = {
 	type = special
 
 	flag = travel_point_of_interest_religious
+	flag = religious_studies_location
 }
 
 ##########
@@ -155,6 +148,7 @@ mashad_al_husain_01 = {
 	type = special
 
 	flag = travel_point_of_interest_religious
+	flag = religious_studies_location
 }
 
 ##########
@@ -173,9 +167,7 @@ me_old_mosque_basra_01 = {
 	is_enabled = {
 		custom_description = {
 			text = muslim_me_building_trigger
-			scope:holder = {
-				religion = religion:islam_religion
-			}
+			islam_or_syncretic_with_islam_trigger = { CHARACTER = scope:holder }
 		}
 	}
 
@@ -219,6 +211,7 @@ me_old_mosque_basra_01 = {
 	type = special
 
 	flag = travel_point_of_interest_religious
+	flag = religious_studies_location
 }
 
 ##########
@@ -240,9 +233,7 @@ hejra_01 = {
 	is_enabled = {
 		custom_description = {
 		text = muslim_me_building_trigger
-			scope:holder = {
-				religion = religion:islam_religion
-			}
+			islam_or_syncretic_with_islam_trigger = { CHARACTER = scope:holder }
 		}
 	}
 
@@ -285,9 +276,7 @@ jawatha_mosque_01 = {
 	is_enabled = {
 		custom_description = {
 			text = muslim_me_building_trigger
-			scope:holder = {
-				religion = religion:islam_religion
-			}
+			islam_or_syncretic_with_islam_trigger = { CHARACTER = scope:holder }
 		}
 	}
 
@@ -329,6 +318,7 @@ jawatha_mosque_01 = {
 	type = special
 
 	flag = travel_point_of_interest_religious
+	flag = religious_studies_location
 }
 
 ##########
@@ -358,9 +348,7 @@ great_mosque_sousse_01 = {
 		custom_description = {
 			text = holy_site_muslim_or_holy_site_trigger
 			OR = {
-				scope:holder = {
-					religion = religion:islam_religion
-				}
+				islam_or_syncretic_with_islam_trigger = { CHARACTER = scope:holder }
 				custom_description = {
 					text = holy_site_building_trigger
 					barony = {
@@ -404,6 +392,7 @@ great_mosque_sousse_01 = {
 	type = special
 
 	flag = travel_point_of_interest_religious
+	flag = religious_studies_location
 }
 
 ##########
@@ -422,9 +411,7 @@ al_zaytuna_mosque_01 = {
 	is_enabled = {
 		custom_description = {
 			text = muslim_me_building_trigger
-			scope:holder = {
-				religion = religion:islam_religion
-			}
+			islam_or_syncretic_with_islam_trigger = { CHARACTER = scope:holder }
 		}
 	}
 
@@ -467,6 +454,7 @@ al_zaytuna_mosque_01 = {
 	type = special
 
 	flag = travel_point_of_interest_religious
+	flag = religious_studies_location
 }
 
 ##########
@@ -480,17 +468,13 @@ jameh_mosque_atigh_01 = {
 	is_enabled = {
 		custom_description = {
 			text = muslim_me_building_trigger
-			scope:holder = {
-				religion = religion:islam_religion
-			}
+			islam_or_syncretic_with_islam_trigger = { CHARACTER = scope:holder }
 		}
 	}
 
 	can_construct_potential = {
 		barony = title:b_shiraz-farsi
-		scope:holder = {
-			religion = religion:islam_religion
-		}
+		islam_or_syncretic_with_islam_trigger = { CHARACTER = scope:holder }
 		building_requirement_tribal = no
 	}
 	
@@ -548,9 +532,7 @@ juma_mosque_shemakha_01 = {
 	is_enabled = {
 		custom_description = {
 			text = muslim_me_building_trigger
-			scope:holder = {
-				religion = religion:islam_religion
-			}
+			islam_or_syncretic_with_islam_trigger = { CHARACTER = scope:holder }
 		}
 	}
 
@@ -592,6 +574,7 @@ juma_mosque_shemakha_01 = {
 	type = special
 
 	flag = travel_point_of_interest_religious
+	flag = religious_studies_location
 }
 
 ##########
@@ -609,9 +592,7 @@ katasraj_temples_01 = {
 	is_enabled = {
 		custom_description = {
 			text = buddhas_of_bamian_trigger
-			scope:holder = {
-				religion = { is_in_family = rf_eastern }
-			}
+			eastern_or_syncretic_with_eastern_trigger = { CHARACTER = scope:holder }
 		}
 	}
 
@@ -655,6 +636,7 @@ katasraj_temples_01 = {
 	next_building = katasraj_temples_02
 
 	flag = travel_point_of_interest_religious
+	flag = religious_studies_location
 }
 
 katasraj_temples_02 = {
@@ -673,9 +655,7 @@ katasraj_temples_02 = {
 	is_enabled = {
 		custom_description = {
 			text = buddhas_of_bamian_trigger
-			scope:holder = {
-				religion = { is_in_family = rf_eastern }
-			}
+			eastern_or_syncretic_with_eastern_trigger = { CHARACTER = scope:holder }
 		}
 	}
 	
@@ -712,6 +692,7 @@ katasraj_temples_02 = {
 	type = special
 
 	flag = travel_point_of_interest_religious
+	flag = religious_studies_location
 }
 
 ##########
@@ -725,18 +706,13 @@ uqba_mosque_01 = {
 	is_enabled = {
 		custom_description = {
 			text = muslim_me_building_trigger
-			scope:holder = {
-
-				religion = religion:islam_religion
-			}
+			islam_or_syncretic_with_islam_trigger = { CHARACTER = scope:holder }
 		}
 	}
 
 	can_construct_potential = {
 		barony = title:b_kairouan
-		scope:holder = {
-			religion = religion:islam_religion
-		}
+		islam_or_syncretic_with_islam_trigger = { CHARACTER = scope:holder }
 		building_requirement_tribal = no
 	}
 	
@@ -776,6 +752,7 @@ uqba_mosque_01 = {
 	type = special
 
 	flag = travel_point_of_interest_religious
+	flag = religious_studies_location
 }
 
 uqba_mosque_01_duchy = {
@@ -786,18 +763,13 @@ uqba_mosque_01_duchy = {
 	is_enabled = {
 		custom_description = {
 			text = muslim_me_building_trigger
-			scope:holder = {
-
-				religion = religion:islam_religion
-			}
+			islam_or_syncretic_with_islam_trigger = { CHARACTER = scope:holder }
 		}
 	}
 
 	can_construct_potential = {
 		barony = title:b_kairouan
-		scope:holder = {
-			religion = religion:islam_religion
-		}
+		islam_or_syncretic_with_islam_trigger = { CHARACTER = scope:holder }
 		building_requirement_tribal = no
 	}
 	
@@ -855,9 +827,7 @@ great_mosque_sfax_01 = {
 	is_enabled = {
 		custom_description = {
 			text = muslim_me_building_trigger
-			scope:holder = {
-				religion = religion:islam_religion
-			}
+			islam_or_syncretic_with_islam_trigger = { CHARACTER = scope:holder }
 		}
 	}
 
@@ -898,6 +868,7 @@ great_mosque_sfax_01 = {
 	type = special
 
 	flag = travel_point_of_interest_religious
+	flag = religious_studies_location
 }
 
 ##########
@@ -924,9 +895,7 @@ mankiala_stupa_01 = {
 	is_enabled = {
 		custom_description = {
 			text = buddhas_of_bamian_trigger
-			scope:holder = {
-				religion = { is_in_family = rf_eastern }
-			}
+			islam_or_syncretic_with_islam_trigger = { CHARACTER = scope:holder }
 		}
 	}
 	
@@ -962,6 +931,7 @@ mankiala_stupa_01 = {
 	type = special
 
 	flag = travel_point_of_interest_religious
+	flag = religious_studies_location
 }
 
 ##########
@@ -984,9 +954,7 @@ prahladpuri_temple_01 = {
 	is_enabled = {
 		custom_description = {
 			text = buddhas_of_bamian_trigger
-			scope:holder = {
-				religion = { is_in_family = rf_eastern }
-			}
+			eastern_or_syncretic_with_eastern_trigger = { CHARACTER = scope:holder }
 		}
 	}
 	
@@ -1046,9 +1014,7 @@ tarikhaneh_mosque_01 = {
 	is_enabled = {
 		custom_description = {
 			text = zoroastrian_me_building_trigger
-			scope:holder = {
-				religion = religion:zoroastrianism_religion
-			}
+			zoroastrian_or_syncretic_with_eastern_trigger = { CHARACTER = scope:holder }
 		}
 	}
 
@@ -1082,6 +1048,7 @@ tarikhaneh_mosque_01 = {
 	type = special
 
 	flag = travel_point_of_interest_religious
+	flag = religious_studies_location
 }
 
 tarikhaneh_mosque_02 = {
@@ -1100,9 +1067,7 @@ tarikhaneh_mosque_02 = {
 	is_enabled = {
 		custom_description = {
 			text = muslim_me_building_trigger
-			scope:holder = {
-				religion = religion:islam_religion
-			}
+			islam_or_syncretic_with_islam_trigger = { CHARACTER = scope:holder }
 		}
 	}
 	
@@ -1137,6 +1102,7 @@ tarikhaneh_mosque_02 = {
 	type = special
 
 	flag = travel_point_of_interest_religious
+	flag = religious_studies_location
 }
 
 ##########
@@ -1865,6 +1831,7 @@ imam_hussain_shrine_01 = {
 	type = special
 
 	flag = travel_point_of_interest_religious
+	flag = religious_studies_location
 }
 
 ##########
@@ -1934,9 +1901,7 @@ etchmiadzin_cathedral_01 = {
 	is_enabled = {
 		custom_description = {
 			text = christian_me_building_trigger
-			scope:holder = {
-				religion = religion:christianity_religion
-			}
+			christianity_or_syncretic_with_christianity_trigger = { CHARACTER = scope:holder }
 		}
 	}
 
@@ -1977,6 +1942,7 @@ etchmiadzin_cathedral_01 = {
 	type = special
 
 	flag = travel_point_of_interest_religious
+	flag = religious_studies_location
 }
 
 ##########
@@ -1995,9 +1961,7 @@ chapel_dzordzor_01 = {
 	is_enabled = {
 		custom_description = {
 			text = christian_me_building_trigger
-			scope:holder = {
-				religion = religion:christianity_religion
-			}
+			christianity_or_syncretic_with_christianity_trigger = { CHARACTER = scope:holder }
 		}
 	}
 
@@ -2034,6 +1998,7 @@ chapel_dzordzor_01 = {
 	type = special
 
 	flag = travel_point_of_interest_religious
+	flag = religious_studies_location
 }
 
 ##########
@@ -2052,9 +2017,7 @@ monastery_saint_thaddeus_01 = {
 	is_enabled = {
 		custom_description = {
 			text = christian_me_building_trigger
-			scope:holder = {
-				religion = religion:christianity_religion
-			}
+			christianity_or_syncretic_with_christianity_trigger = { CHARACTER = scope:holder }
 		}
 	}
 
@@ -2092,6 +2055,7 @@ monastery_saint_thaddeus_01 = {
 	type = special
 
 	flag = travel_point_of_interest_religious
+	flag = religious_studies_location
 }
 
 ##########
@@ -2110,9 +2074,7 @@ monastery_saint_stepanos_01 = {
 	is_enabled = {
 		custom_description = {
 			text = christian_me_building_trigger
-			scope:holder = {
-				religion = religion:christianity_religion
-			}
+			christianity_or_syncretic_with_christianity_trigger = { CHARACTER = scope:holder }
 		}
 	}
 
@@ -2150,6 +2112,7 @@ monastery_saint_stepanos_01 = {
 	type = special
 
 	flag = travel_point_of_interest_religious
+	flag = religious_studies_location
 }
 
 ##########
@@ -2551,6 +2514,7 @@ holy_site_lalish_shrine_01 = {
 	type = special
 
 	flag = travel_point_of_interest_religious
+	flag = religious_studies_location
 }
 
 ### Legend Buildings ###
@@ -2568,9 +2532,7 @@ me_legendary_mosque = { # Basically just a repainted legendary_shrine
 	is_enabled = {
 		custom_description = {
 			text = muslim_me_building_trigger
-			scope:holder = {
-				religion = religion:islam_religion
-			}
+			islam_or_syncretic_with_islam_trigger = { CHARACTER = scope:holder }
 		}
 	}
 
@@ -2635,6 +2597,7 @@ me_legendary_mosque = { # Basically just a repainted legendary_shrine
 	type = special
 
 	flag = travel_point_of_interest_religious
+	flag = religious_studies_location
 }
 
 me_legendary_mosque_ziyadid = {
@@ -2651,9 +2614,7 @@ me_legendary_mosque_ziyadid = {
 	is_enabled = {
 		custom_description = {
 			text = muslim_me_building_trigger
-			scope:holder = {
-				religion = religion:islam_religion
-			}
+			islam_or_syncretic_with_islam_trigger = { CHARACTER = scope:holder }
 		}
 	}
 
@@ -2721,6 +2682,7 @@ me_legendary_mosque_ziyadid = {
 	type = special
 
 	flag = travel_point_of_interest_religious
+	flag = religious_studies_location
 }
 
 
@@ -2740,9 +2702,7 @@ sanaa_mosque_01 = {
 	is_enabled = {
 		custom_description = {
 			text = holy_site_building_trigger
-			scope:holder = {
-				religion = religion:islam_religion
-				}
+			islam_or_syncretic_with_islam_trigger = { CHARACTER = scope:holder }
 			}
 		}
 
@@ -2780,6 +2740,7 @@ sanaa_mosque_01 = {
 	}
 	
 	type = special
-	flag = travel_point_of_interest_religious									  
+	flag = travel_point_of_interest_religious
+	flag = religious_studies_location									  
 											 
 }

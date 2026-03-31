@@ -548,14 +548,24 @@ goguryeo = { # AKA Buyeo AKA Fuyo
 	
 	traditions = {
 		tradition_martial_admiration
-		tradition_castle_keepers
 		tradition_warriors_by_merit
-		tradition_cultural_primacy
+	}
+	
+	dlc_tradition = {
+		trait = tradition_cultural_primacy
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_isolationist
 	}
 	
 	dlc_tradition = {
 		trait = tradition_sinophilic
 		requires_dlc_flag = all_under_heaven
+	}
+	
+	dlc_tradition = {
+		trait = tradition_fortress_mastery
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_castle_keepers
 	}
 
 	name_list = name_list_korean

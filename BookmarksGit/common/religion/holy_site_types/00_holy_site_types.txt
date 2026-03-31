@@ -13,7 +13,9 @@ jerusalem = {
 	character_modifier = {
 		monthly_piety_gain_mult = 0.2
 	}
-	flag = jerusalem_conversion_bonus # +20% County Conversion
+	parameters = {
+		jerusalem_conversion_bonus # +20% County Conversion
+	}
 }
 
 rome = {
@@ -60,8 +62,7 @@ kent = {
 
 segrada_familia = {
 	county = c_barcelona
-	is_active = no
-
+	
 	character_modifier = {
 		name = holy_site_segrada_familia_effect_name
 		monthly_piety_gain_mult = 0.1
@@ -178,7 +179,9 @@ farz = {
 kerala = {
 	county = c_kerala #St. Thomas Christians. Gotta give this one a *big* bonus - conversion speed maybe??
 
-	flag = kerala_conversion_bonus # +50% County Conversion Speed
+	parameters = {
+		kerala_conversion_bonus # +50% County Conversion Speed
+	}
 }
 
 # Insular Celtic
@@ -197,7 +200,9 @@ iona = {
 	county = c_inner_hebrides
 
 	# +20% County Conversion Speed in the British Isles
-	flag = iona_conversion_bonus
+	parameters = {
+		iona_conversion_bonus # +20% County Conversion Speed in the British Isles
+	}
 }
 
 # Bosnian Church
@@ -207,7 +212,9 @@ visoki = {
 	county = c_rama
 
 	# 50% County Conversion Resistance
-	flag = visoki_conversion_resistance_bonus
+	parameters = {
+		visoki_conversion_resistance_bonus # 50% County Conversion Resistance
+	}
 }
 
 ## Seat of the Archbishop of Ragusa, the diocese under which the Bishopric of Bosnia fell, and whose political support allowed them to stay largely independent of Rome.
@@ -308,7 +315,9 @@ medina = {
 cordoba = {
 	county = c_cordoba
 
-	flag = cordoba_conversion_bonus # +20% county conversion speed
+	parameters = {
+		cordoba_conversion_bonus # +20% county conversion speed
+	}
 }
 
 sinai = {
@@ -1876,7 +1885,9 @@ aswan = { # For Philae, site of some of the last great Kemetic building projects
 wadi_el_milk = { # Historic traces of Kushitic cults have actually been found here.
 	county = c_wadi_el-milk
 
-	flag = wadi_el_milk_conversion_resistance_bonus # 50% County Conversion Resistance
+	parameters = {
+		wadi_el_milk_conversion_resistance_bonus # 50% County Conversion Resistance
+	}
 }
 
 naqis = { # Potentially historically important region for these cults.
@@ -2518,14 +2529,8 @@ causeaway = {
 		name = holy_site_fortriu_effect_name
 		embarkation_cost_mult = -0.2
 		naval_movement_speed_mult = 0.2
-		
-		### That's not how you do that
-		# effect = {
-			# custom = unlocks_naval_raiding
-		# }
 	}
-	
-	flag = unlocks_naval_raiding
+
 }
 
 fortriu = {
@@ -2733,7 +2738,9 @@ alesia = {
 	character_modifier = {
 		monthly_prestige_gain_mult = 0.1
 	}
-	flag = kerala_conversion_bonus  # +10% conversion speed
+	parameters = {
+		kerala_conversion_bonus # +50% County Conversion Speed
+	}
 }
 
 vannes = {
@@ -3007,9 +3014,7 @@ nicosia = {
 
 moscow = {
 	county = c_moskva
-
-	is_active = no
-
+	
 	character_modifier = {
 		domain_limit = 1
 		men_at_arms_cap = 1
@@ -3102,8 +3107,6 @@ glastonbury = { #Major site for British Christians
 walsingham = { #Site of early Marian apparition
 	county = c_norfolk
 	barony = b_walsingham
-
-	is_active = no #Inactive in earliest start date, active in later start dates
 
 	character_modifier = {
 		church_holding_build_speed = 10
@@ -6337,7 +6340,9 @@ kongmeng = {
 		name = holy_site_kongmeng_effect_name
 		monthly_piety_gain_mult = 0.2
 	}
-	flag = jerusalem_conversion_bonus # +20% County Conversion
+	parameters = {
+		jerusalem_conversion_bonus # +20% County Conversion
+	}
 }
 
 taishan = {
@@ -6624,10 +6629,8 @@ napata  = { # Sacred royal burial site for kushite kings and queens, site of Tem
 
 	character_modifier = {
 		name = holy_site_napata_effect_name
-		clergy_opinion = 5
-        monthly_prestige_gain_mult = 0.1
+		stewardship = 1
 	}
-    flag = wadi_el_milk_conversion_resistance_bonus # 50% County Conversion Resistance
 }
 
 meroe = { # Political and religious capital for the Meroites, sacred royal burial site for kushite kings and queens, and Temple to the God of War - Apedemak

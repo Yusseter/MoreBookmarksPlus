@@ -2339,6 +2339,12 @@ e_hre = {
 
 		capital = c_vienna
 	}
+	
+	k_carantania = {
+		color = { 90 130 100 }
+	
+		capital = c_karnten
+	}
 
 	k_lower_lorraine = { # Niederlothringen
 		color = { 37 114 179 }
@@ -2425,6 +2431,7 @@ e_golden_horde = { #White Horde
 	definite_form = yes
 	can_be_named_after_dynasty = no
 	can_use_nomadic_naming = no
+	disable_regnal_numbers = yes
 
 	capital = c_sarai
 	#can_create_on_partition = { always = no }
@@ -2442,6 +2449,7 @@ e_blue_horde = { #Blue Horde
 	definite_form = yes
 	can_be_named_after_dynasty = no
 	can_use_nomadic_naming = no
+	disable_regnal_numbers = yes
 
 	capital = c_sighnaq
 	#can_create_on_partition = { always = no }
@@ -2459,6 +2467,7 @@ e_white_horde = {
 	definite_form = yes
 	can_be_named_after_dynasty = no
 	can_use_nomadic_naming = no
+	disable_regnal_numbers = yes
 
 	capital = c_sarai
 	#can_create_on_partition = { always = no }
@@ -2475,6 +2484,7 @@ e_ilkhanate = {
 	definite_form = yes
 	can_be_named_after_dynasty = no
 	can_use_nomadic_naming = no
+	disable_regnal_numbers = yes
 
 	capital = c_tabriz
 	#can_create_on_partition = { always = no }
@@ -2490,6 +2500,7 @@ e_chagatai = {
 	definite_form = yes
 	can_be_named_after_dynasty = no
 	can_use_nomadic_naming = no
+	disable_regnal_numbers = yes
 
 	capital = c_iliq
 	#can_create_on_partition = { always = no }
@@ -2503,6 +2514,7 @@ e_red_horde = {
 	color = { 196 40 18 }
 	can_be_named_after_dynasty = no
 	can_use_nomadic_naming = no
+	disable_regnal_numbers = yes
 
 	definite_form = yes
 
@@ -2519,6 +2531,7 @@ e_black_horde = {
 	definite_form = yes
 	can_be_named_after_dynasty = no
 	can_use_nomadic_naming = no
+	disable_regnal_numbers = yes
 
 	capital = c_delhi
 	#can_create_on_partition = { always = no }
@@ -2534,6 +2547,7 @@ e_aarlud_khanate = {
 	definite_form = yes
 	can_be_named_after_dynasty = no
 	can_use_nomadic_naming = no
+	disable_regnal_numbers = yes
 
 	capital = c_sjaelland
 	#can_create_on_partition = { always = no }
@@ -2549,6 +2563,7 @@ e_togskol_khanate = {
 	definite_form = yes
 	can_be_named_after_dynasty = no
 	can_use_nomadic_naming = no
+	disable_regnal_numbers = yes
 
 	capital = c_roma
 	#can_create_on_partition = { always = no }
@@ -2564,6 +2579,7 @@ e_baruun_khanate = {
 	definite_form = yes
 	can_be_named_after_dynasty = no
 	can_use_nomadic_naming = no
+	disable_regnal_numbers = yes
 
 	capital = c_alexandria
 	#can_create_on_partition = { always = no }
@@ -2581,6 +2597,7 @@ e_uyghur_khanate = {
 	can_use_nomadic_naming = no
 	capital = c_karabalgasun
 	can_create_on_partition = { always = no }
+	disable_regnal_numbers = yes
 
 	ai_primary_priority = {
 		if = {
@@ -2600,6 +2617,7 @@ e_blue_horde = {
 	color = { 14 80 125 }
 	can_be_named_after_dynasty = no
 	can_use_nomadic_naming = no
+	disable_regnal_numbers = yes
 
 	definite_form = yes
 
@@ -2614,6 +2632,7 @@ e_omnod_dalai_khanate = {
 	color = { 57 135 74 }
 	can_be_named_after_dynasty = no
 	can_use_nomadic_naming = no
+	disable_regnal_numbers = yes
 
 	definite_form = yes
 
@@ -2630,6 +2649,8 @@ e_mongol_empire = {
 	definite_form = yes
 	can_be_named_after_dynasty = no
 	can_use_nomadic_naming = no
+	disable_regnal_numbers = yes
+	
 	ai_primary_priority = {
 		add = @always_primary_score
 	}
@@ -2647,6 +2668,7 @@ e_mongol_empire = {
 		definite_form = yes
 		can_be_named_after_dynasty = no
 		can_use_nomadic_naming = no
+		disable_regnal_numbers = yes
 
 		capital = c_sarai
 		can_create_on_partition = { always = no }
@@ -2659,6 +2681,7 @@ e_mongol_empire = {
 		definite_form = yes
 		can_be_named_after_dynasty = no
 		can_use_nomadic_naming = no
+		disable_regnal_numbers = yes
 
 		capital = c_sighnaq
 		can_create_on_partition = { always = no }
@@ -2670,6 +2693,7 @@ e_mongol_empire = {
 		definite_form = yes
 		can_be_named_after_dynasty = no
 		can_use_nomadic_naming = no
+		disable_regnal_numbers = yes
 
 		capital = c_praha
 		can_create_on_partition = { always = no }
@@ -2684,6 +2708,7 @@ e_timurids = {
 
 	capital = c_samarkand
 	can_create_on_partition = { always = no }
+	disable_regnal_numbers = yes
 
 	can_create = {
 		rule_title_creation_imperial_power_projection_title_creation_trigger = yes
@@ -2759,6 +2784,7 @@ e_liao = {
 
     can_be_named_after_dynasty = no
 	can_use_nomadic_naming = no
+	disable_regnal_numbers = yes
 
 	can_create = {
 		rule_title_creation_imperial_power_projection_title_creation_trigger = yes
@@ -3297,6 +3323,18 @@ e_north_sea = {
 	}
 }
 
+e_carthage = {
+	color = { 45 0 11 }
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	capital = c_tunis #Tunis 
+
+	can_create = {
+		rule_title_creation_imperial_power_projection_title_creation_trigger = yes
+	}
+}
+
 e_latin_empire = {
 	color = { 150 105 56 }
 
@@ -3523,6 +3561,48 @@ k_egypt_mamluk = {
 	definite_form = yes
 
 	capital = c_cairo
+}
+
+
+# Carthage 
+k_carthage = {
+	color = { 0 33 60 }
+
+	capital = c_tunis
+
+	can_create = {
+		rule_title_creation_imperial_power_projection_title_creation_trigger = yes
+	}
+}
+
+k_tripolitania = {
+	color = { 150 20 0 }
+
+	capital = c_tripolitana
+
+	can_create = {
+		rule_title_creation_imperial_power_projection_title_creation_trigger = yes
+	}
+}
+
+k_mauretania = {
+	color = { 136 14 11 }
+
+	capital = c_algier
+
+	can_create = {
+		rule_title_creation_imperial_power_projection_title_creation_trigger = yes
+	}
+}
+
+k_carthago_nova = {
+	color = { 116 44 2 }
+
+	capital = c_murcia
+
+	can_create = {
+		rule_title_creation_imperial_power_projection_title_creation_trigger = yes
+	}
 }
 
 ########################################################################################TITULAR DUCHIES########################################################################################
@@ -9192,6 +9272,18 @@ e_britannia = {
 		color = { 124 59 8 }
 
 		capital = c_isle_of_man	#Mann
+	}
+	
+	k_cumbria = {
+		color = { 255 100 35 }
+
+		capital = c_cumberland # Cumberland
+
+		d_cumbria = {
+			color = { 220 130 75 }
+			
+			capital = c_cumberland # Cumberland
+		}
 	}
 }
 
@@ -35446,6 +35538,7 @@ e_caspian-pontic_steppe = {
 	can_be_named_after_dynasty = no
 	can_use_nomadic_naming = no
 	ruler_uses_title_name = no
+	disable_regnal_numbers = yes
 
 	capital = c_sarai # Itil
 
@@ -35473,6 +35566,7 @@ e_caspian-pontic_steppe = {
 		can_use_nomadic_naming = no
 		can_be_named_after_dynasty = no
 		ruler_uses_title_name = no
+		disable_regnal_numbers = yes
 
 		can_create_on_partition = { always = no }
 
@@ -35489,6 +35583,8 @@ e_caspian-pontic_steppe = {
 			color = { 228 172 130 }
 
 			capital = c_cherkassy
+			
+			disable_regnal_numbers = yes
 
 			cultural_names = {
 				name_list_franconian = cn_jedisan
@@ -35593,6 +35689,8 @@ e_caspian-pontic_steppe = {
 			color = { 170 136 129 }
 
 			capital = c_samar
+			
+			disable_regnal_numbers = yes
 
 			cultural_names = {
 				name_list_greek = cn_scythia
@@ -35666,6 +35764,8 @@ e_caspian-pontic_steppe = {
 			color = { 238 149 147 }
 
 			capital = c_sarysyn # Sarysyn
+			
+			disable_regnal_numbers = yes
 
 			c_golden_hills = {
 				color = { 209 152 140 }
@@ -35757,7 +35857,9 @@ e_caspian-pontic_steppe = {
 			color = { 175 154 129 }
 
 			capital = c_odessa # Odessa
-
+			
+			disable_regnal_numbers = yes
+			
 			cultural_names = {
 				name_list_franconian = cn_south_jedisan
 				name_list_saxon = cn_south_jedisan
@@ -35835,6 +35937,8 @@ e_caspian-pontic_steppe = {
 			color = { 191 154 123 }
 
 			capital = c_khortytsia # Khortytsia
+			
+			disable_regnal_numbers = yes
 
 			cultural_names = {
 				name_list_greek = cn_southscythia
@@ -35897,6 +36001,8 @@ e_caspian-pontic_steppe = {
 			color = { 214 193 181 }
 
 			capital = c_tana
+			
+			disable_regnal_numbers = yes
 
 			cultural_names = {
 				name_list_greek = cn_tanais
@@ -35951,6 +36057,8 @@ e_caspian-pontic_steppe = {
 			color = { 247 196 189 }
 
 			capital = c_kalos_limen # c_kalos_limen
+			
+			disable_regnal_numbers = yes
 
 			c_kalos_limen = {
 				color = { 243 213 198 }
@@ -36016,12 +36124,16 @@ e_caspian-pontic_steppe = {
 		color = { 254 234 175 }
 
 		can_be_named_after_dynasty = no
+		disable_regnal_numbers = yes
+		
 		capital = c_sarkel # Sarkel
 
 		d_khazaria = {
 			color = { 246 248 212 }
 
 			capital = c_sarkel # Sarkel
+			
+			disable_regnal_numbers = yes
 
 			c_sarkel = {
 				color = { 239 234 196 }
@@ -36116,6 +36228,8 @@ e_caspian-pontic_steppe = {
 			color = { 201 188 143 }
 
 			capital = c_samander # c_samander
+			
+			disable_regnal_numbers = yes
 
 			c_samander = {
 				color = { 210 196 138 }
@@ -36193,6 +36307,8 @@ e_caspian-pontic_steppe = {
 			color = { 209 185 121 }
 
 			capital = c_tmutarakan # Tamatarkha # Tmutarakan
+			
+			disable_regnal_numbers = yes
 
 			c_tmutarakan = { #
 				color = { 216 201 124 }
@@ -36362,6 +36478,7 @@ e_caspian-pontic_steppe = {
 		can_use_nomadic_naming = no
 		can_be_named_after_dynasty = no
 		ruler_uses_title_name = no
+		disable_regnal_numbers = yes
 
 		can_create_on_partition = { always = no }
 
@@ -36371,6 +36488,8 @@ e_caspian-pontic_steppe = {
 			color = { 126 148 103 }
 
 			capital = c_sarai # Itil
+			
+			disable_regnal_numbers = yes
 
 			c_sarai = {
 				color = { 147 157 124 }
@@ -36470,6 +36589,8 @@ e_caspian-pontic_steppe = {
 			color = { 149 131 69 }
 
 			capital = c_pecheneg
+			
+			disable_regnal_numbers = yes
 
 			c_pecheneg = {
 				color = { 138 117 54 }
@@ -36558,6 +36679,7 @@ e_caspian-pontic_steppe = {
 		capital = c_visegrad # Pest
 
 		definite_form = yes
+		disable_regnal_numbers = yes
 
 		de_jure_drift_disabled = yes
 
@@ -36568,6 +36690,8 @@ e_volga-ural = {
 	color = { 94 83 70 }
 
 	capital = c_bolghar
+	
+	disable_regnal_numbers = yes
 
 	can_create = {
 		rule_title_creation_imperial_power_projection_title_creation_trigger = yes
@@ -36579,6 +36703,7 @@ e_volga-ural = {
 		capital = c_bolghar
 		definite_form = yes
 		can_be_named_after_dynasty = no #Don't want dynasty names
+		disable_regnal_numbers = yes
 		cultural_names = {
 			name_list_bolghar = cn_volga
 
@@ -36588,6 +36713,8 @@ e_volga-ural = {
 			color = { 97 56 55 }
 
 			capital = c_bolghar
+			
+			disable_regnal_numbers = yes
 
 			c_bolghar = {
 				color = { 97 56 55 }
@@ -36717,6 +36844,8 @@ e_volga-ural = {
 			color = { 97 80 62 }
 
 			capital = c_kazan
+			
+			disable_regnal_numbers = yes
 
 			c_kazan = {
 				color = { 97 80 62 }
@@ -36820,6 +36949,8 @@ e_volga-ural = {
 			color = { 56 31 56 }
 
 			capital = c_jalmat
+			
+			disable_regnal_numbers = yes
 
 			c_jalmat = {
 				color = { 56 31 56 }
@@ -36883,6 +37014,8 @@ e_volga-ural = {
 			color = { 56 55 97 }
 
 			capital = c_martyuba
+			
+			disable_regnal_numbers = yes
 
 			c_martyuba = {
 				color = { 56 55 97 }
@@ -36934,6 +37067,8 @@ e_volga-ural = {
 			color = { 72 58 24 }
 
 			capital = c_bugurslan
+			
+			disable_regnal_numbers = yes
 
 			c_bugurslan = {
 				color = { 92 78 44 }
@@ -37011,11 +37146,15 @@ e_volga-ural = {
 		can_create_on_partition = { always = no }
 
 		capital = c_cheboksary
+		
+		disable_regnal_numbers = yes
 
 		d_mordvinia = {
 			color = { 26 46 50 }
 
 			capital = c_cheboksary
+			
+			disable_regnal_numbers = yes
 
 			c_cheboksary = {
 				color = { 44 44 65 }
@@ -37083,6 +37222,8 @@ e_volga-ural = {
 			color = { 0 25 15 }
 
 			capital = c_saran
+			
+			disable_regnal_numbers = yes
 
 			c_saran = {
 				color = { 0 35 25 }
@@ -37177,6 +37318,8 @@ e_volga-ural = {
 			color = { 26 52 24 }
 
 			capital = c_voronezh
+			
+			disable_regnal_numbers = yes
 
 			cultural_names = {
 				name_list_mordvin = cn_voronej
@@ -37293,6 +37436,8 @@ e_volga-ural = {
 			color = { 50 40 76 }
 
 			capital = c_saratov
+			
+			disable_regnal_numbers = yes
 
 			cultural_names = {
 				name_list_persian_turkish = cn_burtasia
@@ -37450,6 +37595,8 @@ e_volga-ural = {
 			color = { 46 52 24 }
 
 			capital = c_khopyor
+			
+			disable_regnal_numbers = yes
 
 			c_khopyor = {
 				color = { 74 70 33 }
@@ -37519,6 +37666,8 @@ e_volga-ural = {
 			color = { 0 38 18 }
 
 			capital = c_tambov
+			
+			disable_regnal_numbers = yes
 
 			c_tambov = {
 				color = { 14 52 32 }
@@ -37574,11 +37723,15 @@ e_volga-ural = {
 		color = { 204 188 127 }
 
 		capital = c_perm
+		
+		disable_regnal_numbers = yes
 
 		d_perm = {
 			color = { 214 178 127 }
 
 			capital = c_perm
+			
+			disable_regnal_numbers = yes
 
 			c_perm = {
 				color = { 204 198 137 }
@@ -37712,6 +37865,8 @@ e_volga-ural = {
 			color = { 204 152 140 }
 
 			capital = c_ural
+			
+			disable_regnal_numbers = yes
 
 			c_ural = {
 				color = { 204 152 140 }
@@ -37805,6 +37960,8 @@ e_volga-ural = {
 			color = { 106 109 119 }
 
 			capital = c_kargadan
+			
+			disable_regnal_numbers = yes
 
 			c_kargadan = {
 				color = { 96 139 122 }
@@ -37907,11 +38064,15 @@ e_volga-ural = {
 		color = { 50 65 55 }
 
 		capital = c_ufa
+		
+		disable_regnal_numbers = yes
 
 		d_bashkiria = {
 			color = { 58 64 62 }
 
 			capital = c_ufa
+			
+			disable_regnal_numbers = yes
 
 			c_ufa = {
 				color = { 58 64 62 }
@@ -37991,6 +38152,8 @@ e_volga-ural = {
 			color = { 20 16 38 }
 
 			capital = c_sakmara
+			
+			disable_regnal_numbers = yes
 
 			c_sakmara = {
 				color = { 41 36 58 }
@@ -38048,6 +38211,8 @@ e_volga-ural = {
 			color = { 62 77 105 }
 
 			capital = c_uraltau
+			
+			disable_regnal_numbers = yes
 
 			c_uraltau = {
 				color = { 52 67 95 }
@@ -38149,6 +38314,8 @@ e_volga-ural = {
 			color = { 100 120 92 }
 
 			capital = c_yekaterinburg
+			
+			disable_regnal_numbers = yes
 
 			c_yekaterinburg = {
 				color = { 107 127 99 }
@@ -38274,6 +38441,8 @@ e_siberia = {
 	color = { 43 47 56 }
 
 	capital = c_tyumen
+	
+	disable_regnal_numbers = yes
 
 	can_create = {
 		rule_title_creation_imperial_power_projection_title_creation_trigger = yes
@@ -38283,11 +38452,15 @@ e_siberia = {
 		color = { 75 100 75 }
 
 		capital = c_tyumen
+		
+		disable_regnal_numbers = yes
 
 		d_ostyaki = {
 			color = { 57 37 2 }
 
 			capital = c_tyumen
+			
+			disable_regnal_numbers = yes
 
 			c_tyumen = {
 				color = { 33 20 20 }
@@ -38383,6 +38556,8 @@ e_siberia = {
 			color = { 43 9 20 }
 
 			capital = c_tselym_dalyn
+			
+			disable_regnal_numbers = yes
 
 			c_tselym_dalyn = {
 				color = { 52 23 24 }
@@ -38450,6 +38625,8 @@ e_siberia = {
 			color = { 74 63 56 }
 
 			capital = c_pelym
+			
+			disable_regnal_numbers = yes
 
 			c_pelym = {
 				color = { 77 74 70 }
@@ -38501,6 +38678,8 @@ e_siberia = {
 			color = { 83 15 21 }
 
 			capital = c_kazym
+			
+			disable_regnal_numbers = yes
 
 			c_kazym = {
 				color = { 83 20 20 }
@@ -38569,6 +38748,8 @@ e_siberia = {
 		color = { 65 65 65 }
 
 		capital = c_sibir
+		
+		disable_regnal_numbers = yes
 
 		d_sibir = {
 			color = { 37 38 42 }
@@ -38669,6 +38850,8 @@ e_siberia = {
 			color = { 36 39 47 }
 
 			capital = c_ishim
+			
+			disable_regnal_numbers = yes
 
 			c_ishim = {
 				color = { 13 21 29 }
@@ -38732,6 +38915,8 @@ e_siberia = {
 			color = { 17 5 20 }
 
 			capital = c_tara
+			
+			disable_regnal_numbers = yes
 
 			c_tara = {
 				color = { 6 6 16 }
@@ -38812,11 +38997,15 @@ e_siberia = {
 		color = { 80 60 85 }
 
 		capital = c_kolyvan
+		
+		disable_regnal_numbers = yes
 
 		d_baraba_steppe = {
 			color = { 109 55 30 }
 
 			capital = c_kolyvan
+			
+			disable_regnal_numbers = yes
 
 			c_kolyvan = {
 				color = { 124 48 18 }
@@ -38934,6 +39123,8 @@ e_siberia = {
 			color = { 81 39 34 }
 
 			capital = c_vasyugan
+			
+			disable_regnal_numbers = yes
 
 			c_vasyugan = {
 				color = { 86 59 49 }
@@ -39036,6 +39227,8 @@ e_siberia = {
 			color = { 21 8 20 }
 
 			capital = c_omsk
+			
+			disable_regnal_numbers = yes
 
 			c_omsk = {
 				color = { 24 9 11 }
@@ -39127,6 +39320,8 @@ e_siberia = {
 			color = { 100 64 31 }
 
 			capital = c_kulunda
+			
+			disable_regnal_numbers = yes
 
 			c_kulunda = {
 				color = { 120 78 46 }
@@ -39246,6 +39441,7 @@ e_kirghiz_khanate = {
 
 	capital = c_karabalgasun
 	can_create_on_partition = { always = no }
+	disable_regnal_numbers = yes
 
 	ai_primary_priority = {
 		if = {
@@ -39264,6 +39460,8 @@ e_kirghiz_khanate = {
 		color = { 20 20 83 }
 
 		capital = c_krasnoyarsk
+		
+		disable_regnal_numbers = yes
 
 		d_yenisei_kan = {
 			color = { 46 45 105 }
@@ -39274,6 +39472,8 @@ e_kirghiz_khanate = {
 			}
 
 			capital = c_krasnoyarsk
+			
+			disable_regnal_numbers = yes
 
 			c_krasnoyarsk = { #Called "Kyzyl Char" in game
 				color = { 38 54 115 }
@@ -39406,6 +39606,8 @@ e_kirghiz_khanate = {
 			color = { 37 20 54 }
 
 			#Called "Üd Valley" by default
+			
+			disable_regnal_numbers = yes
 
 			cultural_names = {
 				name_list_russian = cn_chuna_valley
@@ -39521,6 +39723,8 @@ e_kirghiz_khanate = {
 			}
 
 			capital = c_kitoi
+			
+			disable_regnal_numbers = yes
 
 			c_kitoi = {
 				color = { 31 17 78 }
@@ -39617,11 +39821,15 @@ e_kirghiz_khanate = {
 		color = { 0 14 75 }
 
 		capital = c_abakan
+		
+		disable_regnal_numbers = yes
 
 		d_khakass_hollow = {
 			color = { 20 22 184 }
 
 			capital = c_abakan
+			
+			disable_regnal_numbers = yes
 
 			c_abakan = {
 				color = { 60 20 165 }
@@ -39695,6 +39903,8 @@ e_kirghiz_khanate = {
 			color = { 66 37 163 }
 
 			capital = c_kizir
+			
+			disable_regnal_numbers = yes
 
 			c_kizir = {
 				color = { 94 24 159 }
@@ -39764,6 +39974,8 @@ e_kirghiz_khanate = {
 			color = { 64 20 133 }
 
 			capital = c_kuzbas
+			
+			disable_regnal_numbers = yes
 
 			c_kuzbas = {
 				color = { 16 15 116 }
@@ -39840,6 +40052,8 @@ e_kirghiz_khanate = {
 			color = { 20 20 110 }
 
 			capital = c_burugu_aallar
+			
+			disable_regnal_numbers = yes
 
 			c_burugu_aallar = {
 				color = { 20 20 107 }
@@ -39913,6 +40127,8 @@ e_kirghiz_khanate = {
 			color = { 20 20 89 }
 
 			capital = c_karauda
+			
+			disable_regnal_numbers = yes
 
 			c_karauda = {
 				color = { 17 10 119 }
@@ -40003,11 +40219,15 @@ e_kirghiz_khanate = {
 		color = { 7 12 23 }
 
 		capital = c_ob
+		
+		disable_regnal_numbers = yes
 
 		d_salair = {
 			color = { 2 20 36 }
 
 			capital = c_ob
+			
+			disable_regnal_numbers = yes
 
 			c_ob = {
 				color = { 9 21 66 }
@@ -40109,6 +40329,8 @@ e_kirghiz_khanate = {
 			color = { 48 43 43 }
 
 			capital = c_aley
+			
+			disable_regnal_numbers = yes
 
 			c_aley = {
 				color = { 57 55 64 }
@@ -40200,6 +40422,8 @@ e_kirghiz_khanate = {
 			color = { 26 22 46 }
 
 			capital = c_tomsk
+			
+			disable_regnal_numbers = yes
 
 			c_tomsk = {
 				color = { 2 5 37 }
@@ -40383,6 +40607,8 @@ e_kirghiz_khanate = {
 			color = { 20 14 39 }
 
 			capital = c_terektai
+			
+			disable_regnal_numbers = yes
 
 			c_terektai = {
 				color = { 2 16 53 }
@@ -40429,11 +40655,15 @@ e_kirghiz_khanate = {
 		color = { 20 11 83 }
 
 		capital = c_kotera
+		
+		disable_regnal_numbers = yes
 
 		d_bargujin_tukum = {
 			color = { 20 25 83 }
 
 			capital = c_kotera
+			
+			disable_regnal_numbers = yes
 
 			c_kotera = {
 				color = { 20 24 47 }
@@ -40536,6 +40766,8 @@ e_kirghiz_khanate = {
 			}
 
 			capital = c_lena
+			
+			disable_regnal_numbers = yes
 
 			c_lena = {
 				color = { 45 8 146 }
@@ -40615,6 +40847,8 @@ e_kirghiz_khanate = {
 			color = { 7 27 50 }
 
 			capital = c_baigaluuls
+			
+			disable_regnal_numbers = yes
 
 			c_baigaluuls = {
 				color = { 20 33 43 }
@@ -40672,6 +40906,8 @@ e_kirghiz_khanate = {
 			color = { 51 20 101 }
 
 			capital = c_olkhon
+			
+			disable_regnal_numbers = yes
 
 			c_olkhon = {
 				color = { 39 20 94 }
@@ -40757,6 +40993,7 @@ e_mongolia = {
 	capital = c_karakorum
 	can_be_named_after_dynasty = no
 	can_use_nomadic_naming = no
+	disable_regnal_numbers = yes
 
 	can_create = {
 		rule_title_creation_imperial_power_projection_title_creation_trigger = yes
@@ -40776,6 +41013,7 @@ e_mongolia = {
 
 		capital = c_karakorum
 		can_be_named_after_dynasty = no
+		disable_regnal_numbers = yes
 
 		cultural_names = {
 			name_list_khitan = cn_great_liao	#technically should only be the Liao specifically, but at least we don't have "Mongolia" showing up in 1066 BM that way
@@ -40795,6 +41033,8 @@ e_mongolia = {
 			color = { 20 71 222 }
 
 			capital = c_karakorum
+			
+			disable_regnal_numbers = yes
 
 			c_karakorum = {
 				color = { 20 69 161 }
@@ -40916,6 +41156,8 @@ e_mongolia = {
 			color = { 20 96 191 }
 
 			capital = c_ulaanbaatar
+			
+			disable_regnal_numbers = yes
 
 			c_ulaanbaatar = { #Called "Örgöö" in game, as Ulaanbaatar is a modern name
 				color = { 53 111 181 }
@@ -41025,6 +41267,10 @@ e_mongolia = {
 		
 		d_khiyat_china = {
 			color = { 20 87 177 }
+			
+			capital = c_EM_kizilkhentii
+			
+			disable_regnal_numbers = yes
 
             c_EM_kizilkhentii = {
 				color = { 125 180 150 }
@@ -41092,6 +41338,8 @@ e_mongolia = {
 			color = { 75 225 130 }
 
 			capital = c_EM_jiangbian
+			
+			disable_regnal_numbers = yes
 
 			c_EM_jiangbian = {
 				color = { 65 215 120 }
@@ -41149,6 +41397,8 @@ e_mongolia = {
 			color = { 95 140 70 }
 
 			capital = c_EM_yujuelu
+			
+			disable_regnal_numbers = yes
 
 			c_EM_yujuelu = {
 				color = { 85 130 60 }
@@ -41220,6 +41470,8 @@ e_mongolia = {
 			color = { 25 100 65 }
 
 			capital = c_EM_shilka
+			
+			disable_regnal_numbers = yes
 
 			c_EM_shilka = {
 				color = { 15 95 55 }
@@ -41302,12 +41554,16 @@ e_mongolia = {
 	k_merkit = {
 		color = { 20 144 225 }
 
-			capital = c_ulan_ude
+		capital = c_ulan_ude
+		
+		disable_regnal_numbers = yes
 
 		d_uda_valley = {
 			color = { 20 159 254 }
 
 			capital = c_ulan_ude
+			
+			disable_regnal_numbers = yes
 
 			c_ulan_ude = {
 				color = { 20 178 254 }
@@ -41372,6 +41628,8 @@ e_mongolia = {
 			color = { 20 146 254 }
 
 			capital = c_bargajan
+			
+			disable_regnal_numbers = yes
 
 			c_bargajan = {
 				color = { 104 136 254 }
@@ -41468,12 +41726,16 @@ e_mongolia = {
 	k_selenge = {
 		color = { 95 167 194 }
 
-			capital = c_selenga
+		capital = c_selenga
+		
+		disable_regnal_numbers = yes
 
 		d_selenga_valley = {
 			color = { 20 186 254 }
 
 			capital = c_selenga
+			
+			disable_regnal_numbers = yes
 
 			c_selenga = {
 				color = { 20 207 254 }
@@ -41531,6 +41793,8 @@ e_mongolia = {
 			color = { 94 176 249 }
 
 			capital = c_khokhoo
+			
+			disable_regnal_numbers = yes
 
 			c_khokhoo = {
 				color = { 124 184 231 }
@@ -41606,6 +41870,8 @@ e_mongolia = {
 			color = { 69 201 218 }
 
 			capital = c_darkhad_valley
+			
+			disable_regnal_numbers = yes
 
 			c_darkhad_valley = {
 				color = { 20 228 242 }
@@ -41674,12 +41940,16 @@ e_mongolia = {
 	k_kerait = {
 		color = { 20 128 213 }
 
-			capital = c_ikh_bogd
+		capital = c_ikh_bogd
+		
+		disable_regnal_numbers = yes
 
 		d_ovorkhangai = {
 			color = { 20 131 252 }
 
 			capital = c_ikh_bogd
+			
+			disable_regnal_numbers = yes
 
 			c_ikh_bogd = {
 				color = { 95 134 254 }
@@ -41822,6 +42092,8 @@ e_mongolia = {
 			color = { 20 157 243 }
 
 			capital = c_tarvagatai
+			
+			disable_regnal_numbers = yes
 
 			c_tarvagatai = {
 				color = { 20 159 243 }
@@ -41878,6 +42150,8 @@ e_mongolia = {
 
 	k_altai = {
 		color = { 20 94 170 }
+		
+		disable_regnal_numbers = yes
 
 		capital = c_tseel
 
@@ -41885,6 +42159,8 @@ e_mongolia = {
 			color = { 74 92 191 }
 
 			capital = c_tseel
+			
+			disable_regnal_numbers = yes
 
 			c_tseel = {
 				color = { 49 78 230 }
@@ -41953,6 +42229,8 @@ e_mongolia = {
 			color = { 20 117 222 }
 
 			capital = c_altay
+			
+			disable_regnal_numbers = yes
 
 			c_altay = {
 				color = { 20 106 254 }
@@ -42043,6 +42321,8 @@ e_mongolia = {
 			color = { 20 120 177 }
 
 			capital = c_agairik
+			
+			disable_regnal_numbers = yes
 
 			c_agairik = {
 				color = { 20 124 248 }
@@ -42107,6 +42387,8 @@ e_mongolia = {
 			color = { 20 103 196 }
 
 			capital = c_balgun
+			
+			disable_regnal_numbers = yes
 
 			c_balgun = {
 				color = { 20 94 191 }
@@ -42188,11 +42470,15 @@ e_mongolia = {
 		color = { 20 171 254 }
 
 		capital = c_arzhan
+		
+		disable_regnal_numbers = yes
 
 		d_togina = {
 			color = { 20 136 245 }
 
 			capital = c_arzhan
+			
+			disable_regnal_numbers = yes
 
 			c_arzhan = {
 				color = { 20 133 254 }
@@ -42266,6 +42552,8 @@ e_mongolia = {
 			color = { 20 191 254 }
 
 			capital = c_uliastai
+			
+			disable_regnal_numbers = yes
 
 			c_uliastai = {
 				color = { 20 197 254 }
@@ -42330,6 +42618,8 @@ e_mongolia = {
 			color = { 20 178 254 }
 
 			capital = c_uvs_nuur
+			
+			disable_regnal_numbers = yes
 
 			c_uvs_nuur = {
 				color = { 90 181 254 }
@@ -42403,6 +42693,8 @@ e_mongolia = {
 			color = { 127 198 254 }
 
 			capital = c_harhiraa
+			
+			disable_regnal_numbers = yes
 
 			c_harhiraa = {
 				color = { 145 196 248 }
@@ -42454,6 +42746,8 @@ e_mongolia = {
 			color = { 127 193 254 }
 
 			capital = c_eastern_tannu
+			
+			disable_regnal_numbers = yes
 
 			c_eastern_tannu = {
 				color = { 155 175 254 }
@@ -42511,6 +42805,8 @@ e_mongolia = {
 			color = { 127 173 254 }
 
 			capital = c_katu_yaryk
+			
+			disable_regnal_numbers = yes
 
 			c_katu_yaryk = {
 				color = { 159 179 254 }
@@ -42546,6 +42842,8 @@ e_mongolia = {
 			color = { 20 143 248 }
 
 			capital = c_stoyanka
+			
+			disable_regnal_numbers = yes
 
 			c_stoyanka = {
 				color = { 20 124 254 }
@@ -42610,11 +42908,15 @@ e_mongolia = {
 		color = { 180 110 10 }
 
 		capital = c_em_zhen
+		
+		disable_regnal_numbers = yes
 
 		d_em_tataria = {
 			color = { 200 130 30 }
 
 			capital = c_em_zhen
+			
+			disable_regnal_numbers = yes
 
 			c_em_zhen = {
 				color = { 210 140 40 }
@@ -42711,6 +43013,8 @@ e_mongolia = {
 			color = { 200 135 60 }
 
 			capital = c_em_hepung
+			
+			disable_regnal_numbers = yes
 
 			c_em_hepung = {
 				color = { 180 115 40 }
@@ -42802,6 +43106,8 @@ e_mongolia = {
 			color = { 200 140 25 }
 
 			capital = c_em_dadaels
+			
+			disable_regnal_numbers = yes
 
 			c_em_dadaels = {
 				color = { 180 120 5 }
@@ -42848,6 +43154,8 @@ e_mongolia = {
 			color = { 245 185 135 }
 
 			capital = c_gobi_dorngovi
+			
+			disable_regnal_numbers = yes
 
 			c_gobi_dorngovi = {
 				color = { 225 165 115 }
@@ -42929,6 +43237,8 @@ e_mongolia = {
 			color = { 255 215 95 }
 
 			capital = c_gobi_ongi_gol
+			
+			disable_regnal_numbers = yes
 
 			c_gobi_ongi_gol = {
 				color = { 237 196 73 }
@@ -42978,6 +43288,10 @@ e_mongolia = {
 		#From old Jubu
 		d_murin_china = {
 			color = { 20 137 254 }
+			
+			capital = c_murin_china
+			
+			disable_regnal_numbers = yes
 
             c_murin_china = {
 				color = { 20 117 254 }
@@ -42998,9 +43312,32 @@ e_mongolia = {
                     color = { 250 150 220 }
                 }
             }
+			c_westsurrended_china = {
+					color = { 73 6 224 }
+					
+					b_shouxiangcheng = {
+						province = 10521
+	
+						color = { 187 172 83 }
+					}
+					b_tihuquan_china = {
+						province = 12459
+	
+						color = { 187 172 83 }
+					}
+					b_miechuan_china = {
+						province = 12494
+	
+						color = { 187 172 83 }
+					}
+				}
         }
 		d_teriqan_china = {
 			color = { 20 169 234 }
+			
+			capital = c_teriqan_china
+			
+			disable_regnal_numbers = yes
 			
 			c_teriqan_china = {
 				color = { 53 169 254 }
@@ -43044,6 +43381,7 @@ e_tartaria = {
 
 	capital = c_turgay
 	can_use_nomadic_naming = no
+	disable_regnal_numbers = yes
 
 	can_create = {
 		rule_title_creation_imperial_power_projection_title_creation_trigger = yes
@@ -43064,6 +43402,7 @@ e_tartaria = {
 		capital = c_qayaliq
 		definite_form = yes
 		can_use_nomadic_naming = no
+		disable_regnal_numbers = yes
 
 		ai_primary_priority = {
 			if = {
@@ -43078,6 +43417,8 @@ e_tartaria = {
 			color = { 186 184 254 }
 
 			capital = c_qayaliq
+			
+			disable_regnal_numbers = yes
 
 			c_qayaliq = {
 				color = { 188 184 227 }
@@ -43229,6 +43570,8 @@ e_tartaria = {
 			color = { 254 204 254 }
 
 			capital = c_chuguchak
+			
+			disable_regnal_numbers = yes
 
 			c_chuguchak = {
 				color = { 254 185 254 }
@@ -43336,6 +43679,8 @@ e_tartaria = {
 			color = { 254 209 254 }
 
 			capital = c_emil
+			
+			disable_regnal_numbers = yes
 
 			c_emil = {
 				color = { 254 228 254 }
@@ -43427,6 +43772,8 @@ e_tartaria = {
 			color = { 217 176 254 }
 
 			capital = c_iliq
+			
+			disable_regnal_numbers = yes
 
 			c_iliq = {
 				color = { 211 187 238 }
@@ -43524,6 +43871,7 @@ e_tartaria = {
 
 		can_create_on_partition = { always = no }
 		ruler_uses_title_name = no
+		disable_regnal_numbers = yes
 
 		ai_primary_priority = {
 			if = {
@@ -43538,6 +43886,8 @@ e_tartaria = {
 			color = { 192 204 209 }
 
 			capital = c_mugodzhar_hills
+			
+			disable_regnal_numbers = yes
 
 			c_mugodzhar_hills = {
 				color = { 162 193 205 }
@@ -43623,6 +43973,8 @@ e_tartaria = {
 			color = { 254 216 254 }
 
 			capital = c_aqtobe
+			
+			disable_regnal_numbers = yes
 
 			c_aqtobe = {
 				color = { 250 196 231 }
@@ -43714,6 +44066,8 @@ e_tartaria = {
 			color = { 210 232 254 }
 
 			capital = c_manatau
+			
+			disable_regnal_numbers = yes
 
 			c_manatau = {
 				color = { 244 254 254 }
@@ -43768,6 +44122,8 @@ e_tartaria = {
 			color = { 237 200 254 }
 
 			capital = c_atyrau
+			
+			disable_regnal_numbers = yes
 
 			c_atyrau = {
 				color = { 254 193 254 }
@@ -43878,6 +44234,7 @@ e_tartaria = {
 		can_use_nomadic_naming = no
 		can_be_named_after_dynasty = no
 		ruler_uses_title_name = no
+		disable_regnal_numbers = yes
 		
 		can_create_on_partition = { always = no }
 
@@ -43899,6 +44256,8 @@ e_tartaria = {
 			color = { 235 175 251 }
 
 			capital = c_turgay
+			
+			disable_regnal_numbers = yes
 
 			c_turgay = {
 				color = { 223 186 243 }
@@ -43967,6 +44326,8 @@ e_tartaria = {
 			color = { 248 193 249 }
 
 			capital = c_jilali
+			
+			disable_regnal_numbers = yes
 
 			c_jilali = {
 				color = { 244 188 254 }
@@ -44008,6 +44369,8 @@ e_tartaria = {
 			color = { 208 214 241 }
 
 			capital = c_teniz
+			
+			disable_regnal_numbers = yes
 
 			c_teniz = {	#qarateniz
 				color = { 238 244 254 }
@@ -44086,6 +44449,8 @@ e_tartaria = {
 			color = { 185 160 196 }
 
 			capital = c_eghiz_kara
+			
+			disable_regnal_numbers = yes
 
 			c_eghiz_kara = {
 				color = { 183 161 176 }
@@ -44136,6 +44501,8 @@ e_tartaria = {
 			color = { 254 233 254 }
 
 			capital = c_astana
+			
+			disable_regnal_numbers = yes
 
 			c_astana = {
 				color = { 250 217 239 }
@@ -44215,6 +44582,8 @@ e_tartaria = {
 		color = { 240 254 208 }
 
 		capital = c_atbasar
+		
+		disable_regnal_numbers = yes
 
 		ai_primary_priority = {
 			if = {
@@ -44234,6 +44603,8 @@ e_tartaria = {
 			color = { 232 221 167 }
 
 			capital = c_atbasar
+			
+			disable_regnal_numbers = yes
 
 			c_atbasar = {
 				color = { 217 214 166 }
@@ -44283,6 +44654,8 @@ e_tartaria = {
 			color = { 186 232 158 }
 
 			capital = c_kurgan
+			
+			disable_regnal_numbers = yes
 
 			c_kurgan = {
 				color = { 153 223 156 }
@@ -44337,6 +44710,8 @@ e_tartaria = {
 			color = { 200 206 169 }
 
 			capital = c_kush-murun
+			
+			disable_regnal_numbers = yes
 
 			c_kush-murun = {
 				color = { 198 218 194 }
@@ -44391,6 +44766,8 @@ e_tartaria = {
 			color = { 203 225 209 }
 
 			capital = c_petropavl
+			
+			disable_regnal_numbers = yes
 
 			c_petropavl = {
 				color = { 173 211 191 }
@@ -44438,6 +44815,8 @@ e_tartaria = {
 		color = { 224 250 238 }
 
 		capital = c_karkaraly
+		
+		disable_regnal_numbers = yes
 
 		ai_primary_priority = {
 			if = {
@@ -44452,6 +44831,8 @@ e_tartaria = {
 			color = { 248 252 231 }
 
 			capital = c_karkaraly
+			
+			disable_regnal_numbers = yes
 
 			c_karkaraly = {
 				color = { 233 241 235 }
@@ -44515,6 +44896,8 @@ e_tartaria = {
 			color = { 203 213 182 }
 
 			capital = c_karabas
+			
+			disable_regnal_numbers = yes
 
 			c_karabas = {
 				color = { 200 222 166 }
@@ -44594,6 +44977,8 @@ e_tartaria = {
 			color = { 204 254 235 }
 
 			capital = c_tokumbay
+			
+			disable_regnal_numbers = yes
 
 			c_tokumbay = {
 				color = { 185 252 215 }
@@ -44643,6 +45028,8 @@ e_tartaria = {
 			color = { 212 249 209 }
 
 			capital = c_betpa
+			
+			disable_regnal_numbers = yes
 
 			c_betpa = {
 				color = { 208 246 191 }
@@ -44731,6 +45118,7 @@ e_tartaria = {
 
 		can_create_on_partition = { always = no }
 		ruler_uses_title_name = no
+		disable_regnal_numbers = yes
 
 		ai_primary_priority = {
 			if = {
@@ -44745,6 +45133,8 @@ e_tartaria = {
 			color = { 229 217 240 }
 
 			capital = c_semey
+			
+			disable_regnal_numbers = yes
 
 			c_semey = {
 				color = { 253 243 254 }
@@ -44818,6 +45208,8 @@ e_tartaria = {
 			color = { 232 219 244 }
 
 			capital = c_semey
+			
+			disable_regnal_numbers = yes
 
 			c_jinghiz = {
 				color = { 225 204 236 }
@@ -44867,6 +45259,8 @@ e_tartaria = {
 			color = { 215 209 232 }
 
 			capital = c_degelen
+			
+			disable_regnal_numbers = yes
 
 			c_degelen = {
 				color = { 233 216 251 }
@@ -44916,6 +45310,8 @@ e_tartaria = {
 			color = { 190 174 167 }
 
 			capital = c_kulan_uynak
+			
+			disable_regnal_numbers = yes
 
 			c_kulan_uynak = {
 				color = { 195 161 143 }
@@ -88206,6 +88602,8 @@ e_qixi = {
 
 	k_dzungaria = {
 		color = { 45 189 158 }
+		
+		disable_regnal_numbers = yes
 
 		ai_primary_priority = {
             if = {
@@ -90657,6 +91055,7 @@ e_jurchen_china = {
 	can_be_named_after_dynasty = no
 	can_use_nomadic_naming = no
 	definite_form = yes
+	disable_regnal_numbers = yes
 
 	can_create = {
 		rule_title_creation_imperial_power_projection_title_creation_trigger = yes
@@ -91516,6 +91915,7 @@ h_china = {
 	
 	definite_form = yes
 	ruler_uses_title_name = no
+	disable_regnal_numbers = yes
 
 
 	can_create = {
@@ -95197,25 +95597,6 @@ h_china = {
 						province = 12338
 	
 						color = { 250 215 205 }
-					}
-				}
-				c_westsurrended_china = {
-					color = { 73 6 224 }
-					
-					b_shouxiangcheng = {
-						province = 10521
-	
-						color = { 187 172 83 }
-					}
-					b_tihuquan_china = {
-						province = 12459
-	
-						color = { 187 172 83 }
-					}
-					b_miechuan_china = {
-						province = 12494
-	
-						color = { 187 172 83 }
 					}
 				}
 			}
@@ -99960,6 +100341,8 @@ h_china = {
 		k_dali = {
 			color = { 254 227 254 }
 			
+			disable_regnal_numbers = yes
+			
 			d_dongchuan = {
 				color = { 200 185 245 }
 				capital = c_dongchuan
@@ -101099,6 +101482,7 @@ h_china = {
 	
 		definite_form = yes
 		can_be_named_after_dynasty = no
+		disable_regnal_numbers = yes
 	
 		capital = c_thanh_long
 	
@@ -102342,6 +102726,7 @@ k_yongson_throne = {
 	always_follows_primary_heir = yes
 	definite_form = yes
 	ruler_uses_title_name = no
+	disable_regnal_numbers = yes
 
 	can_create = { always = no }
 
@@ -102389,6 +102774,7 @@ e_goryeo = {
 
 	can_be_named_after_dynasty = no
 	can_use_nomadic_naming = no
+	disable_regnal_numbers = yes
 	
 	capital = c_gaeseong
 
@@ -116180,6 +116566,7 @@ k_chrysanthemum_throne = {
 	always_follows_primary_heir = yes
 	definite_form = yes
 	ruler_uses_title_name = no
+	disable_regnal_numbers = yes
 
 	can_create = { always = no }
 
@@ -116452,6 +116839,7 @@ e_japan = {
 
 	definite_form = yes
 	ruler_uses_title_name = no
+	disable_regnal_numbers = yes
 
 	capital = c_yamashiro
 	
@@ -120242,6 +120630,21 @@ d_laamp_el_cid = { # El Cid
 	ai_primary_priority = { add = @never_primary_score }
 }
 
+d_laamp_henry_of_skalitz = { # Henry of Skalitz
+	color = { 100 100 100 }
+	capital = c_boleslav
+
+	definite_form = yes
+	landless = yes
+	require_landless = yes
+	ruler_uses_title_name = no
+	no_automatic_claims = yes
+	destroy_if_invalid_heir = yes
+	disable_regnal_numbers = yes
+
+	ai_primary_priority = { add = @never_primary_score }
+}
+
 d_laamp_crispin = { # Robert Crispin
 	color = { 100 100 100 }
 	capital = c_byzantion # Constantinople, capital of ERE
@@ -121301,6 +121704,16 @@ c_nf_xia_liang = { # LIANG
 	destroy_if_invalid_heir = yes
 
 	ai_primary_priority = { add = @never_primary_score }
+}
+
+k_cossack = {
+	color = { 40 160 40 }
+	
+	definite_form = yes
+	
+	capital = c_tana
+
+	can_create = { always = no }
 }
 
 

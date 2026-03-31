@@ -376,3 +376,9 @@ special_faith_no_special_heritage = {
 	}
 }
 
+special_doctrine_three_teachings = {
+	parameters = {
+		hostility_override_special_doctrine_three_teachings = 0
+		hostility_override_rice_mahayana_canon_doctrine = 0
+	}
+}

@@ -833,7 +833,7 @@ has_special_heritage = {
 
 
 doctrine_mz_syncretism = {
-	category = "main_group"
+	category = "church_group"
 
 	doctrine_types = {
 		tenet_no_syncretism

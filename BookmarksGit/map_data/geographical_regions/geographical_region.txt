@@ -2092,6 +2092,53 @@ custom_beth_nahrain = {
 	}
 }
 
+custom_carthaginian_empire = {
+	generate_modifiers = yes
+	regions = {
+		custom_carthage
+		custom_tripolitania
+		custom_mauretania
+		custom_carthago_nova
+	}
+}
+
+custom_carthage = {
+	duchies = {
+		#Tunis
+		d_tunis d_gabes d_kairouan d_kroumerie d_jerid
+		#Scicili & Sardinia
+		d_sicily d_sardinia
+	}
+}
+
+custom_tripolitania = {
+	duchies = {
+		d_tripolitania d_syrte
+	}
+}
+
+custom_mauretania = {
+	duchies = {
+		d_bejaia d_zab d_alger d_tlemcen d_rif
+	}
+}
+
+custom_carthago_nova = {
+	duchies = {
+		d_sevilla d_granada d_murcia d_valencia
+	}	
+}
+
+custom_cumbria = {
+	generate_modifiers = yes
+	duchies = {
+		d_galloway
+	}
+	counties = {
+		c_westmorland c_cumberland c_lanarkshire
+	}
+}
+
 ###########################################################################
 # Graphical Regions
 ###########################################################################
@@ -4175,6 +4222,16 @@ dlc_mpo_steppe_east_andong_addon = {
 	}
 }
 
+dlc_mpo_steppe_east_china_addon = {
+	duchies = {
+		# k_xia
+		d_tiande d_langshan d_xiutu d_juyan
+		# k_daibei
+		d_sanggan d_xinan
+	}
+}
+
+
 dlc_mpo_steppe_central_siberia_addon = {
 	duchies = {
 		#Northern Steppe
@@ -4212,6 +4269,38 @@ dlc_mpo_steppe_siberia_further_expansion = { # k_yugra and bits of k_ob and k_si
 		d_sibir d_ishim d_tara
 		# k_ob
 		d_vasyugan_mire
+	}
+}
+
+dlc_mpo_steppe_e_amur_expansion = {
+	regions = {
+		world_asia_sakhalin_hokkaido
+	}
+	kingdoms = {
+		k_amur
+	}
+}
+
+# These areas are already steppe for my mod
+#dlc_mpo_steppe_hexi_tarim_expansion = {
+#	regions = {
+#		world_steppe_tarim
+#	}
+#	duchies = {
+#		# k_hexi
+#		d_hexi d_longyou d_qilian d_gansu d_guasha
+#	}
+#}
+#
+dlc_mpo_steppe_north_china_expansion = {
+	kingdoms = {
+		k_jin_china k_zhao_china k_yan_china k_qin_china k_xia_china
+	}
+}
+
+dlc_mpo_steppe_central_china_expansion = {
+	kingdoms = {
+		k_qi_china k_liang_china k_zhou_china
 	}
 }
 
@@ -6733,7 +6822,7 @@ custom_easteurope_plague = {
 
 dlc_mpo_steppe_eastern_steppe = {
 	duchies = {
-		d_em_tataria d_EM_yujuelu d_EM_wajiezi d_em_wuguguo d_gobi_dadaels d_gobi_shatuoguo d_gobi_ongi d_murin_china d_teriqan_china  d_EM_onon d_khiyat_china d_SW_heicheziguo d_xarmoron_china d_hejes_china d_changchun_china d_SW_ruzheguo d_SW_puyudao d_SW_dashiweiguo d_SW_qingxingan d_SW_suihua
+		d_em_tataria d_EM_yujuelu d_EM_wajiezi d_em_wuguguo d_gobi_dadaels d_gobi_shatuoguo d_gobi_ongi d_murin_china d_teriqan_china  d_EM_onon d_khiyat_china d_SW_heicheziguo d_xarmoron_china d_hejes_china d_changchun_china d_SW_ruzheguo d_SW_puyudao d_SW_dashiweiguo d_SW_qingxingan d_SW_suihua d_SW_powoguo
 		#Dzungaria
 		d_altay d_akaltay d_beshbalik d_gurbantunggut d_naiman_gobi d_ili-alatau d_tarbagatai d_kara_khoja
 		#Mongolia

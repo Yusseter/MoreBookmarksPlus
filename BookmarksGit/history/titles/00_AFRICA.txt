@@ -39663,41 +39663,89 @@ c_germa = {
 
 
 d_zanzibar = {
-	863.1.1 = {
-		holder = zanzibar_unguja_01
+
+	730.1.1 = {
+		holder = SwahiliCoast226  # Abdullah
 	}
-	900.1.1 = {
-		holder = zanzibar_unguja_02
+	
+	766.9.25 = {
+		holder = SwahiliCoast227  # Salih
 	}
-	930.1.1 = {
-		holder = zanzibar_unguja_03
+	
+	795.3.7 = {
+		holder = SwahiliCoast228  # Hamad
 	}
-	960.1.1 = {
-		holder = zanzibar_unguja_04
+	
+	822.6.14 = {
+		holder = SwahiliCoast229  # Ibrahim
 	}
-	965.1.1 = {
-		holder = zanzibar_unguja_05
+	
+	850.12.29 = {
+		holder = SwahiliCoast230  # Yusuf
 	}
-	985.1.1 = {
-		holder = zanzibar_unguja_06
+	
+	879.8.5 = {
+		holder = SwahiliCoast231  # Khalifa
 	}
-	1006.1.1 = {
-		holder = zanzibar_unguja_07
+	
+	908.4.11 = {
+		holder = SwahiliCoast232  # Ahmed
 	}
-	1045.1.1 = {
-		holder = zanzibar_unguja_08
+	
+	937.1.22 = {
+		holder = SwahiliCoast233  # Omari
 	}
-	1064.1.1 = {
-		holder = zanzibar_unguja_09
+	
+	966.10.3 = {
+		holder = SwahiliCoast234  # Said
 	}
-	1101.1.1 = {
-		holder = zanzibar_unguja_10
+	
+	995.5.18 = {
+		holder = SwahiliCoast235  # Harun
 	}
-	1115.1.1 = {
-		holder = zanzibar_unguja_11
+	
+	1024.8.26 = {
+		holder = SwahiliCoast236  # Suleiman
 	}
-	1149.1.1 = {
-		holder = zanzibar_unguja_12
+	
+	1053.11.9 = {
+		holder = SwahiliCoast237  # Ali
+	}
+	
+	1082.3.15 = {
+		holder = SwahiliCoast238  # Hasan (oldest son of Ali)
+	}
+	
+	1111.12.30 = {
+		holder = SwahiliCoast240  # Bakari
+	}
+	
+	1140.6.21 = {
+		holder = SwahiliCoast242  # Kassim (oldest son of Bakari)
+	}
+	
+	1169.1.17 = {
+		holder = SwahiliCoast245  # Salim
+	}
+	
+	1198.4.23 = {
+		holder = SwahiliCoast248  # Abedi (oldest son of Salim)
+	}
+	
+	1227.2.6 = {
+		holder = SwahiliCoast252  # Simba (oldest son of Abedi)
+	}
+	
+	1256.3.24 = {
+		holder = SwahiliCoast257  # Abushiri (oldest son of Simba)
+	}
+	
+	1285.8.4 = {
+		holder = SwahiliCoast263  # Saadi
+	}
+	
+	1314.4.13 = {
+		holder = SwahiliCoast270  # Abdulmuhsin
 	}
 }
 
@@ -39706,42 +39754,88 @@ c_zanzibar = {
 	1066.1.1 = { change_development_level = 8 }
 	1178.1.1 = { change_development_level = 20 }
 
-	863.1.1 = {
-		liege = "d_zanzibar"
-		holder = zanzibar_unguja_01
+	730.1.1 = {
+		holder = SwahiliCoast226  # Abdullah
 	}
-	900.1.1 = {
-		holder = zanzibar_unguja_02
+	
+	766.9.25 = {
+		holder = SwahiliCoast227  # Salih
 	}
-	930.1.1 = {
-		holder = zanzibar_unguja_03
+	
+	795.3.7 = {
+		holder = SwahiliCoast228  # Hamad
 	}
-	960.1.1 = {
-		holder = zanzibar_unguja_04
+	
+	822.6.14 = {
+		holder = SwahiliCoast229  # Ibrahim
 	}
-	965.1.1 = {
-		holder = zanzibar_unguja_05
+	
+	850.12.29 = {
+		holder = SwahiliCoast230  # Yusuf
 	}
-	985.1.1 = {
-		holder = zanzibar_unguja_06
+	
+	879.8.5 = {
+		holder = SwahiliCoast231  # Khalifa
 	}
-	1006.1.1 = {
-		holder = zanzibar_unguja_07
+	
+	908.4.11 = {
+		holder = SwahiliCoast232  # Ahmed
 	}
-	1045.1.1 = {
-		holder = zanzibar_unguja_08
+	
+	937.1.22 = {
+		holder = SwahiliCoast233  # Omari
 	}
-	1064.1.1 = {
-		holder = zanzibar_unguja_09
+	
+	966.10.3 = {
+		holder = SwahiliCoast234  # Said
 	}
-	1101.1.1 = {
-		holder = zanzibar_unguja_10
+	
+	995.5.18 = {
+		holder = SwahiliCoast235  # Harun
 	}
-	1115.1.1 = {
-		holder = zanzibar_unguja_11
+	
+	1024.8.26 = {
+		holder = SwahiliCoast236  # Suleiman
 	}
-	1149.1.1 = {
-		holder = zanzibar_unguja_12
+	
+	1053.11.9 = {
+		holder = SwahiliCoast237  # Ali
+	}
+	
+	1082.3.15 = {
+		holder = SwahiliCoast238  # Hasan (oldest son of Ali)
+	}
+	
+	1111.12.30 = {
+		holder = SwahiliCoast240  # Bakari
+	}
+	
+	1140.6.21 = {
+		holder = SwahiliCoast242  # Kassim (oldest son of Bakari)
+	}
+	
+	1169.1.17 = {
+		holder = SwahiliCoast245  # Salim
+	}
+	
+	1198.4.23 = {
+		holder = SwahiliCoast248  # Abedi (oldest son of Salim)
+	}
+	
+	1227.2.6 = {
+		holder = SwahiliCoast252  # Simba (oldest son of Abedi)
+	}
+	
+	1256.3.24 = {
+		holder = SwahiliCoast257  # Abushiri (oldest son of Simba)
+	}
+	
+	1285.8.4 = {
+		holder = SwahiliCoast263  # Saadi
+	}
+	
+	1314.4.13 = {
+		holder = SwahiliCoast270  # Abdulmuhsin
 	}
 }
 
@@ -39869,72 +39963,158 @@ c_mombasa = {
 	1066.1.1 = { change_development_level = 7 }
 	1178.1.1 = { change_development_level = 16 }
 
-	862.1.1 = {
-		holder = mwana_mkisi_of_mombasa
+	730.1.1 = {
+		holder = SwahiliCoast192  # Salih
 	}
-	865.1.1 = {
-		liege = "d_mombasa"
-		holder = mombasa_jomvu_01 # Shehe Mvita marries Mwana Mkisi and gains Mombasa as the dowry
+	
+	761.9.28 = {
+		holder = SwahiliCoast193  # Abdullah
 	}
-	920.1.1 = {
-		holder = mombasa_jomvu_02
+	
+	789.7.22 = {
+		holder = SwahiliCoast194  # Khalifa
 	}
-	935.1.1 = {
-		holder = mombasa_jomvu_03
+	
+	818.2.5 = {
+		holder = SwahiliCoast195  # Ahmed
 	}
-	965.1.1 = {
-		holder = mombasa_jomvu_04
+	
+	847.10.14 = {
+		holder = SwahiliCoast196  # Yusuf
 	}
-	1000.1.1 = {
-		holder = mombasa_jomvu_05
+	
+	875.3.19 = {
+		holder = SwahiliCoast197  # Hamad
 	}
-	1025.1.1 = {
-		holder = mombasa_jomvu_06
+	
+	904.8.27 = {
+		holder = SwahiliCoast198  # Ibrahim
 	}
-	1060.1.1 = {
-		holder = mombasa_jomvu_07
+	
+	933.5.11 = {
+		holder = SwahiliCoast199  # Said
 	}
-	1090.1.1 = {
-		holder = mombasa_jomvu_08
+	
+	962.11.8 = {
+		holder = SwahiliCoast200  # Ali
 	}
-	1130.1.1 = {
-		holder = mombasa_jomvu_09
+	
+	991.6.17 = {
+		holder = SwahiliCoast201  # Majid
 	}
-	1157.1.1 = {
-		holder = mombasa_jomvu_10
+	
+	1020.3.4 = {
+		holder = SwahiliCoast202  # Suleiman
+	}
+	
+	1048.9.23 = {
+		holder = SwahiliCoast203  # Omari
+	}
+	
+	1077.12.30 = {
+		holder = SwahiliCoast204  # Hasan
+	}
+	
+	1106.7.15 = {
+		holder = SwahiliCoast205  # Rashid (oldest son of Hasan)
+	}
+	
+	1135.4.19 = {
+		holder = SwahiliCoast207  # Salim (oldest son of Rashid)
+	}
+	
+	1164.5.27 = {
+		holder = SwahiliCoast210  # Mohamed (oldest son of Salim)
+	}
+	
+	1193.11.25 = {
+		holder = SwahiliCoast211  # Hussein (oldest son of Mohamed)
+	}
+	
+	1222.3.18 = {
+		holder = SwahiliCoast214  # Idris (oldest son of Hussein)
+	}
+	
+	1251.12.16 = {
+		holder = SwahiliCoast216  # Khatib (oldest son of Idris)
+	}
+	
+	1280.4.29 = {
+		holder = SwahiliCoast218  # Hamisi (oldest son of Khatib)
+	}
+	
+	1309.2.19 = {
+		holder = SwahiliCoast221  # Zuberi (oldest son of Hamisi)
 	}
 }
 
 d_mombasa = {
-	865.1.1 = {
-		holder = mombasa_jomvu_01 # Shehe Mvita marries Mwana Mkisi and gains Mombasa as the dowry
+	847.10.14 = {
+		holder = SwahiliCoast196  # Yusuf
 	}
-	920.1.1 = {
-		holder = mombasa_jomvu_02
+	
+	875.3.19 = {
+		holder = SwahiliCoast197  # Hamad
 	}
-	935.1.1 = {
-		holder = mombasa_jomvu_03
+	
+	904.8.27 = {
+		holder = SwahiliCoast198  # Ibrahim
 	}
-	965.1.1 = {
-		holder = mombasa_jomvu_04
+	
+	933.5.11 = {
+		holder = SwahiliCoast199  # Said
 	}
-	1000.1.1 = {
-		holder = mombasa_jomvu_05
+	
+	962.11.8 = {
+		holder = SwahiliCoast200  # Ali
 	}
-	1025.1.1 = {
-		holder = mombasa_jomvu_06
+	
+	991.6.17 = {
+		holder = SwahiliCoast201  # Majid
 	}
-	1060.1.1 = {
-		holder = mombasa_jomvu_07
+	
+	1020.3.4 = {
+		holder = SwahiliCoast202  # Suleiman
 	}
-	1090.1.1 = {
-		holder = mombasa_jomvu_08
+	
+	1048.9.23 = {
+		holder = SwahiliCoast203  # Omari
 	}
-	1130.1.1 = {
-		holder = mombasa_jomvu_09
+	
+	1077.12.30 = {
+		holder = SwahiliCoast204  # Hasan
 	}
-	1157.1.1 = {
-		holder = mombasa_jomvu_10
+	
+	1106.7.15 = {
+		holder = SwahiliCoast205  # Rashid (oldest son of Hasan)
+	}
+	
+	1135.4.19 = {
+		holder = SwahiliCoast207  # Salim (oldest son of Rashid)
+	}
+	
+	1164.5.27 = {
+		holder = SwahiliCoast210  # Mohamed (oldest son of Salim)
+	}
+	
+	1193.11.25 = {
+		holder = SwahiliCoast211  # Hussein (oldest son of Mohamed)
+	}
+	
+	1222.3.18 = {
+		holder = SwahiliCoast214  # Idris (oldest son of Hussein)
+	}
+	
+	1251.12.16 = {
+		holder = SwahiliCoast216  # Khatib (oldest son of Idris)
+	}
+	
+	1280.4.29 = {
+		holder = SwahiliCoast218  # Hamisi (oldest son of Khatib)
+	}
+	
+	1309.2.19 = {
+		holder = SwahiliCoast221  # Zuberi (oldest son of Hamisi)
 	}
 }
 
@@ -39943,43 +40123,92 @@ c_malindi = {
 	1066.1.1 = { change_development_level = 6 }
 	1178.1.1 = { change_development_level = 10 }
 
-	858.1.1 = {
-		liege = 0
-		holder = swahili_malindi_01
+	730.1.1 = {
+		holder = SwahiliCoast82  # Abdullah
 	}
-	890.1.1 = {
-		liege = 0
-		holder = swahili_malindi_02
+	
+	768.9.28 = {
+		holder = SwahiliCoast83  # Salih
 	}
-	920.1.1 = {
-		holder = swahili_malindi_03
+	
+	796.11.3 = {
+		holder = SwahiliCoast84  # Ahmed
 	}
-	940.1.1 = {
-		holder = swahili_malindi_04
+	
+	823.8.14 = {
+		holder = SwahiliCoast85  # Yusuf
 	}
-	980.1.1 = {
-		holder = swahili_malindi_05
+	
+	851.2.17 = {
+		holder = SwahiliCoast86  # Ibrahim
 	}
-	1005.1.1 = {
-		holder = swahili_malindi_06
+	
+	878.12.5 = {
+		holder = SwahiliCoast87  # Hamad
 	}
-	1023.4.5 = {
-		holder = swahili_malindi_07
+	
+	905.7.11 = {
+		holder = SwahiliCoast88  # Khalifa
 	}
-	1055.1.1 = {
-		holder = swahili_malindi_08
+	
+	933.4.19 = {
+		holder = SwahiliCoast89  # Said
 	}
-	1077.6.6 = {
-		holder = swahili_malindi_09
+	
+	962.10.28 = {
+		holder = SwahiliCoast90  # Omari
 	}
-	1111.1.1 = {
-		holder = swahili_malindi_10
+	
+	989.3.6 = {
+		holder = SwahiliCoast91  # Rashid
 	}
-	1132.1.2 = {
-		holder = swahili_malindi_11
+	
+	1017.1.15 = {
+		holder = SwahiliCoast92  # Suleiman
 	}
-	1166.10.1 = {
-		holder = swahili_malindi_12
+	
+	1045.9.23 = {
+		holder = SwahiliCoast93  # Majid
+	}
+	
+	1073.5.8 = {
+		holder = SwahiliCoast94  # Hussein
+	}
+	
+	1101.12.14 = {
+		holder = SwahiliCoast95  # Abedi
+	}
+	
+	1129.7.19 = {
+		holder = SwahiliCoast96  # Juma
+	}
+	
+	1158.2.27 = {
+		holder = SwahiliCoast97  # Harun
+	}
+	
+	1186.10.4 = {
+		holder = SwahiliCoast98  # Kombo
+	}
+	
+	1215.4.16 = {
+		holder = SwahiliCoast99  # Masoud (eldest son)
+	}
+	
+	1243.11.29 = {
+		holder = SwahiliCoast102  # Zuberi (eldest son of Masoud)
+	}
+	
+	1271.9.7 = {
+		holder = SwahiliCoast104  # Mohamed (eldest son of Zuberi)
+	}
+	
+	1299.1.11 = {
+		holder = SwahiliCoast106  # Salim (son of Mohamed)
+	}
+	
+	1327.3.4 = {
+		holder = SwahiliCoast107  # Hasan (extends beyond 1337)
 	}
 }
 
@@ -39988,42 +40217,88 @@ c_lamu = {
 	1066.1.1 = { change_development_level = 7 }
 	1178.1.1 = { change_development_level = 16 }
 
-	# placeholder rulers of Lamu. "Yumbe" just means "Ruler's Home", "wa Yumbe" should translate to "of the Ruler's Home"
-	850.1.1 = {
-		holder = mngwana_wa_yumbe_of_lamu_01
+	730.1.1 = {
+		holder = SwahiliCoast123  # Salih
 	}
-	890.1.1 = {
-		holder = mngwana_wa_yumbe_of_lamu_02
+	
+	768.9.14 = {
+		holder = SwahiliCoast124  # Abdullah
 	}
-	930.1.1 = {
-		holder = mngwana_wa_yumbe_of_lamu_03
+	
+	795.11.25 = {
+		holder = SwahiliCoast126  # Ibrahim
 	}
-	965.1.1 = {
-		holder = mngwana_wa_yumbe_of_lamu_04
+	
+	823.4.9 = {
+		holder = SwahiliCoast128  # Ahmed
 	}
-	975.1.1 = {
-		holder = mngwana_wa_yumbe_of_lamu_05
+	
+	851.10.18 = {
+		holder = SwahiliCoast130  # Said
 	}
-	1010.1.1 = {
-		holder = mngwana_wa_yumbe_of_lamu_06
+	
+	879.12.29 = {
+		holder = SwahiliCoast132  # Suleiman
 	}
-	1024.1.1 = {
-		holder = mngwana_wa_yumbe_of_lamu_07
+	
+	907.5.22 = {
+		holder = SwahiliCoast134  # Ali
 	}
-	1050.1.1 = {
-		holder = mngwana_wa_yumbe_of_lamu_08
+	
+	935.9.17 = {
+		holder = SwahiliCoast137  # Hasan
 	}
-	1075.1.1 = {
-		holder = mngwana_wa_yumbe_of_lamu_09
+	
+	964.7.25 = {
+		holder = SwahiliCoast140  # Majid
 	}
-	1105.1.1 = {
-		holder = mngwana_wa_yumbe_of_lamu_10
+	
+	993.4.22 = {
+		holder = SwahiliCoast143  # Kassim
 	}
-	1135.1.1 = {
-		holder = mngwana_wa_yumbe_of_lamu_11
+	
+	1022.9.3 = {
+		holder = SwahiliCoast146  # Zuberi
 	}
-	1166.1.1 = {
-		holder = mngwana_wa_yumbe_of_lamu_12
+	
+	1051.12.19 = {
+		holder = SwahiliCoast149  # Simba
+	}
+	
+	1080.10.28 = {
+		holder = SwahiliCoast152  # Amani
+	}
+	
+	1109.6.30 = {
+		holder = SwahiliCoast155  # Abu_Bakar
+	}
+	
+	1138.3.28 = {
+		holder = SwahiliCoast159  # Fumomadi
+	}
+	
+	1167.9.24 = {
+		holder = SwahiliCoast163  # Saadi
+	}
+	
+	1197.2.5 = {
+		holder = SwahiliCoast167  # Abushiri
+	}
+	
+	1226.9.22 = {
+		holder = SwahiliCoast172  # Abdulmuhsin
+	}
+	
+	1257.10.28 = {
+		holder = SwahiliCoast177  # Abdul
+	}
+	
+	1286.7.30 = {
+		holder = SwahiliCoast182  # Famao
+	}
+	
+	1315.10.3 = {
+		holder = SwahiliCoast187  # Ibrahim (extends beyond 1337)
 	}
 }
 
@@ -40032,66 +40307,122 @@ c_pate = {
 	1066.1.1 = { change_development_level = 7 }
 	1178.1.1 = { change_development_level = 16 }
 
-
-	# Placeholder kings of Pate. The Famau were present in Siyu until the 19th century, and the last pre-Nabhani rule of Pate in 1202 was a Famau
-	865.1.1 = {
-		holder = famau_of_pate_01
+	730.1.1 = {
+		holder = SwahiliCoast1  # Famao (first character)
 	}
-	880.1.1 = {
-		holder = famau_of_pate_02
+	
+	768.9.25 = {
+		holder = SwahiliCoast2  # Salih
 	}
-	930.1.1 = {
-		holder = famau_of_pate_03
+	
+	795.11.8 = {
+		holder = SwahiliCoast4  # Hamad
 	}
-	965.1.1 = {
-		holder = famau_of_pate_04
+	
+	824.10.15 = {
+		holder = SwahiliCoast6  # Ahmed
 	}
-	1000.1.1 = {
-		liege = "d_pate" # elevating Pate's status for 1066 and 1178
-		holder = famau_of_pate_05
+	
+	853.4.22 = {
+		holder = SwahiliCoast9  # Khalifa
 	}
-	1035.1.1 = {
-		holder = famau_of_pate_06
+	
+	881.12.3 = {
+		holder = SwahiliCoast12  # Abdullah
 	}
-	1070.1.1 = {
-		holder = famau_of_pate_07
+	
+	910.11.29 = {
+		holder = SwahiliCoast15  # Mohamed
 	}
-	1095.1.1 = {
-		holder = famau_of_pate_08
+	
+	939.9.7 = {
+		holder = SwahiliCoast19  # Hussein
 	}
-	1130.1.1 = {
-		holder = famau_of_pate_09
+	
+	968.10.5 = {
+		holder = SwahiliCoast23  # Majid
 	}
-	1165.1.1 = {
-		holder = famau_of_pate_11
+	
+	997.3.12 = {
+		holder = SwahiliCoast27  # Masoud
 	}
-	1205.1.1 = {
-		holder = famau_of_pate_12
+	
+	1026.11.24 = {
+		holder = SwahiliCoast31  # Thuwain
+	}
+	
+	1055.3.27 = {
+		holder = SwahiliCoast35  # Hasan
+	}
+	
+	1084.8.8 = {
+		holder = SwahiliCoast39  # Saadi
+	}
+	
+	1113.1.19 = {
+		holder = SwahiliCoast43  # Abdulrazak
+	}
+	
+	1142.10.2 = {
+		holder = SwahiliCoast48  # Bakathir
+	}
+	
+	1171.11.27 = {
+		holder = SwahiliCoast53  # Ruwei
+	}
+	
+	1200.7.25 = {
+		holder = SwahiliCoast58  # Mwalimu
+	}
+	
+	1229.12.21 = {
+		holder = SwahiliCoast63  # Ahmed
+	}
+	
+	1258.8.4 = {
+		holder = SwahiliCoast69  # Omari
+	}
+	
+	1287.6.30 = {
+		holder = SwahiliCoast75  # Said
+	}
+	
+	1316.9.13 = {
+		holder = SwahiliCoast81  # Abedi (extends beyond 1337)
 	}
 }
 
 d_pate = {
-	# elevating Pate's status for 1066 and 1178
-	1000.1.1 = {
-		holder = famau_of_pate_05
+	1113.1.19 = {
+		holder = SwahiliCoast43  # Abdulrazak
 	}
-	1035.1.1 = {
-		holder = famau_of_pate_06
+	
+	1142.10.2 = {
+		holder = SwahiliCoast48  # Bakathir
 	}
-	1070.1.1 = {
-		holder = famau_of_pate_07
+	
+	1171.11.27 = {
+		holder = SwahiliCoast53  # Ruwei
 	}
-	1095.1.1 = {
-		holder = famau_of_pate_08
+	
+	1200.7.25 = {
+		holder = SwahiliCoast58  # Mwalimu
 	}
-	1130.1.1 = {
-		holder = famau_of_pate_09
+	
+	1229.12.21 = {
+		holder = SwahiliCoast63  # Ahmed
 	}
-	1165.1.1 = {
-		holder = famau_of_pate_11
+	
+	1258.8.4 = {
+		holder = SwahiliCoast69  # Omari
 	}
-	1205.1.1 = {
-		holder = famau_of_pate_12
+	
+	1287.6.30 = {
+		holder = SwahiliCoast75  # Said
+	}
+	
+	1316.9.13 = {
+		holder = SwahiliCoast81  # Abedi (extends beyond 1337)
 	}	
 }
 

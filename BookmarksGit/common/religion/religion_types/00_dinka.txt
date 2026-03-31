@@ -8,7 +8,7 @@
 	pagan_roots = yes
 
 	#Main Group
-	doctrine = doctrine_polytheist
+	doctrine = doctrine_monotheist
 	doctrine = doctrine_no_head
 	doctrine = doctrine_gender_male_dominated
 	doctrine = doctrine_pluralism_righteous
@@ -26,7 +26,7 @@
 	doctrine = doctrine_adultery_women_crime
 	doctrine = doctrine_kinslaying_any_dynasty_member_crime
 	doctrine = doctrine_deviancy_crime
-	doctrine = doctrine_witchcraft_crime
+	doctrine = doctrine_witchcraft_shunned
 
 	#Clerical Functions
 	doctrine = doctrine_clerical_function_alms_and_pacification
@@ -94,7 +94,7 @@
 		FertilityGodHerHim = CHARACTER_HERHIM_HER
 
 		#WealthGod
-		WealthGodName = dinka_health_god_namee
+		WealthGodName = dinka_health_god_name
 		WealthGodNamePossessive = dinka_health_god_name_possessive
 		WealthGodSheHe = CHARACTER_SHEHE_SHE
 		WealthGodHerHis = CHARACTER_HERHIS_HER
@@ -236,5 +236,81 @@
 			doctrine = tenet_unrelenting_faith
 			doctrine = tenet_ancestor_worship
 	    }
+		nuba_pagan = {
+			color = { 215 108 66 }
+			icon = nuba_pagan
+			reformed_icon = nuba_pagan_reformed
+
+			holy_site = kordofan #Nuba medieval heartland
+			holy_site = sennar #Dinka medeival heartland
+			holy_site = kaffa
+			holy_site = ayn_farrah
+			holy_site = damot # napata
+
+			doctrine = unreformed_faith_doctrine
+			
+			doctrine = tenet_legalism
+			doctrine = tenet_esotericism # tenet_adorcism
+			doctrine = tenet_ancestor_worship
+
+			localization = {
+				PriestMale = nuba_priest_male
+				PriestMalePlural = nuba_priest_male_plural
+				PriestFemale = nuba_priest_female
+				PriestFemalePlural = nuba_priest_female_plural
+				PriestNeuter = nuba_priest_neuter
+				PriestNeuterPlural = nuba_priest_neuter_plural
+				AltPriestTermPlural =  nuba_priest_alternate_plural
+				BishopMale = nuba_bishop_male
+				BishopMalePlural = nuba_bishop_male_plural
+				BishopFemale = nuba_bishop_female
+				BishopFemalePlural = nuba_bishop_female_plural
+				BishopNeuter = nuba_bishop_neuter
+				BishopNeuterPlural = nuba_bishop_neuter_plural
+			}
+	    }
+
+		turkana_pagan = {
+			color = { 171 88 8 }
+			icon = turkana_pagan
+			reformed_icon = turkana_pagan_reformed
+
+			holy_site = kordofan #Nuba medieval heartland
+			holy_site = sennar #Dinka medeival heartland
+			holy_site = kaffa
+			holy_site = kirinyaga
+			holy_site = damot # napata
+
+			doctrine = unreformed_faith_doctrine
+			
+			doctrine = tenet_religious_legal_pronouncements
+			doctrine = tenet_esotericism # ngimurok (men) and ngamurok (women), known collectively as emuron, are diviners
+			doctrine = tenet_ancestor_worship
+
+			localization = {
+				HighGodName = turkana_high_god_name
+				HighGodName2 = turkana_high_god_name
+				HighGodNamePossessive = turkana_high_god_name_possessive
+				HighGodNameSheHe = CHARACTER_SHEHE_HE
+				HighGodHerHis = CHARACTER_HERHIS_HIS
+				HighGodHerselfHimself = CHARACTER_HIMSELF
+				HighGodNameAlternate = turkana_high_god_name_alternate
+				HighGodNameAlternatePossessive = turkana_high_god_name_alternate_possessive
+
+				PriestMale = turkana_priest_male
+				PriestMalePlural = turkana_priest_male_plural
+				PriestFemale = turkana_priest_female
+				PriestFemalePlural = turkana_priest_female_plural
+				PriestNeuter = turkana_priest_neuter
+				PriestNeuterPlural = turkana_priest_neuter_plural
+				AltPriestTermPlural =  turkana_priest_alternate_plural
+				BishopMale = turkana_bishop_male
+				BishopMalePlural = turkana_bishop_male_plural
+				BishopFemale = turkana_bishop_female
+				BishopFemalePlural = turkana_bishop_female_plural
+				BishopNeuter = turkana_bishop_neuter
+				BishopNeuterPlural = turkana_bishop_neuter_plural
+			}
+	    }		
     }
 }

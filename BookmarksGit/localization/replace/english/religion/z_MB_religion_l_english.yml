@@ -1947,8 +1947,8 @@
     MZ_BurialRites_Chakravarti: "$MZ_BurialRites_Intro$. [second.MakeScope.Var('mz_burial_rites_ancestor').Char.GetSheHe|U] was the axle at the Center of the World."
     MZ_BurialRites_GreatestOfKhans: "$MZ_BurialRites_Intro$. All the world trembled at [second.MakeScope.Var('mz_burial_rites_ancestor').Char.GetHerHis] footsteps and by [second.MakeScope.Var('mz_burial_rites_ancestor').Char.GetHerHis] will."
     MZ_BurialRites_Paragon: "$MZ_BurialRites_Intro$. We may never again see another [second.MakeScope.Var('mz_burial_rites_ancestor').Char.GetWomanMan] as pious."
-    FAITH_DOCTRINES_CHURCH: "Ecclesiology"
-    church_group: "Ecclesiology"
+    FAITH_DOCTRINES_CHURCH: "Faith Identity"
+    church_group: "Faith Identity"
     SAME_RITE_BONUS: "From shared rite"
     INCOMPATIBLE_TENET_COMMUNAL_IDENTITY_TRIGGER: "Incompatible with the [core_tenet|E] [GetFaithDoctrine('tenet_communal_identity').GetName( GetPlayer.GetFaith )]"
     INCOMPATIBLE_TENET_ANCESTOR_WORSHIP_TRIGGER: "Incompatible with the [core_tenet|E] [GetFaithDoctrine('tenet_ancestor_worship').GetName( GetPlayer.GetFaith )]"
@@ -2484,6 +2484,69 @@
     kushitism_pagan_old_adj: "Old Kushitic"
     kushitism_pagan_old_adherent: "Old Kushitic"
     kushitism_pagan_old_adherent_plural: "Old Kushites"
+    
+    #Nuba religion
+    nuba_pagan: "Kujurism" #fictional as no known name available for traditional nuba religion
+    nuba_pagan_adj: "Kujurist" #fictional term created for game purposes.
+    nuba_pagan_adherent: "Kujurist" #fictional term created for game purposes.
+    nuba_pagan_adherent_plural: "Kujurists"
+    nuba_pagan_desc: "To communicate with the spirit realm, where our ancestors lie, we need the assistance of Kujurs, men and women who possess spiritual, magical powers. These kujurs, an essential part of our society, also serve important functions as healers, rainmakers, mediators, and community leaders."
+    
+    nuba_pagan_old: "Old Kujurism"
+    nuba_pagan_old_adj: "Old Kujurist"
+    nuba_pagan_old_adherent: "Old Kujurist"
+    nuba_pagan_old_adherent_plural: "Old Kujurists"
+    nuba_pagan_old_desc: "$nuba_pagan_desc$"
+    
+    nuba_priest_male: "kujur" 
+    nuba_priest_male_plural: "kujurs"
+    nuba_priest_female: "kujur" 
+    nuba_priest_female_plural: "kujurs"
+    nuba_priest_term_plural: "kujurs"
+    nuba_priest_alternate:1 "kujur"
+    nuba_priest_alternate_plural:1 "kujurs"
+    nuba_priest_neuter: "kujur"
+    nuba_priest_neuter_plural: "kujurs"
+    nuba_bishop_male: "great kujur"
+    nuba_bishop_male_plural: "great kujurs"
+    nuba_bishop_female: "great kujur"
+    nuba_bishop_female_plural: "great kujurs"
+    nuba_bishop_neuter: "great kujur" 
+    nuba_bishop_neuter_plural: "great kujurs"
+    
+    #Ateker/Turkana religion
+    turkana_pagan: "Akujism" #fictional as no known name available for traditional Turkana/Ateker religion
+    turkana_pagan_adj: "Akujist" #fictional term created for game purposes.
+    turkana_pagan_adherent: "Akujist" #fictional term created for game purposes.
+    turkana_pagan_adherent_plural: "Akujists"
+    turkana_pagan_desc: "The supreme god is Akuj, who gives the #italic ngimurok#! diviners revelations, particularly through dreams, to guide and heal people. These diviners can also communicate with benevolent ancestral spirits. It is important to seek the approval of the ancestors and Akuj, if one is to live a blessed life."
+    
+    turkana_pagan_old: "Old Akujism"
+    turkana_pagan_old_adj: "Old Akujist"
+    turkana_pagan_old_adherent: "Old Akujist"
+    turkana_pagan_old_adherent_plural: "Old Akujists"
+    turkana_pagan_old_desc: "$turkana_pagan_desc$"
+    
+    turkana_priest_male: "ngimurok" 
+    turkana_priest_male_plural: "ngimuroks"
+    turkana_priest_female: "ngamurok" 
+    turkana_priest_female_plural: "ngamuroks"
+    turkana_priest_term_plural: "ngimuorks"
+    turkana_priest_alternate:1 "ngimurok"
+    turkana_priest_alternate_plural:1 "ngimuroks"
+    turkana_priest_neuter: "ngimurok"
+    turkana_priest_neuter_plural: "ngimuroks"
+    turkana_bishop_male: "great ngimurok"
+    turkana_bishop_male_plural: "great ngimuroks"
+    turkana_bishop_female: "great ngamurok"
+    turkana_bishop_female_plural: "great ngamuroks"
+    turkana_bishop_neuter: "great ngimurok" 
+    turkana_bishop_neuter_plural: "great ngimuroks"
+    
+    turkana_high_god_name: "Akuj"
+    turkana_high_god_name_possessive: "Akuj's" 
+    turkana_high_god_name_alternate: "Akuj"
+    turkana_high_god_name_alternate_possessive: "Akuj's"
 
     # Gods/Religious Loc
     
@@ -10505,11 +10568,11 @@
  ns_islam_shia_adherent_plural: "Shi'at 'Ali" #shouldn't appear for the player, put anything here
  ns_islam_shia_desc: "Shi'te Muslims believe that the rightful leaders of Islam are the Imams, who are the successors of Alī ibn Abī Tālib and his sons, however they are divided upon where the true line of succession lies."     
  
- tayyibi:0 "Tayyibism"
- tayyibi_adj:0 "Tayyibi"
- tayyibi_adherent:0 "Tayyibi"
- tayyibi_adherent_plural:0 "Tayyibis"
- tayyibi_desc:0 "Tayyibism asserts that the true line of succession to the Caliphate is through al-Amir's son, at-Tayyib, who is believed to have been sent into seclusion and that a line of Imams continues through him in hiding, in their absence the Tayyibis are led by the Unrestricted Missionary (ad-Da'i al-Mutlaq) who holds the highest spiritual office."
- tayyibi_religious_head_title:0 "Da'i al-Mutlaq"
- tayyibi_religious_head_title_name:0 "The Tayyibi Mission"
+ tayyibi: "Tayyibism"
+ tayyibi_adj: "Tayyibi"
+ tayyibi_adherent: "Tayyibi"
+ tayyibi_adherent_plural: "Tayyibis"
+ tayyibi_desc: "Tayyibism asserts that the true line of succession to the Caliphate is through al-Amir's son, at-Tayyib, who is believed to have been sent into seclusion and that a line of Imams continues through him in hiding, in their absence the Tayyibis are led by the Unrestricted Missionary (ad-Da'i al-Mutlaq) who holds the highest spiritual office."
+ tayyibi_religious_head_title: "Da'i al-Mutlaq"
+ tayyibi_religious_head_title_name: "The Tayyibi Mission"
                                                                                                                                                                                                                  

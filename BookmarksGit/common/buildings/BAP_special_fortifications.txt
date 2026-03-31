@@ -37,6 +37,7 @@ wap_palace_of_al_ghaba_01 = {
 	
 	ai_value = {
 		base = 20
+		directive_to_fortify_modifier = yes
 		modifier = {
 			factor = 2
 			scope:holder.capital_province = this
@@ -94,6 +95,7 @@ wap_palace_of_al_ghaba_02 = {
 	
 	ai_value = {
 		base = 20
+		directive_to_fortify_modifier = yes
 		modifier = {
 			factor = 2
 			scope:holder.capital_province = this
@@ -144,6 +146,7 @@ wap_palace_of_al_ghaba_03 = {
 
 	ai_value = {
 		base = 20
+		directive_to_fortify_modifier = yes
 		modifier = {
 			factor = 2
 			scope:holder.capital_province = this
@@ -166,8 +169,24 @@ wap_sungbos_eredo_01 = {
 	
 	can_construct = {
 		scope:holder.culture = {
-			has_innovation = innovation_motte
-            has_innovation = innovation_city_planning
+				has_innovation = innovation_city_planning
+		}
+		trigger_if = {
+			limit = {
+				NOT = {
+					culture = {
+						has_cultural_parameter = next_level_fortification
+					}
+				}
+			}
+			scope:holder.culture = {
+				has_innovation = innovation_motte
+			}
+		}
+		trigger_else = {
+			culture = {
+				has_cultural_parameter = next_level_fortification
+			}
 		}
 	}
 	
@@ -192,6 +211,7 @@ wap_sungbos_eredo_01 = {
 	
 	ai_value = {
 		base = 100
+		directive_to_fortify_modifier = yes
 		culture_likely_to_fortify_modifier = yes
 		modifier = { # Fill all building slots before going for special buildings
 			factor = 0
@@ -210,8 +230,24 @@ wap_walls_of_loropeni_01 = {
 	
 	can_construct = {
 		scope:holder.culture = {
-			has_innovation = innovation_motte
-            has_innovation = innovation_city_planning
+				has_innovation = innovation_city_planning
+		}
+		trigger_if = {
+			limit = {
+				NOT = {
+					culture = {
+						has_cultural_parameter = next_level_fortification
+					}
+				}
+			}
+			scope:holder.culture = {
+				has_innovation = innovation_motte
+			}
+		}
+		trigger_else = {
+			culture = {
+				has_cultural_parameter = next_level_fortification
+			}
 		}
 	}
 	
@@ -236,6 +272,7 @@ wap_walls_of_loropeni_01 = {
 	
 	ai_value = {
 		base = 100
+		directive_to_fortify_modifier = yes
 		culture_likely_to_fortify_modifier = yes
 		modifier = { # Fill all building slots before going for special buildings
 			factor = 0
@@ -282,6 +319,7 @@ wap_palace_of_gao_01 = {
 	
 	ai_value = {
 		base = 100
+		directive_to_fortify_modifier = yes
 		modifier = { # Fill all building slots before going for special buildings
 			factor = 0
 			free_building_slots > 0
@@ -310,6 +348,7 @@ wap_dhar_tichitt_01 = {
 	
 	ai_value = {
 		base = 100
+		directive_to_fortify_modifier = yes
 	}
 	flag = travel_point_of_interest_learning
 	type = special
@@ -321,9 +360,23 @@ wap_fortress_of_dongola_01 = {
 
 	type_icon = "icon_building_fortress_dongola.dds"
 	
-    can_construct = {
-		scope:holder.culture = {
-			has_innovation = innovation_motte
+	can_construct = {
+		trigger_if = {
+			limit = {
+				NOT = {
+					culture = {
+						has_cultural_parameter = next_level_fortification
+					}
+				}
+			}
+			scope:holder.culture = {
+				has_innovation = innovation_motte
+			}
+		}
+		trigger_else = {
+			culture = {
+				has_cultural_parameter = next_level_fortification
+			}
 		}
 	}
 	can_construct_potential = {
@@ -354,6 +407,7 @@ wap_fortress_of_dongola_01 = {
 
 	ai_value = {
 		base = 100
+		directive_to_fortify_modifier = yes
 		culture_likely_to_fortify_modifier = yes
 		modifier = { # Fill all building slots before going for special buildings
 			factor = 0
@@ -397,6 +451,7 @@ wap_walls_of_kano_01 = {
 	
 	ai_value = {
 		base = 100
+		directive_to_fortify_modifier = yes
 		culture_likely_to_fortify_modifier = yes
 		modifier = { # Fill all building slots before going for special buildings
 			factor = 0
@@ -418,8 +473,24 @@ wap_walls_of_kano_02 = {
 	}
 	can_construct = {
 		scope:holder.culture = {
-			has_innovation = innovation_motte
-            has_innovation = innovation_city_planning
+				has_innovation = innovation_city_planning
+		}
+		trigger_if = {
+			limit = {
+				NOT = {
+					culture = {
+						has_cultural_parameter = next_level_fortification
+					}
+				}
+			}
+			scope:holder.culture = {
+				has_innovation = innovation_motte
+			}
+		}
+		trigger_else = {
+			culture = {
+				has_cultural_parameter = next_level_fortification
+			}
 		}
 	}
 	
@@ -444,6 +515,7 @@ wap_walls_of_kano_02 = {
 	
 	ai_value = {
 		base = 100
+		directive_to_fortify_modifier = yes
 		culture_likely_to_fortify_modifier = yes
 		modifier = { # Fill all building slots before going for special buildings
 			factor = 0

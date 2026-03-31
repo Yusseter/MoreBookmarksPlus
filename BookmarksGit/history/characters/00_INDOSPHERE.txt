@@ -14894,7 +14894,7 @@ bengal0 = {
 }
 
 bengal = {
-	name = "Shamsuddin Ilyas"
+	name = "Ilyas"
 	dynasty = ilyasshah
 	religion = "ashari"
 	culture = "bengali"
@@ -14911,7 +14911,7 @@ bengal = {
 }
 
 bengal3 = {
-	name = "Alauddin Ali"
+	name = "Ali"
 	dynasty = ilyasshah
 	religion = "ashari"
 	culture = "bengali"

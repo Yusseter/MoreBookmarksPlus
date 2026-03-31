@@ -38,7 +38,7 @@
 	doctrine = doctrine_pilgrimage_encouraged
 
 	#Funeral tradition
-	doctrine = doctrine_funeral_stoic
+	doctrine = doctrine_funeral_bewailment
 	
 	#Coronation tradition
 	doctrine = doctrine_no_anointment
@@ -202,7 +202,7 @@
 		DeathDeityNamePossessive = amazigh_creator_god_name_possessive
 		DeathDeitySheHe = CHARACTER_SHEHE_SHE
 		DeathDeityHerHis = CHARACTER_HERHIS_HER
-		DeathDeityHerHim = CHARACTER_HERHIM_IT
+		DeathDeityHerHim = CHARACTER_HERHIM_HER
 		WitchGodName = witchgodname_amazigh
 		WitchGodNamePossessive = witchgodname_amazigh_possessive
 		WitchGodSheHe = CHARACTER_SHEHE_IT
@@ -316,7 +316,7 @@
 		        DeathDeityNamePossessive = tuareg_high_god_name_possessive
 		        DeathDeitySheHe = CHARACTER_SHEHE_HE
 		        DeathDeityHerHis = CHARACTER_HERHIS_HIS
-				DeathDeityHerHim = CHARACTER_HERHIM_IT
+				DeathDeityHerHim = CHARACTER_HERHIM_HIM
 				HouseOfWorship = tuareg_house_of_worship
 				HouseOfWorshipPlural = tuareg_house_of_worship_plural
 				WitchGodName = witchgodname_tuareg

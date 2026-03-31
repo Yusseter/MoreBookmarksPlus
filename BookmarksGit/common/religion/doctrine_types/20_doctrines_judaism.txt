@@ -1,5 +1,7 @@
 ﻿# Tracks the way in which Halakha is supposed to be interpreted
 temple_authority_rabbinic_doctrine = { # Rabbis argue and interpret the Halakha
+	icon = "temple_authority_rabbinic_doctrine"
+	
 	piety_cost = {
 		if = {
 			limit = { has_doctrine = temple_authority_rabbinic_doctrine }
@@ -25,6 +27,8 @@ temple_authority_rabbinic_doctrine = { # Rabbis argue and interpret the Halakha
 }
 
 temple_authority_toric_doctrine = { # Rabbis are meant to interpret the literal meaning of the Torah
+	icon = "temple_authority_toric_doctrine"
+	
 	piety_cost = {
 		if = {
 			limit = { has_doctrine = temple_authority_toric_doctrine }
@@ -52,6 +56,8 @@ temple_authority_toric_doctrine = { # Rabbis are meant to interpret the literal 
 }
 
 temple_authority_kohanim_doctrine = { # Belief that the Halakha is to be interpreted by the Kohen
+	icon = "temple_authority_kohanim_doctrine"
+	
 	piety_cost = {
 		if = {
 			limit = { has_doctrine = temple_authority_kohanim_doctrine }
@@ -76,6 +82,8 @@ temple_authority_kohanim_doctrine = { # Belief that the Halakha is to be interpr
 }
 
 temple_authority_samaritan_torah_doctrine = { # Belief in the Samaritan Torah
+	icon = "temple_authority_samaritan_torah_doctrine"
+	
 	piety_cost = {
 		if = {
 			limit = { has_doctrine = temple_authority_samaritan_torah_doctrine }
@@ -101,6 +109,8 @@ temple_authority_samaritan_torah_doctrine = { # Belief in the Samaritan Torah
 }
 
 temple_authority_messiah_doctrine = { # Belief that the Messiah has arrived
+	icon = "temple_authority_messiah_doctrine"
+	
 	piety_cost = {
 		if = {
 			limit = { has_doctrine = temple_authority_messiah_doctrine }

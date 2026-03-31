@@ -84,10 +84,15 @@ balhae = {
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
-		tradition_ruling_caste
-		tradition_hunters
-		tradition_religion_blending
+		tradition_castle_keepers
+		tradition_warriors_by_merit
 		tradition_culture_blending
+	}
+	
+	dlc_tradition = {
+		trait = tradition_cultural_primacy
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_isolationist
 	}
 	
 	dlc_tradition = {

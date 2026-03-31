@@ -1,6 +1,8 @@
 ﻿#Hindu Doctrines
 
 sampradaya_vaishnavism_doctrine = {
+	icon = "sampradaya_vaishnavism_doctrine"
+	
 	piety_cost = {
 		value = faith_doctrine_cost_low
 		if = {
@@ -14,6 +16,8 @@ sampradaya_vaishnavism_doctrine = {
 }
 
 sampradaya_shaivism_doctrine = {
+	icon = "sampradaya_shaivism_doctrine"
+	
 	piety_cost = {
 		value = faith_doctrine_cost_low
 		if = {
@@ -27,6 +31,8 @@ sampradaya_shaivism_doctrine = {
 }
 
 sampradaya_shaktism_doctrine = {
+	icon = "sampradaya_shaktism_doctrine"
+	
 	piety_cost = {
 		value = faith_doctrine_cost_low
 		if = {
@@ -40,6 +46,8 @@ sampradaya_shaktism_doctrine = {
 }
 
 sampradaya_smartism_doctrine = {
+	icon = "sampradaya_smartism_doctrine"
+	
 	piety_cost = {
 		value = faith_doctrine_cost_low
 		if = {
@@ -59,6 +67,8 @@ sampradaya_smartism_doctrine = {
 }
 
 sampradaya_saurism_doctrine = {
+	icon = "sampradaya_saurism_doctrine"
+	
 	piety_cost = {
 		value = faith_doctrine_cost_low
 		if = {
@@ -72,6 +82,8 @@ sampradaya_saurism_doctrine = {
 }
 
 sampradaya_ganapatism_doctrine = {
+	icon = "sampradaya_ganapatism_doctrine"
+	
 	piety_cost = {
 		value = faith_doctrine_cost_low
 		if = {
@@ -85,6 +97,8 @@ sampradaya_ganapatism_doctrine = {
 }
 
 sampradaya_kaumaram_doctrine = {
+	icon = "sampradaya_kaumaram_doctrine"
+	
 	piety_cost = {
 		value = faith_doctrine_cost_low
 		if = {
@@ -98,6 +112,8 @@ sampradaya_kaumaram_doctrine = {
 }
 
 sampradaya_shrautism_doctrine = {
+	icon = "sampradaya_shrautism_doctrine"
+	
 	piety_cost = {
 		value = faith_doctrine_cost_low
 		if = {
