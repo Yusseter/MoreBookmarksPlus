@@ -5990,7 +5990,7 @@ bobodyn009 = {
 }
 
 19100 = {
-	name = "dynn_BoyU_l" #Boyül
+	name = "dynn_BoyU_l"
 	culture = "bodpa"
 }
 
@@ -6130,8 +6130,7 @@ bobodyn009 = {
 }
 
 105820 = {
-	prefix = "dynnp__"
-	name = "dynn_Damgyi"
+	name = "dynn_Damgyi" # Removed prefix for consistency
 	culture = "bodpa"
 }
 
@@ -6272,292 +6271,292 @@ bobodyn009 = {
 
 1062525 = {
 	name = "dynn_Zhungpa"
-	culture = bodpa
+	culture = "bodpa"
 }
 
 1062527 = {
 	name = "dynn_Drampagyang"
-	culture = bodpa
+	culture = "bodpa"
 }
 
 1062528 = {
 	name = "dynn_Qangma"
-	culture = bodpa
+	culture = "bodpa"
 }
 
 1062529 = {
 	name = "dynn_RiwoqE_"
-	culture = bodpa
+	culture = "bodpa"
 }
 
 1062530 = {
 	name = "dynn_YU_mai"
-	culture = bodpa
+	culture = "bodpa"
 }
 
 1062531 = {
 	name = "dynn_Tamu"
-	culture = bodpa
+	culture = "bodpa"
 }
 
 1062532 = {
 	name = "dynn_Namsai"
-	culture = bodpa
+	culture = "bodpa"
 }
 
 1062533 = {
 	name = "dynn_Joram"
-	culture = bodpa
+	culture = "bodpa"
 }
 
 2003013 = {
-	name = "dynn_Zhebu" #Xilangfu Zhebu
-	culture = bodpa
+	name = "dynn_Zhebu"
+	culture = "bodpa"
 }
 
 2003015 = {
-	name = "dynn_Tsongkha" #Tsongkha
+	name = "dynn_Tsongkha"
 	culture = "bodpa"
 }
 
 2003019 = {
-	name = "dynn_Ling" #Ling (Lingtsang)
+	name = "dynn_Ling"
 	culture = "bodpa"
 }
 
 2003020 = {
-	name = "dynn_NangqE_n" #Nangqên
+	name = "dynn_NangqE_n"
 	culture = "bodpa"
 }
 
 2003021 = {
-	name = "dynn_Lhatok" #Lhatok
+	name = "dynn_Lhatok"
 	culture = "bodpa"
 }
 
 2003022 = {
-	name = "dynn_Batang" #Batang
+	name = "dynn_Batang"
 	culture = "bodpa"
 }
 
 2003023 = {
-	name = "dynn_Litang" #Litang
+	name = "dynn_Litang"
 	culture = "bodpa"
 }
 
 2003024 = {
-	name = "dynn_DE_qE_n" #Dêqên
+	name = "dynn_DE_qE_n"
 	culture = "bodpa"
 }
 
 2003025 = {
-	name = "dynn_PemakO_" #Pemakö
+	name = "dynn_PemakO_"
 	culture = "bodpa"
 }
 
 2003026 = {
-	name = "dynn_Drakchi" #Drakchi
+	name = "dynn_Drakchi"
 	culture = "bodpa"
 }
 
 2003039 = {
-	name = "dynn_Zanskar" #Zanskar
+	name = "dynn_Zanskar"
 	culture = "bodpa"
 }
 
 2003040 = {
-	name = "dynn_Purig" #Purig
+	name = "dynn_Purig"
 	culture = "bodpa"
 }
 
 2003042 = {
-	name = "dynn_Karpo" #Karpo
+	name = "dynn_Karpo"
 	culture = "bodpa"
 }
 
 2003044 = {
-	name = "dynn_Ngari" #Ngari
+	name = "dynn_Ngari"
 	culture = "bodpa"
 }
 
 2003045 = {
-	name = "dynn_Nako" #Nako
+	name = "dynn_Nako"
 	culture = "bodpa"
 }
 
 2003051 = {
-	name = "dynn_Tsina" #Tsina
+	name = "dynn_Tsina"
 	culture = "bodpa"
 }
 
 2003060 = {
-	name = "dynn_Tsome" #Tsome
+	name = "dynn_Tsome"
 	culture = "bodpa"
 }
 
 2003061 = {
-	name = "dynn_Dakpo" #Dakpo
+	name = "dynn_Dakpo"
 	culture = "bodpa"
 }
 
 2003062 = {
-	name = "dynn_Chusum" #Chusum
+	name = "dynn_Chusum"
 	culture = "bodpa"
 }
 
 2003063 = {
-	name = "dynn_Yamdrok" #Yamdrok
+	name = "dynn_Yamdrok"
 	culture = "bodpa"
 }
 
 2003064 = {
-	name = "dynn_Nyemo" #Nyemo
+	name = "dynn_Nyemo"
 	culture = "bodpa"
 }
 
 2003065 = {
-	name = "dynn_Penpo" #Penpo
+	name = "dynn_Penpo"
 	culture = "bodpa"
 }
 
 2003066 = {
-	name = "dynn_Meldro" #Meldro
+	name = "dynn_Meldro"
 	culture = "bodpa"
 }
 
 2003067 = {
-	name = "dynn_Dam" #Dam
+	name = "dynn_Dam"
 	culture = "bodpa"
 }
 
 2003072 = {
-	name = "dynn_Hor_GyadE_" #Hor Gyade
+	name = "dynn_Hor_GyadE_"
 	culture = "bodpa"
 }
 
 2003073 = {
-	name = "dynn_Chamdo" #Chamdo
+	name = "dynn_Chamdo"
 	culture = "bodpa"
 }
 
 2003074 = {
-	name = "dynn_Chumarlep" #Chumarlep
+	name = "dynn_Chumarlep"
 	culture = "bodpa"
 }
 
 2003075 = {
-	name = "dynn_Nagormo" #Nagormo
+	name = "dynn_Nagormo"
 	culture = "bodpa"
 }
 
 2003077 = {
-	name = "dynn_Terlenkha" #Terlenkha
+	name = "dynn_Terlenkha"
 	culture = "bodpa"
 }
 
 2003078 = {
-	name = "dynn_Azha" #Azha
+	name = "dynn_Azha"
 	culture = "bodpa"
 }
 
 2003079 = {
-	name = "dynn_Tongkorpa" #Tongkorpa
+	name = "dynn_Tongkorpa"
 	culture = "bodpa"
 }
 
 2003080 = {
-	name = "dynn_Tsongkhapa" #Tsongkhapa
+	name = "dynn_Tsongkhapa"
 	culture = "bodpa"
 }
 
 2003082 = {
-	name = "dynn_Asha" #Asha (Tangut governor of Xining)
+	name = "dynn_Asha"
 	culture = "bodpa"
 }
 
 2003083 = {
-	name = "dynn_Hor_Tsongkha" #Hor Tsongkha
+	name = "dynn_Hor_Tsongkha"
 	culture = "bodpa"
 }
 
 2003084 = {
-	name = "dynn_Zongge" #Zongge
+	name = "dynn_Zongge"
 	culture = "bodpa"
 }
 
 2003085 = {
-	name = "dynn_ChonE_" #Chone
+	name = "dynn_ChonE_"
 	culture = "bodpa"
 }
 
 2003086 = {
-	name = "dynn_Rongwo" #Rongwo
+	name = "dynn_Rongwo"
 	culture = "bodpa"
 }
 
 2003087 = {
-	name = "dynn_Sokwo" #Sokwo
+	name = "dynn_Sokwo"
 	culture = "bodpa"
 }
 
 2003088 = {
-	name = "dynn_Golok" #Golok
+	name = "dynn_Golok"
 	culture = "bodpa"
 }
 
 2003089 = {
-	name = "dynn_Drakgo" #Drakgo
+	name = "dynn_Drakgo"
 	culture = "bodpa"
 }
 
 2003090 = {
-	name = "dynn_Chakla" #Chakla
+	name = "dynn_Chakla"
 	culture = "bodpa"
 }
 
 2003091 = {
-	name = "dynn_Ngawa" #Ngawa
+	name = "dynn_Ngawa"
 	culture = "bodpa"
 }
 
 2003092 = {
-	name = "dynn_Gyelrong" #Gyelrong
+	name = "dynn_Gyelrong"
 	culture = "bodpa"
 }
 
 2003096 = {
-	name = "dynn_Liugu" #Liugu
+	name = "dynn_Liugu"
 	culture = "bodpa"
 }
 
 1000049001 = {
 	name = "dynn_Chenpo"
-	culture = bodpa
+	culture = "bodpa"
 }
 
 1000049002 = {
 	name = "dynn_Yarlung"
-	culture = bodpa
+	culture = "bodpa"
 }
 
 1000049003 = {
 	name = "dynn_Li"
-	culture = bodpa
+	culture = "bodpa"
 }
 
 1000049004 = {
 	name = "dynn_Vun"
-	culture = bodpa
+	culture = "bodpa"
 }
 
 1000049005 = {
 	name = "dynn_Khiei"
-	culture = bodpa
+	culture = "bodpa"
 }
 
 1000049006 = {
 	name = "dynn_Gieu"
-	culture = bodpa
+	culture = "bodpa"
 }
 
 tibetan02 = {
@@ -6642,7 +6641,7 @@ tibetan02 = {
 
 1000100545 = {
 	name = "dynn_Buler"
-	culture = bolghar
+	culture = "bolghar"
 }
 
 bolghar_asparukhid = {
@@ -6812,11 +6811,13 @@ bozodyn003 = {
 }
 
 20017 = {
+	prefix = "dynnp_de"
 	name = "dynn_Leon"
 	culture = "breton"
 }
 
 20106 = {
+	prefix = "dynnp_de"
 	name = "dynn_Naoned"
 	culture = "breton"
 }
@@ -6839,6 +6840,7 @@ bozodyn003 = {
 }
 
 1029101 = {
+	prefix = "dynnp_de"
 	name = "dynn_Domnonea"
 	culture = "breton"
 }
@@ -6862,6 +6864,7 @@ bozodyn003 = {
 }
 
 10290904 = {
+	prefix = "dynnp_de"
 	name = "dynn_Leon"
 	culture = "breton"
 }
@@ -6978,7 +6981,7 @@ bozodyn003 = {
 
 1062304 = {
 	name = "dynn_Ohrid"
-	culture = bulgarian
+	culture = "bulgarian"
 }
 
 1063569 = {
@@ -6988,82 +6991,82 @@ bozodyn003 = {
 
 1000101409 = {
 	name = "dynn_Pernishki"
-	culture = bulgarian
+	culture = "bulgarian"
 }
 
 1000101417 = {
 	name = "dynn_Strumitski"
-	culture = bulgarian
+	culture = "bulgarian"
 }
 
 1000101418 = {
 	name = "dynn_Nestoritsa"
-	culture = bulgarian
+	culture = "bulgarian"
 }
 
 1000101419 = {
 	name = "dynn_Phrantzes"
-	culture = bulgarian
+	culture = "bulgarian"
 }
 
 1000101424 = {
 	name = "dynn_Chargobilya"
-	culture = bulgarian
+	culture = "bulgarian"
 }
 
 1000101425 = {
 	name = "dynn_Taridin"
-	culture = bulgarian
+	culture = "bulgarian"
 }
 
 1000101426 = {
 	name = "dynn_Iliya"
-	culture = bulgarian
+	culture = "bulgarian"
 }
 
 1000101427 = {
 	name = "dynn_Belgradski"
-	culture = bulgarian
+	culture = "bulgarian"
 }
 
 1000101428 = {
 	name = "dynn_Sundika"
-	culture = bulgarian
+	culture = "bulgarian"
 }
 
 1000101429 = {
 	name = "dynn_Kavhan"
-	culture = bulgarian
+	culture = "bulgarian"
 }
 
 1000101430 = {
 	name = "dynn_Hunol"
-	culture = bulgarian
+	culture = "bulgarian"
 }
 
 1000101431 = {
 	name = "dynn_Minikas"
-	culture = bulgarian
+	culture = "bulgarian"
 }
 
 1000103003 = {
 	name = "dynn_Melingoi"
-	culture = bulgarian
+	culture = "bulgarian"
 }
 
 1000103007 = {
 	name = "dynn_Ibatzes"
-	culture = bulgarian
+	culture = "bulgarian"
 }
 
 1000103008 = {
 	name = "dynn_Botkovic"
-	culture = bulgarian
+	culture = "bulgarian"
 }
 
 1000103010 = {
 	name = "dynn_Branicevski"
-	culture = bulgarian
+	culture = "bulgarian"
 }
 
 2000000 = {
@@ -7158,107 +7161,107 @@ bozodyn003 = {
 
 1000027615 = {
 	name = "dynn_Sale"
-	culture = burmese
+	culture = "burmese"
 }
 
 1000027616 = {
 	name = "dynn_Taungthugyi"
-	culture = burmese
+	culture = "burmese"
 }
 
 1000027620 = {
 	name = "dynn_Sandra"
-	culture = burmese
+	culture = "burmese"
 }
 
 1000027621 = {
 	name = "dynn_Myu"
-	culture = burmese
+	culture = "burmese"
 }
 
 1000027622 = {
 	name = "dynn_Tsithabeng"
-	culture = burmese
+	culture = "burmese"
 }
 
 1000027623 = {
 	name = "dynn_Thengkhaya"
-	culture = burmese
+	culture = "burmese"
 }
 
 1000027624 = {
 	name = "dynn_Parin"
-	culture = burmese
+	culture = "burmese"
 }
 
 1000027625 = {
 	name = "dynn_Krit"
-	culture = burmese
+	culture = "burmese"
 }
 
 1000027626 = {
 	name = "dynn_Tsalengkabo"
-	culture = burmese
+	culture = "burmese"
 }
 
 1000027627 = {
 	name = "dynn_Ping_Tsa"
-	culture = burmese
+	culture = "burmese"
 }
 
 1000027628 = {
 	name = "dynn_Launggyet"
-	culture = burmese
+	culture = "burmese"
 }
 
 1000027629 = {
 	name = "dynn_Tsithabeng_Launggyet"
-	culture = burmese
+	culture = "burmese"
 }
 
 1000028220 = {
 	name = "dynn_Bagan"
-	culture = burmese
+	culture = "burmese"
 }
 
 1000028221 = {
 	name = "dynn_Pyinsa"
-	culture = burmese
+	culture = "burmese"
 }
 
 1000078080 = {
 	name = "dynn_Thuriya"
-	culture = burmese
+	culture = "burmese"
 }
 
 1000078081 = {
 	name = "dynn_Halin"
-	culture = burmese
+	culture = "burmese"
 }
 
 1000078082 = {
 	name = "dynn_Tagaung"
-	culture = burmese
+	culture = "burmese"
 }
 
 1000078083 = {
 	name = "dynn_Maingmaw"
-	culture = burmese
+	culture = "burmese"
 }
 
 1000078084 = {
 	name = "dynn_Beikthano"
-	culture = burmese
+	culture = "burmese"
 }
 
 1000078085 = {
 	name = "dynn_Sri_Ksetra"
-	culture = burmese
+	culture = "burmese"
 }
 
 burmand01 = {
 	name = "dynn_Myataung"
-	culture = burmese
+	culture = "burmese"
 }
 
 2001142 = {
@@ -7311,6 +7314,7 @@ burmand01 = {
 	culture = buryat
 }
 
+
 7274 = {
 	name = "dynn_Almoravid"
 	prefix = "dynnp_al-"
@@ -7318,79 +7322,91 @@ burmand01 = {
 }
 
 1053592 = {
-	name = "dynn_Tehlawa" #Tehlawa
+	name = "dynn_Tehlawa"
 	culture = butr
 }
 
 1054006 = {
-	name = "dynn_Sidiabid" #Awlad Sidi Abid
+	name = "dynn_Sidiabid"
+	prefix = "dynnp_banu"
 	culture = butr
 }
 
 1059961 = {
 	name = "dynn_Kel_Wi"
-	culture = "butr" # tuareg
+	prefix = "dynnp_kel"
+	culture = "butr"
 }
 
 1059962 = {
 	name = "dynn_Awellimid"
-	culture = "butr" # tuareg
+	prefix = "dynnp_kel"
+	culture = "butr"
 }
 
 1059963 = {
 	name = "dynn_Banu_Khattab"
 	prefix = "dynnp_banu"
-	culture = "butr" # zanata
+	culture = "butr"
 }
 
 1059964 = {
-	name = "dynn_al_Ibadi"  # Fezzan
+	name = "dynn_al_Ibadi"
 	prefix = "dynnp_al-"
-	culture = "butr" # zanata
+	culture = "butr"
 }
 
 1062441 = {
 	name = "dynn_Mukhtarid"
+	prefix = "dynnp_al-"
 	culture = butr
 }
 
 1062442 = {
 	name = "dynn_Ifranid"
+	prefix = "dynnp_banu"
 	culture = butr
 }
 
 1062443 = {
 	name = "dynn_Ahisid"
+	prefix = "dynnp_banu"
 	culture = butr
 }
 
 1062444 = {
 	name = "dynn_Midrarid"
+	prefix = "dynnp_banu"
 	culture = butr
 }
 
 1062445 = {
 	name = "dynn_Agdassid"
+	prefix = "dynnp_al-"
 	culture = butr
 }
 
 1062446 = {
 	name = "dynn_Atissid"
+	prefix = "dynnp_al-"
 	culture = butr
 }
 
 1062447 = {
 	name = "dynn_Amayadid"
+	prefix = "dynnp_al-"
 	culture = butr
 }
 
 1062448 = {
 	name = "dynn_Aghrebid"
+	prefix = "dynnp_al-"
 	culture = butr
 }
 
 1062604 = {
 	name = "dynn_Banu_Sarray"
+	prefix = "dynnp_banu"
 	culture = butr
 }
 
@@ -7401,6 +7417,7 @@ burmand01 = {
 
 1069081 = {
 	name = "dynn_Banu_Rand"
+	prefix = "dynnp_banu"
 	culture = butr
 }
 
@@ -7431,74 +7448,78 @@ burmand01 = {
 }
 
 1069089 = {
-	name = "dynn_Ghusti" #Awdaghusti
+	name = "dynn_Ghusti"
 	culture = butr
 }
 
 1069090 = {
 	name = "dynn_al_Ma_afiri"
 	prefix = "dynnp_al-"
-	culture = butr #zanata
+	culture = butr
 }
 
 1069091 = {
 	name = "dynn_al_Mazati"
 	prefix = "dynnp_al-"
-	culture = butr #zanata
+	culture = butr
 }
 
 1069092 = {
 	name = "dynn_Hawwara"
-	culture = butr #zanata
+	culture = butr
 }
 
 1101120 = {
-	name = "dynn_Tanmak" #Tadmekka
+	name = "dynn_Tanmak"
 	culture = butr
 }
 
 1101121 = {
-	name = "dynn_Azger" #Berbers in Djanet
+	name = "dynn_Azger"
 	culture = butr
 }
 
 1101142 = {
-	name = "dynn_Tanata" #Tanata of Ghadames
+	name = "dynn_Tanata"
 	culture = butr
 }
 
 1101144 = {
-	name = "dynn_Musab" #Mus'ab of west Mzab
+	name = "dynn_Musab"
+	prefix = "dynnp_banu"
 	culture = butr
 }
 
 1101145 = {
-	name = "dynn_asSamh" #as-Samh
+	name = "dynn_asSamh"
+	prefix = "dynnp_al-"
 	culture = butr
 }
 
 1101146 = {
-	name = "dynn_Kaldinid" #Banu Kaldin
+	name = "dynn_Kaldinid"
+	prefix = "dynnp_banu"
 	culture = butr
 }
 
 1101149 = {
-	name = "dynn_Righa" #Righa tribe
+	name = "dynn_Righa"
 	culture = butr
 }
 
 1101260 = {
-	name = "dynn_Warjilanid" #Warjilani
+	name = "dynn_Warjilanid"
 	culture = butr
 }
 
 1101265 = {
-	name = "dynn_Midrarid" #Banu Midrar of Sijilmasa
+	name = "dynn_Midrarid"
+	prefix = "dynnp_banu"
 	culture = butr
 }
 
 1101266 = {
-	name = "dynn_Masinid" #
+	name = "dynn_Masinid"
 	culture = butr
 }
 
@@ -7647,6 +7668,7 @@ burmand01 = {
 
 1000101145 = {
 	name = "dynn_as-Samh"
+	prefix = "dynnp_al-"
 	culture = butr
 }
 
@@ -7749,12 +7771,13 @@ butr_zanata = {
 }
 
 butrdyn001 = {
-	name = "dynn_Gazzula" #Gazzula tribe
+	name = "dynn_Gazzula"
 	culture = butr
 }
 
 butrdyn002 = {
 	name = "dynn_Banu_Yantasir"
+	prefix = "dynnp_banu"
 	culture = butr
 }
 
@@ -7805,6 +7828,7 @@ mazata_wislu = {
 
 zanata_rashid = {
 	name = "dynn_Banu_Rashid"
+	prefix = "dynnp_banu"
 	culture = butr
 }
 
@@ -7814,7 +7838,8 @@ zanata_sindjas = {
 }
 
 zanatadyn001 = {
-	name = "dynn_Randid" #Banu al-Rand of Gabes
+	name = "dynn_Randid"
+	prefix = "dynnp_banu"
 	culture = butr
 }
 
@@ -7835,62 +7860,62 @@ zanatadyn001 = {
 
 1062175 = {
 	name = "dynn_Carantania"
-	culture = carantanian
+	culture = "carantanian"
 }
 
 1062176 = {
 	name = "dynn_Pribic"
-	culture = carantanian
+	culture = "carantanian"
 }
 
 1062177 = {
 	name = "dynn_Ivkovic"
-	culture = carantanian
+	culture = "carantanian"
 }
 
 1062178 = {
 	name = "dynn_Preradic"
-	culture = carantanian
+	culture = "carantanian"
 }
 
 1062179 = {
 	name = "dynn_Ivkovic"
-	culture = carantanian
+	culture = "carantanian"
 }
 
 1062180 = {
 	name = "dynn_Bojanic"
-	culture = carantanian
+	culture = "carantanian"
 }
 
 1062181 = {
 	name = "dynn_Rajkovic"
-	culture = carantanian
+	culture = "carantanian"
 }
 
 1062182 = {
 	name = "dynn_Milenic"
-	culture = carantanian
+	culture = "carantanian"
 }
 
 1062183 = {
 	name = "dynn_Bogoslavic"
-	culture = carantanian
+	culture = "carantanian"
 }
 
 1062274 = {
 	name = "dynn_Premizic"
-	culture = carantanian
+	culture = "carantanian"
 }
 
 1062275 = {
 	name = "dynn_Marizic"
-	culture = carantanian
+	culture = "carantanian"
 }
 
 carantanian_krajnc = {
 	name = "dynn_Krajnc"
-	culture = carantanian
+	culture = "carantanian"
 }
 
 77 = {
@@ -7930,7 +7955,7 @@ carantanian_krajnc = {
 }
 
 401 = {
-	prefix = "dynnp_de"
+	prefix = "dynnp_de_las"
 	name = "dynn_las_Asturias"
 	culture = "castilian"
 }
@@ -7961,7 +7986,6 @@ carantanian_krajnc = {
 
 442 = {
 	name = "dynn_Jimena"
-	prefix = "dynnp_de"
 	culture = "castilian"
 }
 
@@ -8007,7 +8031,6 @@ carantanian_krajnc = {
 }
 
 7020 = {
-	prefix = "dynnp_de"
 	name = "dynn_QuiN_ones"
 	culture = "castilian"
 }
@@ -8025,7 +8048,6 @@ carantanian_krajnc = {
 }
 
 7025 = {
-	prefix = "dynnp_de"
 	name = "dynn_GirO_n"
 	culture = "castilian"
 }
@@ -8043,7 +8065,6 @@ carantanian_krajnc = {
 }
 
 7035 = {
-	prefix = "dynnp_de"
 	name = "dynn_Pacheco"
 	culture = "castilian"
 }
@@ -8060,7 +8081,7 @@ carantanian_krajnc = {
 }
 
 7046 = {
-	prefix = "dynnp_de"
+	prefix = "dynnp_del"
 	name = "dynn_Prado"
 	culture = "castilian"
 }
@@ -8071,8 +8092,8 @@ carantanian_krajnc = {
 }
 
 8606 = {
-	name = "dynn_Lugo"
 	prefix = "dynnp_de"
+	name = "dynn_Lugo"
 	culture = "castilian"
 }
 
@@ -8084,7 +8105,6 @@ carantanian_krajnc = {
 
 8620 = {
 	name = "dynn_Osorio"
-	prefix = "dynnp_de"
 	culture = "castilian"
 }
 
@@ -8212,7 +8232,7 @@ carantanian_krajnc = {
 }
 
 12149 = {
-	prefix = "dynnp_de"
+	prefix = "dynnp_de_la"
 	name = "dynn_la_Vega"
 	culture = "castilian"
 }
@@ -8272,13 +8292,12 @@ carantanian_krajnc = {
 }
 
 12162 = {
-	prefix = "dynnp_de"
+	prefix = "dynnp_del"
 	name = "dynn_Saz"
 	culture = "castilian"
 }
 
 12163 = {
-	prefix = "dynnp_de"
 	name = "dynn_Silva"
 	culture = "castilian"
 }
@@ -8302,7 +8321,7 @@ carantanian_krajnc = {
 }
 
 12168 = {
-	prefix = "dynnp_del"
+	prefix = "dynnp_de_la"
 	name = "dynn_Puente"
 	culture = "castilian"
 }
@@ -8348,7 +8367,7 @@ carantanian_krajnc = {
 }
 
 12182 = {
-	prefix = "dynnp_de"
+	prefix = "dynnp_de_la"
 	name = "dynn_la_Frontera"
 	culture = "castilian"
 }
@@ -8365,13 +8384,11 @@ carantanian_krajnc = {
 }
 
 12185 = {
-	prefix = "dynnp_de"
 	name = "dynn_Novoa"
 	culture = "castilian"
 }
 
 12186 = {
-	prefix = "dynnp_de"
 	name = "dynn_Cevallos"
 	culture = "castilian"
 }
@@ -8383,7 +8400,6 @@ carantanian_krajnc = {
 }
 
 12188 = {
-	prefix = "dynnp_de"
 	name = "dynn_Barrantes"
 	culture = "castilian"
 }
@@ -8445,7 +8461,6 @@ carantanian_krajnc = {
 
 101884 = {
 	name = "dynn_Arias"
-	prefix = "dynnp_de"
 	culture = "castilian"
 }
 
@@ -8472,8 +8487,8 @@ carantanian_krajnc = {
 }
 
 castilian_antolinez = {
-	name = dynn_antolinez
-	culture = castilian
+	name = "dynn_antolinez"
+	culture = "castilian"
 }
 
 74 = {
@@ -8633,6 +8648,7 @@ castilian_antolinez = {
 
 12119 = {
 	name = "dynn_Vallferrera"
+	prefix = "dynnp_de" # Added prefix for toponym
 	culture = "catalan"
 }
 
@@ -8650,6 +8666,7 @@ castilian_antolinez = {
 
 12122 = {
 	name = "dynn_RocO_"
+	prefix = "dynnp_de" # Added prefix for toponym
 	culture = "catalan"
 }
 
@@ -9436,21 +9453,25 @@ vitanis = {
 
 1000053110 = {
 	name = "dynn_Trelawny"
+	prefix = "dynnp_de"
 	culture = cornish
 }
 
 1000053111 = {
 	name = "dynn_Trevithick"
+	prefix = "dynnp_de"
 	culture = cornish
 }
 
 1000053112 = {
 	name = "dynn_Polperro"
+	prefix = "dynnp_de"
 	culture = cornish
 }
 
 1000053113 = {
 	name = "dynn_Polkerris"
+	prefix = "dynnp_de"
 	culture = cornish
 }
 
@@ -9462,21 +9483,25 @@ vitanis = {
 
 1000053115 = {
 	name = "dynn_Kerfosow"
+	prefix = "dynnp_de"
 	culture = cornish
 }
 
 1000053116 = {
 	name = "dynn_Carrek"
+	prefix = "dynnp_de"
 	culture = cornish
 }
 
 1000053117 = {
 	name = "dynn_Rosdew"
+	prefix = "dynnp_de"
 	culture = cornish
 }
 
 1000053118 = {
 	name = "dynn_Roswarne"
+	prefix = "dynnp_de"
 	culture = cornish
 }
 
@@ -9487,51 +9512,61 @@ vitanis = {
 
 1000053120 = {
 	name = "dynn_Gwavas"
+	prefix = "dynnp_de"
 	culture = cornish
 }
 
 1000053121 = {
 	name = "dynn_Hammett"
+	prefix = "dynnp_de"
 	culture = cornish
 }
 
 1000053122 = {
 	name = "dynn_Tremethyk"
+	prefix = "dynnp_de"
 	culture = cornish
 }
 
 1000053123 = {
 	name = "dynn_Trenowden"
+	prefix = "dynnp_de"
 	culture = cornish
 }
 
 1000053124 = {
 	name = "dynn_Penprase"
+	prefix = "dynnp_de"
 	culture = cornish
 }
 
 1000053125 = {
 	name = "dynn_Nancekivell"
+	prefix = "dynnp_de"
 	culture = cornish
 }
 
 1000053126 = {
 	name = "dynn_Angove"
+	prefix = "dynnp_an"
 	culture = cornish
 }
 
 1000053127 = {
 	name = "dynn_Dyer"
+	prefix = "dynnp_an"
 	culture = cornish
 }
 
 1000053128 = {
 	name = "dynn_Helyer"
+	prefix = "dynnp_an"
 	culture = cornish
 }
 
 1000053129 = {
 	name = "dynn_Marrak"
+	prefix = "dynnp_an"
 	culture = cornish
 }
 
@@ -9567,46 +9602,55 @@ vitanis = {
 
 1000053136 = {
 	name = "dynn_Trescothick"
+	prefix = "dynnp_de"
 	culture = cornish
 }
 
 1000053137 = {
 	name = "dynn_Penberthy"
+	prefix = "dynnp_de"
 	culture = cornish
 }
 
 1000053138 = {
 	name = "dynn_Nancarrow"
+	prefix = "dynnp_de"
 	culture = cornish
 }
 
 1000053139 = {
 	name = "dynn_Chenoweth"
+	prefix = "dynnp_de"
 	culture = cornish
 }
 
 1000053140 = {
 	name = "dynn_Menhenick"
+	prefix = "dynnp_de"
 	culture = cornish
 }
 
 1000053141 = {
 	name = "dynn_Penhaligon"
+	prefix = "dynnp_de"
 	culture = cornish
 }
 
 1000053142 = {
 	name = "dynn_Arundell"
+	prefix = "dynnp_de"
 	culture = cornish
 }
 
 1000053143 = {
 	name = "dynn_Boscawen"
+	prefix = "dynnp_de"
 	culture = cornish
 }
 
 1000053144 = {
 	name = "dynn_Godolphin"
+	prefix = "dynnp_de"
 	culture = cornish
 }
 
@@ -10243,21 +10287,25 @@ Tugomiric_Croat = {
 
 1029002 = {
 	name = "dynn_Ebrauc"
+	prefix = "dynnp_of"
 	culture = "cumbrian"
 }
 
 1029039 = {
 	name = "dynn_Manaw_Goddoddin"
+	prefix = "dynnp_of"
 	culture = "cumbrian"
 }
 
 1000100951 = {
 	name = "dynn_Bryneich"
+	prefix = "dynnp_of"
 	culture = cumbrian
 }
 
 1000100952 = {
 	name = "dynn_Elmet"
+	prefix = "dynnp_of"
 	culture = cumbrian
 }
 
@@ -10268,16 +10316,19 @@ Tugomiric_Croat = {
 
 1000100954 = {
 	name = "dynn_Deifr"
+	prefix = "dynnp_of"
 	culture = cumbrian
 }
 
 1000100955 = {
 	name = "dynn_Argoed"
+	prefix = "dynnp_of"
 	culture = cumbrian
 }
 
 1000100956 = {
 	name = "dynn_Arderydd"
+	prefix = "dynnp_of"
 	culture = cumbrian
 }
 
@@ -10288,6 +10339,7 @@ Tugomiric_Croat = {
 
 1000100958 = {
 	name = "dynn_Aeron"
+	prefix = "dynnp_of"
 	culture = cumbrian
 }
 
@@ -10298,6 +10350,7 @@ Tugomiric_Croat = {
 
 1000100960 = {
 	name = "dynn_Metcaud"
+	prefix = "dynnp_of"
 	culture = cumbrian
 }
 
@@ -10319,7 +10372,7 @@ Tugomiric_Croat = {
 
 506 = {
 	name = "dynn_PR_emyslid"
-	prefix = "dynnp_z"
+	# Removed dynnp_z as they are the family "Přemyslovci", not "of Přemyslid"
 	culture = "czech"
 }
 
@@ -10370,7 +10423,7 @@ Tugomiric_Croat = {
 }
 
 12474 = {
-	prefix = "dynnp_von"
+	prefix = "dynnp_z" # Changed from von to z
 	name = "dynn_Sternberg"
 	culture = "czech"
 }
@@ -10391,46 +10444,55 @@ Tugomiric_Croat = {
 }
 
 1069075 = {
+	prefix = "dynnp_z"
 	name = "dynn_z_Loun"
 	culture = czech
 }
 
 1000100850 = {
 	name = "dynn_ze_Zabrusan"
+	prefix = "dynnp_ze"
 	culture = czech
 }
 
 1000103850 = {
+	prefix = "dynnp_z"
 	name = "dynn_z_Vartemberka"
 	culture = czech
 }
 
 1000103851 = {
+	prefix = "dynnp_z"
 	name = "dynn_z_Hradce"
 	culture = czech
 }
 
 1000103852 = {
+	prefix = "dynnp_z"
 	name = "dynn_z_Kounic"
 	culture = czech
 }
 
 1000103853 = {
+	prefix = "dynnp_z"
 	name = "dynn_z_Rozmberka"
 	culture = czech
 }
 
 1000103854 = {
+	prefix = "dynnp_ze" # Phonetically "ze Šternberka"
 	name = "dynn_z_Sternberka"
 	culture = czech
 }
 
 1000103855 = {
+	prefix = "dynnp_z"
 	name = "dynn_z_Harrachu"
 	culture = czech
 }
 
 1000103856 = {
+	prefix = "dynnp_z"
 	name = "dynn_z_Biberstejna"
 	culture = czech
 }
@@ -10462,276 +10524,331 @@ dajudyn004 = {
 
 1062085 = {
 	name = "dynn_Babalio"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1062086 = {
 	name = "dynn_Benessa"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1062087 = {
 	name = "dynn_Bucignolo"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1062088 = {
 	name = "dynn_Bonda"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1062128 = {
 	name = "dynn_Prodanelli"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103011 = {
 	name = "dynn_Buna"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103012 = {
 	name = "dynn_Udaina"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103013 = {
 	name = "dynn_Babilius"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103014 = {
 	name = "dynn_Vaulcassi"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103015 = {
 	name = "dynn_Martenussi"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103016 = {
 	name = "dynn_Gradei"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103017 = {
 	name = "dynn_Giorgi"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103018 = {
 	name = "dynn_Dairsa"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103019 = {
 	name = "dynn_Getaldei"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103020 = {
 	name = "dynn_Zamanya"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103021 = {
 	name = "dynn_Pozza"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103022 = {
 	name = "dynn_Caboga"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103023 = {
 	name = "dynn_Cerva"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103024 = {
 	name = "dynn_Guzzei"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103025 = {
 	name = "dynn_Gundula"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103026 = {
 	name = "dynn_Saraica"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103027 = {
 	name = "dynn_Raguseo"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103028 = {
 	name = "dynn_Cattaro"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103029 = {
 	name = "dynn_Saurgo"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103030 = {
 	name = "dynn_Buchja"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103031 = {
 	name = "dynn_Mosor"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103032 = {
 	name = "dynn_Mencei"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103033 = {
 	name = "dynn_Savarei"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103034 = {
 	name = "dynn_Barab"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103035 = {
 	name = "dynn_Bunessa"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103036 = {
 	name = "dynn_Spalatrin"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103037 = {
 	name = "dynn_Bonduanza"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103038 = {
 	name = "dynn_Cuosamaura"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103039 = {
 	name = "dynn_Argusta"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103040 = {
 	name = "dynn_Buarca"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103041 = {
 	name = "dynn_Amaudi"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103042 = {
 	name = "dynn_Sanctificuota_Crauc"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103043 = {
 	name = "dynn_Blanca"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103044 = {
 	name = "dynn_Moura"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103045 = {
 	name = "dynn_Savarin"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103046 = {
 	name = "dynn_Aguastin"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103047 = {
 	name = "dynn_Vittaurin"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103048 = {
 	name = "dynn_Sabbatini"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103049 = {
 	name = "dynn_Puol"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103050 = {
 	name = "dynn_Cerieva"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103051 = {
 	name = "dynn_Babalei"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103052 = {
 	name = "dynn_Tudaisi"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103053 = {
 	name = "dynn_Procul"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103054 = {
 	name = "dynn_Favro"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103055 = {
 	name = "dynn_Lucuar"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103056 = {
 	name = "dynn_Menzei"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103057 = {
 	name = "dynn_Raduagli"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103058 = {
 	name = "dynn_Zuzori"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103059 = {
 	name = "dynn_Zamanjic"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
 1000103060 = {
 	name = "dynn_Madi"
+	prefix = "dynnp_di"
 	culture = dalmatian_ce
 }
 
@@ -11365,22 +11482,25 @@ dayak_segara = {
 
 1029009 = {
 	name = "dynn_Kakuyid"
+	prefix = "dynnp_al-e"
 	culture = daylamite
 }
 
 1102201 = {
 	name = "dynn_Buyid"
-	prefix = "dynnp_al-"
+	prefix = "dynnp_al-e"
 	culture = daylamite
 }
 
 1000101905 = {
 	name = "dynn_Ziyari"
+	prefix = "dynnp_al-e"
 	culture = daylamite
 }
 
 1000102200 = {
 	name = "dynn_Kakuyi"
+	prefix = "dynnp_al-e"
 	culture = daylamite
 }
 
@@ -11402,11 +11522,13 @@ dayak_segara = {
 
 1000102204 = {
 	name = "dynn_Shahanshavan"
+	prefix = "dynnp_al-e"
 	culture = daylamite
 }
 
 1000102205 = {
 	name = "dynn_Sallari"
+	prefix = "dynnp_al-e"
 	culture = daylamite
 }
 
@@ -11432,16 +11554,18 @@ dayak_segara = {
 
 1000102210 = {
 	name = "dynn_Hazaraspi"
+	prefix = "dynnp_al-e"
 	culture = daylamite
 }
 
 1000102211 = {
 	name = "dynn_Mihrbati"
-	culture = daylamite #?
+	culture = daylamite
 }
 
 ispahbad_dynasty = {
 	name = "dynn_Mihranid"
+	prefix = "dynnp_al-e"
 	culture = "daylamite"
 }
 
@@ -11469,7 +11593,7 @@ weinan_feng_dyn = {
 
 429 = {
 	prefix = "dynnp_van"
-	name = "dynn_de_Veluwe"
+	name = "dynn_de_Veluwe" # Results in "van de Veluwe"
 	culture = "dutch"
 }
 
@@ -11568,7 +11692,7 @@ weinan_feng_dyn = {
 }
 
 7239 = {
-	prefix = "dynnp_de"
+	prefix = "dynnp_van" # Changed from 'de' to 'van' to fit Dutch convention
 	name = "dynn_Grimmingen"
 	culture = "dutch"
 }
@@ -11580,7 +11704,7 @@ weinan_feng_dyn = {
 }
 
 9104 = {
-	prefix = "dynnp_de"
+	prefix = "dynnp_van" # Changed from 'de' to 'van'
 	name = "dynn_Moravia"
 	culture = "dutch"
 }
@@ -11604,7 +11728,7 @@ weinan_feng_dyn = {
 }
 
 1045028 = {
-	prefix = "dynnp_de"
+	prefix = "dynnp_van" # Changed from 'de' to 'van' for "van Friesland"
 	name = "dynn_Friesland"
 	culture = "dutch"
 }
@@ -11643,11 +11767,13 @@ weinan_feng_dyn = {
 
 1000053034 = {
 	name = "dynn_fan_Innhausen"
+	prefix = "dynnp_fan"
 	culture = dutch
 }
 
 1000053035 = {
 	name = "dynn_fan_Knyphausen"
+	prefix = "dynnp_fan"
 	culture = dutch
 }
 
@@ -11759,7 +11885,7 @@ weinan_feng_dyn = {
 1000053057 = {
 	name = "dynn_Vries"
 	prefix = "dynnp_de"
-	culture = dutch
+	culture = "dutch"
 }
 
 1000053058 = {
@@ -11794,11 +11920,13 @@ weinan_feng_dyn = {
 
 1000053064 = {
 	name = "dynn_van_Wieren"
+	prefix = "dynnp_van"
 	culture = dutch
 }
 
 1000053065 = {
 	name = "dynn_tom_Brok"
+	prefix = "dynnp_tom" # Requires adding dynnp_tom: "tom " to loc
 	culture = dutch
 }
 
@@ -11850,16 +11978,19 @@ weinan_feng_dyn = {
 }
 
 1000103800 = {
+	prefix = "dynnp_van"
 	name = "dynn_Ripperda"
 	culture = dutch
 }
 
 1000103801 = {
+	prefix = "dynnp_van"
 	name = "dynn_Heemstra"
 	culture = dutch
 }
 
 1000103802 = {
+	prefix = "dynnp_van"
 	name = "dynn_Albada"
 	culture = dutch
 }
@@ -11870,16 +12001,19 @@ weinan_feng_dyn = {
 }
 
 1000103804 = {
+	prefix = "dynnp_van"
 	name = "dynn_Harinxma"
 	culture = dutch
 }
 
 1000103805 = {
+	prefix = "dynnp_van"
 	name = "dynn_Attena"
 	culture = dutch
 }
 
 1000103806 = {
+	prefix = "dynnp_van"
 	name = "dynn_Idzinga"
 	culture = dutch
 }
@@ -11890,6 +12024,7 @@ weinan_feng_dyn = {
 }
 
 1000103808 = {
+	prefix = "dynnp_van"
 	name = "dynn_Liauckema"
 	culture = dutch
 }
@@ -11905,47 +12040,56 @@ weinan_feng_dyn = {
 }
 
 1000103811 = {
+	prefix = "dynnp_van"
 	name = "dynn_Hettinga"
 	culture = dutch
 }
 
 1000103812 = {
+	prefix = "dynnp_van"
 	name = "dynn_Walta"
 	culture = dutch
 }
 
 1000103813 = {
+	prefix = "dynnp_van"
 	name = "dynn_Onsta"
 	culture = dutch
 }
 
 1000103814 = {
+	prefix = "dynnp_van"
 	name = "dynn_Ewsum"
 	culture = dutch
 }
 
 1000103815 = {
+	prefix = "dynnp_van"
 	name = "dynn_Lewe"
 	culture = dutch
 }
 
 1000103816 = {
+	prefix = "dynnp_van"
 	name = "dynn_Jemgum"
 	culture = dutch
 }
 
 1000103817 = {
+	prefix = "dynnp_van"
 	name = "dynn_Rengers"
 	culture = dutch
 }
 
 1000103818 = {
 	name = "dynn_fan_Westflinge"
+	prefix = "dynnp_fan"
 	culture = dutch
 }
 
 1000103819 = {
 	name = "dynn_fan_Eastfryslan"
+	prefix = "dynnp_fan"
 	culture = dutch
 }
 
@@ -12101,6 +12245,7 @@ edodyn026 = {
 
 614 = {
 	name = "dynn_Shams"
+	prefix = "dynnp_ash-"
 	culture = "egyptian"
 }
 
@@ -12593,6 +12738,7 @@ edodyn026 = {
 
 1059036 = {
 	name = "dynn_Haroun"
+	prefix = "dynnp_al-"
 	culture = egyptian_coptic
 }
 
@@ -12603,6 +12749,7 @@ edodyn026 = {
 
 1059038 = {
 	name = "dynn_Abderahman"
+	prefix = "dynnp_al-"
 	culture = egyptian_coptic
 }
 
@@ -12613,6 +12760,7 @@ edodyn026 = {
 
 1059040 = {
 	name = "dynn_Bayomi"
+	prefix = "dynnp_al-"
 	culture = egyptian_coptic
 }
 
@@ -12674,7 +12822,7 @@ edodyn026 = {
 106 = {
 	name = "dynn_Plantagenet"
 	culture = "english"
-	motto = dynn_Plantagenet_motto # Quoted from Richard I's nickname
+	motto = dynn_Plantagenet_motto
 }
 
 344 = {
@@ -12721,13 +12869,13 @@ edodyn026 = {
 
 4002 = {
 	name = "dynn_Despencer"
-	prefix = "dynnp_of"
+	prefix = "dynnp_le"
 	culture = "english"
 }
 
 4007 = {
 	name = "dynn_Bacon"
-	prefix = "dynnp_of"
+					
 	culture = "english"
 }
 
@@ -12739,7 +12887,7 @@ edodyn026 = {
 
 4012 = {
 	name = "dynn_Crispin"
-	prefix = "dynnp_of"
+					
 	culture = "english"
 }
 
@@ -12751,7 +12899,7 @@ edodyn026 = {
 
 4024 = {
 	name = "dynn_Berkeley"
-	prefix = "dynnp_of"
+	prefix = "dynnp_de"
 	culture = "english"
 }
 
@@ -12763,13 +12911,13 @@ edodyn026 = {
 
 4039 = {
 	name = "dynn_Darcy"
-	prefix = "dynnp_of"
+	prefix = "dynnp_de"
 	culture = "english"
 }
 
 4040 = {
 	name = "dynn_Butler"
-	prefix = "dynnp_of"
+	prefix = "dynnp_le"
 	culture = "english"
 }
 
@@ -12787,7 +12935,7 @@ edodyn026 = {
 
 8788 = {
 	name = "dynn_Breakspear"
-	prefix = "dynnp_of"
+					
 	culture = "english"
 }
 
@@ -12823,13 +12971,13 @@ edodyn026 = {
 
 9500 = {
 	name = "dynn_Becket"
-	prefix = "dynnp_of"
+					
 	culture = "english"
 }
 
 11500 = {
 	name = "dynn_FitzPeter"
-	prefix = "dynnp_of"
+	prefix = "dynnp_fitz"
 	culture = "english"
 }
 
@@ -12895,19 +13043,19 @@ edodyn026 = {
 
 101708 = {
 	name = "dynn_Pudsey"
-	prefix = "dynnp_of"
+	prefix = "dynnp_de"
 	culture = "english"
 }
 
 101709 = {
 	name = "dynn_Marshal"
-	prefix = "dynnp_of"
+	prefix = "dynnp_le"
 	culture = "english"
 }
 
 101899 = {
 	name = "dynn_FitzAlan"
-	prefix = "dynnp_of"
+	prefix = "dynnp_fitz"
 	culture = "english"
 }
 
@@ -12964,6 +13112,7 @@ edodyn026 = {
 
 1000053150 = {
 	name = "dynn_of_Camelot"
+	prefix = "dynnp_of"
 	culture = english
 }
 
@@ -12974,7 +13123,7 @@ edodyn026 = {
 
 1000100151 = {
 	name = "dynn_Murdac"
-	prefix = "dynnp_of"
+					
 	culture = english
 }
 
@@ -13118,12 +13267,13 @@ edodyn026 = {
 
 1099Unlanded1 = {
 	name = "dynn_Ghazali"
+	prefix = "dynnp_al-"
 	culture = "english"
 }
 
 1124Unlanded1 = {
 	name = "dynn_Abelard"
-	prefix = "dynnp_de"
+					
 	culture = "english"
 }
 
@@ -13178,6 +13328,7 @@ edodyn026 = {
 
 1211Unlanded2 = {
 	name = "dynn_Boulogne"
+	prefix = "dynnp_de"
 	culture = english
 }
 
@@ -13205,11 +13356,13 @@ edodyn026 = {
 
 1337Unlanded2 = {
 	name = "dynn_Ockham"
+	prefix = "dynnp_of"
 	culture = english
 }
 
 1337Unlanded5 = {
 	name = "dynn_Calveley"
+	prefix = "dynnp_de"
 	culture = english
 }
 
@@ -13240,11 +13393,13 @@ edodyn026 = {
 
 FitzHarding = {
 	name = "dynn_FitzHarding"
+	prefix = "dynnp_fitz"
 	culture = "english"
 }
 
 Fitzwalter = {
 	name = "dynn_FitzWalter"
+	prefix = "dynnp_fitz"
 	culture = "english"
 }
 
@@ -13256,6 +13411,7 @@ Loundres = {
 
 MBenglishDyn0001 = {
 	name = "dynn_Fitz_Bishop"
+	prefix = "dynnp_fitz"
 	culture = english
 }
 
@@ -13364,72 +13520,72 @@ zijian_Targaryen_dyn = {
 
 1000053350 = {
 	name = "dynn_Harjulane"
-	culture = estonian
+	culture = "estonian"
 }
 
 1000053351 = {
 	name = "dynn_Virulane"
-	culture = estonian
+	culture = "estonian"
 }
 
 1000053352 = {
 	name = "dynn_Jarvalane"
-	culture = estonian
+	culture = "estonian"
 }
 
 1000053353 = {
 	name = "dynn_Ugandilane"
-	culture = estonian
+	culture = "estonian"
 }
 
 1000053354 = {
 	name = "dynn_Vaialane"
-	culture = estonian
+	culture = "estonian"
 }
 
 1000053355 = {
 	name = "dynn_Laanlane"
-	culture = estonian
+	culture = "estonian"
 }
 
 1000053356 = {
 	name = "dynn_Saarlane"
-	culture = estonian
+	culture = "estonian"
 }
 
 1000053357 = {
 	name = "dynn_Vanemalane"
-	culture = estonian
+	culture = "estonian"
 }
 
 1000053363 = {
 	name = "dynn_Kilikunda"
-	culture = estonian
+	culture = "estonian"
 }
 
 1000053364 = {
 	name = "dynn_Mahu"
-	culture = estonian
+	culture = "estonian"
 }
 
 1000053365 = {
 	name = "dynn_Lemmu"
-	culture = estonian
+	culture = "estonian"
 }
 
 1000053366 = {
 	name = "dynn_Rebala"
-	culture = estonian
+	culture = "estonian"
 }
 
 1000053367 = {
 	name = "dynn_Alutaguse"
-	culture = estonian
+	culture = "estonian"
 }
 
 1000100696 = {
 	name = "dynn_Vadadit"
-	culture = estonian
+	culture = "estonian"
 }
 
 7246 = {
@@ -18162,7 +18318,7 @@ Shaburidze_Georgia = {
 
 go02 = {
     name = "dynn_Wang"
-    culture = "goguryeo"
+    culture = "goryeo"
 }
 
 KorChoe = {
