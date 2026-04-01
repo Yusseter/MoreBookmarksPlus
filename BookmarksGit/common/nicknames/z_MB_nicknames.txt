@@ -3,6 +3,70 @@
 #############################################
 #give_nickname = xxxx
 
+
+# Laqabs
+
+nick_adud_al_dawla = { is_prefix = yes }
+nick_ala_al_dawla = { is_prefix = yes }
+nick_ala_al_din = { is_prefix = yes }
+nick_alam_al_din = { is_prefix = yes }
+nick_amad_al_dawla = { is_prefix = yes }
+nick_asad_al_din = { is_prefix = yes }
+nick_badr_al_din = { is_prefix = yes }
+nick_baha_al_dawla = { is_prefix = yes }
+nick_baha_al_din = { is_prefix = yes }
+nick_fakhr_al_din = { is_prefix = yes }
+nick_ghiyath_al_din = { is_prefix = yes }
+nick_hisn_al_dawla = { is_prefix = yes }
+nick_husam_al_dawla = { is_prefix = yes }
+nick_ikhtiyar_al_din = { is_prefix = yes }
+nick_imad_al_dawla = { is_prefix = yes }
+nick_imad_al_din = { is_prefix = yes }
+nick_izz_al_din = { is_prefix = yes }
+nick_jahan_pahlavan = { is_prefix = yes }
+nick_jalal_al_dawla = { is_prefix = yes }
+nick_jalal_al_din = { is_prefix = yes }
+nick_kanz_al_dawla = { is_prefix = yes }
+nick_majd_al_din = { is_prefix = yes }
+nick_mu_izz_al_din = { is_prefix = yes }
+nick_muayyad_al_din = { is_prefix = yes }
+nick_muayyid_al_din = { is_prefix = yes }
+nick_mubaraz_al_din = { is_prefix = yes }
+nick_muhyi_al_din = { is_prefix = yes }
+nick_muizz_al_dawla = { is_prefix = yes }
+nick_musharraf_al_dawla = { is_prefix = yes }
+nick_muzaffar_al_din = { is_prefix = yes }
+nick_najm_al_din = { is_prefix = yes }
+nick_nasir_al_din = { is_prefix = yes }
+nick_nizam_al_dawla = { is_prefix = yes }
+nick_nizam_al_din = { is_prefix = yes }
+nick_nizam_al_mulk = { is_prefix = yes }
+nick_nur_al_din = { is_prefix = yes }
+nick_qasim_al_dawla = { is_prefix = yes }
+nick_qutb_al_din = { is_prefix = yes }
+nick_rashid_al_dawla = { is_prefix = yes }
+nick_rashid_al_din = { is_prefix = yes }
+nick_rukn_al_din = { is_prefix = yes }
+nick_sad_al_dawla = { is_prefix = yes }
+nick_salah_al_din = { is_prefix = yes }
+nick_samsam_al_dawla = { is_prefix = yes }
+nick_sayf_al_dawla = { is_prefix = yes }
+nick_sayf_al_din = { is_prefix = yes }
+nick_sayf_al_islam = { is_prefix = yes }
+nick_shams_al_din = { is_prefix = yes }
+nick_shams_al_mulk = { is_prefix = yes }
+nick_sharaf_al_dawla = { is_prefix = yes }
+nick_sharaf_al_din = { is_prefix = yes }
+nick_shibl_al_dawla = { is_prefix = yes }
+nick_sultan_al_dawla = { is_prefix = yes }
+nick_taj_al_din = { is_prefix = yes }
+nick_taj_al_mulk = { is_prefix = yes }
+nick_yumm_al_din = { is_prefix = yes }
+nick_zahir_al_din = { is_prefix = yes }
+nick_zahir_al_mulk = { is_prefix = yes }
+nick_zayn_al_dawla = { is_prefix = yes }
+nick_zayn_al_din = { is_prefix = yes }
+
 #Nicknames for historical characters. Normally will give them the nickname at birth and will typically use the English nickname rather than whatever it was in the native language unless they are widely known by that non English epitaph since I and most people playing this mod can only read English
 
 nick_the_affluent = {}

@@ -37849,6 +37849,9 @@ surakat_ii_avar = {
 	1150.1.1={
 		birth="1150.1.1"
 	}
+	1170.1.1 = {
+		give_nickname = nick_sharaf_al_din
+	}
 	1212.1.1={
 		death={
 			death_reason=death_execution

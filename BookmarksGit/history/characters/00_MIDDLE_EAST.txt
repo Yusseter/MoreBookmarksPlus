@@ -21445,7 +21445,7 @@ andalusian0066 = {
 }
 
 34001 = {
-	name = "As-Saffah"
+	name = "al-Saffah"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = "bedouin"
@@ -38018,7 +38018,7 @@ kurdish0001 = {
 }
 
 226052 = {
-	name = "al-Adil_Sayf_al-Din" #Aleppo 1186-1186
+	name = "Ahmad" #Aleppo 1186-1186
 	dynasty_house = house_Ayyubid
 	dna = "bookmark_saladin_saphadin_226052"
 	martial = 8
@@ -38032,7 +38032,9 @@ kurdish0001 = {
 	father = 226053
 	1145.6.1 = {
 		birth = "1145.6.1"
-		give_nickname = nick_saphadin
+	}
+	1178.1.1 = {
+		give_nickname = nick_sayf_al_din
 	}
 	1204.1.1 = {
 		effect = {
@@ -38048,13 +38050,16 @@ kurdish0001 = {
 }
 
 32914 = {
-	name = "ad-Dawla_Turanshah"
+	name = "Turanshah"
 	dynasty_house = house_Ayyubid
 	religion = "ashari"
 	culture = "egyptian"
 	father = 226053
 	1146.1.1 = {
 		birth = "1146.1.1"
+	}
+	1155.1.1 = {
+		give_nickname = nick_fakhr_al_din
 	}
 	1184.1.1 = {
 		death = yes
@@ -38069,6 +38074,9 @@ kurdish0001 = {
 	father = 226053
 	1147.1.1 = {
 		birth = "1147.1.1"
+	}
+	1170.1.1 = {
+		give_nickname = nick_taj_al_mulk
 	}
 	1184.1.1 = {
 		death = yes
@@ -38097,6 +38105,9 @@ kurdish0001 = {
 	father = 226053
 	1148.1.1 = {
 		birth = "1148.1.1"
+	}
+	1170.1.1 = {
+		give_nickname = nick_sayf_al_islam
 	}
 	1197.1.1 = {
 		death = yes
