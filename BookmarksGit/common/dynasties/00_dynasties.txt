@@ -13600,11 +13600,13 @@ zijian_Targaryen_dyn = {
 
 101787 = {
 	name = "dynn_Sabraid"
+	prefix = "dynnp_al-"
 	culture = "ethiopian"
 }
 
 101789 = {
 	name = "dynn_Habeshid"
+	prefix = "dynnp_al-"
 	culture = "ethiopian"
 }
 
@@ -13680,21 +13682,25 @@ zijian_Targaryen_dyn = {
 
 1000101331 = {
 	name = "dynn_Bnei_Gedawon"
+	prefix = "dynnp_bnei"
 	culture = ethiopian
 }
 
 1000101332 = {
 	name = "dynn_Ha_Dani"
+	prefix = "dynnp_ha-"
 	culture = ethiopian
 }
 
 1000101333 = {
 	name = "dynn_Bnei_Radai"
+	prefix = "dynnp_bnei"
 	culture = ethiopian
 }
 
 1000101334 = {
 	name = "dynn_Bnei_Naphtali"
+	prefix = "dynnp_bnei"
 	culture = ethiopian
 }
 
@@ -13891,7 +13897,7 @@ ewedyn003 = {
 
 257 = {
 	name = "dynn_Ludowinger"
-	prefix = "dynnp_von"
+					 
 	culture = "franconian"
 }
 
@@ -13969,13 +13975,13 @@ ewedyn003 = {
 
 555 = {
 	name = "dynn_Bluome"
-	prefix = "dynnp_von"
+					 
 	culture = "franconian"
 }
 
 651 = {
 	name = "dynn_Salian"
-	prefix = "dynnp_von"
+					 
 	culture = "franconian"
 }
 
@@ -13986,38 +13992,39 @@ ewedyn003 = {
 }
 
 658 = {
-	prefix = "dynnp_von"
+					 
 	name = "dynn_Suebi"
 	culture = "franconian"
 }
 
 662 = {
-	prefix = "dynnp_de"
+	prefix = "dynnp_von"
 	name = "dynn_Moselle"
 	culture = "franconian"
 }
 
 671 = {
-	name = "dynn_Hainaut"
 	prefix = "dynnp_von"
+	name = "dynn_Hainaut"
+					 
 	culture = "franconian"
 }
 
 706 = {
 	name = "dynn_Prochaska"
-	prefix = "dynnp_von"
+					 
 	culture = "franconian"
 }
 
 737 = {
-	prefix = "dynnp_de"
+	prefix = "dynnp_von"
 	name = "dynn_Macon"
 	culture = "franconian"
 }
 
 1053 = {
 	name = "dynn_Konradiner"
-	prefix = "dynnp_von"
+					 
 	culture = "franconian"
 }
 
@@ -14179,7 +14186,7 @@ ewedyn003 = {
 
 7149 = {
 	name = "dynn_Suerbeer"
-	prefix = "dynnp_von"
+					 
 	culture = "franconian"
 }
 
@@ -14196,8 +14203,9 @@ ewedyn003 = {
 }
 
 7153 = {
-	name = "dynn_Pernstein"
 	prefix = "dynnp_von"
+	name = "dynn_Pernstein"
+					 
 	culture = "franconian"
 }
 
@@ -14281,7 +14289,7 @@ ewedyn003 = {
 
 7290 = {
 	name = "dynn_Babenberger"
-	prefix = "dynnp_von"
+					 
 	culture = "franconian"
 }
 
@@ -14350,7 +14358,7 @@ ewedyn003 = {
 }
 
 12444 = {
-	prefix = "dynnp_van"
+	prefix = "dynnp_von"
 	name = "dynn_Valkenburg"
 	culture = "franconian"
 }
@@ -14404,7 +14412,7 @@ ewedyn003 = {
 }
 
 100129 = {
-	prefix = "dynnp_de"
+	prefix = "dynnp_von"
 	name = "dynn_Verdun"
 	culture = "franconian"
 }
@@ -14423,7 +14431,7 @@ ewedyn003 = {
 
 101554 = {
 	name = "dynn_Ezzonen"
-	prefix = "dynnp_von"
+					 
 	culture = "franconian"
 }
 
@@ -14458,7 +14466,7 @@ ewedyn003 = {
 }
 
 101898 = {
-	prefix = "dynnp_van"
+	prefix = "dynnp_von"
 	name = "dynn_Diest"
 	culture = "franconian"
 }
@@ -14470,20 +14478,20 @@ ewedyn003 = {
 }
 
 101918 = {
-	prefix = "dynnp_van"
+	prefix = "dynnp_von"
 	name = "dynn_Zutphen"
 	culture = "franconian"
 }
 
 200060 = {
 	name = "dynn_St__Genes"
-	prefix = "dynnp_von"
+					 
 	culture = "franconian"
 }
 
 200061 = {
 	name = "dynn_Grelle"
-	prefix = "dynnp_von"
+					 
 	culture = "franconian"
 }
 
@@ -14521,767 +14529,770 @@ ewedyn003 = {
 1062187 = {
 	prefix = "dynnp_von"
 	name = "dynn_Saarbrucken"
-	culture = franconian
+	culture = "franconian"
 }
 
 1062189 = {
 	prefix = "dynnp_von"
 	name = "dynn_Kleve"
-	culture = franconian
+	culture = "franconian"
 }
 
 1062190 = {
-	name = "dynn_Commercy"
 	prefix = "dynnp_von"
-	culture = franconian
+	name = "dynn_Commercy"
+	culture = "franconian"
+					 
 }
 
 1062191 = {
-	name = "dynn_Broyes_Commercy"
 	prefix = "dynnp_von"
-	culture = franconian
+	name = "dynn_Broyes_Commercy"
+	culture = "franconian"
+					 
 }
 
 1062248 = {
 	prefix = "dynnp_von"
 	name = "dynn_Brodswinden"
-	culture = franconian
+	culture = "franconian"
 }
 
 1062255 = {
 	prefix = "dynnp_von"
 	name = "dynn_Cleve"
-	culture = franconian
+	culture = "franconian"
 }
 
 1062256 = {
 	prefix = "dynnp_von"
 	name = "dynn_Pont"
-	culture = franconian
+	culture = "franconian"
 }
 
 1064000 = {
 	name = "dynn_Meginhardi"
-	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
+					 
 }
 
 1000020116 = {
 	name = "dynn_Annweiler"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103200 = {
 	name = "dynn_Abenberg"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103201 = {
 	name = "dynn_Battenberg"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103202 = {
 	name = "dynn_Diez"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103203 = {
 	name = "dynn_Elsass"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103204 = {
 	name = "dynn_Falkenstein"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103205 = {
 	name = "dynn_Lauffen"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103206 = {
 	name = "dynn_Leiningen"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103207 = {
 	name = "dynn_Lutzelburg"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103208 = {
 	name = "dynn_Sayn"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103209 = {
 	name = "dynn_Sulzbach"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103210 = {
 	name = "dynn_Rieneck"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103211 = {
 	name = "dynn_Virneburg"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103212 = {
 	name = "dynn_Vianden"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103213 = {
 	name = "dynn_Waldeck"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103214 = {
 	name = "dynn_Reichenbach"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103215 = {
 	name = "dynn_Solms"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103216 = {
 	name = "dynn_Wied"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103217 = {
 	name = "dynn_Wertheim"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103218 = {
 	name = "dynn_Maden"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103219 = {
 	name = "dynn_Castell"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103220 = {
 	name = "dynn_Rothenburg"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103221 = {
 	name = "dynn_Schwalenberg"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103222 = {
 	name = "dynn_Manderscheid"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103223 = {
 	name = "dynn_Schweinfurt"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103224 = {
 	name = "dynn_Pfalz"
 	prefix = "dynnp_von_der"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103225 = {
 	name = "dynn_Hessen"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103226 = {
 	name = "dynn_Wetterau"
 	prefix = "dynnp_von_der"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103227 = {
 	name = "dynn_Hohenlohe"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103228 = {
 	name = "dynn_Pappenheim"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103229 = {
 	name = "dynn_Nordenberg"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103230 = {
 	name = "dynn_Hanau"
-	culture = franconian
+	culture = "franconian"
 	prefix = "dynnp_von"
 }
 
 1000103231 = {
 	name = "dynn_Eppstein"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103232 = {
 	name = "dynn_Isenburg"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103233 = {
 	name = "dynn_Limburg-Arlon"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103234 = {
 	name = "dynn_Nidda"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103235 = {
 	name = "dynn_Gleiberg"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103236 = {
 	name = "dynn_Kirchberg"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103237 = {
 	name = "dynn_Gudensberg"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103238 = {
 	name = "dynn_Veldenz"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103239 = {
 	name = "dynn_Arenberg"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103240 = {
 	name = "dynn_Boyneburg"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103241 = {
 	name = "dynn_Ziegenhain"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103242 = {
 	name = "dynn_Hochstaden"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103243 = {
 	name = "dynn_Stahleck"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103244 = {
 	name = "dynn_Huckeswagen"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103245 = {
 	name = "dynn_Wildberg"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103246 = {
 	name = "dynn_Hengebach"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103247 = {
 	name = "dynn_Erbach"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103248 = {
 	name = "dynn_Bunkenheim"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103249 = {
 	name = "dynn_Lindenfels"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103250 = {
 	name = "dynn_Schoenborn"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103251 = {
 	name = "dynn_Rennenberg"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103252 = {
 	name = "dynn_Arlon"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103253 = {
 	name = "dynn_Merode"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103254 = {
 	name = "dynn_Houffalize"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103255 = {
 	name = "dynn_Berg"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103256 = {
 	name = "dynn_Juelich"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103257 = {
 	name = "dynn_Henneberg"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103258 = {
 	name = "dynn_Katzenelnbogen"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103259 = {
 	name = "dynn_Kleve"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103260 = {
 	name = "dynn_Limburg"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103261 = {
 	name = "dynn_Nassau"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103262 = {
 	name = "dynn_Salm"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103263 = {
 	name = "dynn_Sponheim"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103264 = {
 	name = "dynn_Ezzonen"
-	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
+					 
 }
 
 1000103265 = {
 	name = "dynn_Matfriede"
-	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
+					 
 }
 
 1000103266 = {
 	name = "dynn_Salier"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103267 = {
 	name = "dynn_Wigeriche"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103268 = {
 	name = "dynn_Konradiner"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103269 = {
 	name = "dynn_Gisonen"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103270 = {
 	name = "dynn_Gozmar"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103271 = {
 	name = "dynn_Hattonen"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103272 = {
 	name = "dynn_Mattonen"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103273 = {
 	name = "dynn_Popponen"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103274 = {
 	name = "dynn_Reginbodonen"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103275 = {
 	name = "dynn_Rupertiner"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103276 = {
 	name = "dynn_Seinsheimer"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103277 = {
 	name = "dynn_Emichonen"
-	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
+					 
 }
 
 1000103278 = {
 	name = "dynn_Walahonen"
-	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
+					 
 }
 
 1000103279 = {
 	name = "dynn_Walramiden"
-	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
+					 
 }
 
 1000103280 = {
 	name = "dynn_Zeisolf_Wolfram"
-	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
+					 
 }
 
 1000103282 = {
 	name = "dynn_Woerms"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103283 = {
 	name = "dynn_Zweibruecken"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103431 = {
 	name = "dynn_Truhendingen"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103700 = {
 	name = "dynn_Groitsch"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103701 = {
 	name = "dynn_Reuss"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103702 = {
 	name = "dynn_Orlamunde"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103703 = {
 	name = "dynn_Gleichen"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103704 = {
 	name = "dynn_Goseck"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103705 = {
 	name = "dynn_Werthern"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103706 = {
 	name = "dynn_Honstein"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103707 = {
 	name = "dynn_Mansfeld"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103708 = {
 	name = "dynn_Ilfeld"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103709 = {
 	name = "dynn_Eilenburg"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103710 = {
 	name = "dynn_Arnstein"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103711 = {
 	name = "dynn_Kevernburg"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103712 = {
 	name = "dynn_Stolberg"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103713 = {
 	name = "dynn_Beichlingen"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103714 = {
 	name = "dynn_Wernigerode"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103715 = {
 	name = "dynn_Querfurt"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103716 = {
 	name = "dynn_Buch"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103717 = {
 	name = "dynn_Kapellendorf"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103718 = {
 	name = "dynn_Wiehe"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103719 = {
 	name = "dynn_Barby"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103720 = {
 	name = "dynn_Altenburg"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103721 = {
 	name = "dynn_Lohra"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103722 = {
 	name = "dynn_Schraplau"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103723 = {
 	name = "dynn_Schonburg"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103724 = {
 	name = "dynn_Putelendorf"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103725 = {
 	name = "dynn_Weida"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103726 = {
 	name = "dynn_Rabenswalde"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103727 = {
 	name = "dynn_Schwarzburg"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103728 = {
 	name = "dynn_Thuringen"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103729 = {
 	name = "dynn_Weimar"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103730 = {
 	name = "dynn_Wettin"
 	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
 }
 
 1000103731 = {
 	name = "dynn_Ekkehardiner"
-	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
+					 
 }
 
 1000103732 = {
 	name = "dynn_Ludowinger"
-	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
+					 
 }
 
 1000103733 = {
 	name = "dynn_Meinheringer"
-	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
+					 
 }
 
 1000103734 = {
 	name = "dynn_Sizzonen"
-	prefix = "dynnp_von"
-	culture = franconian
+	culture = "franconian"
+					 
 }
-
 5071 = {
 	name = "dynn_de_Melun"
+	prefix = "dynnp_de"
 	culture = "frankish"
 }
 
 5082 = {
 	name = "dynn_de_Fontaines"
+	prefix = "dynnp_de"
 	culture = "frankish"
 }
 
@@ -15291,7 +15302,6 @@ ewedyn003 = {
 }
 
 9306 = {
-	prefix = "dynnp_de"
 	name = "dynn_Bouvinid"
 	culture = "frankish"
 }
@@ -15442,7 +15452,7 @@ ewedyn003 = {
 25061 = {
 	name = "dynn_Karling"
 	culture = "frankish"
-	motto = dynn_Karling_motto # Quoted from og CK3
+	motto = "dynn_Karling_motto"
 }
 
 25065 = {
@@ -15487,7 +15497,6 @@ ewedyn003 = {
 
 1044116 = {
 	name = "dynn_Nibelunging"
-	prefix = "dynnp_de"
 	culture = "frankish"
 }
 
@@ -15520,43 +15529,43 @@ ewedyn003 = {
 1000020119 = {
 	name = "dynn_Pouget"
 	prefix = "dynnp_du"
-	culture = frankish
+	culture = "frankish"
 }
 
 1000035496 = {
 	name = "dynn_Artus"
 	prefix = "dynnp_de"
-	culture = frankish
+	culture = "frankish"
 }
 
 1000036003 = {
 	name = "dynn_Beauvais"
 	prefix = "dynnp_de"
-	culture = frankish
+	culture = "frankish"
 }
 
 1000036004 = {
 	name = "dynn_Rosieres"
 	prefix = "dynnp_de"
-	culture = frankish
+	culture = "frankish"
 }
 
 1000036005 = {
 	name = "dynn_Gatinais"
 	prefix = "dynnp_de"
-	culture = frankish
+	culture = "frankish"
 }
 
 1000036006 = {
 	name = "dynn_Ivois"
 	prefix = "dynnp_de"
-	culture = frankish
+	culture = "frankish"
 }
 
 1000036007 = {
 	name = "dynn_Porcien"
 	prefix = "dynnp_de"
-	culture = frankish
+	culture = "frankish"
 }
 
 1000036010 = {
@@ -15567,36 +15576,38 @@ ewedyn003 = {
 
 1000036013 = {
 	name = "dynn_Montfort"
+	prefix = "dynnp_de"
 	culture = "frankish"
 }
 
 1000100072 = {
 	name = "dynn_Nogent"
 	prefix = "dynnp_de"
-	culture = frankish
+	culture = "frankish"
 }
 
 1000100758 = {
 	name = "dynn_dAulne"
-	culture = frankish
+	prefix = "dynnp_d_"
+	culture = "frankish"
 }
 
 1000103284 = {
 	name = "dynn_Commercy"
-	prefix = "dynnp_von"
-	culture = frankish
+	prefix = "dynnp_de"
+	culture = "frankish"
 }
 
 1000103285 = {
 	name = "dynn_Kamerich"
 	prefix = "dynnp_von"
-	culture = frankish
+	culture = "frankish"
 }
 
 1000103286 = {
 	name = "dynn_Geldern"
 	prefix = "dynnp_von"
-	culture = frankish
+	culture = "frankish"
 }
 
 wicheramingi = {
@@ -15606,7 +15617,7 @@ wicheramingi = {
 
 4 = {
 	name = "dynn_Fournier"
-	prefix = "dynnp_de"
+	# No prefix - commoner surname/occupational
 	culture = "french"
 }
 
@@ -15654,7 +15665,7 @@ wicheramingi = {
 
 88 = {
 	name = "dynn_Scarponnois"
-	prefix = "dynnp_de"
+	# Historiographical - no prefix
 	culture = "french"
 }
 
@@ -15797,6 +15808,7 @@ wicheramingi = {
 }
 
 314 = {
+	prefix = "dynnp_du"
 	name = "dynn_Puy_du_Fou"
 	culture = "french"
 }
@@ -15844,7 +15856,7 @@ wicheramingi = {
 }
 
 324 = {
-	prefix = "dynnp_de"
+	prefix = "dynnp_de_la"
 	name = "dynn_Barthe"
 	culture = "french"
 }
@@ -15862,6 +15874,7 @@ wicheramingi = {
 }
 
 332 = {
+	prefix = "dynnp_le"
 	name = "dynn_Le_Tellier"
 	culture = "french"
 }
@@ -15885,7 +15898,7 @@ wicheramingi = {
 }
 
 343 = {
-	prefix = "dynnp_de"
+	prefix = "dynnp_d_"
 	name = "dynn_Albemarle"
 	culture = "french"
 }
@@ -15909,13 +15922,13 @@ wicheramingi = {
 }
 
 360 = {
+	prefix = "dynnp_d_"
 	name = "dynn_Estouteville"
-	prefix = "dynnp_de"
 	culture = "french"
 }
 
 380 = {
-	prefix = "dynnp_de"
+	prefix = "dynnp_du"
 	name = "dynn_Vexin-Amiens"
 	culture = "french"
 }
@@ -15944,13 +15957,12 @@ wicheramingi = {
 }
 
 530 = {
-	prefix = "dynnp_de"
+	prefix = "dynnp_d_"
 	name = "dynn_Harcourt"
 	culture = "french"
 }
 
 542 = {
-	prefix = "dynnp_de"
 	name = "dynn_Merohingi"
 	culture = "french"
 }
@@ -15962,7 +15974,6 @@ wicheramingi = {
 }
 
 629 = {
-	prefix = "dynnp_de"
 	name = "dynn_Gothia"
 	culture = "french"
 }
@@ -15980,7 +15991,6 @@ wicheramingi = {
 }
 
 677 = {
-	prefix = "dynnp_de"
 	name = "dynn_Burgund"
 	culture = "french"
 }
@@ -16022,8 +16032,8 @@ wicheramingi = {
 }
 
 717 = {
+	prefix = "dynnp_de"
 	name = "dynn_Bar-Sur-Seine"
-	prefix = "dynnp_de_la"
 	culture = "french"
 }
 
@@ -16035,7 +16045,6 @@ wicheramingi = {
 
 730 = {
 	name = "dynn_Bontemps"
-	prefix = "dynnp_de"
 	culture = "french"
 }
 
@@ -16094,7 +16103,6 @@ wicheramingi = {
 
 3135 = {
 	name = "dynn_Emenon"
-	prefix = "dynnp_de"
 	culture = "french"
 }
 
@@ -16266,7 +16274,6 @@ wicheramingi = {
 }
 
 7052 = {
-	prefix = "dynnp_de"
 	name = "dynn_Bosonid"
 	culture = "french"
 }
@@ -16284,8 +16291,8 @@ wicheramingi = {
 }
 
 7196 = {
+	prefix = "dynnp_le"
 	name = "dynn_Ledur"
-	prefix = "dynnp_de"
 	culture = "french"
 }
 
@@ -16357,7 +16364,6 @@ wicheramingi = {
 
 7228 = {
 	name = "dynn_Richwiner"
-	prefix = "dynnp_de"
 	culture = "french"
 }
 
@@ -16416,13 +16422,12 @@ wicheramingi = {
 }
 
 7265 = {
-	name = "dynn_Grenier"
 	prefix = "dynnp_de"
+	name = "dynn_Grenier"
 	culture = "french"
 }
 
 7266 = {
-	prefix = "dynnp_de"
 	name = "dynn_Brisebarre"
 	culture = "french"
 }
@@ -16464,8 +16469,8 @@ wicheramingi = {
 }
 
 7374 = {
-	name = "dynn_Saint-Abraham"
 	prefix = "dynnp_de"
+	name = "dynn_Saint-Abraham"
 	culture = "french"
 }
 
@@ -16531,7 +16536,6 @@ wicheramingi = {
 
 8792 = {
 	name = "dynn_PantalE_on"
-	prefix = "dynnp_de"
 	culture = "french"
 }
 
@@ -16579,13 +16583,11 @@ wicheramingi = {
 
 9568 = {
 	name = "dynn_Bouchardides"
-	prefix = "dynnp_de_la"
 	culture = "french"
 }
 
 9569 = {
 	name = "dynn_Rorgonides"
-	prefix = "dynnp_de_la"
 	culture = "french"
 }
 
@@ -16596,7 +16598,6 @@ wicheramingi = {
 }
 
 9616 = {
-	prefix = "dynnp_of"
 	name = "dynn_Burgundy"
 	culture = "french"
 }
@@ -16669,7 +16670,6 @@ wicheramingi = {
 
 22007 = {
 	name = "dynn_Wigeriche"
-	prefix = "dynnp_de_la"
 	culture = "french"
 }
 
@@ -16699,7 +16699,6 @@ wicheramingi = {
 
 23108 = {
 	name = "dynn_Carpenel"
-	prefix = "dynnp_de"
 	culture = "french"
 }
 
@@ -16722,7 +16721,7 @@ wicheramingi = {
 }
 
 23114 = {
-	prefix = "dynnp_de"
+	prefix = "dynnp_de_la"
 	name = "dynn_la_Roche"
 	culture = "french"
 }
@@ -16734,13 +16733,11 @@ wicheramingi = {
 }
 
 25053 = {
-	prefix = "dynnp_de"
 	name = "dynn_Malveisin"
 	culture = "french"
 }
 
 25060 = {
-	prefix = "dynnp_de"
 	name = "dynn_Chaumontois"
 	culture = "french"
 }
@@ -16782,7 +16779,7 @@ wicheramingi = {
 }
 
 100108 = {
-	prefix = "dynnp_de"
+	prefix = "dynnp_du"
 	name = "dynn_Maine"
 	culture = "french"
 }
@@ -16836,7 +16833,7 @@ wicheramingi = {
 }
 
 100145 = {
-	prefix = "dynnp_de"
+	prefix = "dynnp_de_la"
 	name = "dynn_La_Marche"
 	culture = "french"
 }
@@ -16890,7 +16887,7 @@ wicheramingi = {
 }
 
 101705 = {
-	prefix = "dynnp_de"
+	prefix = "dynnp_du"
 	name = "dynn_Moulin"
 	culture = "french"
 }
@@ -16914,8 +16911,8 @@ wicheramingi = {
 }
 
 102005 = {
-	name = "dynn_Vienne"
 	prefix = "dynnp_de"
+	name = "dynn_Vienne"
 	culture = "french"
 }
 
@@ -16945,7 +16942,6 @@ wicheramingi = {
 
 200078 = {
 	name = "dynn_Mercadier"
-	prefix = "dynnp_de"
 	culture = "french"
 }
 
@@ -16956,13 +16952,12 @@ wicheramingi = {
 }
 
 1023000 = {
-	name = "dynn_Tenque"
 	prefix = "dynnp_de"
+	name = "dynn_Tenque"
 	culture = "french"
 }
 
 1023001 = {
-	prefix = "dynnp_du"
 	name = "dynn_Pay_de_Provence"
 	culture = "french"
 }
@@ -16986,7 +16981,7 @@ wicheramingi = {
 }
 
 1023006 = {
-	prefix = "dynnp_of"
+	prefix = "dynnp_de"
 	name = "dynn_Syria"
 	culture = "french"
 }
@@ -16997,7 +16992,7 @@ wicheramingi = {
 }
 
 1023008 = {
-	prefix = "dynnp_de"
+	prefix = "dynnp_d_"
 	name = "dynn_Aspa"
 	culture = "french"
 }
@@ -17009,7 +17004,7 @@ wicheramingi = {
 }
 
 1023010 = {
-	prefix = "dynnp_de"
+	prefix = "dynnp_du"
 	name = "dynn_Donjon"
 	culture = "french"
 }
@@ -17183,6 +17178,7 @@ wicheramingi = {
 }
 
 1053037 = {
+	prefix = "dynnp_du"
 	name = "dynn_Depre"
 	culture = "french"
 	motto = dynn_Depre_motto
@@ -17190,7 +17186,6 @@ wicheramingi = {
 
 2001320 = {
 	name = "dynn_Milonid"
-	prefix = "dynnp_de"
 	culture = "french"
 }
 
@@ -17202,7 +17197,7 @@ wicheramingi = {
 
 2001322 = {
 	prefix = "dynnp_de_la"
-	name = "dynn_La_Chatre"	#de La Châtre
+	name = "dynn_La_Chatre"
 	culture = "french"
 }
 
@@ -17243,24 +17238,26 @@ french_de_creil = {
 }
 
 mwelz1234 = {
+	prefix = "dynnp_du"
 	name = "dynn_du_welz"
 	culture = french
 	motto = dynn_du_welz_motto
 }
 
 wolf_dynasty = {
-	name = "dynn_Louve"
 	prefix = "dynnp_de"
+	name = "dynn_Louve"
 	culture = "french"
 }
 
 Basztely_Hungary = { 
+	prefix = "dynnp_de"
 	name = "dynn_BaztelyH"
 	culture = "french"
 }
 
 78 = {
-	prefix = "dynnp_van"
+	prefix = "dynnp_fan"
 	name = "dynn_Gelre"
 	culture = "frisian"
 }
@@ -17271,13 +17268,13 @@ Basztely_Hungary = {
 }
 
 417 = {
-	prefix = "dynnp_van"
+	prefix = "dynnp_fan"
 	name = "dynn_Teisterbant"
 	culture = "frisian"
 }
 
 421 = {
-	prefix = "dynnp_van"
+	prefix = "dynnp_fan"
 	name = "dynn_Gent"
 	culture = "frisian"
 }
@@ -17288,25 +17285,25 @@ Basztely_Hungary = {
 }
 
 724 = {
-	prefix = "dynnp_de"
+	prefix = "dynnp_fan"
 	name = "dynn_Vlaanderen"
 	culture = "frisian"
 }
 
 7176 = {
-	prefix = "dynnp_van"
+	prefix = "dynnp_fan"
 	name = "dynn_Oudshoorn"
 	culture = "frisian"
 }
 
 100081 = {
-	prefix = "dynnp_van"
+	prefix = "dynnp_fan"
 	name = "dynn_Westfriesland"
 	culture = "frisian"
 }
 
 100085 = {
-	prefix = "dynnp_van"
+	prefix = "dynnp_fan"
 	name = "dynn_Ostfriesland"
 	culture = "frisian"
 }
@@ -17324,7 +17321,7 @@ Basztely_Hungary = {
 }
 
 3145 = {
-	prefix = "dynnp_a"
+	prefix = "dynnp_of" # Changed from "a" to "of" for Scottish style
 	name = "dynn_Sratha_Balgaid"
 	culture = "gaelic"
 }
@@ -17379,7 +17376,7 @@ Basztely_Hungary = {
 
 1000061728 = {
 	name = "dynn_Campbell"
-	prefix = "dynnp_mac"
+	prefix = "dynnp_mac" # Some Campbells use Mac, though usually just Campbell; keeping prefix per key
 	culture = gaelic
 }
 
@@ -17433,7 +17430,6 @@ Basztely_Hungary = {
 
 1000061737 = {
 	name = "dynn_Gunn"
-	prefix = "dynnp_mac"
 	culture = gaelic
 }
 
@@ -17465,12 +17461,13 @@ Basztely_Hungary = {
 }
 
 1000101303 = {
-	name = "dynn_Somhairle"
+	name = "dynn_Somhairle" #Progenitor; removed prefix
 	culture = gaelic
 }
 
 1000101304 = {
 	name = "dynn_Mac_Domhnaill"
+	prefix = "dynnp_mac"
 	culture = gaelic
 }
 
@@ -17486,31 +17483,37 @@ Basztely_Hungary = {
 
 1000101307 = {
 	name = "dynn_Mac_Shitrig"
+	prefix = "dynnp_mac"
 	culture = gaelic
 }
 
 1000101308 = {
 	name = "dynn_Mac_Leoid"
+	prefix = "dynnp_mac"
 	culture = gaelic
 }
 
 1000101309 = {
 	name = "dynn_Mac_Oitir"
+	prefix = "dynnp_mac"
 	culture = gaelic
 }
 
 1000101310 = {
 	name = "dynn_Mac_Asgaill"
+	prefix = "dynnp_mac"
 	culture = gaelic
 }
 
 1000101311 = {
 	name = "dynn_Mac_Arailt"
+	prefix = "dynnp_mac"
 	culture = gaelic
 }
 
 1000101312 = {
 	name = "dynn_Mac_Fergusa"
+	prefix = "dynnp_mac"
 	culture = gaelic
 }
 
@@ -17521,6 +17524,7 @@ Basztely_Hungary = {
 
 1000101314 = {
 	name = "dynn_Mac_Gilli"
+	prefix = "dynnp_mac"
 	culture = gaelic
 }
 
@@ -17586,7 +17590,7 @@ Basztely_Hungary = {
 
 1000053211 = {
 	name = "dynn_Pardo_de_Cela"
-	prefix = "dynnp_de"
+	# Prefix removed to avoid "de Pardo de Cela"
 	culture = galician
 }
 
