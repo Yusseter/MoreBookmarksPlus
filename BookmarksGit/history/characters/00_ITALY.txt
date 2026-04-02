@@ -108175,6 +108175,7 @@ italian0031 = {
 italian0034 = {
 	name = "Beatrice" #Beatrice di Canossa
 	dynasty_house = house_canossa
+	female = yes
 	religion = "catholic"
 	culture = "tuscan_ce"
 	father = 7756

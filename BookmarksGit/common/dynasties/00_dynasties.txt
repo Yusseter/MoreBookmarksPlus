@@ -17866,7 +17866,6 @@ gayo_d003 = {
 
 1000053901 = {
 	name = "dynn_Folke"
-	prefix = "dynnp_av"
 	culture = geat
 }
 
@@ -17878,49 +17877,41 @@ gayo_d003 = {
 
 1000053903 = {
 	name = "dynn_Gumsehuvud"
-	prefix = "dynnp_av"
 	culture = geat
 }
 
 1000053904 = {
 	name = "dynn_Glysing"
-	prefix = "dynnp_av"
 	culture = geat
 }
 
 1000053905 = {
 	name = "dynn_Gadda"
-	prefix = "dynnp_av"
 	culture = geat
 }
 
 1000053906 = {
 	name = "dynn_Hjarne"
-	prefix = "dynnp_av"
 	culture = geat
 }
 
 1000053907 = {
 	name = "dynn_Lama"
-	prefix = "dynnp_av"
 	culture = geat
 }
 
 1000053908 = {
 	name = "dynn_Anda"
-	prefix = "dynnp_av"
 	culture = geat
 }
 
 1000053909 = {
 	name = "dynn_Naf"
-	prefix = "dynnp_av"
 	culture = geat
 }
 
 1000053910 = {
 	name = "dynn_Stjarnbat"
-	prefix = "dynnp_av"
 	culture = geat
 }
 
@@ -17932,212 +17923,177 @@ gayo_d003 = {
 
 1000053912 = {
 	name = "dynn_Hatt"
-	prefix = "dynnp_av"
 	culture = geat
 }
 
 42 = {
 	name = "dynn_Jaqeli"
-	prefix = "dynnp_ve"
 	culture = "georgian"
 }
 
 507 = {
 	name = "dynn_Bagrationi"
-	prefix = "dynnp_ve"
 	culture = "georgian"
 }
 
 20019 = {
 	name = "dynn_Baghuashi"
-	prefix = "dynnp_ve"
 	culture = "georgian"
 }
 
 20020 = {
 	name = "dynn_Apokapes"
-	prefix = "dynnp_ve"
 	culture = "georgian"
 }
 
 20021 = {
 	name = "dynn_Baghuashi"
-	prefix = "dynnp_ve"
 	culture = "georgian"
 }
 
 20074 = {
 	name = "dynn_Andronikashvili"
-	prefix = "dynnp_ve"
 	culture = "georgian"
 }
 
 23001 = {
 	name = "dynn_Parnavaziani"
-	prefix = "dynnp_ve"
 	culture = "georgian"
 	forced_coa_religiongroup = "zoroastrian_group"
 }
 
 100514 = {
 	name = "dynn_Machabeli"
-	prefix = "dynnp_ve"
 	culture = "georgian"
 }
 
 100600 = {
 	name = "dynn_Abuserisdze"
-	prefix = "dynnp_ve"
 	culture = "georgian"
 }
 
 100601 = {
 	name = "dynn_Surameli"
-	prefix = "dynnp_ve"
 	culture = "georgian"
 }
 
 100679 = {
 	name = "dynn_Abazasdze"
-	prefix = "dynnp_ve"
 	culture = "georgian"
 }
 
 100680 = {
 	name = "dynn_Khosroviani"
-	prefix = "dynnp_ve"
 	culture = "georgian"
 }
 
 101155 = {
 	name = "dynn_Gelovani"
-	prefix = "dynnp_ve"
 	culture = "georgian"
 }
 
 101698 = {
 	name = "dynn_Iashvili"
-	prefix = "dynnp_ve"
 	culture = "georgian"
 }
 
 101737 = {
 	name = "dynn_Anchabadze"
-	prefix = "dynnp_ve"
 	culture = "georgian"
 }
 
 101740 = {
 	name = "dynn_Donauri"
-	prefix = "dynnp_ve"
 	culture = "georgian"
 }
 
 101741 = {
 	name = "dynn_Vardanisdze"
-	prefix = "dynnp_ve"
 	culture = "georgian"
 }
 
 101742 = {
 	name = "dynn_Orbeliani"
-	prefix = "dynnp_ve"
 	culture = "georgian"
 }
 
 101746 = {
 	name = "dynn_Jorjadze"
-	prefix = "dynnp_ve"
 	culture = "georgian"
 }
 
 101747 = {
 	name = "dynn_Mkhargrdzeli"
-	prefix = "dynnp_ve"
 	culture = "georgian"
 }
 
 101748 = {
 	name = "dynn_Kakhaberisdze"
-	prefix = "dynnp_ve"
 	culture = "georgian"
 }
 
 101750 = {
 	name = "dynn_Mankaberdeli"
-	prefix = "dynnp_ve"
 	culture = "georgian"
 }
 
 101752 = {
 	name = "dynn_Shervashidze"
-	prefix = "dynnp_ve"
 	culture = "georgian"
 }
 
 101753 = {
 	name = "dynn_Dadiani"
-	prefix = "dynnp_ve"
 	culture = "georgian"
 }
 
 200052 = {
 	name = "dynn_Lortkipanidze"
-	prefix = "dynnp_ve"
 	culture = "georgian"
 }
 
 200053 = {
 	name = "dynn_Chqondideli"
-	prefix = "dynnp_ve"
 	culture = "georgian"
 }
 
 200055 = {
 	name = "dynn_Machutadze"
-	prefix = "dynnp_ve"
 	culture = "georgian"
 }
 
 200056 = {
 	name = "dynn_Gamrekeli"
-	prefix = "dynnp_ve"
 	culture = "georgian"
 }
 
 200057 = {
 	name = "dynn_Mikeladze"
-	prefix = "dynnp_ve"
 	culture = "georgian"
 }
 
 200058 = {
 	name = "dynn_Mkhetsidze"
-	prefix = "dynnp_ve"
 	culture = "georgian"
 }
 
 200059 = {
 	name = "dynn_Taoeli"
-	prefix = "dynnp_ve"
 	culture = "georgian"
 }
 
 200065 = {
 	name = "dynn_Palavandishvili"
-	prefix = "dynnp_ve"
 	culture = "georgian"
 }
 
 1029127 = {
 	name = "dynn_Guramiani"
-	prefix = "dynnp_ve"
 	culture = "georgian"
 }
 
 1029128 = {
 	name = "dynn_Nersiani"
-	prefix = "dynnp_ve"
 	culture = "georgian"
 }
 
@@ -18282,42 +18238,43 @@ Shaburidze_Georgia = {
 
 100311 = {
 	name = "dynn_von_Plauen"
+	prefix = "dynnp_von"
 	culture = "german"
 }
 
 1061087 = {
 	name = "dynn_Theoderisian"
-	culture = german
+	culture = "german"
 }
 
 1000036011 = {
 	name = "dynn_Erlach"
-	prefix = "dynnp_van"
+	prefix = "dynnp_von"
 	culture = "german"
 }
 
 1000100755 = {
 	name = "dynn_Solre"
-	culture = german
 	prefix = "dynnp_von"
+	culture = "german"
 }
 
 1000100757 = {
 	name = "dynn_Solre"
-	culture = german
 	prefix = "dynnp_von"
+	culture = "german"
 }
 
 1000100759 = {
 	name = "dynn_Werth"
-	culture = german
 	prefix = "dynnp_von"
+	culture = "german"
 }
 
 1000103445 = {
 	name = "dynn_Calw"
 	prefix = "dynnp_von"
-	culture = german
+	culture = "german"
 }
 
 go02 = {
@@ -19904,7 +19861,7 @@ go01 = {
 634 = {
 	name = "dynn_Komnenos"
 	culture = "greek"
-	motto = dynn_Komnenos_motto # Quoted from Megas Komnenos of Trebizond
+	motto = "dynn_Komnenos_motto"
 }
 
 635 = {
@@ -21643,7 +21600,7 @@ go01 = {
 
 1062404 = {
 	name = "dynn_Platypodes"
-	culture = greek
+	culture = "greek"
 }
 
 1063111 = {
@@ -21678,452 +21635,452 @@ go01 = {
 
 1000101410 = {
 	name = "dynn_Kastrioti"
-	culture = greek
+	culture = "greek"
 }
 
 1000101411 = {
 	name = "dynn_Jonima"
-	culture = greek
+	culture = "greek"
 }
 
 1000101412 = {
 	name = "dynn_Blinishti"
-	culture = greek
+	culture = "greek"
 }
 
 1000101413 = {
 	name = "dynn_Arianiti"
-	culture = greek
+	culture = "greek"
 }
 
 1000101414 = {
 	name = "dynn_Spani"
-	culture = greek
+	culture = "greek"
 }
 
 1000101415 = {
 	name = "dynn_Zenevisi"
-	culture = greek
+	culture = "greek"
 }
 
 1000101416 = {
 	name = "dynn_Gropa"
-	culture = greek
+	culture = "greek"
 }
 
 1000102800 = {
 	name = "dynn_Maxentianos"
-	culture = greek
+	culture = "greek"
 }
 
 1000102801 = {
 	name = "dynn_Martiniakos"
-	culture = greek
+	culture = "greek"
 }
 
 1000102802 = {
 	name = "dynn_Iberitzes"
-	culture = greek
+	culture = "greek"
 }
 
 1000102803 = {
 	name = "dynn_Oniatis"
-	culture = greek
+	culture = "greek"
 }
 
 1000102804 = {
 	name = "dynn_Zaoutzes"
-	culture = greek
+	culture = "greek"
 }
 
 1000102805 = {
 	name = "dynn_Gouzouniatos"
-	culture = greek
+	culture = "greek"
 }
 
 1000102806 = {
 	name = "dynn_Hagiopolitos"
-	culture = greek
+	culture = "greek"
 }
 
 1000102807 = {
 	name = "dynn_Apostypos"
-	culture = greek
+	culture = "greek"
 }
 
 1000102808 = {
 	name = "dynn_Paspalas"
-	culture = greek
+	culture = "greek"
 }
 
 1000102809 = {
 	name = "dynn_Kourtikios"
-	culture = greek
+	culture = "greek"
 }
 
 1000102810 = {
 	name = "dynn_Androsalitai"
-	culture = greek
+	culture = "greek"
 }
 
 1000102811 = {
 	name = "dynn_Paulikianoi"
-	culture = greek
+	culture = "greek"
 }
 
 1000102812 = {
 	name = "dynn_Skythopoulos"
-	culture = greek
+	culture = "greek"
 }
 
 1000102813 = {
 	name = "dynn_Nasar"
-	culture = greek
+	culture = "greek"
 }
 
 1000102814 = {
 	name = "dynn_Gambros"
-	culture = greek
+	culture = "greek"
 }
 
 1000102815 = {
 	name = "dynn_Gouber"
-	culture = greek
+	culture = "greek"
 }
 
 1000102816 = {
 	name = "dynn_Katakoilas"
-	culture = greek
+	culture = "greek"
 }
 
 1000102817 = {
 	name = "dynn_Baianos"
-	culture = greek
+	culture = "greek"
 }
 
 1000102818 = {
 	name = "dynn_Alusianos"
-	culture = greek
+	culture = "greek"
 }
 
 1000102819 = {
 	name = "dynn_Aruandanos"
-	culture = greek
+	culture = "greek"
 }
 
 1000102820 = {
 	name = "dynn_Rhabdouchos"
-	culture = greek
+	culture = "greek"
 }
 
 1000102821 = {
 	name = "dynn_Boutoumites"
-	culture = greek
+	culture = "greek"
 }
 
 1000102822 = {
 	name = "dynn_Delphinas"
-	culture = greek
+	culture = "greek"
 }
 
 1000102823 = {
 	name = "dynn_Karykes"
-	culture = greek
+	culture = "greek"
 }
 
 1000102824 = {
 	name = "dynn_Maurikias"
-	culture = greek
+	culture = "greek"
 }
 
 1000102825 = {
 	name = "dynn_Kaballourios"
-	culture = greek
+	culture = "greek"
 }
 
 1000102826 = {
 	name = "dynn_Petzeas"
-	culture = greek
+	culture = "greek"
 }
 
 1000102827 = {
 	name = "dynn_Rhapsomates"
-	culture = greek
+	culture = "greek"
 }
 
 1000102828 = {
 	name = "dynn_Strabos"
-	culture = greek
+	culture = "greek"
 }
 
 1000102829 = {
 	name = "dynn_Traulos"
-	culture = greek
+	culture = "greek"
 }
 
 1000102830 = {
 	name = "dynn_Perichytes"
-	culture = greek
+	culture = "greek"
 }
 
 1000102831 = {
 	name = "dynn_Beridares"
-	culture = greek
+	culture = "greek"
 }
 
 1000102832 = {
 	name = "dynn_Spanopolos"
-	culture = greek
+	culture = "greek"
 }
 
 1000102833 = {
 	name = "dynn_Hyaleas"
-	culture = greek
+	culture = "greek"
 }
 
 1000102834 = {
 	name = "dynn_Monastras"
-	culture = greek
+	culture = "greek"
 }
 
 1000102835 = {
 	name = "dynn_Maurokatakalon"
-	culture = greek
+	culture = "greek"
 }
 
 1000102836 = {
 	name = "dynn_Karikes"
-	culture = greek
+	culture = "greek"
 }
 
 1000102837 = {
 	name = "dynn_Ouzas"
-	culture = greek
+	culture = "greek"
 }
 
 1000102838 = {
 	name = "dynn_Kymineianos"
-	culture = greek
+	culture = "greek"
 }
 
 1000102839 = {
 	name = "dynn_Aaronios"
-	culture = greek
+	culture = "greek"
 }
 
 1000102840 = {
 	name = "dynn_Philes"
-	culture = greek
+	culture = "greek"
 }
 
 1000102841 = {
 	name = "dynn_Promoundenos"
-	culture = greek
+	culture = "greek"
 }
 
 1000102842 = {
 	name = "dynn_Xyleas"
-	culture = greek
+	culture = "greek"
 }
 
 1000102844 = {
 	name = "dynn_Drimys"
-	culture = greek
+	culture = "greek"
 }
 
 1000102845 = {
 	name = "dynn_Elinagos"
-	culture = greek
+	culture = "greek"
 }
 
 1000102846 = {
 	name = "dynn_Barasbatze"
-	culture = greek
+	culture = "greek"
 }
 
 1000102847 = {
 	name = "dynn_Boioannes"
-	culture = greek
+	culture = "greek"
 }
 
 1000102848 = {
 	name = "dynn_Maroulis"
-	culture = greek
+	culture = "greek"
 }
 
 1000102849 = {
 	name = "dynn_Prosouchos"
-	culture = greek
+	culture = "greek"
 }
 
 1000102850 = {
 	name = "dynn_Soultanos"
-	culture = greek
+	culture = "greek"
 }
 
 1000102851 = {
 	name = "dynn_Melikis"
-	culture = greek
+	culture = "greek"
 }
 
 1000102852 = {
 	name = "dynn_Ioubes"
-	culture = greek
+	culture = "greek"
 }
 
 1000102853 = {
 	name = "dynn_Kouleon"
-	culture = greek
+	culture = "greek"
 }
 
 1000102854 = {
 	name = "dynn_Yarhisarites"
-	culture = greek
+	culture = "greek"
 }
 
 1000102855 = {
 	name = "dynn_Mesardonites"
-	culture = greek
+	culture = "greek"
 }
 
 1000102856 = {
 	name = "dynn_Daphnomeles"
-	culture = greek
+	culture = "greek"
 }
 
 1000102857 = {
 	name = "dynn_Khages"
-	culture = greek
+	culture = "greek"
 }
 
 1000102858 = {
 	name = "dynn_Mytilenaios"
-	culture = greek
+	culture = "greek"
 }
 
 1000102859 = {
 	name = "dynn_Ankarites"
-	culture = greek
+	culture = "greek"
 }
 
 1000102860 = {
 	name = "dynn_Pergamenos"
-	culture = greek
+	culture = "greek"
 }
 
 1000102861 = {
 	name = "dynn_Euneses"
-	culture = greek
+	culture = "greek"
 }
 
 1000102862 = {
 	name = "dynn_Petros"
-	culture = greek
+	culture = "greek"
 }
 
 1000102863 = {
 	name = "dynn_Chersonites"
-	culture = greek
+	culture = "greek"
 }
 
 1000102864 = {
 	name = "dynn_Balantios"
-	culture = greek
+	culture = "greek"
 }
 
 1000102865 = {
 	name = "dynn_Kallergis"
-	culture = greek
+	culture = "greek"
 }
 
 1000102866 = {
 	name = "dynn_Alypios"
-	culture = greek
+	culture = "greek"
 }
 
 1000102867 = {
 	name = "dynn_Charon"
-	culture = greek
+	culture = "greek"
 }
 
 1000102868 = {
 	name = "dynn_Anatolios"
-	culture = greek
+	culture = "greek"
 }
 
 1000102869 = {
 	name = "dynn_Syrgiannes"
-	culture = greek
+	culture = "greek"
 }
 
 1000102870 = {
 	name = "dynn_Aboukes"
-	culture = greek
+	culture = "greek"
 }
 
 1000102871 = {
 	name = "dynn_Theudatos"
-	culture = greek
+	culture = "greek"
 }
 
 1000102872 = {
 	name = "dynn_Apocharpes"
-	culture = greek
+	culture = "greek"
 }
 
 1000102873 = {
 	name = "dynn_Abidelas"
-	culture = greek
+	culture = "greek"
 }
 
 1000102874 = {
 	name = "dynn_Delphinas"
-	culture = greek
+	culture = "greek"
 }
 
 1000102875 = {
 	name = "dynn_Pastilas"
-	culture = greek
+	culture = "greek"
 }
 
 1000102876 = {
 	name = "dynn_Hithotis"
-	culture = greek
+	culture = "greek"
 }
 
 1000102877 = {
 	name = "dynn_Thessalonikaios"
-	culture = greek
+	culture = "greek"
 }
 
 1000102878 = {
 	name = "dynn_Kladon"
-	culture = greek
+	culture = "greek"
 }
 
 1000102879 = {
 	name = "dynn_Zoetos"
-	culture = greek
+	culture = "greek"
 }
 
 1000102880 = {
 	name = "dynn_Bobos"
-	culture = greek
+	culture = "greek"
 }
 
 1000102881 = {
 	name = "dynn_Malakenos"
-	culture = greek
+	culture = "greek"
 }
 
 1000102882 = {
 	name = "dynn_Makroioannes"
-	culture = greek
+	culture = "greek"
 }
 
 1000102883 = {
 	name = "dynn_Peteinos"
-	culture = greek
+	culture = "greek"
 }
 
 993Pope = {
@@ -22133,13 +22090,13 @@ go01 = {
 
 ablabian = {
 	name = "dynn_Ablabian"
-	culture = greek
+	culture = "greek"
 }
 
 easteregg_dynasty_0062 = {
 	name = "dynn_Daflos"
 	culture = "greek"
-	motto = dynn_Daflos_motto
+	motto = "dynn_Daflos_motto"
 }
 
 grcinic = {
