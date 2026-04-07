@@ -35898,6 +35898,9 @@ Sarban1 = {
 			uses_supply = yes
 		}
 	}
+	1266.1.1 = {
+		give_nickname = nick_ghiyath_ad_din
+	}
 	1270.1.1={
 		religion="maturidi"
 	}
@@ -36422,6 +36425,9 @@ Sarban14 = {
 	father=93075
 	1296.1.1={
 		birth="1296.1.1"
+	}
+	1330.1.1 = {
+		give_nickname = nick_ala_ad_din
 	}
 	1325.1.1={ #?
 		religion="maturidi"
@@ -37288,6 +37294,9 @@ Singqur5 = {
 	}
 	1300.1.1={
 		culture=tatars
+	}
+	1312.1.1 = {
+		give_nickname = nick_ghiyath_ad_din
 	}
 	1313.1.1={
 		religion="maturidi"
@@ -40331,6 +40340,9 @@ Hulegu4 = {
 		religion="maturidi"
 		name="Muhammad Öljaitü"
 	}
+	1304.1.1 = {
+		give_nickname = nick_ghiyath_ad_din
+	}
 	1304.1.1={
 		religion="ismaili"
 	}
@@ -40410,6 +40422,9 @@ Hulegu4 = {
 	father=125527
 	1290.1.2={
 		birth="1290.1.2"
+	}
+	1335.1.1 = {
+		give_nickname = nick_muizz_ad_din
 	}
 	1336.4.10={
 		death={
@@ -40601,6 +40616,9 @@ MongolAriq2 = {
 	father=478007
 	1305.6.2={
 		birth="1305.6.2"
+	}
+	1316.1.1 = {
+		give_nickname = nick_ala_ad_din
 	}
 	1325.1.1={
 		add_spouse=34434

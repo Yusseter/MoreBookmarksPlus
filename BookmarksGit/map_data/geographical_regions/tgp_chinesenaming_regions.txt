@@ -55,7 +55,7 @@ tgp_deng_region = {
 }
 tgp_di_region = {
 	duchies = {
-		d_fufang
+		d_fufang_china
 	}
 }
 tgp_dian_region = {
@@ -235,7 +235,7 @@ tgp_song_region = {
 }
 tgp_sui_region = {
 	counties = {
-		c_suizhoou_china
+		c_suizhou_china
 	}
 }
 tgp_tan_region = {
@@ -349,9 +349,6 @@ tgp_yue_region = {
 tgp_yue_2_region = {
 	kingdoms = {
 		k_nanyue_china
-	}
-	duchies = {
-		d_yongguan_china
 	}
 }
 tgp_zhao_region = {

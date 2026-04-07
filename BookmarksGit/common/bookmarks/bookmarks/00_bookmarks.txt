@@ -3780,7 +3780,7 @@ bm_1178_call_of_the_empire = {
 	# Andronikos Angelos
 	character = {
 		name = "bookmark_call_of_the_empire_angelos"
-		dynasty = 195 # Angelos
+		dynasty_house = house_komnenos_angelos # Angelos
 		dynasty_splendor_level = 1
 		type = male
 		birth = 1133.1.1
@@ -3798,7 +3798,7 @@ bm_1178_call_of_the_empire = {
 		character = {
 			name = "bookmark_call_of_the_empire_angelos_alexios"
 			relation = "BOOKMARK_RELATION_SON"
-			dynasty = 195 # Angelos
+			dynasty_house = house_komnenos_angelos # Angelos
 			type = male
 			birth = 1153.1.2
 			culture = greek
@@ -4302,7 +4302,7 @@ bm_prelude = {
 	#  Isaakios ID: 215500
 	character = {
 		name = "bookmark_isaakios" #
-		dynasty = 195
+		dynasty_house = house_komnenos_angelos
 		dynasty_splendor_level = 3
 		type = male
 		history_id = 215500
@@ -4534,7 +4534,7 @@ bm_fourth = {
 	#  Nikaea ID: 215674
 	character = {
 		name = "bookmark_nikaea" #
-		dynasty = 101107
+		dynasty_house = house_komnenos_laskaris
 		dynasty_splendor_level = 3
 		type = male
 		history_id = 215674
@@ -4654,7 +4654,7 @@ bm_1212 = {
 	#  Nikaea ID: 215674
 	character = {
 		name = "bookmark_1211Nikaea" #
-		dynasty = 101107
+		dynasty_house = house_komnenos_laskaris
 		dynasty_splendor_level = 3
 		type = male
 		history_id = 215674

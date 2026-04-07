@@ -1,139 +1,2182 @@
 ﻿l_english:
 
 #MB
- nick_the_crooked: "the Crooked"
- nick_the_founder: "the Founder"
- nick_the_affluent: "the Affluent"
- nick_tzelepes: "Tzelepes"
- nick_the_world_burner: "the World Burner"
- nick_the_longshanks: "Longshanks"
- nick_the_barbarossa: "Barbarossa"
- nick_the_megas: "ho Megas"
- nick_the_lackland: "the Lackland"
- nick_the_populator: "the Populator"
- nick_the_augustus_nb: "Augustus"
- nick_the_dieudonne: "Dieudonné"
- nick_the_cuman: "the Cuman"
- nick_curtmantle: "Curtmantle"
- nick_augustus: "Augustus"
- nick_lackland: "Lackland"
- nick_barbarossa: "Barbarossa"
- nick_the_fortunate: "the Fortunate"
- nick_bloodaxe: "Bloodaxe"
- nick_greycloak: "Greycloak"
- nick_forkbeard: "Forkbeard"
- nick_nevsky: "Nevsky"
- nick_longsword: "Longsword"
- nick_saladin: "Saladin"
- nick_saphadin: "Saphadin"
- nick_meledin: "Meledin"
- nick_the_big_nest: "the Big Nest"
- nick_wrymouth: "Wrymouth"
- nick_longshanks: "Longshanks"
- nick_spindleshanks: "Spindleshanks"
- nick_the_bulgar_slayer: "the Bulgar Slayer"
- nick_the_rich: "the Rich"
- nick_the_amorous: "the Amorous"
- nick_the_moneybag: "the Moneybag"
- nick_the_proud_2: "$nick_the_proud$"
- nick_beauclerc: "Beauclerc"
- nick_the_elder: "the Elder"
- nick_the_black_prince: "the Black Prince"
- nick_the_short: "the Short"
- nick_the_hardy: "the Hardy"
- nick_caernarfon: "of Caernarfon"
- nick_winchester: "of Winchester"
- nick_the_bruce: "the Bruce"
- nick_toom_tabard: "Toom Tabard"
- nick_maid_norway: "Maid of Norway"
- nick_virgo: "Virgo"
- nick_the_fierce: "the Fierce"
- nick_tairbith: "Tairbith"
- nick_the_redking: "the Red King"
- nick_the_diseased: "the Sick"
- nick_the_chief: "the Chief"
- nick_the_fraticide: "the Fraticide"
- nick_the_aggressor: "the Aggressor"
- nick_the_madman: "the Madman"
- nick_white_flower: "of the White Flowers"
- nick_the_tall: "the Tall"
- nick_the_posthumous: "the Posthumous"
- nick_the_quarrelsome: "the Quarrelsome"
- nick_the_do_nothing: "the Do-Nothing"
- nick_d_outremer: "d'Outremer"
- nick_the_ceremonious: "the Ceremonious"
- nick_the_liberal: "the Liberal"
- nick_the_warrior: "the Warrior"
- nick_the_summoned: "the Summoned"
- nick_the_desired: "the Desired"
- nick_the_emperor: "the Emperor"
- nick_the_reckless: "the Reckless"
- nick_the_catholic: "the Catholic"
- nick_poet_king: "the Poet King"
- nick_the_boulonnais: "the Boulonnais"
- nick_of_penalen: "of Peñalén"
- nick_of_najera: "of Nájera"
- nick_of_anjou: "of Anjou"
- nick_great_count: "the Great Count"
- nick_the_bavarian: "the Bavarian"
- nick_the_venetian: "the Venetian"
- nick_the_bookish: "the Bookish"
- nick_the_boxer: "the Champion"
- nick_probus: "Probus"
- nick_the_bearded: "the Bearded"
- nick_tanglefoot: "Tanglefoot"
- nick_the_curly: "the Curly"
- nick_the_exile: "the Exile"
- nick_ploughpenny: "Ploughpenny"
- nick_emune: "Emune"
- nick_hunger: "Hunger"
- nick_the_survivor: "the Survivor"
- nick_the_lawmender: "the Law-mender"
- nick_the_barefoot: "Berrføtt"
- nick_the_fearsomeeyes: "The Fearsome Eyes"
- nick_longarm: "Long Arm"
- nick_first_crowned: "the First-Crowned"
- nick_parapinakes: "Parapinakes"
- nick_the_macedonian: "the Macedonian"
- nick_the_armenian: "the Armenian"
- nick_the_khazar: "the Khazar"
- nick_the_syrian: "the Isaurian"
- nick_rhinotmetos: "Rinotmetos"
- nick_chlorus: "Chlorus"
- nick_the_clever: "the Clever"
- nick_the_resplendent: "the Resplendent"
- nick_the_minor: "the Minor"
- nick_the_merciful: "the Merciful"
- nick_the_iron: "the Iron"
- nick_anushirvan: "Anushirvan"
- nick_the_unifier: "the Unifier"
- nick_the_leper: "the Leper"
- nick_the_calf: "the Calf"
- nick_the_bent: "the Bent"
- nick_le_rechin: "le Réchin"
- nick_greymantle: "Greymantle"
- nick_the_abbot: "the Abbot"
- nick_the_graceful: "the Graceful"
- nick_mbbeaut: "the Beautiful"
- nick_seer: "the Seer"
- nick_the_learned: "the Learned"
- nick_the_woolmaker: "the Woolmaker"
- nick_vidfamne: "Vidfamne"
- nick_fafnirkiller: "Fáfnirslayer"
- nick_beli: "Beli"
- nick_tratalja: "Woodwhittler"
- nick_tratalja: "l'Abatteur d'arbres"
- nick_skotkonung: "Skötkonung"
- nick_jacobus: "Jacob"
- nick_huguescapet: "Capet"
- nick_konradinus: "Konradin"
- nick_the_illustrious: "the Illustrious"
- nick_the_bellicose: "the Bellicose"
- nick_the_leper_king: "the Leper King"
- nick_the_strongbow: "Strongbow"
- nick_karolyrobert: "Robert"
- nick_battler: "the Battler"
 
+ nick_al_aziz: "al-Aziz"
+ nick_al_aziz_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Aziz — the Mighty"
+ 
+ nick_al_mansur: "al-Mansur"
+ nick_al_mansur_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Mansur — the Victorious"
+ 
+ nick_al_kamil: "al-Kamil"
+ nick_al_kamil_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Kamil — the Perfect"
+ 
+ nick_as_salih: "as-Salih"
+ nick_as_salih_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific as-Salih — the Pious"
+ 
+ nick_al_muazzam: "al-Muazzam"
+ nick_al_muazzam_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Muazzam — the Exalted"
+ 
+ nick_al_ashraf: "al-Ashraf"
+ nick_al_ashraf_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Ashraf — the Most Noble"
+ 
+ nick_al_adil: "al-Adil"
+ nick_al_adil_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed or received the honorific al-Adil — the Just"
+ 
+ nick_al_muizz: "al-Mu'izz"
+ nick_al_muizz_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Mu'izz — the Exalter"
+
+ nick_al_mansur: "al-Mansur"
+ nick_al_mansur_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Mansur — the Victorious"
+
+ nick_al_muzaffar: "al-Muzaffar"
+ nick_al_muzaffar_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Muzaffar — the Triumphant"
+
+ nick_al_zahir: "al-Zahir"
+ nick_al_zahir_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Zahir — the Manifest"
+
+ nick_al_said: "al-Sa'id"
+ nick_al_said_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Sa'id — the Happy/Fortunate"
+
+ nick_al_ashraf: "al-Ashraf"
+ nick_al_ashraf_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Ashraf — the Most Noble"
+
+ nick_al_nasir: "al-Nasir"
+ nick_al_nasir_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Nasir — the Victorious/Helper"
+
+ nick_al_muzaffar: "al-Muzaffar"
+ nick_al_muzaffar_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Muzaffar — the Triumphant"
+
+ nick_ismat_ad_din: "Ismat ad-Dīn"
+ nick_ismat_ad_din_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Ismat ad-Dīn — the Protectress of the Faith"
+ 
+ nick_rukn_ad_din: "Rukn ad-Dīn"
+ nick_rukn_ad_din_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Rukn ad-Dīn — the Pillar of the Faith"
+
+ nick_adud_ad_dawla: "Adud ad-Dawla"
+ nick_adud_ad_dawla_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Adud ad-Dawla — the Pillar of the State"
+
+ nick_jalal_ad_dawla: "Jalāl ad-Dawla"
+ nick_jalal_ad_dawla_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Jalāl ad-Dawla — the Glory of the State"
+
+ nick_nasir_ad_din: "Nasir ad-Dīn"
+ nick_nasir_ad_din_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Nasir ad-Dīn — the Helper of the Faith"
+
+ nick_muizz_ad_din: "Mu'izz ad-Dīn"
+ nick_muizz_ad_din_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Mu'izz ad-Dīn — the Exalter of the Faith"
+
+ nick_ghiyath_ad_din: "Ghiyāth ad-Dīn"
+ nick_ghiyath_ad_din_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Ghiyāth ad-Dīn — the Succour of the Faith"
+
+ nick_mughith_ad_din: "Mughīth ad-Dīn"
+ nick_mughith_ad_din_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Mughīth ad-Dīn — the Helper of the Faith"
+
+ nick_ghiyath_ad_dunya_wa_ad_din: "Ghiyāth ad-Dunyā wa-ad-Dīn"
+ nick_ghiyath_ad_dunya_wa_ad_din_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Ghiyāth ad-Dunyā wa-ad-Dīn — the Succour of the World and the Faith"
+
+ nick_muizz_ad_dunya_wa_ad_din: "Mu'izz ad-Dunyā wa-ad-Dīn"
+ nick_muizz_ad_dunya_wa_ad_din_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Mu'izz ad-Dunyā wa-ad-Dīn — the Exalter of the World and the Faith"
+
+ nick_qutb_ad_din: "Qutb ad-Dīn"
+ nick_qutb_ad_din_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Qutb ad-Dīn — the Axis of the Faith"
+
+ nick_shams_ad_din: "Shams ad-Dīn"
+ nick_shams_ad_din_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Shams ad-Dīn — the Sun of the Faith"
+
+ nick_jalalat_ad_din: "Jalālat ad-Dīn"
+ nick_jalalat_ad_din_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Jalālat ad-Dīn — the Glory of the Faith"
+
+ nick_jalal_ad_din: "Jalāl ad-Dīn"
+ nick_jalal_ad_din_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Jalāl ad-Dīn — the Glory of the Faith"
+
+ nick_ala_ad_din: "Alā' ad-Dīn"
+ nick_ala_ad_din_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Alā' ad-Dīn — the Nobility of the Faith"
+
+ nick_shihab_ad_din: "Shihāb ad-Dīn"
+ nick_shihab_ad_din_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Shihāb ad-Dīn — the Star of the Faith"
+
+ nick_izz_ad_din: "Izz ad-Dīn"
+ nick_izz_ad_din_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Izz ad-Dīn — the Might of the Faith"
+
+ nick_sayf_ad_din: "Sayf ad-Dīn"
+ nick_sayf_ad_din_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Sayf ad-Dīn — the Sword of the Faith"
+
+ nick_baha_ad_din: "Bahā' ad-Dīn"
+ nick_baha_ad_din_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Bahā' ad-Dīn — the Splendor of the Faith"
+
+ nick_fakhr_ad_din: "Fakhr ad-Dīn"
+ nick_fakhr_ad_din_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Fakhr ad-Dīn — the Pride of the Faith"
+
+ nick_zia_ad_din: "Ziyā' ad-Dīn"
+ nick_zia_ad_din_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Ziyā' ad-Dīn — the Light of the Faith"
+
+ nick_yamin_ad_dawla: "Yamīn ad-Dawla"
+ nick_yamin_ad_dawla_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Yamīn ad-Dawla — the Right Hand of the State"
+
+ nick_shihab_ad_dawla: "Shihāb ad-Dawla"
+ nick_shihab_ad_dawla_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Shihāb ad-Dawla — the Meteor of the State"
+
+ nick_baha_ad_dawla: "Bahā' ad-Dawla"
+ nick_baha_ad_dawla_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Bahā' ad-Dawla — the Splendor of the State"
+
+ nick_izz_ad_dawla: "Izz ad-Dawla"
+ nick_izz_ad_dawla_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Izz ad-Dawla — the Might of the State"
+
+ nick_jamal_ad_dawla: "Jamāl ad-Dawla"
+ nick_jamal_ad_dawla_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Jamāl ad-Dawla — the Beauty of the State"
+
+ nick_zahir_ad_dawla: "Zahīr ad-Dawla"
+ nick_zahir_ad_dawla_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Zahīr ad-Dawla — the Supporter of the State"
+
+ nick_ala_ad_dawla: "Alā' ad-Dawla"
+ nick_ala_ad_dawla_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Alā' ad-Dawla — the Nobility of the State"
+
+ nick_kamal_ad_dawla: "Kamāl ad-Dawla"
+ nick_kamal_ad_dawla_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Kamāl ad-Dawla — the Perfection of the State"
+
+ nick_sultan_ad_dawla: "Sultān ad-Dawla"
+ nick_sultan_ad_dawla_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Sultān ad-Dawla — the Authority of the State"
+
+ nick_muizz_ad_dawla: "Mu'izz ad-Dawla"
+ nick_muizz_ad_dawla_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Mu'izz ad-Dawla — the Exalter of the State"
+
+ nick_taj_ad_dawla: "Tāj ad-Dawla"
+ nick_taj_ad_dawla_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Tāj ad-Dawla — the Crown of the State"
+
+ nick_taj_ad_din:0 "Tāj ad-Dīn"
+ nick_taj_ad_din_desc:0 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Tāj ad-Dīn — the Crown of the Faith"
+ 
+ nick_imad_ad_din: "Imad ad-Dīn"
+ nick_imad_ad_din_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Imad ad-Dīn — the Pillar of the Faith"
+
+ nick_nur_ad_din: "Nur ad-Dīn"
+ nick_nur_ad_din_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Nur ad-Dīn — the Light of the Faith"
+
+ nick_fath_ad_din: "Fath ad-Dīn"
+ nick_fath_ad_din_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Fath ad-Dīn — the Conquest of the Faith"
+
+ nick_shams_ad_din: "Shams ad-Dīn"
+ nick_shams_ad_din_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Shams ad-Dīn — the Sun of the Faith"
+
+ nick_nusrat_ad_din: "Nusrat ad-Dīn"
+ nick_nusrat_ad_din_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Nusrat ad-Dīn — the Victory of the Faith"
+
+ nick_muzaffar_ad_din: "Muzaffar ad-Dīn"
+ nick_muzaffar_ad_din_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Muzaffar ad-Dīn — the Victorious of the Faith"
+ 
+ nick_al_mahdi: "al-Mahdi"
+ nick_al_mahdi_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the title al-Mahdi — the Divinely Guided One, claiming the ultimate spiritual and temporal authority to reform the faith."
+
+ nick_al_mustansir: "al-Mustansir"
+ nick_al_mustansir_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Mustansir — He who seeks the help of God."
+
+ nick_al_makhlu: "al-Makhlu"
+ nick_al_makhlu_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] was posthumously branded al-Makhlu — the Deposed, marking a reign violently cut short by internal dynastic strife."
+
+ nick_al_adil: "al-Adil"
+ nick_al_adil_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Adil — the Just."
+
+ nick_al_mutasim: "al-Mu'tasim"
+ nick_al_mutasim_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Mu'tasim — He who holds fast to God."
+
+ nick_al_mamun: "al-Ma'mun"
+ nick_al_mamun_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Ma'mun — the Trusted One."
+
+ nick_ar_rashid: "ar-Rashid"
+ nick_ar_rashid_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific ar-Rashid — the Rightly Guided."
+
+ nick_as_said: "as-Sa'id"
+ nick_as_said_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific as-Sa'id — the Fortunate/Happy."
+
+ nick_al_murtada: "al-Murtada"
+ nick_al_murtada_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Murtada — the Chosen/Pleasing to God."
+
+ nick_al_wathiq: "al-Wathiq"
+ nick_al_wathiq_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Wathiq — He who trusts in God."
+
+ nick_al_mutawakkil: "al-Mutawakkil"
+ nick_al_mutawakkil_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Mutawakkil — He who relies on God."
+ 
+ nick_al_saffah: "al-Saffāh"
+ nick_al_saffah_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Saffāh — the Blood-Shedder, marking a ruthless and decisive ascension."
+
+ nick_al_hadi: "al-Hādi"
+ nick_al_hadi_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Hādi — the Guide."
+
+ nick_al_amin: "al-Amīn"
+ nick_al_amin_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Amīn — the Trustworthy."
+
+ nick_al_mamun: "al-Ma'mūn"
+ nick_al_mamun_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Ma'mūn — the Trusted One."
+
+ nick_al_muntasir: "al-Muntasir"
+ nick_al_muntasir_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Muntasir — He who triumphs in God."
+
+ nick_al_mustain: "al-Musta'īn"
+ nick_al_mustain_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Musta'īn — He who asks for God's help."
+
+ nick_al_mutazz: "al-Mu'tazz"
+ nick_al_mutazz_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Mu'tazz — He who is strengthened by God."
+
+ nick_al_muhtadi: "al-Muhtadī"
+ nick_al_muhtadi_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Muhtadī — He who is guided by God."
+
+ nick_al_mutamid: "al-Mu'tamid"
+ nick_al_mutamid_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Mu'tamid — He who depends on God."
+
+ nick_al_mutadid: "al-Mu'tadid"
+ nick_al_mutadid_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Mu'tadid — He who seeks support in God."
+
+ nick_al_muktafi: "al-Muktafī"
+ nick_al_muktafi_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Muktafī — He who is satisfied with God alone."
+
+ nick_al_muqtadir: "al-Muqtadir"
+ nick_al_muqtadir_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Muqtadir — He who is made powerful by God."
+
+ nick_al_qahir: "al-Qāhir"
+ nick_al_qahir_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Qāhir — the Victorious."
+
+ nick_al_radi: "al-Rāḍī"
+ nick_al_radi_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Rāḍī — the Content."
+
+ nick_al_muttaqi: "al-Muttaqī"
+ nick_al_muttaqi_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Muttaqī — He who fears God."
+
+ nick_al_mustakfi: "al-Mustakfī"
+ nick_al_mustakfi_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Mustakfī — He who is satisfied with God."
+
+ nick_al_muti: "al-Muṭī'"
+ nick_al_muti_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Muṭī' — the Obedient to God."
+
+ nick_al_tai: "al-Ṭā'i'"
+ nick_al_tai_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Ṭā'i' — the Obedient."
+
+ nick_al_qadir: "al-Qādir"
+ nick_al_qadir_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Qādir — the Capable."
+
+ nick_al_qaim: "al-Qā'im"
+ nick_al_qaim_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Qā'im — He who carries out God's will."
+
+ nick_al_muqtadi: "al-Muqtadī"
+ nick_al_muqtadi_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Muqtadī — He who follows God's guidance."
+
+ nick_al_mustazhir: "al-Mustaẓhir"
+ nick_al_mustazhir_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Mustaẓhir — He who seeks support from God."
+
+ nick_al_mustarshid: "al-Mustarshid"
+ nick_al_mustarshid_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Mustarshid — He who seeks guidance from God."
+
+ nick_al_muqtafi: "al-Muqtafī"
+ nick_al_muqtafi_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Muqtafī — He who follows the path of God."
+
+ nick_al_mustanjid: "al-Mustanjid"
+ nick_al_mustanjid_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Mustanjid — He who seeks deliverance from God."
+
+ nick_al_mustadi: "al-Mustaḍī'"
+ nick_al_mustadi_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Mustaḍī' — He who seeks illumination from God."
+
+ nick_al_mustasim: "al-Musta'ṣim"
+ nick_al_mustasim_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Musta'ṣim — He who holds fast to God."
+
+ nick_al_hakim: "al-Ḥākim"
+ nick_al_hakim_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Ḥākim — the Ruler by the command of God."
+ 
+ nick_al_muwaffaq: "al-Muwaffaq"
+ nick_al_muwaffaq_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Muwaffaq — He who is guided to success by God."
+
+ nick_al_mufawwid: "al-Mufawwid"
+ nick_al_mufawwid_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Mufawwid — He who entrusts his affairs to God."
+
+ nick_al_mutaman: "al-Mu'taman"
+ nick_al_mutaman_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Mu'taman — He who is trusted by God."
+
+ nick_al_muayyad: "al-Mu'ayyad"
+ nick_al_muayyad_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Mu'ayyad — He who is supported by God."
+
+ nick_al_mutadd: "al-Mu'tadd"
+ nick_al_mutadd_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Mu'tadd — He who relies on God."
+ 
+ nick_al_mahdi_billah: "al-Mahdī bi-Llāh"
+ nick_al_mahdi_billah_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Mahdī bi-Llāh — the Rightly Guided by God, asserting [CharYourHerHis(CHARACTER)] claim as the awaited Isma'ili Imam."
+
+ nick_al_qaim_bi_amr_allah: "al-Qā'im bi-Amr Allāh"
+ nick_al_qaim_bi_amr_allah_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Qā'im bi-Amr Allāh — He who carries out the Command of God."
+
+ nick_al_mansur_bi_nasr_allah: "al-Manṣūr bi-Naṣr Allāh"
+ nick_al_mansur_bi_nasr_allah_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Manṣūr bi-Naṣr Allāh — the Victorious by the Victory of God."
+
+ nick_al_muizz_li_din_allah: "al-Mu'izz li-Dīn Allāh"
+ nick_al_muizz_li_din_allah_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Mu'izz li-Dīn Allāh — He who strengthens the Religion of God."
+
+ nick_al_aziz_billah: "al-'Azīz bi-Llāh"
+ nick_al_aziz_billah_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-'Azīz bi-Llāh — the Mighty through God."
+
+ nick_al_hakim_bi_amr_allah: "al-Ḥākim bi-Amr Allāh"
+ nick_al_hakim_bi_amr_allah_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Ḥākim bi-Amr Allāh — the Ruler by the Command of God."
+
+ nick_al_zahir_li_izaz_din_allah: "al-Ẓāhir li-I'zāz Dīn Allāh"
+ nick_al_zahir_li_izaz_din_allah_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Ẓāhir li-I'zāz Dīn Allāh — He who appears to exalt the Religion of God."
+
+ nick_al_mustansir_billah: "al-Mustanṣir bi-Llāh"
+ nick_al_mustansir_billah_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Mustanṣir bi-Llāh — He who seeks victory from God."
+
+ nick_al_mustali_billah: "al-Musta'lī bi-Llāh"
+ nick_al_mustali_billah_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Musta'lī bi-Llāh — He who is exalted by God."
+
+ nick_al_amir_bi_ahkam_allah: "al-Āmir bi-Aḥkām Allāh"
+ nick_al_amir_bi_ahkam_allah_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Āmir bi-Aḥkām Allāh — the Commander by the Decrees of God."
+
+ nick_al_hafiz_li_din_allah: "al-Ḥāfiẓ li-Dīn Allāh"
+ nick_al_hafiz_li_din_allah_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Ḥāfiẓ li-Dīn Allāh — the Guardian of the Religion of God."
+
+ nick_al_zafir_bi_amr_allah: "al-Ẓāfir bi-Amr Allāh"
+ nick_al_zafir_bi_amr_allah_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Ẓāfir bi-Amr Allāh — the Victorious by the Command of God."
+
+ nick_al_faiz_bi_nasr_allah: "al-Fā'iz bi-Naṣr Allāh"
+ nick_al_faiz_bi_nasr_allah_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Fā'iz bi-Naṣr Allāh — the Triumphant by the Victory of God."
+
+ nick_al_adid_li_din_allah: "al-'Āḍid li-Dīn Allāh"
+ nick_al_adid_li_din_allah_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-'Āḍid li-Dīn Allāh — the Supporter of the Religion of God."
+
+ nick_al_hadi_ilal_haqq: "al-Hādi ila'l-Ḥaqq"
+ nick_al_hadi_ilal_haqq_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Hādi ila'l-Ḥaqq — the Guide to the Truth."
+
+ nick_al_muntakhab: "al-Muntakhab"
+ nick_al_muntakhab_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Muntakhab — the Selected One."
+
+ nick_al_mukhtar: "al-Mukhtār"
+ nick_al_mukhtar_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Mukhtār — the Chosen One."
+
+ nick_ad_dai: "ad-Dā'ī"
+ nick_ad_dai_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific ad-Dā'ī — the Summoner to the Faith."
+
+ nick_al_muid_li_din_illah: "al-Mu'īd li-Dīn Illāh"
+ nick_al_muid_li_din_illah_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Mu'īd li-Dīn Illāh — the Restorer of the Religion of God."
+
+ nick_al_muhtasib_al_mujahid: "al-Muḥtasib al-Mujāhid"
+ nick_al_muhtasib_al_mujahid_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Muḥtasib al-Mujāhid — the Anticipator of God's Reward and Warrior of the Faith."
+ 
+ nick_al_fallah: "al-Fallāh"
+ nick_al_fallah_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Fallāh — the Triumphant."
+
+ nick_al_sharif: "al-Sharīf"
+ nick_al_sharif_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific al-Sharīf — the Noble."
+ 
+ nick_nizam_ad_din: "Nizām ad-Dīn"
+ nick_nizam_ad_din_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Nizām ad-Dīn — the Order of the Faith."
+
+ nick_qadir_khan: "Qadir Khan"
+ nick_qadir_khan_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the regnal title Qadir Khan — the Powerful and Mighty Sovereign."
+
+ nick_bughra_khan: "Bughra Khan"
+ nick_bughra_khan_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the regnal title Bughra Khan — the Camel Khan, representing the supreme totem of the Yaghma tribes."
+
+ nick_arslan_khan: "Arslan Khan"
+ nick_arslan_khan_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the regnal title Arslan Khan — the Lion Khan, representing the supreme totem of the Chigil tribes."
+
+ nick_tamghach_khan: "Tamghach Khan"
+ nick_tamghach_khan_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the prestigious title Tamghach Khan — the Sovereign of China, an ancient identifier of supreme eastern legitimacy."
+
+ nick_toghan_khan: "Toghan Khan"
+ nick_toghan_khan_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the regnal title Toghan Khan — the Falcon Khan."
+
+ nick_ilig_khan: "Ilig Khan"
+ nick_ilig_khan_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the regnal title Ilig Khan — the Independent Sovereign."
+
+ nick_qara_khan: "Qara Khan"
+ nick_qara_khan_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the paramount title Qara Khan — the Black (Supreme) Khagan of the realm."
+
+ nick_toghrul_khan: "Toghrul Khan"
+ nick_toghrul_khan_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the Turkic honorific Toghrul Khan — the Falcon Khan."
+
+ nick_shams_al_mulk: "Shams al-Mulk"
+ nick_shams_al_mulk_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Shams al-Mulk — the Sun of the Kingdom."
+
+ nick_jalal_ad_dunya: "Jalāl ad-Dunyā"
+ nick_jalal_ad_dunya_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Jalāl ad-Dunyā — the Glory of the World."
+
+ nick_rukn_ad_dunya: "Rukn ad-Dunyā"
+ nick_rukn_ad_dunya_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the honorific Rukn ad-Dunyā — the Pillar of the World."
+
+ nick_ulugh_sultan: "Ulugh Sultan"
+ nick_ulugh_sultan_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] assumed the hybrid honorific Ulugh Sultan — the Great Sultan."
+ 
+# MB Epithets
+ nick_the_crooked:0 "the Crooked"
+ nick_the_crooked_desc:0 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] is recognized by contemporaries for a noticeable physical deformity, a curvature of the spine or posture that has become [CharYourHerHis(CHARACTER)] defining physical legacy."
+ 
+ nick_the_founder:0 "the Founder"
+ nick_the_founder_desc:0 "Through vision and enduring will, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is heralded as the principal architect and progenitor of [CharYourHerHis(CHARACTER)] realm's defining institutions and dynasty."
+ 
+ nick_the_affluent:0 "the Affluent"
+ nick_the_affluent_desc:0 "Renowned across the known world for immense personal wealth, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] wields financial power as capably as any monarch wields a sword."
+ 
+ nick_tzelepes:0 "Tzelepes"
+ nick_tzelepes_desc:0 "Bearing the Hellenized form of the Turkic honorific 'Çelebi', [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is distinguished by noble birth, refined manners, and a gentlemanly disposition."
+ 
+ nick_the_world_burner:0 "the World Burner"
+ nick_the_world_burner_desc:0 "A terrifying epithet earned through a ruthless campaign of devastation, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] left entire cities to burn, forever scarring the earth and the memories of [CharYourHerHis(CHARACTER)] enemies."
+ 
+ nick_the_longshanks:0 "Longshanks"
+ nick_the_longshanks_desc:0 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] is noted for [CharYourHerHis(CHARACTER)] exceptional height and imposing physical stature, towering over both subjects and rivals."
+ 
+ nick_the_barbarossa:0 "Barbarossa"
+ nick_the_barbarossa_desc:0 "Famed in chronicles for a distinctive red beard, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s striking physical appearance has become synonymous with [CharYourHerHis(CHARACTER)] imperial authority."
+ 
+ nick_the_megas:0 "ho Megas"
+ nick_the_megas_desc:0 "Awarded the Greek title 'ho Megas' (The Great), [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is recognized for unparalleled greatness, monumental achievements, and statecraft."
+ 
+ nick_the_lackland:0 "the Lackland"
+ nick_the_lackland_desc:0 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] received this sobriquet due to inheriting no substantial territory at birth, standing in stark contrast to the vast appanages granted to [CharYourHerHis(CHARACTER)] siblings."
+ 
+ nick_the_populator:0 "the Populator"
+ nick_the_populator_desc:0 "Remembered as a patron of settlement and growth, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] sponsored widespread colonization and the founding of new towns across [CharYourHerHis(CHARACTER)] domains."
+ 
+ nick_the_augustus_nb:0 "Augustus"
+ nick_the_augustus_nb_desc:0 "An honorific evoking the glory of Rome, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is styled as 'Augustus' to signify venerable majesty and the significant expansion of the royal domain."
+ 
+ nick_the_dieudonne:0 "Dieudonné"
+ nick_the_dieudonne_desc:0 "Meaning 'God-given', this epithet reflects the belief that [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s birth was a miraculous blessing, often arriving after a long period of dynastic uncertainty."
+ 
+ nick_the_cuman:0 "the Cuman"
+ nick_the_cuman_desc:0 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] is distinguished by [CharYourHerHis(CHARACTER)] strong ties, maternal heritage, or close cultural association with the nomadic Cuman confederation."
+ 
+ nick_curtmantle:0 "Curtmantle"
+ nick_curtmantle_desc:0 "Noted for rejecting long, flowing courtly robes in favor of practical, shorter riding cloaks, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s sartorial choice reflects a famously restless and energetic nature."
+ 
+ nick_augustus:0 "Augustus"
+ nick_augustus_desc:0 "An honorific evoking the glory of Rome, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is styled as 'Augustus' to signify venerable majesty and the significant expansion of the royal domain."
+ 
+ nick_lackland:0 "Lackland"
+ nick_lackland_desc:0 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] received this sobriquet due to inheriting no substantial territory at birth, standing in stark contrast to the vast appanages granted to [CharYourHerHis(CHARACTER)] siblings."
+ 
+ nick_barbarossa:0 "Barbarossa"
+ nick_barbarossa_desc:0 "Famed in chronicles for a distinctive red beard, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s striking physical appearance has become synonymous with [CharYourHerHis(CHARACTER)] imperial authority."
+ 
+ nick_the_fortunate:0 "the Fortunate"
+ nick_the_fortunate_desc:0 "Blessed by providence, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] has navigated the perilous waters of rulership with a degree of serendipity and success that astounds [CharYourHerHis(CHARACTER)] peers."
+ 
+ nick_bloodaxe:0 "Bloodaxe"
+ nick_bloodaxe_desc:0 "A grim moniker earned through a willingness to ruthlessly dispatch rivals—including kin—[CHARACTER.GetShortUINameNoTooltipNoFormat|U] rules with unquestioned martial ferocity."
+ 
+ nick_greycloak:0 "Greycloak"
+ nick_greycloak_desc:0 "Earning this name after famously acquiring and wearing a cloak of grey wolf or sheepskin, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] set a fashion trend that became inextricably linked to [CharYourHerHis(CHARACTER)] reign."
+ 
+ nick_forkbeard:0 "Forkbeard"
+ nick_forkbeard_desc:0 "Identified by a distinctively styled, parted beard, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] bears a moniker that evokes the fierce, traditional aesthetics of the North."
+ 
+ nick_nevsky:0 "Nevsky"
+ nick_nevsky_desc:0 "Awarded this prestigious title following a monumental military victory on the banks of the Neva River, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is hailed as a defender of the faith and realm."
+ 
+ nick_longsword:0 "Longsword"
+ nick_longsword_desc:0 "Renowned for martial prowess and the wielding of heavy, extended blades, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s epithet serves as a constant reminder of [CharYourHerHis(CHARACTER)] capabilities on the battlefield."
+ 
+ nick_saladin:0 "Saladin"
+ nick_saladin_desc:0 "Known to Western chroniclers as Saladin, this is the Latinized form of Salāh ad-Dīn, recognizing [CHARACTER.GetShortUINameNoTooltipNoFormat|U] as the 'Righteousness of the Faith'."
+ 
+ nick_saphadin:0 "Saphadin"
+ nick_saphadin_desc:0 "A Frankish corruption of the honorific Sayf ad-Dīn, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is recognized by crusader and Muslim alike as the 'Sword of the Faith'."
+ 
+ nick_meledin:0 "Meledin"
+ nick_meledin_desc:0 "Referred to as Meledin in European accounts, this epithet is a Westernized derivation of [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s formal Arabic regnal titles."
+ 
+ nick_the_big_nest:0 "the Big Nest"
+ nick_the_big_nest_desc:0 "A testament to dynastic success, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] earned this nickname due to producing an exceptionally large number of children to secure the succession."
+ 
+ nick_wrymouth:0 "Wrymouth"
+ nick_wrymouth_desc:0 "Known for a distinct facial asymmetry or twisted lip, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s physical trait became a widely recognized identifier among [CharYourHerHis(CHARACTER)] subjects."
+ 
+ nick_longshanks:0 "Longshanks"
+ nick_longshanks_desc:0 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] is noted for [CharYourHerHis(CHARACTER)] exceptional height and imposing physical stature, towering over both subjects and rivals."
+ 
+ nick_spindleshanks:0 "Spindleshanks"
+ nick_spindleshanks_desc:0 "A somewhat derogatory, descriptive name referring to [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s remarkably long and thin legs."
+ 
+ nick_the_bulgar_slayer:0 "the Bulgar Slayer"
+ nick_the_bulgar_slayer_desc:0 "Following decades of unrelenting and brutal warfare, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] shattered the Bulgarian state, earning a fearsome title that will echo through Byzantine history."
+ 
+ nick_the_rich:0 "the Rich"
+ nick_the_rich_desc:0 "Possessing a treasury that rivals the greatest empires, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is universally known for immense, almost unfathomable personal wealth."
+ 
+ nick_the_amorous:0 "the Amorous"
+ nick_the_amorous_desc:0 "Famed as much for exploits in the bedchamber as in the council room, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s passionate nature and numerous romantic entanglements are legendary."
+ 
+ nick_the_moneybag:0 "the Moneybag"
+ nick_the_moneybag_desc:0 "Known for aggressive taxation and a talent for accumulating coin, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is viewed by subjects as a ruler whose primary loyalty is to the treasury."
+ 
+ nick_the_proud_2:0 "$nick_the_proud$"
+ nick_the_proud_2_desc:0 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] carries [CharYourHerHis(CHARACTER)] lineage and achievements with an unyielding, haughty demeanor, demanding utmost respect from all who approach."
+ 
+ nick_beauclerc:0 "Beauclerc"
+ nick_beauclerc_desc:0 "Meaning 'Good Scholar', this title honors [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s unusually high level of education and literacy, a rare and respected trait for a ruler of this era."
+ 
+ nick_the_elder:0 "the Elder"
+ nick_the_elder_desc:0 "Appended to distinguish [CHARACTER.GetShortUINameNoTooltipNoFormat|U] from a younger relative of the same name, reflecting seniority in age and dynastic precedence."
+ 
+ nick_the_black_prince:0 "the Black Prince"
+ nick_the_black_prince_desc:0 "A foreboding martial epithet, likely derived from the color of [CharYourHerHis(CHARACTER)] armor or the dark reputation they earned through ruthless military chevauchées."
+ 
+ nick_the_short:0 "the Short"
+ nick_the_short_desc:0 "A straightforward identifier, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is known across the realm for [CharYourHerHis(CHARACTER)] noticeably diminutive stature."
+ 
+ nick_the_hardy:0 "the Hardy"
+ nick_the_hardy_desc:0 "Characterized by immense physical resilience and an unyielding spirit, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] has proven capable of withstanding extreme hardships and campaigns."
+ 
+ nick_caernarfon:0 "of Caernarfon"
+ nick_caernarfon_desc:0 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] is formally identified by [CharYourHerHis(CHARACTER)] birthplace at Caernarfon, tying [CharYourHerHis(CHARACTER)] personal identity to the imposing castle and region."
+ 
+ nick_winchester:0 "of Winchester"
+ nick_winchester_desc:0 "Identified geographically, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is known by [CharYourHerHis(CHARACTER)] association and birth within the historic and royal city of Winchester."
+ 
+ nick_the_bruce:0 "the Bruce"
+ nick_the_bruce_desc:0 "Bearing the Anglicized form of 'de Brus', [CHARACTER.GetShortUINameNoTooltipNoFormat|U] has elevated this noble surname to be synonymous with the fierce independence of the realm."
+ 
+ nick_toom_tabard:0 "Toom Tabard"
+ nick_toom_tabard_desc:0 "Meaning 'Empty Coat', this derisive Scots nickname implies that [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is a hollow ruler, an ineffective puppet stripped of true royal authority."
+ 
+ nick_maid_norway:0 "Maid of Norway"
+ nick_maid_norway_desc:0 "A poetic identifier for a young, female heir hailing from across the North Sea, symbolizing the fragile dynastic bridge between two distant kingdoms."
+ 
+ nick_virgo:0 "Virgo"
+ nick_virgo_desc:0 "The Virgin. [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is famed for taking a strict vow of chastity, prioritizing spiritual purity and religious devotion over carnal dynastic duties."
+ 
+ nick_the_fierce:0 "the Fierce"
+ nick_the_fierce_desc:0 "Possessing a terrifying temper and an aggressive approach to diplomacy and war, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] rules through intimidation and sheer force of will."
+ 
+ nick_tairbith:0 "Tairbith"
+ nick_tairbith_desc:0 "A Gaelic epithet meaning 'the Unfortunate' or 'the Stumbling', reflecting a reign characterized by brief duration, misfortune, or perceived ineptitude."
+ 
+ nick_the_redking:0 "the Red King"
+ nick_the_redking_desc:0 "Known for a ruddy complexion and a fiery, unpredictable temperament, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s reign is remembered for its volatile and bloody nature."
+ 
+ nick_the_diseased:0 "the Sick"
+ nick_the_diseased_desc:0 "Tragically defined by chronic illness, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s reign has been overshadowed by frailty, physicians, and the constant specter of mortality."
+ 
+ nick_the_chief:0 "the Chief"
+ nick_the_chief_desc:0 "Recognized as the paramount leader of [CharYourHerHis(CHARACTER)] people, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] holds a title that transcends formal feudal ranks, rooted in deep tribal or clan loyalty."
+ 
+ nick_the_fraticide:0 "the Fraticide"
+ nick_the_fraticide_desc:0 "A dark and damning epithet. [CHARACTER.GetShortUINameNoTooltipNoFormat|U] secured or maintained power by committing the ultimate taboo: the shedding of a brother's blood."
+ 
+ nick_the_aggressor:0 "the Aggressor"
+ nick_the_aggressor_desc:0 "Never content with peace, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is known for unprovoked attacks and an endlessly expansionist foreign policy."
+ 
+ nick_the_madman:0 "the Madman"
+ nick_the_madman_desc:0 "Plagued by severe bouts of mental instability or erratic, incomprehensible behavior, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s mind is seen as fractured by contemporaries."
+ 
+ nick_white_flower:0 "of the White Flowers"
+ nick_white_flower_desc:0 "A chivalric and poetic moniker, likely referencing a heraldic badge, a romantic disposition, or a notably elegant and refined courtly presence."
+ 
+ nick_the_tall:0 "the Tall"
+ nick_the_tall_desc:0 "An uncomplicated descriptor, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is universally recognized by subjects for standing head and shoulders above [CharYourHerHis(CHARACTER)] peers."
+ 
+ nick_the_posthumous:0 "the Posthumous"
+ nick_the_posthumous_desc:0 "Born after the death of [CharYourHerHis(CHARACTER)] father, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s very existence is a testament to dynastic continuity against the odds."
+ 
+ nick_the_quarrelsome:0 "the Quarrelsome"
+ nick_the_quarrelsome_desc:0 "Notoriously difficult to please and quick to take offense, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] seems to actively seek out disputes with vassals, neighbors, and clergy alike."
+ 
+ nick_the_do_nothing:0 "the Do-Nothing"
+ nick_the_do_nothing_desc:0 "A translation of 'roi fainéant', this contemptuous title marks [CHARACTER.GetShortUINameNoTooltipNoFormat|U] as a figurehead who surrenders the actual exertion of governing to powerful subordinates."
+ 
+ nick_d_outremer:0 "d'Outremer"
+ nick_d_outremer_desc:0 "Meaning 'from overseas', [CHARACTER.GetShortUINameNoTooltipNoFormat|U] earned this title having been raised in exile across the sea before returning to claim [CharYourHerHis(CHARACTER)] birthright."
+ 
+ nick_the_ceremonious:0 "the Ceremonious"
+ nick_the_ceremonious_desc:0 "Obsessed with courtly protocol, ritual, and the strict codification of royal majesty, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] governs through careful pageantry."
+ 
+ nick_the_liberal:0 "the Liberal"
+ nick_the_liberal_desc:0 "Famed for open-handed generosity, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] lavishes gifts, alms, and patronage freely upon subjects and favorites."
+ 
+ nick_the_warrior:0 "the Warrior"
+ nick_the_warrior_desc:0 "More comfortable in a military encampment than a palace, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is a soldier first and a sovereign second, leading from the vanguard."
+ 
+ nick_the_summoned:0 "the Summoned"
+ nick_the_summoned_desc:0 "A mysterious and foreboding title, referring to the legend that [CHARACTER.GetShortUINameNoTooltipNoFormat|U] was cursed to answer a divine summons to the grave by those they unjustly condemned."
+ 
+ nick_the_desired:0 "the Desired"
+ nick_the_desired_desc:0 "Long awaited by a populace desperate for stability or liberation, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s ascension to power was viewed as a highly anticipated salvation."
+ 
+ nick_the_emperor:0 "the Emperor"
+ nick_the_emperor_desc:0 "Regardless of actual rank, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] acts with such imperial grandeur and holds such sweeping hegemony that contemporaries refer to [CharYouHerHim(CHARACTER)] simply as 'The Emperor'."
+ 
+ nick_the_reckless:0 "the Reckless"
+ nick_the_reckless_desc:0 "Known for charging headlong into battle and politics without a second thought, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s bravery is matched only by a dangerous lack of foresight."
+ 
+ nick_the_catholic:0 "the Catholic"
+ nick_the_catholic_desc:0 "Granted by the Pope in recognition of exceptional piety and orthodoxy, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is viewed as the foremost temporal defender of the Holy Church."
+ 
+ nick_poet_king:0 "the Poet King"
+ nick_poet_king_desc:0 "An educated and artistic soul, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is as skilled at composing verse and patronizing the arts as they are governing the realm."
+ 
+ nick_the_boulonnais:0 "the Boulonnais"
+ nick_the_boulonnais_desc:0 "Identifying [CharYourHerHis(CHARACTER)] deep roots or birth in the County of Boulogne, linking [CharYourHerHis(CHARACTER)] legacy to that strategic coastal territory."
+ 
+ nick_of_penalen:0 "of Peñalén"
+ nick_of_penalen_desc:0 "A tragic geographical epithet referencing the cliffs of Peñalén, the site where [CHARACTER.GetShortUINameNoTooltipNoFormat|U] met a famous and treacherous demise."
+ 
+ nick_of_najera:0 "of Nájera"
+ nick_of_najera_desc:0 "Tying [CharYourHerHis(CHARACTER)] legacy to the city of Nájera, a location of profound dynastic or military significance during [CharYourHerHis(CHARACTER)] life."
+ 
+ nick_of_anjou:0 "of Anjou"
+ nick_of_anjou_desc:0 "Formally identified by [CharYourHerHis(CHARACTER)] ancestral heartland of Anjou, a designation often used to distinguish [CharYouHerHim(CHARACTER)] after inheriting foreign thrones."
+ 
+ nick_great_count:0 "the Great Count"
+ nick_great_count_desc:0 "Though technically holding a lower feudal rank, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] amassed such power and territory that [CharYourHerHis(CHARACTER)] authority rivaled that of kings."
+ 
+ nick_the_bavarian:0 "the Bavarian"
+ nick_the_bavarian_desc:0 "An identifier highlighting [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s cultural roots, upbringing, or political powerbase within the historic lands of Bavaria."
+ 
+ nick_the_venetian:0 "the Venetian"
+ nick_the_venetian_desc:0 "Known for deep ties, birth, or diplomatic alignment with the Most Serene Republic of Venice, adopting its maritime and mercantile cultural markers."
+ 
+ nick_the_bookish:0 "the Bookish"
+ nick_the_bookish_desc:0 "Preferring the quiet of the scriptorium to the clash of the tournament, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is a devoted scholar and patron of translation and learning."
+ 
+ nick_the_boxer:0 "the Champion"
+ nick_the_boxer_desc:0 "Famed for personal physical combat and martial tournaments, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] relies on pure bodily strength and fighting skill to establish dominance."
+ 
+ nick_probus:0 "Probus"
+ nick_probus_desc:0 "A Latin honorific meaning 'The Upright' or 'The Good', reflecting a reign characterized by moral integrity, justice, and fair administration."
+ 
+ nick_the_bearded:0 "the Bearded"
+ nick_the_bearded_desc:0 "In an era where facial hair trends varied, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] became famous for sporting a prominent and distinguishing beard."
+ 
+ nick_tanglefoot:0 "Tanglefoot"
+ nick_tanglefoot_desc:0 "A mocking or descriptive epithet noting a clumsy gait, a limp, or a tendency to stumble, making [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s movement highly recognizable."
+ 
+ nick_the_curly:0 "the Curly"
+ nick_the_curly_desc:0 "Identified by contemporaries simply by the striking, curly texture of [CharYourHerHis(CHARACTER)] hair."
+ 
+ nick_the_exile:0 "the Exile"
+ nick_the_exile_desc:0 "Having spent significant, formative years banished from [CharYourHerHis(CHARACTER)] homeland, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s worldview was shaped far from the court they now rule."
+ 
+ nick_ploughpenny:0 "Ploughpenny"
+ nick_ploughpenny_desc:0 "Earned after instituting a highly unpopular tax on every plow in the realm, forever linking [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s name to fiscal extraction."
+ 
+ nick_emune:0 "Emune"
+ nick_emune_desc:0 "Meaning 'the Memorable', this Danish epithet signifies a ruler whose actions—whether for good or ill—left an indelible mark on the history of the realm."
+ 
+ nick_hunger:0 "Hunger"
+ nick_hunger_desc:0 "A tragic and literal moniker. [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s reign coincided with devastating, widespread famine, leading the populace to associate [CharYouHerHim(CHARACTER)] with starvation."
+ 
+ nick_the_survivor:0 "the Survivor"
+ nick_the_survivor_desc:0 "Having outlived rivals, endured catastrophic battles, or survived numerous assassination attempts, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] simply refuses to die."
+ 
+ nick_the_lawmender:0 "the Law-mender"
+ nick_the_lawmender_desc:0 "Revered as a great legal reformer, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] overhauled the realm's fragmented codes, bringing standardized justice to the provinces."
+ 
+ nick_the_barefoot:0 "Berrføtt"
+ nick_the_barefoot_desc:0 "Meaning 'Barefoot', [CHARACTER.GetShortUINameNoTooltipNoFormat|U] adopted the Gaelic style of dress—leaving the lower legs bare—after extensive campaigning in the Celtic west."
+ 
+ nick_the_fearsomeeyes:0 "The Fearsome Eyes"
+ nick_the_fearsomeeyes_desc:0 "Possessing an intense, piercing gaze, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is said to be able to command obedience or instill terror simply by locking eyes with a subject."
+ 
+ nick_longarm:0 "Long Arm"
+ nick_longarm_desc:0 "Whether referring to actual physical reach or an impressive ability to project power and justice across vast distances, none can escape [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s grasp."
+ 
+ nick_first_crowned:0 "the First-Crowned"
+ nick_first_crowned_desc:0 "A monumental title denoting [CHARACTER.GetShortUINameNoTooltipNoFormat|U] as the very first in [CharYourHerHis(CHARACTER)] dynasty or realm to be formally elevated and crowned as King."
+ 
+ nick_parapinakes:0 "Parapinakes"
+ nick_parapinakes_desc:0 "Meaning 'Minus a Quarter', this derogatory nickname was given after [CHARACTER.GetShortUINameNoTooltipNoFormat|U] devalued the currency and caused severe grain shortages during [CharYourHerHis(CHARACTER)] reign."
+ 
+ nick_the_macedonian:0 "the Macedonian"
+ nick_the_macedonian_desc:0 "Identified by [CharYourHerHis(CHARACTER)] geographic and cultural origins in the theme of Macedonia, initiating a renowned dynastic era in the empire."
+ 
+ nick_the_armenian:0 "the Armenian"
+ nick_the_armenian_desc:0 "Highlighting [CharYourHerHis(CHARACTER)] ethnic origins, this identifier marks [CHARACTER.GetShortUINameNoTooltipNoFormat|U] as hailing from the rugged lands and proud traditions of Armenia."
+ 
+ nick_the_khazar:0 "the Khazar"
+ nick_the_khazar_desc:0 "Bearing the legacy of the steppes, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is named for [CharYourHerHis(CHARACTER)] mother's heritage from the powerful Khazar Khaganate."
+ 
+ nick_the_syrian:0 "the Isaurian"
+ nick_the_syrian_desc:0 "Originating from the eastern frontier, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] brought the hardened, iconoclastic perspectives of the Syrian borders to the imperial throne."
+ 
+ nick_rhinotmetos:0 "Rinotmetos"
+ nick_rhinotmetos_desc:0 "Meaning 'The Slit-Nosed', this brutal epithet serves as a visible reminder that [CHARACTER.GetShortUINameNoTooltipNoFormat|U] suffered facial mutilation—a traditional Byzantine punishment meant to disqualify one from ruling."
+ 
+ nick_chlorus:0 "Chlorus"
+ nick_chlorus_desc:0 "Meaning 'The Pale', this classic Roman sobriquet describes [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s notably fair or sickly complexion."
+ 
+ nick_the_clever:0 "the Clever"
+ nick_the_clever_desc:0 "Relying on wit, diplomacy, and cunning rather than brute force, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] consistently outmaneuvers rivals in the political arena."
+ 
+ nick_the_resplendent:0 "the Resplendent"
+ nick_the_resplendent_desc:0 "Dazzling in both appearance and courtly grandeur, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] presides over a golden age of wealth and cultural brilliance."
+ 
+ nick_the_minor:0 "the Minor"
+ nick_the_minor_desc:0 "Appended to distinguish [CHARACTER.GetShortUINameNoTooltipNoFormat|U] from a more famous or senior relative, indicating youth or a lesser standing in the dynastic history."
+ 
+ nick_the_merciful:0 "the Merciful"
+ nick_the_merciful_desc:0 "In a brutal age, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] stands out for a willingness to forgive transgressions, ransom captives, and spare the lives of defeated enemies."
+ 
+ nick_the_iron:0 "the Iron"
+ nick_the_iron_desc:0 "Unyielding, unbreakable, and cold when necessary, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s will and constitution are likened to the strongest of metals."
+ 
+ nick_anushirvan:0 "Anushirvan"
+ nick_anushirvan_desc:0 "A Persian title meaning 'of the Immortal Soul', reflecting a legacy of profound justice, administrative genius, and a reign that will be remembered eternally."
+ 
+ nick_the_unifier:0 "the Unifier"
+ nick_the_unifier_desc:0 "Through diplomacy and war, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] successfully stitched together a fragmented realm, forging disparate lands into a single cohesive state."
+ 
+ nick_the_leper:0 "the Leper"
+ nick_the_leper_desc:0 "Afflicted by a devastating and highly stigmatized illness, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] must balance the heavy burdens of statecraft with physical decay."
+ 
+ nick_the_calf:0 "the Calf"
+ nick_the_calf_desc:0 "A nickname likely denoting youth, a docile nature, or an early reign overseen by more powerful, controlling regents."
+ 
+ nick_the_bent:0 "the Bent"
+ nick_the_bent_desc:0 "Describing a severe hunched posture or spinal affliction, marking [CHARACTER.GetShortUINameNoTooltipNoFormat|U] with a distinct silhouette known to all."
+ 
+ nick_le_rechin:0 "le Réchin"
+ nick_le_rechin_desc:0 "Meaning 'The Surly' or 'The Quarrelsome', this French epithet perfectly captures [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s notoriously difficult, combative, and uncooperative personality."
+ 
+ nick_greymantle:0 "Greymantle"
+ nick_greymantle_desc:0 "Identified by a favored article of clothing, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s simple grey cloak became an enduring symbol of [CharYourHerHis(CHARACTER)] pragmatic rulership."
+ 
+ nick_the_abbot:0 "the Abbot"
+ nick_the_abbot_desc:0 "Displaying a pious demeanor and heavy involvement in monastic affairs, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] often seems more suited to a cloister than a castle."
+ 
+ nick_the_graceful:0 "the Graceful"
+ nick_the_graceful_desc:0 "Moving with elegance and speaking with tact, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] possesses a natural, refined charm that wins over even the most hostile envoys."
+ 
+ nick_mbbeaut:0 "the Beautiful"
+ nick_mbbeaut_desc:0 "Blessed with extraordinary physical attractiveness, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s beauty is celebrated in songs and chronicles far beyond the borders of the realm."
+ 
+ nick_seer:0 "the Seer"
+ nick_seer_desc:0 "Believed to possess foresight or a deep, almost mystical intuition, subjects whisper that [CHARACTER.GetShortUINameNoTooltipNoFormat|U] can perceive events before they unfold."
+ 
+ nick_the_learned:0 "the Learned"
+ nick_the_learned_desc:0 "Highly educated and deeply read in theology and philosophy, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is respected as much for intellectual prowess as for holding a title."
+ 
+ nick_the_woolmaker:0 "the Woolmaker"
+ nick_the_woolmaker_desc:0 "An unusual moniker stemming from heavy involvement in the textile trade or a pragmatic focus on the economic foundations of the realm's wealth."
+ 
+ nick_vidfamne:0 "Vidfamne"
+ nick_vidfamne_desc:0 "A legendary Norse epithet meaning 'Wide-Fathoming' or 'Wide-Ruling', signifying a conqueror whose dominion stretches across vast, distant territories."
+ 
+ nick_fafnirkiller:0 "Fáfnirslayer"
+ nick_fafnirkiller_desc:0 "A mythical and heroic title evoking the legendary Sigurd, associating [CHARACTER.GetShortUINameNoTooltipNoFormat|U] with the slaying of beasts and the overcoming of impossible odds."
+ 
+ nick_beli:0 "Beli"
+ nick_beli_desc:0 "An ancient Brittonic identifier, tying [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s lineage back to the legendary founding figures and mythic kings of Britain."
+ 
+ nick_tratalja:0 "Woodwhittler"
+ nick_tratalja_desc:0 "Derived from the Old Norse 'Tretelgja' (Tree-feller), [CHARACTER.GetShortUINameNoTooltipNoFormat|U] earned this name by systematically clearing vast forests to settle new lands."
+ 
+ nick_skotkonung:0 "Skötkonung"
+ nick_skotkonung_desc:0 "Meaning 'Tribute King' or 'Treasure King', this title reflects [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s legacy of minting the first royal coinage or establishing new systems of tribute."
+ 
+ nick_jacobus:0 "Jacob"
+ nick_jacobus_desc:0 "Bearing the Latinized form of James, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s name carries deep biblical resonance, emphasizing [CharYourHerHis(CHARACTER)] role as a patriarch of the people."
+ 
+ nick_huguescapet:0 "Capet"
+ nick_huguescapet_desc:0 "Likely derived from the wearing of a specific cape (cappa) as lay abbot, this moniker became the enduring identifier of a dynasty that would shape history."
+ 
+ nick_konradinus:0 "Konradin"
+ nick_konradinus_desc:0 "The diminutive 'Little Conrad', a tragic identifier for a youthful ruler whose life and ambitions were cut short before they could truly begin."
+ 
+ nick_the_illustrious:0 "the Illustrious"
+ nick_the_illustrious_desc:0 "Radiating glory through successful wars, cultural patronage, and wise laws, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s reign is considered a high-water mark for the realm."
+ 
+ nick_the_bellicose:0 "the Bellicose"
+ nick_the_bellicose_desc:0 "Ever eager to draw the sword, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] possesses a militant spirit and a profound, aggressive enthusiasm for warfare."
+ 
+ nick_the_leper_king:0 "the Leper King"
+ nick_the_leper_king_desc:0 "A tragic yet heroic figure, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] continues to fiercely defend [CharYourHerHis(CHARACTER)] realm from horseback despite suffering from the agonizing decay of leprosy."
+ 
+ nick_the_strongbow:0 "Strongbow"
+ nick_the_strongbow_desc:0 "Famed for martial prowess and military expeditions, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is known for utilizing deadly archery and aggressive, shock-tactics in warfare."
+ 
+ nick_karolyrobert:0 "Robert"
+ nick_karolyrobert_desc:0 "Known dually as Charles and Robert, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] navigated complex foreign origins to successfully claim and stabilize a contested kingdom."
+ 
+ nick_battler:0 "the Battler"
+ nick_battler_desc:0 "A veteran of countless skirmishes and pitched engagements, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is defined by a life spent relentlessly fighting on the front lines."
+
+# Edited vanilla -- To reduce the memery of Paradox's descriptions for epithets
+
+ nick_bluetooth:0 "Bluetooth"
+ nick_bluetooth_desc:1 "Derived from a prominent dark or discolored tooth, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s distinctive moniker has become a legendary identifier in Norse sagas."
+ 
+ nick_canmore:1 "the Big Headed"
+ nick_canmore_desc:1 "From the Gaelic 'Ceann Mòr', meaning 'Great Chief' or 'Big Head', this title signifies [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s undisputed leadership and formidable dynastic presence."
+ 
+ nick_tanglehair:0 "Tanglehair"
+ nick_tanglehair_desc:1 "Prior to unifying [CharYourHerHis(CHARACTER)] realm, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] famously swore an oath to leave [CharYourHerHis(CHARACTER)] hair uncut and uncombed, earning this rugged identifier."
+ 
+ nick_fairhair:0 "Fairhair"
+ nick_fairhair_desc:1 "Having fulfilled a monumental oath of conquest, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] finally groomed [CharYourHerHis(CHARACTER)] legendary locks, earning a title synonymous with the founding of a unified kingdom."
+ 
+ nick_haardraade:0 "Hard Ruler"
+ nick_haardraade_desc:1 "Meaning 'Hard Ruler' or 'Stern Counsel', this epithet reflects [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s uncompromising military ambitions and unyielding grip on the throne."
+ 
+ nick_hardeknud:0 "Harthacnut"
+ nick_hardeknud_desc:1 "A formidable moniker meaning 'Tough Knot', reflecting both [CharYourHerHis(CHARACTER)] robust nature and the complex political ties [CharYouSheHe(CHARACTER)] navigated across the northern seas."
+ 
+ nick_hildetand:0 "Wartooth"
+ nick_hildetand_desc:1 "Translating to 'War-Tooth', [CHARACTER.GetShortUINameNoTooltipNoFormat|U] bears a fearsome legendary title, symbolizing a lifetime dedicated to the bloody vanguard of battle."
+ 
+ nick_lodbrok:1 "Loðbrók"
+ nick_lodbrok_desc:1 "Meaning 'Hairy Breeches', this legendary moniker is rooted in the sagas, attributed to the wearing of specially crafted garments meant to ward off the bites of serpents."
+ 
+ nick_ring:0 "Ring"
+ nick_ring_desc:1 "A prestigious Norse identifier, likely denoting [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s role as a generous ring-giver and distributor of wealth among [CharYourHerHis(CHARACTER)] loyal warband."
+ 
+ nick_snake_in_the_eye:0 "Snake-in-the-Eye"
+ nick_snake_in_the_eye_desc:1 "A mythic physical identifier from the sagas, suggesting [CHARACTER.GetShortUINameNoTooltipNoFormat|U] bears the mark of the ouroboros within [CharYourHerHis(CHARACTER)] gaze, signifying a legendary lineage."
+ 
+ nick_the_affable:0 "the Affable"
+ nick_the_affable_desc:1 "Known for an open, accessible court and an uncommonly pleasant demeanor, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is celebrated for [CharYourHerHis(CHARACTER)] diplomatic and gracious nature."
+ 
+ nick_the_apostle:0 "the Apostle"
+ nick_the_apostle_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] is revered in ecclesiastical histories for dedicating [CharYourHerHis(CHARACTER)] life to the tireless evangelization and conversion of heathen lands."
+ 
+ nick_the_avenger:0 "the Avenger"
+ nick_the_avenger_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] earned this grim title after dedicating [CharYourHerHis(CHARACTER)] reign to a relentless, unyielding pursuit of retribution against those who wronged [CharYourHerHis(CHARACTER)] family."
+ 
+ nick_the_bald:0 "the Bald"
+ nick_the_bald_desc:1 "In an era where flowing locks were a mark of royal vigor, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s lack of hair became the defining physical trait recorded by chroniclers."
+ 
+ nick_the_bald_ironic:0 "$nick_the_bald$"
+ nick_the_bald_ironic_desc:1 "An ironic sobriquet. Though possessing a full head of hair, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] was mocked for lacking land or a crown, becoming 'bald' of royal authority."
+ 
+ nick_the_bastard:0 "the Bastard"
+ nick_the_bastard_desc:1 "A stark reminder of illegitimacy, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] has had to fight twice as hard to secure a legacy that trueborn heirs take for granted."
+ 
+ nick_the_black:0 "the Black"
+ nick_the_black_desc:1 "Whether denoting the dark hue of [CharYourHerHis(CHARACTER)] armor, hair, or the ruthless, unforgiving nature of [CharYourHerHis(CHARACTER)] reign, the moniker casts a long shadow."
+ 
+ nick_the_blessed:0 "the Blessed"
+ nick_the_blessed_desc:1 "Held up as a paragon of virtue, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is widely considered by the clergy to be favored by divine grace."
+ 
+ nick_the_blind:0 "the Blind"
+ nick_the_blind_desc:1 "Stripped of [CharYourHerHis(CHARACTER)] sight—either through illness, battle, or cruel judicial mutilation—[CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s disability defines [CharYourHerHis(CHARACTER)] historical legacy."
+ 
+ nick_the_bold:0 "the Bold"
+ nick_the_bold_desc:1 "Chroniclers laud [CHARACTER.GetShortUINameNoTooltipNoFormat|U] for [CharYourHerHis(CHARACTER)] audacious military campaigns and a willingness to seize initiative when others hesitate."
+ 
+ nick_the_boneless:0 "the Boneless"
+ nick_the_boneless_desc:1 "A mysterious saga epithet, debated by scholars as referring either to extraordinary physical flexibility, a degenerative bone disease, or a metaphor for tactical fluidity."
+ 
+ nick_the_brave:0 "the Brave"
+ nick_the_brave_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] has proven [CharYourHerHis(CHARACTER)] valor on countless fields, earning a reputation for unflinching courage in the face of insurmountable odds."
+ 
+ nick_the_chaste:0 "the Chaste"
+ nick_the_chaste_desc:1 "Esteemed for strict adherence to religious vows and moral purity, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] rarely succumbs to the carnal temptations of the court."
+ 
+ nick_the_confessor:0 "the Confessor"
+ nick_the_confessor_desc:1 "Renowned for a life of deep piety and the steadfast defense of the faith, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is venerated almost as a saint among the clergy."
+ 
+ nick_the_conqueror:0 "the Conqueror"
+ nick_the_conqueror_desc:1 "Through sheer force of arms and tactical genius, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] successfully subdued a foreign realm, cementing a legacy written in blood and iron."
+ 
+ nick_the_cruel:0 "the Cruel"
+ nick_the_cruel_desc:1 "Chroniclers paint a grim picture of [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s reign, defined by draconian punishments, torture, and an absolute lack of mercy."
+ 
+ nick_the_crusader:0 "the Crusader"
+ nick_the_crusader_desc:1 "Having taken the cross, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is celebrated throughout the world for [CharYourHerHis(CHARACTER)] holy wars against the enemies of the faith."
+ 
+ nick_the_devil:0 "the Devil"
+ nick_the_devil_desc:1 "A moniker born of terror. [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s actions are viewed as so malicious and destructive that contemporaries believe [CharYouSheHe(CHARACTER)] is aligned with dark forces."
+ 
+ nick_the_drunkard:0 "the Drunkard"
+ nick_the_drunkard_desc:1 "Despite royal stature, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s historical record is deeply marred by chronic intoxication and a scandalous lack of temperance."
+ 
+ nick_the_fair:0 "the Fair"
+ nick_the_fair_desc:1 "Celebrated in courtly romance and royal annals, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is widely acknowledged as possessing extraordinary physical beauty and grace."
+ 
+ nick_the_fat:0 "the Fat"
+ nick_the_fat_desc:1 "An unsparing, literal description used by chroniclers to record [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s immense corpulence and physical immobility."
+ 
+ nick_the_fearless:0 "the Fearless"
+ nick_the_fearless_desc:1 "Facing down overwhelming enemies and political crises without a second thought, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s bravery borders on the legendary."
+ 
+ nick_the_fowler:0 "the Fowler"
+ nick_the_fowler_desc:1 "According to tradition, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] earned this title because [CharYouSheHe(CHARACTER)] was found setting bird snares when informed of [CharYourHerHis(CHARACTER)] elevation to the throne."
+ 
+ nick_the_gentle:0 "the Gentle"
+ nick_the_gentle_desc:1 "A rare ruler who governs through compassion rather than terror, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is beloved for [CharYourHerHis(CHARACTER)] mild and merciful disposition."
+ 
+ nick_the_german:0 "the German"
+ nick_the_german_desc:1 "An identifier tying [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s political and cultural legacy to the lands east of the Rhine."
+ 
+ nick_the_german_post_mortem:0 "$nick_the_german$"
+ nick_the_german_post_mortem_desc:1 "A posthumous title, acknowledging [CHARACTER.GetShortUINameNoTooltipNoFormat|U] as a foundational figure in the development of a distinct German identity."
+ 
+ nick_the_good:0 "the Good"
+ nick_the_good_desc:1 "Remembered fondly for just laws, low taxes, and a generally benevolent rule, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is universally esteemed by [CharYourHerHis(CHARACTER)] subjects."
+ 
+ nick_the_gouty:0 "the Gouty"
+ nick_the_gouty_desc:1 "Plagued by 'the disease of kings', [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s reign is frequently interrupted by severe, debilitating joint pain."
+ 
+ nick_the_great:0 "the Great"
+ nick_the_great_desc:1 "Reserved for the most exceptional of monarchs, this title recognizes [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s unparalleled achievements in expansion, law, and culture."
+ 
+ nick_the_hammer:0 "the Hammer"
+ nick_the_hammer_desc:1 "Striking [CharYourHerHis(CHARACTER)] enemies with the devastating, relentless force of a blacksmith's tool, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] shatters opposing armies."
+ 
+ nick_the_handsome:0 "the Handsome"
+ nick_the_handsome_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] possesses striking, regal features that are frequently romanticized by poets and commented upon by visiting dignitaries."
+ 
+ nick_the_heathen:0 "the Heathen"
+ nick_the_heathen_desc:1 "Standing in defiance of the encroaching dominant religions, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] fiercely adheres to the old, traditional ways of [CharYourHerHis(CHARACTER)] ancestors."
+ 
+ nick_the_heathen_rebel:0 "$nick_the_heathen$"
+ nick_the_heathen_rebel_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] is infamous for leading a violent, reactionary uprising to restore the old gods and cast out the new faith."
+ 
+ nick_the_holy:0 "the Holy"
+ nick_the_holy_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s life is characterized by such intense religious devotion and asceticism that [CharYouSheHe(CHARACTER)] is viewed as a living vessel of the divine."
+ 
+ nick_the_hunchback:0 "the Hunchback"
+ nick_the_hunchback_desc:1 "A visible curvature of the spine defines [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s physical appearance, often leading to unjust prejudice in a deeply superstitious era."
+ 
+ nick_the_hunter:0 "the Hunter"
+ nick_the_hunter_desc:1 "Unmatched in the saddle and with a bow, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is renowned for a relentless passion for the royal chase."
+ 
+ nick_the_ironside:0 "Ironside"
+ nick_the_ironside_desc:1 "Earning a reputation for an impenetrable defense and unyielding resilience, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] stands like an iron wall in the heat of battle."
+ 
+ nick_the_just:0 "the Just"
+ nick_the_just_desc:0 "Esteemed for a strict but fair application of the law, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is remembered as an impartial arbiter of disputes."
+ 
+ nick_the_kind:0 "the Kind"
+ nick_the_kind_desc:1 "Marked by philanthropy and an unusual concern for the welfare of the peasantry, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] rules with a soft hand."
+ 
+ nick_the_lame:0 "the Lame"
+ nick_the_lame_desc:1 "Whether due to a congenital defect or a battlefield wound, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s halting gait is [CharYourHerHis(CHARACTER)] most recognized physical trait."
+ 
+ nick_the_lawgiver:0 "the Lawgiver"
+ nick_the_lawgiver_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] is immortalized as a monumental legal reformer, having codified the disparate customs of the realm into unified statutes."
+ 
+ nick_the_liberator:0 "the Liberator"
+ nick_the_liberator_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] achieved everlasting fame by casting out foreign occupiers and restoring sovereignty to [CharYourHerHis(CHARACTER)] people."
+ 
+ nick_the_lion:0 "the Lion"
+ nick_the_lion_desc:1 "Fierce, proud, and possessing a regal majesty, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] embodies the martial virtues of the king of beasts."
+ 
+ nick_the_lionheart:0 "the Lionheart"
+ nick_the_lionheart_desc:1 "A legendary title acknowledging [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s peerless martial skill, dauntless courage, and reputation as the quintessential chivalric warrior."
+ 
+ nick_the_lisp_and_lame:0 "the Lisp and Lame"
+ nick_the_lisp_and_lame_desc:1 "A historically cruel double-epithet, recording both [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s speech impediment and physical disability for posterity."
+ 
+ nick_the_magnificent:0 "the Magnificent"
+ nick_the_magnificent_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] presides over a court of unparalleled splendor, patronizing the arts and wielding immense geopolitical power."
+ 
+ nick_the_martyr:0 "the Martyr"
+ nick_the_martyr_desc:1 "Having been slain by the enemies of [CharYourHerHis(CHARACTER)] faith or political rivals, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s death has become a powerful rallying cry."
+ 
+ nick_the_merry:0 "the Merry"
+ nick_the_merry_desc:1 "Famed for a boisterous laugh and a court filled with feasts and music, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] prefers joy over the grim realities of rule."
+ 
+ nick_the_honorable:0 "the Honorable"
+ nick_the_honorable_desc:1 "Recognized not just for high birth, but for possessing a character defined by chivalry, honor, and aristocratic virtue."
+ 
+ nick_the_monk:0 "the Monk"
+ nick_the_monk_desc:1 "Preferring the cloister to the crown, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is noted for adopting an ascetic lifestyle, sometimes even abdicating to take holy orders."
+ 
+ nick_the_noble:0 "the Noble"
+ nick_the_noble_desc:1 "Recognized for possessing a character defined by chivalry, honor, and aristocratic virtue that elevates [CharYouHerHim(CHARACTER)] above [CharYourHerHis(CHARACTER)] peers."
+ 
+ nick_the_old:0 "the Old"
+ nick_the_old_desc:1 "Having survived far beyond the life expectancy of the era, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is viewed as a venerable, enduring patriarch."
+ 
+ nick_the_pious:0 "the Pious"
+ nick_the_pious_desc:1 "Deeply committed to the church and religious observance, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s reign is marked by church building and ecclesiastical reform."
+ 
+ nick_the_proud:0 "the Proud"
+ nick_the_proud_desc:1 "Bearing an incredibly haughty demeanor, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] demands absolute deference and views [CharYourHerHis(CHARACTER)] lineage as superior to all others."
+ 
+ nick_the_quarreller:0 "the Quarreller"
+ nick_the_quarreller_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] is infamous for a combative, litigious personality, constantly entangled in disputes with vassals and neighboring kings."
+ 
+ nick_the_restorer:0 "the Restorer"
+ nick_the_restorer_desc:1 "Stepping into the void of a fractured state, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] successfully rebuilt the institutions and borders of a once-great realm."
+ 
+ nick_the_saint:0 "the Saint"
+ nick_the_saint_desc:1 "Formally recognized by the religious authorities for a life of miracles and supreme holiness, elevating [CharYourHerHis(CHARACTER)] dynasty to sacred status."
+ 
+ nick_the_scholar:0 "the Scholar"
+ nick_the_scholar_desc:1 "Highly educated and a patron of the translation movement, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is as comfortable debating theology as ruling."
+ 
+ nick_the_silent:0 "the Silent"
+ nick_the_silent_desc:1 "Known for keeping [CharYourHerHis(CHARACTER)] own counsel, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] uses brevity and silence as a calculated political weapon."
+ 
+ nick_the_stammerer:0 "the Stammerer"
+ nick_the_stammerer_desc:1 "A severe speech impediment defined [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s public addresses, a vulnerability ruthlessly recorded by contemporary historians."
+ 
+ nick_the_strong:0 "the Strong"
+ nick_the_strong_desc:1 "Famed for immense physical power or the undeniable force of [CharYourHerHis(CHARACTER)] political will, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] dominates the era."
+ 
+ nick_the_troubadour:0 "the Troubadour"
+ nick_the_troubadour_desc:1 "A patron of courtly love and lyric poetry, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is celebrated for [CharYourHerHis(CHARACTER)] own compositions and artistic sensibilities."
+ 
+ nick_the_unready:0 "the Unready"
+ nick_the_unready_desc:1 "A translation of 'Unræd' (Bad Counsel), indicating that [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s reign was plagued by poor decisions and treacherous advisors."
+ 
+ nick_the_unready_anglo_saxon:0 "$nick_the_unready$"
+ nick_the_unready_anglo_saxon_desc:1 "A tragic pun on [CharYourHerHis(CHARACTER)] own name; meaning 'Noble Counsel', yet universally remembered as 'Bad Counsel' due to disastrous rulership."
+ 
+ nick_the_usurper:0 "the Usurper"
+ nick_the_usurper_desc:1 "A dark stain on [CharYourHerHis(CHARACTER)] legacy, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] seized the throne unlawfully, breaking the sacred line of succession."
+ 
+ nick_the_victorious:0 "the Victorious"
+ nick_the_victorious_desc:1 "Achieving a string of unbroken military triumphs, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s name has become synonymous with battlefield success."
+ 
+ nick_the_young:0 "the Young"
+ nick_the_young_desc:1 "Appended early in [CharYourHerHis(CHARACTER)] life or to distinguish [CharYouHerHim(CHARACTER)] from a father of the same name, highlighting a reign that began in minority."
+ 
+ nick_the_younger:0 "the Younger"
+ nick_the_younger_desc:2 "A genealogical identifier used by historians to separate [CHARACTER.GetShortUINameNoTooltipNoFormat|U] from an older, prominent relative of the exact same name."
+ 
+ nick_whiteshirt:0 "Whiteshirt"
+ nick_whiteshirt_desc:1 "A saga epithet, often thought to refer to [CHARACTER.GetShortUINameNoTooltipNoFormat|U] wearing the white garments of a recent baptism during battle, or simply a favored tunic."
+ 
+ nick_the_bewitched:0 "the Bewitched"
+ nick_the_bewitched_desc:1 "Plagued by severe physical and mental ailments, contemporaries genuinely believed [CHARACTER.GetShortUINameNoTooltipNoFormat|U] was the victim of dark sorcery or a generational curse."
+
+ nick_the_shadow:0 "the Shadow"
+ nick_the_shadow_desc:1 "Operating unseen and unheard, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is believed by contemporaries to govern the realm through an inescapable network of spies and informants."
+ 
+ nick_the_whisperer:0 "the Whisperer"
+ nick_the_whisperer_desc:1 "Preferring the quiet corners of the council chamber to the booming acoustics of the great hall, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] orchestrates statecraft in hushed tones."
+ 
+ nick_the_spider:0 "the Spider"
+ nick_the_spider_desc:0 "A master of diplomacy and deception, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] sits at the center of a vast, continental web of political intrigue and alliances."
+ 
+ nick_the_fox:0 "the Fox"
+ nick_the_fox_desc:1 "Renowned in chronicles for shrewd cunning and political agility, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] outmaneuvers rivals with deception rather than brute force."
+ 
+ nick_the_shrewd:0 "the Shrewd"
+ nick_the_shrewd_desc:1 "Possessing a calculating mind and a sharp eye for advantage, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is recognized as a formidable and pragmatic political operator."
+ 
+ nick_the_gracious:0 "the Gracious"
+ nick_the_gracious_desc:1 "Famed for [CharYourHerHis(CHARACTER)] impeccable courtly manners, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] hosts a court renowned for its refined etiquette and hospitality."
+ 
+ nick_the_magnanimous:0 "the Magnanimous"
+ nick_the_magnanimous_desc:1 "Displaying a royal generosity of spirit, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is celebrated for pardoning defeated enemies and rewarding loyal servants with unparalleled largesse."
+ 
+ nick_the_architect:0 "the Architect"
+ nick_the_architect_desc:1 "Leaving a legacy carved in stone, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is remembered as a visionary builder of cathedrals, fortresses, and monumental public works."
+ 
+ nick_the_wise:0 "the Wise"
+ nick_the_wise_desc:1 "Revered across the known world for profound intellect and sagacious judgment, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] governs as a true philosopher-[CHARACTER.GetTitleAsNameNoTooltip]."
+ 
+ nick_the_impaler:0 "the Impaler"
+ nick_the_impaler_desc:1 "A terrifying moniker earned through the brutal, psychological warfare of displaying executed enemies on wooden stakes to deter treason and invasion."
+ 
+ nick_the_tormentor:0 "the Tormentor"
+ nick_the_tormentor_desc:1 "Chroniclers record [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s reign as one of cruelty and suffering, marked by the frequent and creative use of the dungeon and the rack."
+ 
+ nick_the_wicked:0 "the Wicked"
+ nick_the_wicked_desc:1 "Denounced from pulpits and recorded in monastic annals as a ruler who flagrantly defied moral law and basic human decency."
+ 
+ nick_the_accursed:0 "the Accursed"
+ nick_the_accursed_desc:1 "Viewed by the clergy and the peasantry alike as a pariah, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is believed to be laboring under a divine curse for [CharYourHerHis(CHARACTER)] grievous sins."
+ 
+ nick_priest_hater:0 "the Priest-Hater"
+ nick_priest_hater_desc:1 "Engaged in constant, bitter struggles with the ecclesiastical establishment, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is infamous for seizing church lands and defying the clergy."
+ 
+ nick_the_able:0 "the Able"
+ nick_the_able_desc:1 "A highly competent and multi-talented administrator, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] brought efficiency and stability to the institutions of the realm."
+ 
+ nick_the_mad:0 "the Mad"
+ nick_the_mad_desc:1 "Tragically plagued by severe mental instability, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s reign was marred by periods of delusion, incapacity, and regency."
+ 
+ nick_the_ruthless:0 "the Ruthless"
+ nick_the_ruthless_desc:1 "Untethered by chivalric ideals or mercy, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] executes state policy with a cold, unrelenting brutality."
+ 
+ nick_the_simple:0 "the Simple"
+ nick_the_simple_desc:1 "A straightforward and uncomplicated ruler, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is perceived by contemporaries as lacking the guile and intellect expected of a sovereign."
+ 
+ nick_half_hand:0 "Half-Hand"
+ nick_half_hand_desc:1 "Bearing the visible scars of a brutal engagement, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] lost a portion of [CharYourHerHis(CHARACTER)] hand, a permanent testament to [CharYourHerHis(CHARACTER)] time on the battlefield."
+ 
+ nick_the_hideous:0 "the Hideous"
+ nick_the_hideous_desc:1 "Afflicted by severe disfigurement or unfortunate congenital traits, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s appearance is the subject of cruel mockery in foreign courts."
+ 
+ nick_the_frail:0 "the Frail"
+ nick_the_frail_desc:1 "Lacking the robust constitution expected of the nobility, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] struggles constantly with physical weakness and poor health."
+ 
+ nick_the_weak:0 "the Weak"
+ nick_the_weak_desc:1 "Viewed as deficient in both physical strength and political willpower, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] struggles to project the authority required to control the realm."
+ 
+ nick_the_brute:0 "the Brute"
+ nick_the_brute_desc:1 "Relying entirely on intimidation and physical violence, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] rules with a heavy, unrefined hand."
+ 
+ nick_the_bear:0 "the Bear"
+ nick_the_bear_desc:1 "Possessing immense physical bulk and a ferocity to match, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is likened to the apex predator of the northern woods."
+ 
+ nick_the_terrible:0 "the Terrible"
+ nick_the_terrible_desc:1 "A title denoting awe-inspiring power and a reign of terror, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] commands absolute, trembling obedience from all subjects."
+ 
+ nick_the_tyrant:0 "the Tyrant"
+ nick_the_tyrant_desc:1 "Ruling through fear, extortion, and the arbitrary suspension of traditional laws, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is despised as a despot."
+ 
+ nick_the_wolf:0 "the Wolf"
+ nick_the_wolf_desc:1 "Fierce, predatory, and relentless in the pursuit of enemies, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is viewed as a dangerous and hungry opportunist."
+ 
+ nick_the_benevolent:0 "the Benevolent"
+ nick_the_benevolent_desc:1 "Remembered as a father-figure to the realm, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] dispensed justice with mercy and actively cared for the welfare of the peasantry."
+ 
+ nick_the_philosopher:0 "the Philosopher"
+ nick_the_philosopher_desc:1 "Deeply engaged in classical thought and theological debate, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] elevates the intellectual standing of the royal court."
+ 
+ nick_the_compassionate:0 "the Compassionate"
+ nick_the_compassionate_desc:1 "A rare sovereign who genuinely seeks to alleviate suffering, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is known for extensive almsgiving and a forgiving nature."
+ 
+ nick_the_theologian:0 "the Theologian"
+ nick_the_theologian_desc:0 "Possessing a mind dedicated to the divine mysteries, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is as likely to pen a religious treatise as a royal decree."
+ 
+ nick_the_enlightened:0 "the Enlightened"
+ nick_the_enlightened_desc:0 "Embracing new ideas, legal reforms, and the patronage of scholars, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] serves as a beacon of intellectual progress."
+ 
+ nick_the_stalwart:0 "the Stalwart"
+ nick_the_stalwart_desc:1 "Unshakable in the face of crisis, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] provides a foundation of reliability and courage for the entire realm."
+ 
+ nick_the_merciless:0 "the Merciless"
+ nick_the_merciless_desc:1 "Refusing to grant quarter or accept ransom, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] wages war with an absolute and total finality."
+ 
+ nick_the_imperious:0 "the Imperious"
+ nick_the_imperious_desc:1 "Carrying [CharYourHerHimself(CHARACTER)] with overwhelming arrogance and a demand for total submission, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] expects instant obedience."
+ 
+ nick_the_poet:0 "the Poet"
+ nick_the_poet_desc:1 "Famed for composing elegant verse and patronizing the literary arts, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] brings cultural refinement to the throne."
+ 
+ nick_the_flayer:0 "the Flayer"
+ nick_the_flayer_desc:1 "A grotesque epithet earned by utilizing the horrific punishment of excoriation, skinning enemies to serve as a bloody warning to traitors."
+ 
+ nick_the_meticulous:0 "the Meticulous"
+ nick_the_meticulous_desc:1 "Obsessed with detail, accounting, and exact legal phrasing, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] oversees every minute aspect of the state's administration."
+ 
+ nick_the_foolish:0 "the Foolish"
+ nick_the_foolish_desc:1 "Chroniclers lament the disastrous and ill-conceived decisions that defined [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s tragically inept rulership."
+ 
+ nick_the_gullible: "the Gullible"
+ nick_the_gullible_desc: "Easily swayed by sycophants and false promises, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is frequently manipulated by more cunning courtiers."
+ 
+ nick_the_undefeated:0 "the Undefeated"
+ nick_the_undefeated_desc:1 "Having commanded armies in numerous campaigns without suffering a single loss, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] boasts an unblemished military record."
+ 
+ nick_the_triumphant:0 "the Triumphant"
+ nick_the_triumphant_desc:1 "Returning from foreign campaigns laden with glory and spoils, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is celebrated with grand, Roman-style processions."
+ 
+ nick_the_fury:0 "the Fury"
+ nick_the_fury_desc:1 "Striking like a force of nature, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] wages war with a relentless, blinding anger that shatters enemy lines."
+ 
+ nick_the_hawk:0 "the Hawk"
+ nick_the_hawk_desc:1 "Possessing a predatory gaze and a fiercely aggressive foreign policy, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is always ready to strike at a moment of weakness."
+ 
+ nick_the_trustworthy:0 "the Trustworthy"
+ nick_the_trustworthy_desc:1 "A rare individual in the world of feudal politics, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is universally acknowledged as a ruler who honors [CharYourHerHis(CHARACTER)] oaths."
+ 
+ nick_the_unrelenting:0 "the Unrelenting"
+ nick_the_unrelenting_desc:1 "Displaying an iron will, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] refuses to abandon a siege or a political goal, regardless of the time or cost required."
+ 
+ nick_the_glorious:0 "the Glorious"
+ nick_the_glorious_desc:1 "Wreathed in the majesty of successful conquests and cultural flourishing, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s reign is considered a golden age."
+ 
+ nick_the_ecumenist:0 "the Ecumenist"
+ nick_the_ecumenist_desc:1 "Dedicated to bridging the theological divides of the era, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] works tirelessly to reconcile fractured religious institutions."
+ 
+ nick_the_unifier_of_africa:0 "the Unifier of Africa"
+ nick_the_unifier_of_africa_desc:1 "Achieving an unprecedented geopolitical milestone, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] successfully brought the disparate realms of the continent under a single hegemony."
+ 
+ nick_the_motherfather_of_spain:0 "the [CHARACTER.GetMotherFather|U] of Spain"
+ nick_the_motherfather_of_spain_desc:1 "Through calculated dynastic marriages and conquest, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] laid the foundational groundwork for a unified Iberian state."
+ 
+ nick_the_ladylord_of_the_ganges:0 "the [CHARACTER.GetLadyLord|U] of the Ganges"
+ nick_the_ladylord_of_the_ganges_desc:1 "Claiming dominion over the sacred river, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] asserts both immense temporal power and profound spiritual authority."
+ 
+ nick_the_wend:0 "the Wend"
+ nick_the_wend_desc:1 "Recognized for consolidating the West Slavic tribes, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] forged a powerful kingdom capable of resisting foreign encroachment."
+ 
+ nick_the_crowned:0 "the Crowned"
+ nick_the_crowned_desc:1 "Signifying a transition from tribal warlord to legitimate, divinely-sanctioned monarch, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] was the first to accept a formal coronation."
+ 
+ nick_the_bogatyr:0 "the Bogatyr"
+ nick_the_bogatyr_desc:1 "Likened to the legendary wandering heroes of Slavic epic poetry, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is celebrated for immense strength and chivalric deeds."
+ 
+ nick_the_polyanitsa:0 "the Polyanitsa"
+ nick_the_polyanitsa_desc:0 "Likened to the legendary female warriors of Slavic epic poetry, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] commands respect on the battlefield and in the hall."
+ 
+ nick_the_dane:0 "the Dane"
+ nick_the_dane_desc:1 "An identifier marking [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s Scandinavian origins, linking [CharYourHerHis(CHARACTER)] rule to the formidable legacy of the Norsemen."
+ 
+ nick_pendragon:0 "Pendragon"
+ nick_pendragon_desc:1 "Invoking the ancient, mythic title of the Britons, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] claims the mantle of high kingship over the Isles."
+ 
+ nick_the_tuatha_de_danann:0 "the Tuatha Dé Danann"
+ nick_the_tuatha_de_danann_desc:1 "Drawing upon the mystical heritage of ancient Ireland, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is viewed with an almost supernatural reverence by the Gaelic people."
+ 
+ nick_the_sword_of_god:0 "the Sword of God"
+ nick_the_sword_of_god_desc:1 "Viewing [CharYourHerHimself(CHARACTER)] as an instrument of divine wrath, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] wages holy war to carve out the Kingdom of Heaven on earth."
+ 
+ nick_the_messenger_of_christ:0 "the Messenger of Christ"
+ nick_the_messenger_of_christ_desc:1 "Celebrated by the Church as a bringer of the gospel, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] expanded the faith through crusade and conversion."
+ 
+ nick_the_maiden_of_virgin:0 "the Virgin's Maiden"
+ nick_the_maiden_of_virgin_desc:1 "Venerated for an ascetic life and strict vow of chastity, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is seen as under the direct protection of the Mother of God."
+ 
+ nick_the_knight_of_gabriel:0 "the Knight of Gabriel"
+ nick_the_knight_of_gabriel_desc:1 "Fighting with a zeal believed to be inspired by the Archangel, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] stands as a premier champion of the holy lands."
+ 
+ nick_the_shepherd:0 "the Shepherd"
+ nick_the_shepherd_desc:1 "Embodying the biblical ideal of rulership, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] guides and protects the flock of [CharYourHerHis(CHARACTER)] subjects with a watchful eye."
+ 
+ nick_the_judge:0 "the Judge"
+ nick_the_judge_desc:1 "Evoking the ancient leaders of Israel, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is renowned for issuing wise, defining legal verdicts that stabilized the realm."
+ 
+ nick_the_saoshyant:0 "the Saoshyant"
+ nick_the_saoshyant_desc:1 "Heralded as the prophesied savior of Zoroastrianism, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] has restored the Sacred Fires and banished the darkness."
+ 
+ nick_the_timely_rain:0 "the Timely Rain"
+ nick_the_timely_rain_desc:1 "A poetic honorific signifying that [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s benevolent actions and relief efforts arrived exactly when the populace needed them most."
+ 
+ nick_the_thunderbolt:0 "the Thunderbolt"
+ nick_the_thunderbolt_desc:1 "Moving armies with astonishing speed, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] shatters enemy formations before they even realize they are under attack."
+ 
+ nick_the_whirlwind:0 "the Whirlwind"
+ nick_the_whirlwind_desc:1 "A chaotic and destructive force on the battlefield, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] sweeps away opposition with overwhelming, rapid offensives."
+ 
+ nick_the_beautiful_beard:0 "the Beautiful Beard"
+ nick_the_beautiful_beard_desc:1 "Noted by chroniclers for sporting an exceptionally long, well-groomed beard, a potent symbol of masculine authority in the medieval era."
+ 
+ nick_the_tattooed_monk:0 "the Tattooed Monk"
+ nick_the_tattooed_monk_desc:1 "Bearing permanent ink alongside religious vows, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] combines martial tradition with strict, esoteric asceticism."
+ 
+ nick_the_pilgrim:0 "the Pilgrim"
+ nick_the_pilgrim_desc:1 "Having undertaken a long, perilous journey to the holy sites of [CharYourHerHis(CHARACTER)] faith, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is accorded deep spiritual respect."
+ 
+ nick_the_black_whirlwind:0 "the Black Whirlwind"
+ nick_the_black_whirlwind_desc:1 "A terrifying figure in combat, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] descends upon enemies with dark armor and an unstoppable, frantic ferocity."
+ 
+ nick_the_unrestrained:0 "the Unrestrained"
+ nick_the_unrestrained_desc:1 "Refusing to be bound by social convention or feudal law, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] acts entirely on [CharYourHerHis(CHARACTER)] own volatile impulses."
+ 
+ nick_the_wild:0 "the Wild"
+ nick_the_wild_desc:0 "Preferring the untamed forests to the suffocating court, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] possesses an untethered and fiercely independent spirit."
+ 
+ nick_the_ferocious_giant:0 "the Ferocious Giant"
+ nick_the_ferocious_giant_desc:1 "Combining immense physical stature with a terrifying temper, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] dominates both the battlefield and the council chamber."
+ 
+ nick_the_prodigy:0 "the Prodigy"
+ nick_the_prodigy_desc:1 "Displaying genius-level intellect from a remarkably young age, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] masters complex subjects with effortless grace."
+ 
+ nick_the_defender_of_highgod:0 "the Defender of [CHARACTER.GetFaith.HighGodName]"
+ nick_the_defender_of_highgod_desc:1 "Recognized by religious authorities as the premier martial protector of the faith against encroaching heresy and heathens."
+ 
+ nick_the_divine:0 "the Divine"
+ nick_the_divine_desc:1 "Revered by [CharYourHerHis(CHARACTER)] subjects to such an extent that [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s reign is viewed as an earthly manifestation of heavenly will."
+ 
+ nick_the_anointed:0 "the Anointed"
+ nick_the_anointed_desc:1 "Having received the sacred oils of coronation, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s legitimacy is unquestioned, protected by the grace of God."
+ 
+ nick_the_stupor_mundi:0 "Stupor Mundi"
+ nick_the_stupor_mundi_desc:1 "Hailed by chroniclers as the 'Marvel of the World', [CHARACTER.GetShortUINameNoTooltipNoFormat|U] astounds contemporaries with [CharYourHerHis(CHARACTER)] polymathic genius and unorthodox rule."
+ 
+ nick_the_trojan:0 "the Trojan"
+ nick_the_trojan_desc:1 "Invoking the classical antiquity of the Aeneid, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] claims descent from the legendary heroes of Troy to legitimize [CharYourHerHis(CHARACTER)] dynasty."
+ 
+ nick_the_butcher:0 "the Butcher"
+ nick_the_butcher_desc:0 "A horrific epithet earned after ordering the mass slaughter of prisoners or civilians, forever staining [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s legacy with blood."
+ 
+ nick_the_loyal:0 "the Loyal"
+ nick_the_loyal_desc:1 "In an age of constant treason and shifting allegiances, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] stands out for unwavering fidelity to [CharYourHerHis(CHARACTER)] liege and [CharYourHerHis(CHARACTER)] oaths."
+ 
+ nick_troublemaker:0 "the Troublemaker"
+ nick_troublemaker_desc:1 "Constantly agitating against authority and instigating factional disputes, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is a persistent thorn in the side of the crown."
+ 
+ nick_the_timid:0 "the Timid"
+ nick_the_timid_desc:1 "Lacking the assertiveness required for rulership, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] avoids conflict and frequently capitulates to aggressive demands."
+ 
+ nick_the_red:0 "the Red"
+ nick_the_red_desc:1 "Identified universally by striking crimson hair, a physical trait that has become the defining visual marker of [CharYourHerHis(CHARACTER)] lineage."
+ 
+ nick_the_truthspeaker:0 "the Truthspeaker"
+ nick_the_truthspeaker_desc:1 "Refusing to engage in courtly flattery, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is respected—and sometimes feared—for absolute, uncompromising honesty."
+ 
+ nick_the_curthose:0 "Curthose"
+ nick_the_curthose_desc:1 "Meaning 'Short Boots', this mocking nickname was given in childhood and stubbornly persisted throughout [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s adult life and campaigns."
+ 
+ nick_the_deep_minded:0 "the Deep-Minded"
+ nick_the_deep_minded_desc:1 "Revered in the sagas for profound wisdom, foresight, and a stoic, calculating approach to leadership."
+ 
+ nick_the_white:0 "the White"
+ nick_the_white_desc:1 "A descriptive moniker referring either to [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s pale complexion, fair hair, or a reputation for unblemished purity."
+ 
+ nick_wang_khan:0 "Wang Khan"
+ nick_wang_khan_desc:1 "A prestigious Sino-Mongolic title translating to 'King Khan', acknowledging [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s supremacy over the eastern steppes."
+ 
+ nick_the_bard:0 "the Bard"
+ nick_the_bard_desc:1 "A master of the harp and the spoken word, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] patronizes the oral traditions and crafts epics of [CharYourHerHis(CHARACTER)] own."
+ 
+ nick_the_bard_ironic:0 "$nick_the_bard$"
+ nick_the_bard_ironic_desc:1 "An ironic title bestowed upon a ruler whose attempts at poetry and song are notoriously, agonizingly poor."
+ 
+ nick_hotspur:0 "Hotspur"
+ nick_hotspur_desc:1 "Earning this title due to a famously restless, aggressive nature, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is always eager to ride to war at a moment's notice."
+ 
+ nick_the_inevitable:0 "the Inevitable"
+ nick_the_inevitable_desc:1 "Possessing a terrifying momentum, resistance against [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is widely viewed by neighboring realms as ultimately futile."
+ 
+ nick_the_plump:0 "the Plump"
+ nick_the_plump_desc:1 "A mild, descriptive epithet noting [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s well-fed stature, a sign of wealth and prolonged peace in the realm."
+ 
+ nick_the_diseased:0 "the Diseased"
+ nick_the_diseased_desc:1 "Tragically defined by chronic, highly visible illness, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s court is a constant revolving door of desperate physicians."
+ 
+ nick_bloody:0 "Bloody"
+ nick_bloody_desc:1 "A blunt, horrific identifier for a ruler who has waded through the gore of executions and massacres to secure the throne."
+ 
+ nick_the_oathbreaker:0 "the Oathbreaker"
+ nick_the_oathbreaker_desc:0 "Guilty of the highest medieval sin, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] violated sacred vows, rendering [CharYourHerHis(CHARACTER)] honor forever void in the eyes of peers."
+ 
+ nick_little:0 "Little"
+ nick_little_desc:1 "A diminutive identifier, often used to distinguish [CHARACTER.GetShortUINameNoTooltipNoFormat|U] from a taller parent or an older sibling of the same name."
+ 
+ nick_the_honest:0 "the Honest"
+ nick_the_honest_desc:1 "Maintaining a reputation for keeping [CharYourHerHis(CHARACTER)] word, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is trusted implicitly in diplomatic negotiations."
+ 
+ nick_the_passionate:0 "the Passionate"
+ nick_the_passionate_desc:1 "Driven by intense emotion and zealous fervor, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] approaches both love and war with unbridled intensity."
+ 
+ nick_one_eyed:0 "One-eyed"
+ nick_one_eyed_desc:0 "Bearing the mark of a brutal battle or unfortunate accident, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s missing eye is a stark testament to [CharYourHerHis(CHARACTER)] survival."
+ 
+ nick_the_trembling:0 "the Trembling"
+ nick_the_trembling_desc:1 "Whether afflicted by a nervous palsy or simply renowned for profound cowardice, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] struggles to project strength."
+ 
+ nick_the_rash:0 "the Rash"
+ nick_the_rash_desc:1 "Quick to anger and faster to act, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] frequently launches disastrous campaigns without pausing for counsel."
+ 
+ nick_the_elegant:0 "the Elegant"
+ nick_the_elegant_desc:0 "Setting the standard for courtly fashion and refined manners, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is the epitome of aristocratic sophistication."
+ 
+ nick_the_eager:0 "the Eager"
+ nick_the_eager_desc:1 "Possessing a youthful, sometimes naïve enthusiasm, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] approaches rulership with boundless, restless energy."
+ 
+ nick_the_insane:0 "the Insane"
+ nick_the_insane_desc:1 "Lost to the darkness of a fractured mind, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s decrees are erratic, incomprehensible, and frequently dangerous."
+ 
+ nick_the_quick:0 "the Quick"
+ nick_the_quick_desc:0 "Possessing lightning-fast reflexes and a razor-sharp wit, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is rarely caught off guard."
+ 
+ nick_the_quick_ironic:0 "$nick_the_quick$"
+ nick_the_quick_ironic_desc:1 "A mocking title bestowed upon a ruler notorious for sluggish decision-making and a lethargic physical demeanor."
+ 
+ nick_the_selfish:0 "the Selfish"
+ nick_the_selfish_desc:1 "Governing solely for personal enrichment, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] ignores the plight of the peasantry and the counsel of the estates."
+ 
+ nick_the_worthy:0 "the Worthy"
+ nick_the_worthy_desc:1 "Proving [CharYourHerHimself(CHARACTER)] through exceptional deeds and character, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is universally accepted as deserving of the crown."
+ 
+ nick_the_unworthy:0 "the Unworthy"
+ nick_the_unworthy_desc:0 "Failing every test of leadership, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] has proven to be a disastrous steward of [CharYourHerHis(CHARACTER)] dynastic inheritance."
+ 
+ nick_the_traitor:0 "the Traitor"
+ nick_the_traitor_desc:1 "Having betrayed [CharYourHerHis(CHARACTER)] liege lord in a moment of crisis, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s name is synonymous with perfidy."
+ 
+ nick_the_courageous:0 "the Courageous"
+ nick_the_courageous_desc:1 "Never faltering in the face of danger, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] inspires troops by leading charges into the thickest fighting."
+ 
+ nick_the_brilliant:0 "the Brilliant"
+ nick_the_brilliant_desc:1 "Endowed with an unparalleled intellect, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] easily outmaneuvers rivals in both diplomacy and military strategy."
+ 
+ nick_the_generous:0 "the Generous"
+ nick_the_generous_desc:1 "Famed for open-handed almsgiving and lavishing gifts upon retainers, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] ensures loyalty through sheer munificence."
+ 
+ nick_the_diplomat:0 "the Diplomat"
+ nick_the_diplomat_desc:1 "A master of statecraft, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] resolves through treaties and marriages what others would fail to achieve with swords."
+ 
+ nick_the_peacemaker:0 "the Peacemaker"
+ nick_the_peacemaker_desc:0 "Ending decades of bloodshed, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] successfully mediated long-standing disputes to bring stability to the realm."
+ 
+ nick_the_tactician:0 "the Tactician"
+ nick_the_tactician_desc:0 "Possessing a brilliant grasp of terrain and troop movement, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] consistently outwits enemy commanders on the battlefield."
+ 
+ nick_the_overseer:0 "the Overseer"
+ nick_the_overseer_desc:1 "Maintaining a strict, unyielding grip on the administration of the realm, nothing escapes [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s bureaucratic gaze."
+ 
+ nick_the_guardian:0 "the Guardian"
+ nick_the_guardian_desc:1 "Taking a solemn vow to protect the weak and defend the borders, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] acts as the steadfast shield of the realm."
+ 
+ nick_the_chivalrous:0 "the Chivalrous"
+ nick_the_chivalrous_desc:1 "Embodying the highest ideals of knighthood, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is renowned for honor, martial prowess, and courtly grace."
+ 
+ nick_the_valiant:0 "the Valiant"
+ nick_the_valiant_desc:0 "Earning glory in the crucible of combat, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is celebrated in song as a fearless and highly capable warrior."
+ 
+ nick_the_deceiver:0 "the Deceiver"
+ nick_the_deceiver_desc:0 "Relying on espionage, broken truces, and poisoned cups, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] cannot be trusted in any negotiation."
+ 
+ nick_the_crow:0 "the Crow"
+ nick_the_crow_desc:1 "Associated with battlefields and bad omens, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is viewed as a dark, opportunistic scavenger by [CharYourHerHis(CHARACTER)] enemies."
+ 
+ nick_the_trickster:0 "the Trickster"
+ nick_the_trickster_desc:1 "Utilizing misdirection and unconventional tactics, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] delights in confounding enemies and bending the rules of engagement."
+ 
+ nick_the_chronicler:0 "the Chronicler"
+ nick_the_chronicler_desc:1 "Dedicated to the preservation of history, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] personally oversees the recording of the realm's annals and genealogies."
+ 
+ nick_the_truthseeker:0 "the Truthseeker"
+ nick_the_truthseeker_desc:1 "Obsessed with justice and theological purity, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] relentlessly investigates corruption and heresy within the realm."
+ 
+ nick_the_sage:0 "the Sage"
+ nick_the_sage_desc:1 "Possessing an aura of ancient wisdom, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is frequently sought out by foreign dignitaries for counsel and mediation."
+ 
+ nick_the_historian:0 "the Historian"
+ nick_the_historian_desc:0 "Looking to the past to govern the future, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] relies on the lessons of antiquity to guide state policy."
+ 
+ nick_the_sly:0 "the Sly"
+ nick_the_sly_desc:0 "Operating with a quiet, unassuming cunning, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] manipulates court factions without ever drawing suspicion."
+ 
+ nick_the_peaceful:0 "the Peaceful"
+ nick_the_peaceful_desc:0 "Refusing to draw the sword except in the most dire defense, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] has presided over a rare era of total tranquility."
+ 
+ nick_the_whetstone:0 "the Whetstone"
+ nick_the_whetstone_desc:1 "An epithet indicating that [CHARACTER.GetShortUINameNoTooltipNoFormat|U], while perhaps unglamorous, sharpens the skills and blades of those around [CharYouHerHim(CHARACTER)]."
+ 
+ nick_the_slayer_of_the_snake:0 "the Slayer of the Snake"
+ nick_the_slayer_of_the_snake_desc:1 "A mythic title tied to the legendary founding of Hausa states, honoring the hero who slew the great serpent to secure the kingdom's future."
+ 
+ nick_the_illuminator:0 "the Illuminator"
+ nick_the_illuminator_desc:1 "Revered as the founder of the national church, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] brought the light of the true faith to a previously pagan realm."
+ 
+ nick_the_builder:0 "the Builder"
+ nick_the_builder_desc:1 "Leaving a permanent mark on the landscape, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] sponsored the construction of great cities, walls, and lasting monuments."
+ 
+ nick_the_martyrophile:0 "the Martyrophile"
+ nick_the_martyrophile_desc:1 "Devoted to the cult of saints, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] spends vast fortunes collecting relics and documenting the sufferings of the faithful."
+ 
+ nick_the_campeador:0 "the Campeador"
+ nick_the_campeador_desc:1 "Translating to 'Master of the Battlefield', this illustrious title is reserved for an undefeated champion of unparalleled martial virtue."
+ 
+ nick_the_missionary:0 "the Missionary"
+ nick_the_missionary_desc:1 "Traveling far beyond the safety of the realm, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] dedicated [CharYourHerHis(CHARACTER)] life to preaching the gospel to hostile nations."
+ 
+ nick_the_hotspur:0 "the Hotspur"
+ nick_the_hotspur_desc:1 "Famed for blinding speed and a reckless eagerness for combat, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is always the first into the fray."
+ 
+ nick_the_vanquisher:0 "the Vanquisher"
+ nick_the_vanquisher_desc:1 "Having utterly crushed a massive rebellion or foreign invasion, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] stands as the undisputed master of the realm."
+ 
+ nick_the_bloody:0 "the Bloody"
+ nick_the_bloody_desc:1 "A grim identifier for a monarch whose reign is characterized by brutal purges, mass executions, and unending warfare."
+ 
+ nick_the_shy:0 "the Shy"
+ nick_the_shy_desc:1 "Avoiding the public eye and the demands of courtly pageantry, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] governs as a virtual recluse."
+ 
+ nick_the_giant:0 "the Giant"
+ nick_the_giant_desc:1 "Towering over contemporaries, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s immense physical proportions make [CharYouHerHim(CHARACTER)] a terrifying figure in hand-to-hand combat."
+ 
+ nick_the_little:0 "the Little"
+ nick_the_little_desc:1 "A straightforward physical descriptor, often used to differentiate [CHARACTER.GetShortUINameNoTooltipNoFormat|U] from a larger predecessor."
+ 
+ nick_the_one_eyed:0 "the One-eyed"
+ nick_the_one_eyed_desc:0 "Bearing the permanent scars of combat, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] lost an eye in service to the realm, adding to a fearsome reputation."
+ 
+ nick_the_oppressor:0 "the Oppressor"
+ nick_the_oppressor_desc:1 "Levying crushing taxes and stripping vassals of ancient rights, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is universally reviled by the populace."
+ 
+ nick_the_apostate:0 "the Apostate"
+ nick_the_apostate_desc:1 "Committing the ultimate religious betrayal, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] publicly renounced the faith of [CharYourHerHis(CHARACTER)] baptism in favor of another."
+ 
+ nick_the_pagan:0 "the Pagan"
+ nick_the_pagan_desc:1 "Stubbornly holding to the old gods in an era of conversion, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is viewed as a dangerous relic by the organized church."
+ 
+ nick_the_heretic:0 "the Heretic"
+ nick_the_heretic_desc:1 "Embracing theological doctrines condemned by the religious authorities, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] courts excommunication and holy war."
+ 
+ nick_the_savage:0 "the Savage"
+ nick_the_savage_desc:1 "Fighting without honor or restraint, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is viewed by 'civilized' courts as a brutal, bloodthirsty barbarian."
+ 
+ nick_the_defiant:0 "the Defiant"
+ nick_the_defiant_desc:1 "Refusing to yield to overwhelmingly superior forces or papal bulls, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] stands alone against the world."
+ 
+ nick_the_sea_king:1 "the Sea-[CHARACTER.Custom('GetQueenKing')|U]"
+ nick_the_sea_king_desc:1 "Commanding vast fleets and dominating the maritime trade routes, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] rules the waves as surely as the land."
+ 
+ nick_the_great_and_terrible:0 "the Great and Terrible"
+ nick_the_great_and_terrible_desc:1 "A dual-epithet acknowledging that [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s monumental achievements were paid for with horrifying brutality."
+ 
+ nick_the_stonefaced:0 "the Stonefaced"
+ nick_the_stonefaced_desc:0 "Never betraying emotion, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] maintains a cold, stoic visage even in the face of absolute triumph or disaster."
+ 
+ nick_the_dry:0 "the Dry"
+ nick_the_dry_desc:1 "Lacking the charisma and warmth expected of a monarch, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s court is notoriously devoid of merriment."
+ 
+ nick_the_joyless:0 "the Humorless"
+ nick_the_joyless_desc:1 "Approaching the business of state with a grim, uncompromising severity, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] tolerates no frivolity."
+ 
+ nick_the_dull:0 "the Dull"
+ nick_the_dull_desc:1 "Uninspiring in speech, uncreative in tactics, and entirely unremarkable in appearance, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is a deeply forgettable ruler."
+ 
+ nick_the_bane_of_danes:0 "the Bane of Danes"
+ nick_the_bane_of_danes_desc:1 "Earning legendary status for successfully halting the Viking incursions, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] shattered the aura of Norse invincibility."
+ 
+ nick_the_culture_wall:0 "the [CHARACTER.GetCulture.GetNameNoTooltip] Wall"
+ nick_the_culture_wall_desc:1 "Standing as an impenetrable bulwark against foreign invasion, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] single-handedly protected [CharYourHerHis(CHARACTER)] culture from annihilation."
+ 
+ nick_nord_foe:0 "Nord-Foe"
+ nick_nord_foe_desc:1 "Dedicating [CharYourHerHis(CHARACTER)] reign to the eradication of northern raiders, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is feared across Scandinavia."
+ 
+ nick_the_scourge_of_the_northerners:0 "the Scourge of the Northerners"
+ nick_the_scourge_of_the_northerners_desc:1 "Bringing fire and sword to the homelands of the raiders, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] exacted a terrible, bloody revenge."
+ 
+ nick_gajapati:0 "Gajapati"
+ nick_gajapati_desc:1 "Translating to 'Lord of Elephants', this prestigious Indian title denotes [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s immense military power and royal wealth."
+ 
+ nick_the_transcriber:0 "the Transcriber"
+ nick_the_transcriber_desc:0 "Dedicating royal resources to the copying and preservation of ancient texts, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] sparked a renaissance of learning."
+ 
+ nick_of_clairvaux:0 "of Clairvaux"
+ nick_of_clairvaux_desc:1 "Identified by [CharYourHerHis(CHARACTER)] profound association with the influential Cistercian abbey, shaping the spiritual landscape of the era."
+ 
+ nick_father_of_the_baltic:0 "Father of the Baltic"
+ nick_father_of_the_baltic_desc:1 "Through crusade and colonization, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] firmly established the institutions of state and church on the Baltic shores."
+ 
+ nick_mother_of_the_baltic:0 "Mother of the Baltic"
+ nick_mother_of_the_baltic_desc:0 "Through crusade and colonization, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] firmly established the institutions of state and church on the Baltic shores."
+ 
+ nick_scourge_of_the_baltic:0 "Scourge of the Baltic"
+ nick_scourge_of_the_baltic_desc:1 "Waging a relentless, devastating holy war against the Baltic pagans, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] forced conversion by the sword."
+ 
+ nick_the_mountain_king:0 "the Mountain King"
+ nick_the_mountain_king_desc:1 "Ruling from impregnable alpine fortresses, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] exercises absolute control over the high passes and valleys."
+ 
+ nick_beth_nahrain:0 "Sovereign of the Two Rivers"
+ nick_beth_nahrain_desc:0 "Claiming the ancient legacy of Mesopotamia, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] rules over the fertile, historic lands between the Tigris and Euphrates."
+ 
+ nick_the_anathema:0 "the Anathema"
+ nick_the_anathema_desc:1 "Formally excommunicated and cast out of the communion of the faithful, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is legally and spiritually shunned."
+ 
+ nick_the_angel_of_death:1 "the Angel of [CHARACTER.GetFaith.DeathDeityName|U]"
+ nick_the_angel_of_death_desc:1 "Viewed as the ultimate executioner, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] leaves a trail of corpses so vast that [CharYouSheHe(CHARACTER)] is likened to a divine reaper."
+ 
+ nick_monophthalmos:0 "Monophthalmos"
+ nick_monophthalmos_desc:1 "Meaning 'The One-Eyed' in Greek, this classical epithet honors the visible sacrifice [CHARACTER.GetShortUINameNoTooltipNoFormat|U] made on the battlefield."
+ 
+ nick_health_god_mercy:0 "[CHARACTER.GetFaith.HealthGodNamePossessive|U] Mercy"
+ nick_health_god_mercy_desc:1 "Renowned for funding hospitals and personally tending to the sick, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is viewed as an earthly extension of divine healing."
+ 
+ nick_genghis_khan:0 "Genghis Khan"
+ nick_genghis_khan_desc:1 "The 'Universal Ruler'. [CHARACTER.GetShortUINameNoTooltipNoFormat|U] has united the steppe and unleashed a storm of conquest that will forever alter the history of the world."
+ 
+ nick_cengiz_khan:0 "Cengiz Khan"
+ nick_cengiz_khan_desc:0 "The 'Universal Ruler'. [CHARACTER.GetShortUINameNoTooltipNoFormat|U] has united the steppe and unleashed a storm of conquest that will forever alter the history of the world."
+ 
+ nick_yekhe_khagan:0 "Yekhe Khagan"
+ nick_yekhe_khagan_desc:0 "The 'Great Khagan'. Claiming absolute supremacy over all nomadic peoples, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] holds the highest authority on the steppe."
+ 
+ nick_dort_yonlug_khagan:0 "Dört Yönlüg Khagan"
+ nick_dort_yonlug_khagan_desc:0 "Khagan of the Four Corners. [CHARACTER.GetShortUINameNoTooltipNoFormat|U] claims a divine mandate to rule over all the lands stretching to the edges of the earth."
+ 
+ nick_tengri_khagan:0 "Tengri Khagan"
+ nick_tengri_khagan_desc:0 "The Heaven-Born Khagan. [CHARACTER.GetShortUINameNoTooltipNoFormat|U] asserts that [CharYourHerHis(CHARACTER)] vast, unstoppable empire is ordained directly by the Great Blue Sky."
+ 
+ nick_xormuzta:0 "Xormuzta"
+ nick_xormuzta_desc:0 "Invoking the ancient Eastern concept of the highest deity, this title elevates [CHARACTER.GetShortUINameNoTooltipNoFormat|U] to a near-mythic status among [CharYourHerHis(CHARACTER)] subjects."
+ 
+ nick_mar_sargis:0 "Mar Sargis"
+ nick_mar_sargis_desc:0 "Taking the name of the revered Eastern Christian military saint, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] positions [CharYourHerHimself(CHARACTER)] as a holy warrior of the East."
+ 
+ nick_cihangir:0 "Cihangir"
+ nick_cihangir_desc:0 "A Persian title translating to 'Conqueror of the World', reflecting [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s devastatingly successful expansionist campaigns."
+ 
+ nick_culture_khagan:0 "[CHARACTER.GetCulture.GetNameNoTooltip] Khagan"
+ nick_culture_khagan_desc:0 "Recognized as the paramount sovereign of [CharYourHerHis(CHARACTER)] people, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] has forged a unified tribal empire of staggering power."
+ 
+ nick_akhshunwar:0 "Akhshunwar"
+ nick_akhshunwar_desc:0 "Reviving an ancient, prestigious title from the Hephthalite era, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] asserts dominance over the crucial arteries of the Silk Road."
+ 
+ nick_the_wary:0 "the Wary"
+ nick_the_wary_desc:1 "Constantly anticipating betrayal, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] maintains heavy guards and relies on a deep network of spies to secure [CharYourHerHis(CHARACTER)] reign."
+ 
+ nick_the_hairy:0 "the Hairy"
+ nick_the_hairy_desc:1 "A blunt, descriptive moniker bestowed upon [CHARACTER.GetShortUINameNoTooltipNoFormat|U] due to an exceptionally dense covering of bodily hair."
+ 
+ nick_the_child:0 "the Child"
+ nick_the_child_desc:1 "A tragic epithet for a monarch whose reign—and life—ended before they could ever truly come of age and wield power independently."
+ 
+ nick_the_wake:0 "the Wake"
+ nick_the_wake_desc:1 "Meaning 'the Watchful', [CHARACTER.GetShortUINameNoTooltipNoFormat|U] earned this legendary title by leading a prolonged, elusive guerrilla resistance against foreign conquerors."
+ 
+ nick_the_bearded:0 "the Bearded"
+ nick_the_bearded_desc:1 "In an era of clean-shaven nobles, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] famously maintained a full, traditional beard as a symbol of authority and heritage."
+ 
+ nick_the_mountain_dweller:0 "the Mountain-Dweller"
+ nick_the_mountain_dweller_desc:1 "Deeply associated with the rugged highlands, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] utilizes the treacherous alpine terrain to maintain absolute independence."
+ 
+ nick_the_legend_riad:0 "the Legend"
+ nick_the_legend_riad_desc:1 "Achieving feats so extraordinary they defy belief, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s life has already transitioned from history into myth."
+ 
+ nick_the_shadow_riad:0 "$nick_the_shadow$"
+ nick_the_shadow_riad_desc:0 "$nick_the_legend_riad_desc$"
+ 
+ nick_the_justicar:0 "the Justicar"
+ nick_the_justicar_desc:1 "Functioning as the supreme legal authority of the land, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is renowned for enforcing the king's peace with unyielding fairness."
+ 
+ nick_the_green:0 "the Green"
+ nick_the_green_desc:2 "A chivalric moniker stemming from [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s fondness for wearing green garments and hosting elaborate, courtly tournaments."
+ 
+ nick_the_foreigner:0 "the Foreigner"
+ nick_the_foreigner_desc:1 "Hailing from distant lands, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is viewed with enduring suspicion by the native nobility despite holding the throne."
+ 
+ nick_the_culture:0 "the [CHARACTER.MakeScope.Var('nick_the_culture_var').Culture.GetNameNoTooltip]"
+ nick_the_culture_desc:1 "An identifier cementing [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s legacy to the specific cultural traditions and political interests of [CharYourHerHis(CHARACTER)] homeland."
+ 
+ nick_the_linguist:0 "the Linguist"
+ nick_the_linguist_desc:1 "A highly educated polyglot, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] conducts complex diplomacy without the need for translators, impressing foreign courts."
+ 
+ nick_the_clumsy:0 "the Clumsy"
+ nick_the_clumsy_desc:1 "Lacking any degree of physical grace or martial coordination, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is notoriously inept in the tournament lists."
+ 
+ nick_the_stumbler:0 "the Stumbler"
+ nick_the_stumbler_desc:1 "Whether suffering from a physical ailment or general ineptitude, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] struggles to maintain a regal bearing."
+ 
+ nick_the_graceful:0 "the Graceful"
+ nick_the_graceful_desc:1 "Moving with an elegant, almost musical poise, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] embodies the highest standards of aristocratic refinement."
+ 
+ nick_the_beautiful:0 "the Beautiful"
+ nick_the_beautiful_desc:1 "Possessing striking physical symmetry and charm, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s appearance is the subject of widespread courtly admiration."
+ 
+ nick_the_beautiful_generous:0 "the Beautiful"
+ nick_the_beautiful_desc_generous:0 "Though not possessing classical physical beauty, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] earned this title due to the profound beauty of [CharYourHerHis(CHARACTER)] charitable deeds."
+ 
+ nick_the_stutterer:0 "the Stutterer"
+ nick_the_stutterer_desc:1 "A severe speech impediment defined [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s public addresses, a vulnerability ruthlessly recorded by contemporary historians."
+ 
+ nick_the_slow:0 "the Slow"
+ nick_the_slow_desc:1 "Noted for extreme lethargy in both physical movement and political decision-making, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] consistently fails to seize the initiative."
+ 
+ nick_the_eloquent:0 "the Eloquent"
+ nick_the_eloquent_desc:1 "A master of rhetoric, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] can sway hostile councils and inspire broken armies with [CharYourHerHis(CHARACTER)] commanding oratory."
+ 
+ nick_the_bell_keeper:0 "the Bell-Keeper"
+ nick_the_bell_keeper_desc:1 "Famed for patronizing foundries and outfitting the churches of the realm with massive, resonant bronze bells."
+ 
+ nick_the_requiem:0 "the Requiem"
+ nick_the_requiem_desc:0 "A poetic, somber title denoting a ruler whose reign was defined by tragedy, mourning, and the end of a long dynastic era."
+ 
+ nick_the_Thief_Slayer:0 "the Thief-Slayer"
+ nick_the_Thief_Slayer_desc:1 "Restoring order to lawless roads, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] ruthlessly hunted down bandit kings and secured the realm's trade routes."
+ 
+ nick_the_cid_campeador:0 "El Cid Campeador"
+ nick_the_cid_campeador_desc:1 "The 'Lord Master of the Battlefield'. A legendary Iberian title reserved for an undefeated military genius of unparalleled honor."
+ 
+ nick_benavert:0 "Benavert"
+ nick_benavert_desc:1 "An Arabic corruption of an older name, this moniker identifies [CHARACTER.GetShortUINameNoTooltipNoFormat|U] as a fierce, independent warlord operating in contested territories."
+ 
+ nick_the_pragmatic:1 "the Pragmatic"
+ nick_the_pragmatic_desc:0 "Discarding idealism and rigid dogma, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] governs through highly effective, flexible, and realistic policy decisions."
+ 
+ nick_the_equitable:1 "the Equitable"
+ nick_the_equitable_desc:1 "Renowned for impartial justice, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] ensures that the law is applied fairly to both the highest duke and the lowest peasant."
+ 
+ nick_the_crownless:0 "the Crownless"
+ nick_the_crownless_desc:0 "Though holding immense de facto power and territory, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] conspicuously lacks the formal, sanctified title of King."
+ 
+ nick_strongarm:0 "Strongarm"
+ nick_strongarm_desc:1 "Relying on brute physical strength and military coercion, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] forces compliance from recalcitrant vassals."
+ 
+ nick_with_the_tress:0 "with the Tress"
+ nick_with_the_tress_desc:1 "A deeply romantic identifier, noting that [CHARACTER.GetShortUINameNoTooltipNoFormat|U] famously wore a braided lock of [CharYourHerHis(CHARACTER)] lover's hair into battle."
+ 
+ nick_with_the_lock:0 "with the Lock"
+ nick_with_the_lock_desc:0 "$nick_with_the_tress_desc$"
+ 
+ nick_irontooth:0 "Irontooth"
+ nick_irontooth_desc:1 "An intimidating moniker suggesting [CHARACTER.GetShortUINameNoTooltipNoFormat|U] possesses a bite—both literal and political—that cannot be broken."
+ 
+ nick_the_venator:0 "the Venator"
+ nick_the_venator_desc:1 "The Latin title for 'Hunter', emphasizing [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s obsession with the aristocratic pursuit of the chase and mastery of the deep woods."
+ 
+ nick_the_dirty:0 "the Dirty"
+ nick_the_dirty_desc:1 "Scorning the refined hygiene of the court, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is noted for a rugged, unkempt appearance befitting a constant campaigner."
+ 
+ nick_the_cheater:0 "the Cheater"
+ nick_the_cheater_desc:1 "Notorious for breaking tournament rules, forging documents, and violating truces, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] has no concept of fair play."
+ 
+ nick_the_toxophilite:0 "the Toxophilite"
+ nick_the_toxophilite_desc:1 "A master of archery, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] heavily patronizes the longbow and crossbow, integrating deadly missile tactics into the royal army."
+ 
+ nick_saddle_born:0 "Saddle-Born"
+ nick_saddle_born_desc:1 "Spending vast portions of [CharYourHerHis(CHARACTER)] life on horseback, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is a peerless cavalry commander of the steppes."
+ 
+ nick_the_champion:0 "the Champion"
+ nick_the_champion_desc:1 "Having emerged victorious in countless trials by combat and grand tournaments, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is the premier warrior of the age."
+ 
+ nick_northmen_slayer:0 "Slayer of the Northmen"
+ nick_northmen_slayer_desc:1 "Earning legendary fame by decisively defeating a major Viking invasion, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] secured the coasts from further raiding."
+ 
+ nick_pirate_slayer:0 "Scourge of the Seas"
+ nick_pirate_slayer_desc:1 "Hunting down corsairs and dismantling pirate havens, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] brought safety and prosperity back to the maritime trade routes."
+ 
+ nick_son_of_dangerous_animal:0 "the [CHARACTER.Custom('GetDaughterSon')|U] of [CHARACTER.Custom('GetAnimalPlural')|U]"
+ nick_son_of_dangerous_animal_desc:1 "A mythic epithet suggesting [CHARACTER.GetShortUINameNoTooltipNoFormat|U] possesses a feral, inhuman strength, raised by the wild beasts of the forest."
+ 
+ nick_the_own_culture:0 "the [CHARACTER.GetCulture.GetNameNoTooltip]"
+ nick_the_own_culture_desc:1 "Fiercely proud of [CharYourHerHis(CHARACTER)] heritage, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] actively champions the traditional customs and language of [CharYourHerHis(CHARACTER)] people."
+ 
+ nick_the_mother_culture:0 "the [CHARACTER.GetMother.GetCulture.GetNameNoTooltip]"
+ nick_the_mother_culture_desc:1 "An identifier highlighting [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s maternal lineage, tying [CharYouHerHim(CHARACTER)] to a powerful foreign cultural legacy."
+ 
+ nick_the_father_culture:0 "the [CHARACTER.GetFather.GetCulture.GetNameNoTooltip]"
+ nick_the_father_culture_desc:1 "An identifier highlighting [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s paternal lineage, tying [CharYouHerHim(CHARACTER)] to a powerful foreign cultural legacy."
+ 
+ nick_prester_john:0 "Prester John"
+ nick_prester_john_desc:1 "Viewed through the lens of myth, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is believed by distant courts to be the legendary, immensely powerful Christian monarch of the East."
+ 
+ nick_the_thoughtless:0 "the Thoughtless"
+ nick_the_thoughtless_desc:1 "Acting purely on impulse, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s reign is characterized by erratic, poorly-planned policies that frequently end in disaster."
+ 
+ nick_the_heartless:0 "the Heartless"
+ nick_the_heartless_desc:1 "Devoid of empathy or mercy, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] executes harsh judgments without a trace of remorse, even against [CharYourHerHis(CHARACTER)] own kin."
+ 
+ nick_the_craven:0 "the Craven"
+ nick_the_craven_desc:1 "Fleeing from battle and capitulating to demands out of sheer terror, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s cowardice is a profound embarrassment to the crown."
+ 
+ nick_monarch_of_beauty_and_noblesse_masc:0 "King of Beauty and Noblesse"
+ nick_monarch_of_beauty_and_noblesse_masc_desc:1 "A poetic, chivalric title celebrating [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s physical perfection and dedication to the highest ideals of aristocratic virtue."
+ 
+ nick_monarch_of_beauty_and_noblesse:1 "Queen of Beauty and Noblesse"
+ nick_monarch_of_beauty_and_noblesse_desc:0 "$nick_monarch_of_beauty_and_noblesse_masc_desc$"
+ 
+ nick_monarch_of_grim_and_grievance_masc:0 "King of Grim and Grievance"
+ nick_monarch_of_grim_and_grievance_masc_desc:1 "Ruling over a court defined by bitter factionalism and constant complaints, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s reign is deeply unpopular."
+ 
+ nick_monarch_of_grim_and_grievance:0 "Queen of Grim and Grievance"
+ nick_monarch_of_grim_and_grievance_desc:0 "$nick_monarch_of_grim_and_grievance_masc_desc$"
+ 
+ nick_the_naysayer:1 "the Naysayer"
+ nick_the_naysayer_desc:1 "Constantly rejecting counsel and obstructing the initiatives of the estates, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is viewed as an entirely negative, uncooperative force."
+ 
+ nick_monarch_of_fools_masc:0 "Bishop of Fools"
+ nick_monarch_of_fools_masc_desc:1 "A mocking title implying that [CHARACTER.GetShortUINameNoTooltipNoFormat|U] surrounds [CharYourHerHimself(CHARACTER)] with sycophants and incompetents, creating a court of absolute absurdity."
+ 
+ nick_monarch_of_fools:0 "Lady Bishop of Fools"
+ nick_monarch_of_fools_desc:0 "$nick_monarch_of_fools_masc_desc$"
+ 
+ nick_the_just_widowed:0 "the Just Widowed"
+ nick_the_just_widowed_desc:1 "Defined by the sudden, tragic loss of a spouse, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] governs under a prolonged and highly visible shadow of mourning."
+ 
+ nick_the_resilient:0 "the Resilient"
+ nick_the_resilient_desc:1 "Having survived devastating injuries, severe illnesses, and multiple usurpation attempts, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] simply refuses to yield."
+ 
+ nick_one_eye:0 "One-Eye"
+ nick_one_eye_desc:0 "$nick_monophthalmos_desc$"
+ 
+ nick_one_hand:0 "One-Hand"
+ nick_one_hand_desc:1 "A blunt, physical identifier for a ruler who suffered an amputation—whether by battle or the surgeon's saw—yet continues to govern."
+ 
+ nick_one_leg:0 "One-Leg"
+ nick_one_leg_desc:1 "Forced to rule with the aid of a crutch or peg, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s missing limb is a constant reminder of [CharYourHerHis(CHARACTER)] survival through intense trauma."
+ 
+ nick_the_persevering:0 "the Persevering"
+ nick_the_persevering_desc:1 "Enduring decades of hardship, civil war, and personal tragedy, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] maintains the throne through sheer, grinding determination."
+ 
+ nick_the_lord_of_realm:0 "the [CHARACTER.GetLadyLord|U] of [CHARACTER.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ nick_the_lord_of_realm_desc:1 "Deeply beloved by the citizens of [CharYourHerHis(CHARACTER)] capital, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is viewed as the ultimate civic patron and defender."
+ 
+ nick_twistedbeard:0 "Twistedbeard"
+ nick_twistedbeard_desc:1 "A distinctly Breton identifier, referring to [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s custom of plaiting or curling [CharYourHerHis(CHARACTER)] facial hair before riding to war."
+ 
+ nick_the_boar:0 "the Boar"
+ nick_the_boar_desc:1 "Stout, aggressive, and incredibly dangerous when cornered, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] embodies the vicious nature of the wild swine."
+ 
+ nick_the_faceless:0 "the Faceless"
+ nick_the_faceless_desc:1 "Hiding severe disfigurement behind a mask or heavy veils, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] presents a terrifying, anonymous visage to the court."
+ 
+ nick_the_cyclops:0 "the Cyclops"
+ nick_the_cyclops_desc:1 "An imposing figure missing an eye, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is likened to the towering, fearsome monsters of classical antiquity."
+ 
+ nick_the_nun:0 "the Nun"
+ nick_the_nun_desc:1 "Eschewing courtly luxury in favor of strict monastic vows, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] transforms the royal palace into a virtual cloister."
+ 
+ nick_the_ill_ruler:0 "the Ill-Ruler"
+ nick_the_ill_ruler_desc:1 "A damning historical judgment, marking [CHARACTER.GetShortUINameNoTooltipNoFormat|U] as a monarch whose reign brought only instability, corruption, and failure."
+ 
+ nick_the_careless:0 "the Careless"
+ nick_the_careless_desc:1 "Ignoring the intricate duties of state, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] alienates vassals and squanders the treasury through profound negligence."
+ 
+ nick_of_the_empty_pockets:0 "of the Empty Pockets"
+ nick_of_the_empty_pockets_desc:1 "A humiliating sobriquet for a sovereign who, despite [CharYourHerHis(CHARACTER)] high rank, chronically suffers from extreme financial ruin and staggering debt."
+ 
+ nick_the_goliath:0 "the Goliath"
+ nick_the_goliath_desc:1 "An absolute titan of a [CHARACTER.GetWomanMan], [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is viewed by smaller men with a mixture of awe and biblical terror."
+ 
+ nick_the_shield_of_capital:0 "the Shield of [CHARACTER.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ nick_the_shield_of_capital_desc:1 "Having successfully defended the capital city from a catastrophic siege, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is hailed as the savior of the realm."
+ 
+ nick_the_peacock:0 "the Peacock"
+ nick_the_peacock_desc:1 "Strutting through the court in ostentatious, colorful silks, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is notorious for extreme vanity and shallow pride."
+ 
+ nick_the_bellower:0 "the Bellower"
+ nick_the_bellower_desc:1 "Possessing a voice like thunder, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] commands attention on the battlefield and dominates councils through sheer volume."
+ 
+ nick_the_healer:0 "the Healer"
+ nick_the_healer_desc:2 "Unusually learned in the medical arts for a noble, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is deeply involved in the establishment of hospitals and the care of the sick."
+ 
+ nick_the_prophet:0 "the Prophet"
+ nick_the_prophet_desc:1 "Claiming direct, divine inspiration, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] leads [CharYourHerHis(CHARACTER)] people with a charismatic, fiery religious vision."
+ 
+ nick_the_understanding:0 "the Understanding"
+ nick_the_understanding_desc:1 "Possessing a rare emotional intelligence, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is highly regarded for [CharYourHerHis(CHARACTER)] empathetic and reasoned approach to justice."
+ 
+ nick_the_righteous:0 "the Righteous"
+ nick_the_righteous_desc:1 "Governing in strict accordance with divine law and moral principles, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is viewed as an incorruptible pillar of virtue."
+ 
+ nick_the_venerable:0 "the Venerable"
+ nick_the_venerable_desc:1 "Achieving a great age while maintaining [CharYourHerHis(CHARACTER)] wisdom and piety, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is treated as a living saint by [CharYourHerHis(CHARACTER)] subjects."
+ 
+ nick_the_miracle_worker:0 "the Miracle Worker"
+ nick_the_miracle_worker_desc:1 "Associated with unexplainable, wondrous events, the peasantry firmly believe [CHARACTER.GetShortUINameNoTooltipNoFormat|U] wields the power of divine intervention."
+ 
+ nick_the_merciful:0 "the Merciful"
+ nick_the_merciful_desc:1 "In an era of brutal retribution, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is renowned for issuing widespread pardons and commuting harsh sentences."
+ 
+ nick_the_silver_tongue:0 "Silvertongue"
+ nick_the_silver_tongue_desc:2 "Possessing a mesmerizing, persuasive charm, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] can talk [CharYourHerHis(CHARACTER)] way out of a siege or into an advantageous treaty with ease."
+ 
+ nick_the_forgetful:0 "the Forgetful"
+ nick_the_forgetful_desc:1 "Plagued by an unreliable memory—or perhaps the early stages of mental decline—[CHARACTER.GetShortUINameNoTooltipNoFormat|U] struggles to manage the complexities of rule."
+ 
+ nick_the_hermit:0 "the Hermit"
+ nick_the_hermit_desc:2 "Abandoning the splendor of the capital, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] prefers the isolation of a remote hunting lodge or mountain retreat."
+ 
+ nick_the_recluse:0 "the Recluse"
+ nick_the_recluse_desc:1 "Barring the doors to the royal apartments, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] governs through intermediaries and avoids all public appearances."
+ 
+ nick_the_feeble:0 "the Feeble"
+ nick_the_feeble_desc:2 "Lacking any vitality or physical strength, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is viewed as a fragile, pathetic figurehead by the ambitious nobility."
+ 
+ nick_the_vain:0 "the Vain"
+ nick_the_vain_desc:1 "Obsessed with mirrors, portraits, and flattery, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] surrounds [CharYourHerHimself(CHARACTER)] with sycophants who feed [CharYourHerHis(CHARACTER)] massive ego."
+ 
+ nick_the_castellan:0 "the Castellan"
+ nick_the_castellan_desc:1 "Focusing entirely on defense, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] has ringed the realm in a formidable network of keeps, walls, and fortified towers."
+ 
+ nick_the_carpenter:0 "the Carpenter"
+ nick_the_carpenter_desc:1 "Eschewing aristocratic leisure, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is known for the pious, humble practice of working timber with [CharYourHerHis(CHARACTER)] own hands."
+ 
+ nick_the_griffin:0 "the Griffin"
+ nick_the_griffin_desc:1 "Adopting the heraldic beast as a personal symbol, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is viewed as a majestic, fiercely protective sovereign of the realm."
+ 
+ nick_the_patron_of_arts:0 "the Patron of the Arts"
+ nick_the_patron_of_arts_desc:1 "Channeling vast wealth into commissions for painters, sculptors, and musicians, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] has birthed a cultural renaissance."
+ 
+ nick_the_zealot:0 "the Zealot"
+ nick_the_zealot_desc:1 "Driven by a terrifying, uncompromising religious fervor, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] will burn the world to see the faith triumphant."
+ 
+ nick_the_elder:0 "the Elder"
+ nick_the_elder_desc:1 "A title of seniority, distinguishing [CHARACTER.GetShortUINameNoTooltipNoFormat|U] from younger relatives and recognizing [CharYourHerHis(CHARACTER)] long tenure on the throne."
+ 
+ nick_the_evil:0 "the Evil"
+ nick_the_evil_desc:1 "A blunt, damning verdict rendered by history, marking [CHARACTER.GetShortUINameNoTooltipNoFormat|U] as a ruler consumed by malice, cruelty, and sin."
+ 
+ nick_the_jovial:0 "the Jovial"
+ nick_the_jovial_desc:1 "Radiating good cheer, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s court is a beacon of feasting, laughter, and lighthearted diplomacy."
+ 
+ nick_the_jolly:0 "the Jolly"
+ nick_the_jolly_desc:1 "Known for a rotund figure and a booming, infectious laugh, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is beloved by the common folk for [CharYourHerHis(CHARACTER)] approachability."
+ 
+ nick_the_strange:0 "the Strange"
+ nick_the_strange_desc:1 "Exhibiting highly eccentric behaviors and unorthodox interests, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is a constant source of bewildered gossip."
+ 
+ nick_the_unlucky:0 "the Unlucky"
+ nick_the_unlucky_desc:1 "Dogged by freak accidents, sudden storms, and disastrous coincidences, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] seems cursed by fate itself."
+ 
+ nick_the_lucky:0 "the Lucky"
+ nick_the_lucky_desc:1 "Blessed by providence, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] frequently survives impossible odds and stumbles into massively advantageous situations."
+ 
+ nick_the_effeminate:0 "the Effeminate"
+ nick_the_effeminate_desc:1 "Mocked by martial peers for preferring silks and poetry to armor and the joust, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] challenges the era's masculine ideals."
+ 
+ nick_the_clueless:0 "the Clueless"
+ nick_the_clueless_desc:1 "Profoundly ignorant of basic statecraft and geography, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is entirely dependent on the guidance of the council."
+ 
+ nick_the_ill_tempered:0 "the Ill-Tempered"
+ nick_the_ill_tempered_desc:1 "Prone to sudden, violent outbursts of rage over the slightest perceived insults, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is a terrifying master to serve."
+ 
+ nick_the_sleeping_king:0 "the Sleeping [CHARACTER.GetTitleAsNameNoTooltip]"
+ nick_the_sleeping_king_desc:1 "Lethargic to the point of incapacitation, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] leaves the governance of the realm entirely to ambitious regents and chancellors."
+ 
+ nick_the_humble:0 "the Humble"
+ nick_the_humble_desc:1 "Rejecting the ostentatious trappings of royalty, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] dresses simply and washes the feet of the poor on holy days."
+ 
+ nick_the_horse:0 "the Horse"
+ nick_the_horse_desc:1 "An epithet honoring a nomadic sovereign whose life, conquests, and culture are inextricably tied to mastery of the saddle."
+ 
+ nick_the_desired:0 "the Desired"
+ nick_the_desired_desc:1 "Long awaited by a populace desperate for stability, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s ascension was met with profound relief and high hopes."
+ 
+ nick_the_determined:0 "the Determined"
+ nick_the_determined_desc:1 "Possessing an iron resolve, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] pursues [CharYourHerHis(CHARACTER)] ambitions with a singular, unwavering focus."
+ 
+ nick_do_nothing:0 "Do-Nothing"
+ nick_do_nothing_desc:1 "A translation of 'roi fainéant', a contemptuous title for a sovereign who reigned in name only, surrendering all power to subordinates."
+ 
+ nick_the_indolent:0 "the Indolent"
+ nick_the_indolent_desc:1 "Defined by a profound aversion to exertion, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] allows the administration of the realm to slowly rot through sheer laziness."
+ 
+ nick_the_sluggard:0 "the Sluggard"
+ nick_the_sluggard_desc:1 "Slow to rise, slow to march, and slow to decide, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is a frustratingly lethargic commander and king."
+ 
+ nick_the_idle:0 "the Idle"
+ nick_the_idle_desc:1 "Preferring leisure and hunting over the grueling work of statecraft, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is a fundamentally absent monarch."
+ 
+ nick_the_short:0 "the Short"
+ nick_the_short_desc:1 "A blunt, universally recognized descriptor for [CHARACTER.GetShortUINameNoTooltipNoFormat|U], whose diminutive stature is frequently recorded by chroniclers."
+ 
+ nick_the_wrathful:0 "the Wrathful"
+ nick_the_wrathful_desc:1 "Vengeful and quick to anger, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] punishes rebellion and treason with a terrifying, biblical fury."
+ 
+ nick_the_rotund:0 "the Rotund"
+ nick_the_rotund_desc:2 "Noted for extreme physical girth, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s immense size is viewed either as a sign of great wealth or gluttonous sin."
+ 
+ nick_the_faith:0 "the [CHARACTER.GetFaith.GetAdherentNameNoTooltip]"
+ nick_the_faith_desc:2 "Defined primarily by [CharYourHerHis(CHARACTER)] adherence to a minority or foreign religion, making [CHARACTER.GetShortUINameNoTooltipNoFormat|U] a profound novelty in the region."
+ 
+ nick_the_eunuch:0 "the Eunuch"
+ nick_the_eunuch_desc:1 "Having suffered castration, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] occupies a unique, often marginalized position within the fiercely patriarchal hierarchies of the era."
+ 
+ nick_greataxe:0 "Greataxe"
+ nick_greataxe_desc:1 "Eschewing the knightly sword for the brutal, sweeping power of a two-handed axe, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is a devastating shock-combatant."
+ 
+ nick_the_mace:0 "the Mace"
+ nick_the_mace_desc:1 "Specializing in crushing heavy armor, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] wades into battle wielding a flanged mace to shatter knightly formations."
+ 
+ nick_the_spear_of_capital:0 "the Spear of [CHARACTER.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ nick_the_spear_of_capital_desc:1 "Acting as the aggressive vanguard of [CharYourHerHis(CHARACTER)] realm, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] projects military power far beyond the walls of the capital."
+ 
+ nick_the_maul:0 "the Maul"
+ nick_the_maul_desc:1 "Relying on overwhelming kinetic force, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] wields a massive war hammer to bludgeon enemies into submission."
+ 
+ nick_the_tiger_of_place:0 "the Tiger of [CHARACTER.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ nick_the_tiger_of_place_desc:1 "Likened to the fierce, striped predator of the east, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] defends [CharYourHerHis(CHARACTER)] domain with lethal agility and power."
+ 
+ nick_the_navigator:0 "the Navigator"
+ nick_the_navigator_desc:1 "Sponsoring cartography and long-distance maritime expeditions, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] has pushed the boundaries of the known world."
+ 
+ nick_the_berserker:0 "the Berserker"
+ nick_the_berserker_desc:1 "Entering battle in a state of trance-like, howling fury, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] fights with a terrifying disregard for personal safety."
+ 
+ nick_the_actually_bald:0 "the Bald"
+ nick_the_actually_bald_desc:1 "Devoid of hair in an age that prizes it, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s smooth pate is a widely recognized physical identifier."
+ 
+ nick_the_iron_and_golden_king:0 "the Iron and Golden [CHARACTER.GetTitleAsNameNoTooltip]"
+ nick_the_iron_and_golden_king_desc:1 "Possessing deep silver and gold mines alongside a fearsome army, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is a master of both economics and war."
+ 
+ nick_the_slobberer:0 "the Slobberer"
+ nick_the_slobberer_desc:1 "Afflicted by a palsy or simple poor manners, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is notoriously messy at state banquets, undermining [CharYourHerHis(CHARACTER)] regal dignity."
+ 
+ nick_the_lover_of_elegance:0 "the Lover of Elegance"
+ nick_the_lover_of_elegance_desc:1 "Surrounding [CharYourHerHimself(CHARACTER)] with the finest silks, tapestries, and perfumes, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] insists on absolute refinement."
+ 
+ nick_the_universal_spider:0 "the Universal Spider"
+ nick_the_universal_spider_desc:1 "A master architect of espionage, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] spins a vast, continental web of diplomacy and bribery to ensnare [CharYourHerHis(CHARACTER)] rivals."
+ 
+ nick_the_collector:0 "the Collector"
+ nick_the_collector_desc:1 "Obsessively acquiring rare texts, holy relics, and exotic curiosities, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] has turned the royal palace into a grand museum."
+ 
+ nick_the_haunted:0 "the Haunted"
+ nick_the_haunted_desc:2 "Tormented by past sins, trauma, or perceived ghosts, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] projects an aura of profound, unshakeable melancholy."
+ 
+ nick_the_quarrelsome:0 "the Quarrelsome"
+ nick_the_quarrelsome_desc:1 "Inherently combative and quick to take offense, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is embroiled in near-constant legal and military disputes with vassals."
+ 
+ nick_the_petulant:0 "the Petulant"
+ nick_the_petulant_desc:1 "Reacting to political setbacks with childish tantrums and sulking, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] lacks the emotional maturity expected of a sovereign."
+ 
+ nick_the_turbulent:0 "the Turbulent"
+ nick_the_turbulent_desc:1 "A polarizing, dramatic figure, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s reign is defined by constant upheaval, shifting alliances, and sweeping reforms."
+ 
+ nick_the_disgraceful:0 "the Disgraceful"
+ nick_the_disgraceful_desc:1 "Having committed acts of profound cowardice or moral depravity, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] has brought enduring shame upon [CharYourHerHis(CHARACTER)] dynasty."
+ 
+ nick_the_negotiator:0 "the Negotiator"
+ nick_the_negotiator_desc:1 "Possessing a brilliant legal mind, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] excels at brokering complex truces and extracting concessions without shedding blood."
+ 
+ nick_the_executioner:0 "the Executioner"
+ nick_the_executioner_desc:1 "Bypassing the courts of justice for the swift swing of the axe, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is infamous for a shockingly high rate of capital punishment."
+ 
+ nick_pennyfather:0 "Pennyfather"
+ nick_pennyfather_desc:1 "A derisive term for a sovereign consumed by extreme miserliness, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] hoards coin while the castles of the realm slowly decay."
+ 
+ nick_swan_neck:0 "Swan Neck"
+ nick_swan_neck_desc:2 "A poetic identifier noting [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s striking, elegant posture and famously long, graceful neck."
+ 
+ nick_softsword:0 "Softsword"
+ nick_softsword_desc:1 "A highly insulting sobriquet implying that [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is both an incompetent military commander and entirely lacking in masculine vigor."
+ 
+ nick_the_chimera:0 "the Chimera"
+ nick_the_chimera_desc:1 "A complex, multifaceted ruler, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] displays wildly contradictory traits—mercy and cruelty, piety and sin—baffling historians."
+ 
+ nick_the_abominable:0 "the Abominable"
+ nick_the_abominable_desc:1 "Committing acts so heinous they defy contemporary morality, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is viewed with sheer, unadulterated disgust by the civilized world."
+ 
+ nick_bloody_hand:0 "the Bloody-Hand"
+ nick_bloody_hand_desc:1 "An epithet indicating that [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is directly, personally responsible for the gruesome murder of rivals and kin."
+ 
+ nick_the_coppersmith:0 "the Coppersmith"
+ nick_the_coppersmith_desc:0 "Rising from humble, artisan origins, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] forged an empire, yet [CharYourHerHis(CHARACTER)] working-class roots are never forgotten by the old nobility."
+ 
+ nick_the_eagle_of_arasbaran:0 "the Eagle of Arasbaran"
+ nick_the_eagle_of_arasbaran_desc:0 "Watching over the rugged valleys from impregnable fortresses, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is the undisputed, sharp-eyed master of the Arasbaran mountains."
+ 
+ nick_the_fortress_builder:0 "the Fortress-Builder"
+ nick_the_fortress_builder_desc:0 "Responding to the constant threat of invasion, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] militarized the landscape with an incredible network of interconnected stone keeps."
+ 
+ nick_the_fire_quencher:0 "the Fire-Quencher"
+ nick_the_fire_quencher_desc:0 "A deeply traumatic figure for Zoroastrians, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] earned this title by systematically extinguishing the ancient, sacred flames of the faith."
+ 
+ nick_the_firekeeper:0 "the Fire Keeper"
+ nick_the_firekeper_desc:0 "Revered as the ultimate protector of the old ways, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] ensured the Sacred Fires continued to burn despite centuries of persecution."
+ 
+ nick_the_fortunate:0 "the Fortunate"
+ nick_the_fortunate_desc:0 "Seemingly blessed by divine providence, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] inherited vast lands and won crucial battles with an almost eerie degree of luck."
+ 
+ nick_the_ambidextrous:0 "the Ambidextrous"
+ nick_the_ambidextrous_desc:0 "Possessing rare physical coordination, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is capable of wielding a sword or pen with equal lethality in either hand."
+ 
+ nick_the_lute_player:0 "the Lute-Player"
+ nick_the_lute_player_desc:0 "A patron of courtly music and an accomplished musician in [CharYourHerHis(CHARACTER)] own right, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] brings cultural brilliance to the realm."
+ 
+ nick_the_rekindler_of_iran:0 "the Flame of Persia"
+ nick_the_rekindler_of_iran_desc:0 "A monumental, heroic title. [CHARACTER.GetShortUINameNoTooltipNoFormat|U] successfully broke foreign hegemony and restored the ancient glory and independence of the Iranian plateau."
+ 
+ nick_the_righteous_caliph:0 "the Righteous"
+ nick_the_righteous_caliph_desc:0 "Ruling in strict accordance with Islamic jurisprudence, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is revered as a just, pious, and legitimate successor to the Prophet."
+ 
+ nick_the_conceding:0 "the Conceding"
+ nick_the_conceding_desc:0 "Forced to sign humiliating treaties and cede massive royal prerogatives to rebellious vassals, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s reign is one of capitulation."
+ 
+ nick_order_of_the_realm:0 "the Order of the Realm"
+ nick_order_of_the_realm_desc:0 "A highly esteemed honorific, recognizing [CHARACTER.GetShortUINameNoTooltipNoFormat|U] as the foundational pillar of bureaucratic stability and civic justice."
+ 
+ nick_the_martyr_king:0 "the Martyr King"
+ nick_the_martyr_king_desc:0 "Having fallen in battle against heathens or been executed by usurpers, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is venerated as a holy sacrifice for the nation."
+ 
+ nick_the_younger_missionary:0 "the Younger Missionary"
+ nick_the_younger_missionary_desc:0 "Walking in the footsteps of an older, more famous sibling, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] dedicated [CharYourHerHis(CHARACTER)] life to the arduous conversion of the frontiers."
+ 
+ nick_the_caliph_protector:0 "the Protector of the Caliphate"
+ nick_the_caliph_protector_desc:0 "Holding the ultimate secular power, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] acts as the militant shield and absolute overlord of the spiritual Caliph."
+ 
+ nick_the_true_culture:0 "the True [CHARACTER.GetCulture.GetNameNoTooltip]"
+ nick_the_true_culture_desc:0 "In an era of assimilation and foreign influence, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] stands as an uncompromising bastion of traditional [CHARACTER.GetCulture.GetName] customs."
+ 
+ nick_the_reformer:0 "the Reformer"
+ nick_the_reformer_desc:0 "Overhauling antiquated laws and corrupt institutions, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] dragged the realm into a new, enlightened era."
+ 
+ nick_royalsbane:0 "Royalsbane"
+ nick_royalsbane_desc:0 "A terrifying reputation on the battlefield; [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is known specifically for targeting, striking down, and slaying rival monarchs."
+ 
+ nick_the_city_builder:0 "the City Builder"
+ nick_the_city_builder_desc:0 "Expanding the urban footprint of the realm, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] charted new towns, granted civic charters, and fostered a booming merchant class."
+ 
+ nick_the_castle_builder:0 "the Castle Builder"
+ nick_the_castle_builder_desc:0 "Recognizing the necessity of defense, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] heavily fortified the borders with an impressive array of concentric stone castles."
+ 
+ nick_the_temple_builder:0 "the Temple Builder"
+ nick_the_temple_builder_desc:0 "Demonstrating immense piety through architecture, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] sponsored the construction of magnificent cathedrals and holy sites."
+ 
+ nick_the_dragonslayer:0 "the Dragonslayer"
+ nick_the_dragonslayer_desc:0 "Entering the realm of myth, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is credited by folklore with the slaying of a great beast, establishing [CharYourHerHimself(CHARACTER)] as a legendary hero."
+ 
+ nick_natures_bane:0 "Nature's Bane"
+ nick_natures_bane_desc:0 "Clearing vast, ancient forests and draining treacherous swamps, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] relentlessly subdues the wilderness to expand civilization."
+ 
+ nick_the_stout:0 "the Stout"
+ nick_the_stout_desc:0 "A physical identifier noting [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s broad, thick-set frame, suggesting an unyielding and robust physical constitution."
+ 
+ nick_chief_of_the_zanj:0 "Sahib az-Zanj"
+ nick_chief_of_the_zanj_desc:0 "Leading one of the most massive slave revolts in history, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] became the undisputed sovereign and liberator of the Zanj laborers."
+ 
+ nick_albaghid:0 "Albaghid"
+ nick_albaghid_desc:0 "Meaning 'The Abominable', this title was bestowed by imperial authorities upon [CHARACTER.GetShortUINameNoTooltipNoFormat|U] for leading relentless, disruptive, and highly destructive uprisings."
+ 
+ nick_phrangopoulos:0 "Phrangopoulos"
+ nick_phrangopoulos_desc:0 "Meaning 'Son of the Franks', this Greek identifier highlights [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s distinct Western origins while serving within the Byzantine sphere."
+ 
+ nick_the_liberal:0 "the Liberal"
+ nick_the_liberal_desc:0 "Renowned for open-handed munificence, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] lavishes alms on the poor and grants extensive liberties to the burghers of the realm."
+ 
+ nick_the_lazy:0 "the Lazy"
+ nick_the_lazy_desc:0 "Abdicating the responsibilities of rulership in favor of idle leisure, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s apathy has allowed the realm to stagnate."
+ 
+ nick_the_tall:0 "the Tall"
+ nick_the_tall_desc:0 "Standing head and shoulders above [CharYourHerHis(CHARACTER)] contemporaries, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s impressive vertical stature is a defining and intimidating physical trait."
+ 
+ nick_the_clever:0 "the Clever"
+ nick_the_clever_desc:0 "Relying on sharp intellect, diplomatic trickery, and strategic foresight, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] easily outwits more physically imposing rivals."
+
+ nick_the_stylite:0 "the Stylite"
+ nick_the_stylite_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] is revered by the faithful for undertaking the extreme ascetic practice of living atop a pillar, demonstrating profound spiritual endurance."
+ 
+ nick_the_grazer:0 "the Grazer"
+ nick_the_grazer_desc:1 "Adopting the severe asceticism of the 'boskoi', [CHARACTER.GetShortUINameNoTooltipNoFormat|U] abandoned civilization to live in the wilderness, subsisting only on what the earth naturally provides."
+ 
+ nick_the_iron_wearer:0 "the Iron-Wearer"
+ nick_the_iron_wearer_desc:1 "A testament to extreme penitence, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] physically mortified [CharYourHerHis(CHARACTER)] flesh by wearing heavy iron chains, a highly visible sign of worldly renunciation."
+
+ nick_old_man_of_the_mountain:0 "the Old Man of the Mountain"
+ nick_old_man_of_the_mountain_desc:1 "A title of dread and reverence, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] rules as the enigmatic master of a secretive Nizari order, projecting lethal influence from impregnable mountain fortresses."
+
+ nick_barbarossa:0 "Barbarossa"
+ nick_barbarossa_desc:1 "Known to the Italians as 'Barbarossa', [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s striking red beard became the indelible symbol of [CharYourHerHis(CHARACTER)] imperial authority and martial campaigns."
+
+ nick_danishmend:0 "Danişmend"
+ nick_danishmend_desc:1 "Originating from the Persian term for 'scholar' or 'wise man', this title honors [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s renowned wisdom, religious learning, and foundational role in the realm."
+
+ nick_protosebastos:0 "Protosebastos"
+ nick_protosebastos_desc:1 "An exalted Byzantine court dignity translating to 'First Venerable One', elevating [CHARACTER.GetShortUINameNoTooltipNoFormat|U] to the highest echelons of imperial proximity and prestige."
+
+ nick_protosebaste:0 "Protosebaste"
+ nick_protosebaste_desc:1 "An exalted Byzantine court dignity translating to 'First Venerable One', elevating [CHARACTER.GetShortUINameNoTooltipNoFormat|U] to the highest echelons of imperial proximity and prestige."
+
+ nick_iscariot:0 "Iscariot"
+ nick_iscariot_desc:1 "A damning epithet drawn from biblical betrayal. Contemporaries brand [CHARACTER.GetShortUINameNoTooltipNoFormat|U] as a traitor who sold out [CharYourHerHis(CHARACTER)] liege, kin, or faith for personal gain."
+
+ nick_the_corpulent:0 "the Corpulent"
+ nick_the_corpulent_desc:1 "Noted in contemporary chronicles for immense physical girth, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s corpulence became a defining, and heavily recorded, characteristic of [CharYourHerHis(CHARACTER)] reign."
+
+ nick_the_drunkard_michael_iii:0 "the Drunkard"
+ nick_the_drunkard_michael_iii_desc:1 "A highly partisan epithet popularized by rival dynasties, aimed at delegitimizing [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s reign by portraying [CharYouHerHim(CHARACTER)] as hopelessly addicted to the cup."
+ 
+ nick_the_pious_michael_iii:0 "the Pious"
+ nick_the_pious_michael_iii_desc:1 "Remembered favorably by orthodox chroniclers, this title vindicates [CHARACTER.GetShortUINameNoTooltipNoFormat|U] for [CharYourHerHis(CHARACTER)] pivotal role in restoring the veneration of icons and championing the true faith."
+ 
+ nick_the_young_michael_iii:0 "the Young"
+ nick_the_young_michael_iii_desc:1 "Crowned in infancy and meeting an early, violent end, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is remembered by this title as a tragic figure who spent a lifetime in the shadow of regents."
+ 
+ nick_the_exile:0 "the Exile"
+ nick_the_exile_desc:1 "Driven from [CharYourHerHis(CHARACTER)] ancestral lands by political upheaval, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s historical identity is inextricably linked to [CharYourHerHis(CHARACTER)] time spent in foreign banishment."
+ 
+ nick_lackland_young:0 "Lackland"
+ nick_lackland_young_desc:1 "A mocking moniker applied in youth, as [CHARACTER.GetShortUINameNoTooltipNoFormat|U] was left without a substantial territorial inheritance compared to the vast appanages of [CharYourHerHis(CHARACTER)] elder siblings."
+ 
+ nick_lackland_ironic:0 "$nick_lackland_young$"
+ nick_lackland_ironic_desc:1 "Initially a cruel jest regarding [CharYourHerHis(CHARACTER)] lack of inheritance, the title is now used ironically by chroniclers to highlight [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s eventual acquisition of a vast domain."
+ 
+ nick_lackland_old:0 "$nick_lackland_young$"
+ nick_lackland_old_desc:1 "A tragically prophetic title. Though once commanding a great empire, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] lost vast swathes of ancestral territory, ending [CharYourHerHis(CHARACTER)] reign truly 'lacking land'."
+ 
+ nick_curtmantle:0 "Curtmantle"
+ nick_curtmantle_desc:1 "Noted for rejecting long, flowing courtly robes in favor of practical, shorter riding cloaks, [CHARACTER.GetShortUINameNoTooltipNoFormat|U]'s sartorial choice reflects a famously restless and energetic nature."
+
+ nick_pauper_king:0 "the Pauper King"
+ nick_pauper_king_desc:1 "Despite holding the highest office, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is remembered for adopting the humble habits, dress, and company of the common folk, earning the bemusement of the nobility."
+
+ nick_the_mapmaker:0 "the Mapmaker"
+ nick_the_mapmaker_desc:1 "Famed for patronizing cartographers and undertaking extensive geographical surveys, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] expanded the realm's understanding of the known world."
+
+ nick_the_ploughman:0 "the Ploughman"
+ nick_the_ploughman_desc:1 "Rooted in foundational dynasty myths, [CHARACTER.GetShortUINameNoTooltipNoFormat|U] is celebrated as a leader called directly from the fields, symbolizing a sacred bond between the ruler and the earth."
+ 
 #RoA
  nick_rakai_garung: "Rakai Garung"
  nick_rakai_gurunwangi: "Rakai Gurunwangi"

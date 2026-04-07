@@ -837,9 +837,20 @@ house_sverre = {
 	dynasty = 499
 }
 
+# Both Angelos and Laskaris derived all their legitimacy from their Komnenid blood
+house_komnenos_angelos = {
+	name = "dynn_Angelos"
+	dynasty = 634 # Komnenos
+}
+
+house_komnenos_laskaris = { 
+	name = "dynn_Laskaris"
+	dynasty = 634 # Komnenos
+}
+
 house_komnenos_doukas = {
 	name = "dynn_Komnenos_Doukas"
-	dynasty = 195 # Angelos
+	dynasty = 634 # Komnenos
 }
 
 house_megas_komnenos = {

@@ -7594,6 +7594,40 @@ house_nemanjic = k_serbia
 	}
 }
 
+house_komnenos_angelos = { # angelos
+	pattern = "pattern_solid.dds"	
+	color1 = "red"		
+	color2 = "red"	
+	colored_emblem = {
+		texture = "ce_lozenge.dds"
+		color1 = "yellow"
+		color2 = "yellow"
+		instance = { position = { 0.5 0.245 } scale = { 0.5 0.4 }  }
+		instance = { position = { 0.5 0.715 } scale = { 0.5 0.4 }  }
+		instance = { position = { 0.34 0.48 } scale = { 0.5 0.4 }  }
+		instance = { position = { 0.66 0.48 } scale = { 0.5 0.4 }  }		
+	}
+	colored_emblem = {
+		texture = "ce_angel.dds"
+		color1 = "white"
+		color2 = "white"
+		color3 = "white"
+		instance = { position = { 0.5 0.245 } scale = { 0.25 0.24 }  }
+		instance = { position = { 0.5 0.715 } scale = { 0.25 0.24 }  }
+		instance = { position = { 0.34 0.48 } scale = { 0.25 0.24 }  }
+		instance = { position = { 0.66 0.48 } scale = { 0.25 0.24 }  }				
+	}
+	colored_emblem = {
+		texture = "ce_clothes.dds"
+		color1 = "blue"
+		color2 = "red"
+		instance = { position = { 0.5 0.265 } scale = { 0.22 0.21 }  }
+		instance = { position = { 0.5 0.735 } scale = { 0.22 0.21 }  }
+		instance = { position = { 0.34 0.5 } scale = { 0.22 0.21 }  }
+		instance = { position = { 0.66 0.5 } scale = { 0.22 0.21 }  }				
+	}
+}
+
 302 = { # namur
 	pattern = "pattern_solid.dds"
 	color1 = "yellow"	
@@ -15819,6 +15853,31 @@ house_bathory = { # BA_thory" bathory # 바토리 발톱 1200~1337
 }
 
 101107 = { # dynn_Laskaris 라스카리스   1140~1204~
+	pattern = "pattern_solid.dds"
+	color1 = "yellow"
+	colored_emblem = {
+		texture = "cat_crown02_munster.dds"
+		color1 = "black"
+		instance = { position = { 0.505 0.15 } scale = { 0.25 0.25 }  }
+		instance = { position = { 0.495 0.15 } scale = { 0.25 0.25 }  }		
+		instance = { position = { 0.5 0.145 } scale = { 0.25 0.25 }  }		
+		instance = { position = { 0.5 0.155 } scale = { 0.25 0.25 }  }		
+	}	
+	colored_emblem = {
+		texture = "cat_crown02_munster.dds"
+		color1 = "yellow"
+		instance = { position = { 0.5 0.15 } scale = { 0.25 0.25 }  }		
+	}	
+	colored_emblem = {
+		texture = "cat_skanderbeg_eagle.dds"
+		color1 = "black"
+		color2 = "red"
+		color3 = "white"
+		instance = { position = { 0.5 0.52 } scale = { 0.8 0.8 }  }		
+	}	
+}
+
+house_komnenos_laskaris = { # dynn_Laskaris 라스카리스   1140~1204~
 	pattern = "pattern_solid.dds"
 	color1 = "yellow"
 	colored_emblem = {

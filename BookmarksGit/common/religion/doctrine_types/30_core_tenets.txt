@@ -3138,7 +3138,7 @@ mz_tenet_animism = {
 	}
 
 	traits = {
-		virtues = { possessed = 2 }
+		virtues = { possessed_1 = 2 possessed_genetic = 2 }
 	}
 }
 
@@ -3555,7 +3555,7 @@ wap_tenet_water_spirits = {
 		domain_tax_same_faith_mult = 0.1
 	}
 	traits = {
-		virtues = { possessed = 1 }
+		virtues = { possessed_1 = 2 possessed_genetic = 2 }
 	}
 }
 
@@ -4877,11 +4877,11 @@ tenet_headhunting = {
 		}
 	}
 
-	traits = {
-		virtues = {
-			lifestyle_headhunter
-		}
-	}
+	#traits = {
+	#	virtues = {
+	#		lifestyle_headhunter
+	#	}
+	#}
 
 	parameters = {
 		headhunting_active = yes
@@ -4974,7 +4974,7 @@ tenet_spirit_guides = {
 	}
 
 	traits = {
-		virtues = { possessed = 2 }
+		virtues = { possessed_1 = 2 possessed_genetic = 2 }
 	}
 }
 

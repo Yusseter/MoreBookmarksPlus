@@ -18046,9 +18046,57 @@ MB_set_ablution_doctrines = {
 MB_set_noble_families = {
 
 	effect = {
+		
+		
+		
+			# House relations
+			
+			
+			if = {
+				limit = {
+					game_start_date >= 1200.1.1
+				}
+				house:house_komnenos_laskaris = {
+					impact_house_relation = {
+						target = house:house_megas_komnenos
+						steps = -2.0 # Can be either full steps, or fractional ones
+						description = "The impact of the 4th Crusade will be felt for generations"
+						notification = no
+					}
+				}
+				
+				house:house_komnenos_laskaris = {
+					impact_house_relation = {
+						target = house:house_komnenos_doukas
+						steps = -2.0 # Can be either full steps, or fractional ones
+						description = "The impact of the 4th Crusade will be felt for generations"
+						notification = no
+					}
+				}
+	
+				house:house_megas_komnenos = {
+					impact_house_relation = {
+						target = house:house_komnenos_doukas
+						steps = -2.0 # Can be either full steps, or fractional ones
+						description = "The impact of the 4th Crusade will be felt for generations"
+						notification = no
+					}
+				}
+				
+				house:house_megas_komnenos = {
+					impact_house_relation = {
+						target = house:house_komnenos_laskaris
+						steps = -2.0 # Can be either full steps, or fractional ones
+						description = "The impact of the 4th Crusade will be felt for generations"
+						notification = no
+					}
+				}
 
+			}
+			
+			
 		#This effect sets noble families in admin governments. This does mean unlanded families that may be important do not get made noble families but that's an acceptable tradeoff given the performance impact unlanded characters have. Unlanded characters also apparently impact the development of wherever they are 'unlanded' which, for example, made Constantinople have 100+ development
-
+			
 			##ERE
 
 			if = {

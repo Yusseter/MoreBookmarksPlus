@@ -4223,11 +4223,8 @@ dlc_mpo_steppe_east_andong_addon = {
 }
 
 dlc_mpo_steppe_east_china_addon = {
-	duchies = {
-		# k_xia
-		d_tiande d_langshan d_xiutu d_juyan
-		# k_daibei
-		d_sanggan d_xinan
+	kingdoms = {
+		k_xia 
 	}
 }
 
@@ -6822,7 +6819,7 @@ custom_easteurope_plague = {
 
 dlc_mpo_steppe_eastern_steppe = {
 	duchies = {
-		d_em_tataria d_EM_yujuelu d_EM_wajiezi d_em_wuguguo d_gobi_dadaels d_gobi_shatuoguo d_gobi_ongi d_murin_china d_teriqan_china  d_EM_onon d_khiyat_china d_SW_heicheziguo d_xarmoron_china d_hejes_china d_changchun_china d_SW_ruzheguo d_SW_puyudao d_SW_dashiweiguo d_SW_qingxingan d_SW_suihua d_SW_powoguo
+		d_em_tataria d_EM_yujuelu d_EM_wajiezi d_em_wuguguo d_gobi_dadaels d_gobi_shatuoguo d_gobi_ongi d_murin_china d_teriqan_china  d_EM_onon d_khiyat_china d_SW_heicheziguo d_xarmoron_china d_hejes_china d_changchun_china d_SW_ruzheguo d_SW_puyudao d_SW_dashiweiguo d_SW_qingxingan d_SW_lingxiguo
 		#Dzungaria
 		d_altay d_akaltay d_beshbalik d_gurbantunggut d_naiman_gobi d_ili-alatau d_tarbagatai d_kara_khoja
 		#Mongolia

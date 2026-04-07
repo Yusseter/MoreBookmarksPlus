@@ -22629,6 +22629,9 @@ karluk0018 = {
 	968.1.1 = {
 		add_spouse = 170305
 	}
+	977.1.1 = {
+		give_nickname = nick_nasir_ad_din
+	}
 	997.1.1 = {
 		death = yes
 	}
@@ -22696,6 +22699,9 @@ karluk0018 = {
 	971.1.1 = {
 		birth = "971.1.1"
 	}
+	998.1.1 = {
+		give_nickname = nick_yamin_ad_dawla
+	}
 	1030.1.1 = {
 		death = yes
 	}
@@ -22760,6 +22766,9 @@ karluk0018 = {
 	992.1.1 = {
 		birth = "992.1.1"
 	}
+	1050.1.1 = {
+		give_nickname = nick_izz_ad_dawla
+	}
 	1053.1.1 = {
 		death = {
 			death_reason=death_execution
@@ -22799,6 +22808,9 @@ karluk0018 = {
 		birth="995.1.1"
 		culture = "tajik"
 	}
+	1030.1.1 = {
+		give_nickname = nick_jalal_ad_dawla
+	}
 	1041.3.1 = {
 		death = {
 			death_reason=death_execution
@@ -22808,7 +22820,7 @@ karluk0018 = {
 }
 
 144127 = {
-	name = "Masud"
+	name = "Mas_ud"
 	dynasty = 790
 	martial = 6
 	diplomacy = 6
@@ -22825,6 +22837,9 @@ karluk0018 = {
 	995.1.1 = { #991? 998?
 		birth="995.1.1"
 		culture = "tajik"
+	}
+	1031.1.1 = {
+		give_nickname = nick_shihab_ad_dawla
 	}
 	1041.1.1 = {
 		death = {
@@ -22850,6 +22865,9 @@ karluk0018 = {
 	1011.1.1 = {
 		birth = "1011.1.1"
 	}
+	1041.1.1 = {
+		give_nickname = nick_shihab_ad_dawla
+	}
 	1050.1.1 = {
 		death = yes
 	}
@@ -22863,6 +22881,9 @@ karluk0018 = {
 	father = 144127
 	1012.1.1 = {
 		birth = "1012.1.1"
+	}
+	1050.1.1 = {
+		give_nickname = nick_baha_ad_dawla
 	}
 	1050.9.1 = {
 		death = yes
@@ -22884,6 +22905,9 @@ karluk0018 = {
 	trait = "just"
 	1012.1.1 = {
 		birth = "1012.1.1"
+	}
+	1053.1.1 = {
+		give_nickname = nick_jamal_ad_dawla
 	}
 	1059.1.1 = {
 		death = yes
@@ -23040,7 +23064,7 @@ karluk0018 = {
 }
 
 144129 = {
-	name = "Masud"
+	name = "Mas_ud"
 	dynasty = 790
 	religion = "maturidi"
 	culture = tajik
@@ -23048,19 +23072,25 @@ karluk0018 = {
 	1031.1.1 = {
 		birth = "1031.1.1"
 	}
+	1050.1.1 = {
+		give_nickname = nick_baha_ad_dawla
+	}
 	1050.6.1 = {
 		death = yes
 	}
 }
 
 144134 = {
-	name = "Masud"
+	name = "Mas_ud"
 	dynasty = 790
 	religion = "maturidi"
 	culture = tajik
 	father = 144133
 	1052.1.1 = {
 		birth = "1052.1.1"
+	}
+	1099.1.1 = {
+		give_nickname = nick_ala_ad_dawla
 	}
 	1115.1.1 = {
 		death = yes
@@ -23121,6 +23151,9 @@ karluk0018 = {
 	1068.1.1 = {
 		birth = "1068.1.1"
 	}
+	1115.1.1 = {
+		give_nickname = nick_kamal_ad_dawla
+	}
 	1115.6.1 = {
 		death = {
 			death_reason=death_execution
@@ -23144,6 +23177,9 @@ karluk0018 = {
 	trait = "zealous"
 	1084.1.1 = {
 		birth = "1084.1.1"
+	}
+	1115.1.1 = {
+		give_nickname = nick_sultan_ad_dawla
 	}
 	1118.10.1 = {
 		death = {
@@ -23169,6 +23205,9 @@ karluk0018 = {
 	1085.1.1 = {
 		birth = "1085.1.1"
 	}
+	1118.1.1 = {
+		give_nickname = nick_yamin_ad_dawla
+	}
 	1152.1.1 = {
 		death = yes
 	}
@@ -23182,6 +23221,9 @@ karluk0018 = {
 	father = 144137
 	1104.1.1 = {
 		birth = "1104.1.1"
+	}
+	1152.1.1 = {
+		give_nickname = nick_muizz_ad_dawla
 	}
 	1160.1.1 = {
 		death = yes
@@ -23221,6 +23263,9 @@ karluk0018 = {
 	trait = greedy
 	1124.1.1 = {
 		birth = "1124.1.1"
+	}
+	1160.1.1 = {
+		give_nickname = nick_taj_ad_dawla
 	}
 	1170.1.1 = {
 		effect = {
@@ -23349,6 +23394,9 @@ Karakhan1 = {
 	830.1.1 = {
 		birth = yes
 	}
+	840.1.1 = {
+		give_nickname = nick_qadir_khan
+	}
 	893.1.1 = {
 		death = yes
 	}
@@ -23384,13 +23432,16 @@ Karakhan1 = {
 }
 
 188852 = {
-	name = "Oghulcak"
+	name = "Satuq"
 	dynasty_house = house_karakhanid #Karakhanid
 	religion = tengri_pagan
 	culture = karluk
 	father = 188851
 	874.1.1 = {
 		birth = yes
+	}
+	920.1.1 = {
+		give_nickname = nick_bughra_khan
 	}
 	940.1.1 = {
 		death = yes
@@ -23425,6 +23476,9 @@ Karakhan1 = {
 	}
 	932.1.2={
 		religion="maturidi"
+	}
+	958.1.1 = {
+		give_nickname = nick_arslan_khan
 	}
 	958.1.2={
 		death = yes
@@ -23473,6 +23527,9 @@ Karakhan1 = {
 	936.1.2 = {
 		birth = yes
 	}
+	992.1.1 = {
+		give_nickname = nick_arslan_khan
+	}
 	998.1.2 = {
 		death = yes
 	}
@@ -23486,6 +23543,9 @@ Karakhan1 = {
 	father=188854
 	958.1.2={
 		birth = yes
+	}
+	990.1.1 = {
+		give_nickname = nick_bughra_khan
 	}
 	992.8.8={
 		death = yes
@@ -23506,6 +23566,9 @@ Karakhan1 = {
 	father = 3000
 	968.1.2 = {
 		birth = "968.1.2"
+	}
+	998.1.1 = {
+		give_nickname = nick_toghan_khan
 	}
 	1020.1.2 = {
 		death = yes
@@ -27544,6 +27607,9 @@ BolgharMB39 = {
 	1216.1.1 = {
 		birth = "1216.1.1"
 	}
+	1290.1.1 = {
+		give_nickname = nick_shams_ad_din
+	}
 	1296.7.21 = {
 		death = {
 			death_reason=death_murder_known
@@ -27592,6 +27658,9 @@ BolgharMB39 = {
 	1296.7.21 = {
 		add_trait="blind"
 	}
+	1296.1.1 = {
+		give_nickname = nick_rukn_ad_din
+	}
 	1296.11.1 = {
 		death = {
 			death_reason=death_dungeon
@@ -27601,7 +27670,7 @@ BolgharMB39 = {
 }
 
 170246 = {
-	name = "Muhammad" #Ala-ud-din Muhammad
+	name = "Ali Gurshasp" #Ala-ud-din Muhammad
 	dynasty = 1040205
 	martial = 8
 	diplomacy = 6
@@ -27615,6 +27684,9 @@ BolgharMB39 = {
 	trait = "just"
 	1242.1.1 = {
 		birth = "1242.1.1"
+	}
+	1296.1.1 = {
+		give_nickname = nick_ala_ad_din
 	}
 	1316.1.3 = {
 		death = yes
@@ -27643,6 +27715,9 @@ BolgharMB39 = {
 	father = 170246
 	1265.1.1 = {
 		birth = "1265.1.1"
+	}
+	1316.1.1 = {
+		give_nickname = nick_qutb_ad_din
 	}
 	1320.6.1 = {
 		death = {
@@ -27751,6 +27826,9 @@ BolgharMB39 = {
 	}
 	1316.2.4 = {
 		add_trait="blind"
+	}
+	1316.1.1 = {
+		give_nickname = nick_shihab_ad_din
 	}
 	1318.6.1 = {
 		death = {
@@ -63549,13 +63627,16 @@ Badr4 = {
 }
 
 144033 = {
-	name = "As-Salih_Ismail_al-Malik"
+	name = "Ismail"
 	dynasty = 101687
 	religion = "maturidi"
 	culture = "turkish"
 	father = 144031
 	1163.1.1 = {
 		birth = "1163.1.1"
+	}
+	1174.1.1 = {
+		give_nickname = nick_as_salih
 	}
 	1181.1.1 = {
 		death = yes
@@ -63571,6 +63652,9 @@ Zengid1 = {
 	1170.1.1 = {
 		birth = "1170.1.1"
 	}
+	1193.1.1 = {
+		give_nickname = nick_muizz_ad_din
+	}
 	1208.1.1 = {
 		death = yes
 	}
@@ -63584,6 +63668,9 @@ Zengid1 = {
 	father = 144042
 	1172.1.1 = {
 		birth = "1172.1.1"
+	}
+	1193.1.1 = {
+		give_nickname = nick_nur_ad_din
 	}
 	1211.1.1 = {
 		death = yes
@@ -63599,6 +63686,9 @@ Zengid2 = {
 	1190.1.1 = {
 		birth = "1190.1.1"
 	}
+	1208.1.1 = {
+		give_nickname = nick_muizz_ad_din
+	}
 	1241.1.1 = {
 		death = yes
 	}
@@ -63613,6 +63703,9 @@ Zengid2 = {
 	1190.1.1 = {
 		birth = "1190.1.1"
 	}
+	1211.1.1 = {
+		give_nickname = nick_izz_ad_din
+	}
 	1218.1.1 = {
 		death = yes
 	}
@@ -63626,6 +63719,9 @@ Zengid2 = {
 	father = 93311
 	1192.1.1 = {
 		birth = "1192.1.1"
+	}
+	1219.1.1 = {
+		give_nickname = nick_nasir_ad_din
 	}
 	1233.12.1 = {
 		death = {
@@ -63657,6 +63753,9 @@ Zengid2 = {
 	father = 93312
 	1206.1.1 = {
 		birth = "1206.1.1"
+	}
+	1218.1.1 = {
+		give_nickname = nick_nur_ad_din
 	}
 	1219.1.1 = {
 		death = yes
@@ -63693,7 +63792,7 @@ Zengid3 = {
 
 ####################################### Dynasty: 101876 #######################################
 144051 = {
-	name = "Shams_al-Din_Ildeniz"
+	name = "Eldiguz"
 	dynasty = 101876
 	martial = 9
 	diplomacy = 7
@@ -63706,6 +63805,9 @@ Zengid3 = {
 	trait = "patient"
 	1110.1.1 = {
 		birth = "1110.1.1"
+	}
+	1147.1.1 = {
+		give_nickname = nick_shams_ad_din
 	}
 	1175.1.1 = {
 		death = yes
@@ -63750,6 +63852,9 @@ Zengid3 = {
 	1156.1.1 = {
 		birth = "1156.1.1"
 	}
+	1186.1.1 = {
+		give_nickname = nick_muzaffar_ad_din
+	}
 	1191.1.1 = {
 		death = {
 			death_reason = death_murder
@@ -63775,6 +63880,9 @@ Zengid3 = {
 	disallow_random_traits = yes
 	1153.1.1 = {
 		birth = "1153.1.1"
+	}
+	1206.1.1 = {
+		give_nickname = nick_qutb_ad_din
 	}
 	1210.11.4 = {
 		death = { death_reason = death_accident }
@@ -63839,6 +63947,9 @@ Zengid3 = {
 	1200.1.1 = {
 		birth = "1200.1.1"
 	}
+	1236.1.1 = {
+		give_nickname = nick_rukn_ad_din
+	}
 	1236.11.20 = {
 		death = {
 			death_reason=death_execution
@@ -63858,6 +63969,9 @@ Zengid3 = {
 	1205.1.1 = {
 		birth = "1205.1.1"
 	}
+	1236.1.1 = {
+		give_nickname = nick_jalalat_ad_din
+	}
 	1239.10.1 = {
 		add_pressed_claim = title:k_delhi
 	}
@@ -63875,6 +63989,9 @@ Zengid3 = {
 	mother = 170192
 	1206.1.1 = {
 		birth = "1206.1.1"
+	}
+	1239.1.1 = {
+		give_nickname = nick_muizz_ad_din
 	}
 	1242.5.15 = {
 		death = { death_reason=death_murder }
@@ -63921,6 +64038,9 @@ Zengid3 = {
 	1220.1.1 = {
 		birth = "1220.1.1"
 	}
+	1242.1.1 = {
+		give_nickname = nick_ala_ad_din
+	}
 	1246.6.11 = {
 		death = { death_reason=death_dungeon }
 	}
@@ -63944,6 +64064,9 @@ Zengid3 = {
 	}
 	1241.8.2 = {
 		add_spouse = 170205
+	}
+	1246.1.1 = {
+		give_nickname = nick_nasir_ad_din
 	}
 	1266.2.19={
 		death={
@@ -64100,6 +64223,9 @@ FemaleIlutimishi2 = {
 	1242.5.15 = {
 		employer = 170201
 	}
+	1266.1.1 = {
+		give_nickname = nick_ghiyath_ad_din
+	}
 	1286.1.1 = {
 		death = yes
 	}
@@ -64232,6 +64358,9 @@ FemaleIlutimishi2 = {
 	1270.1.1 = {
 		birth = "1270.1.1"
 	}
+	1286.1.1 = {
+		give_nickname = nick_muizz_ad_din
+	}
 	1289.1.1 = {
 		trait = incapable
 	}
@@ -64284,6 +64413,9 @@ FemaleIlutimishi2 = {
 	1275.1.1 = {
 		birth = "1275.1.1"
 	}
+	1320.1.1 = {
+		give_nickname = nick_nasir_ad_din
+	}
 	1320.10.1 = {
 		death = {
 			death_reason=death_murder_known
@@ -64321,6 +64453,9 @@ FemaleIlutimishi2 = {
 	trait = "just"
 	1271.1.1 = {
 		birth = "1271.1.1"
+	}
+	1320.1.1 = {
+		give_nickname = nick_ghiyath_ad_din
 	}
 	1325.2.1 = {
 		death = { death_reason = death_accident }
@@ -67840,7 +67975,7 @@ Hamid2 = {
 }
 
 144099 = {
-	name = "Qutb_al-Din_Muhammad"
+	name = "Muhammad"
 	dynasty_house = house_anushtigar
 	martial = 6
 	diplomacy = 7
@@ -67854,6 +67989,9 @@ Hamid2 = {
 	trait = "humble"
 	1061.1.1 = {
 		birth = "1061.1.1"
+	}
+	1097.1.1 = {
+		give_nickname = nick_qutb_ad_din
 	}
 	1127.1.1 = {
 		death = yes
@@ -67878,6 +68016,9 @@ Hamid2 = {
 	}
 	1114.1.1 = {
 		add_trait = lifestyle_reveler #reveler_2
+	}
+	1127.1.1 = {
+		give_nickname = nick_ala_ad_din
 	}
 	1156.1.1 = {
 		death = yes
@@ -67924,6 +68065,9 @@ Hamid2 = {
 	1121.1.1 = {
 		birth = "1121.1.1"
 	}
+	1156.1.1 = {
+		give_nickname = nick_taj_ad_din
+	}
 	1172.3.1 = {
 		death = yes
 	}
@@ -67968,13 +68112,16 @@ Hamid2 = {
 }
 
 93050 = {
-	name = "Mahmud_Soltan"
+	name = "Mahmud"
 	dynasty_house = house_anushtigar
 	religion = "maturidi"
 	culture = "khwarezmian"
 	father = 144101
 	1153.1.1 = {
 		birth = "1153.1.1"
+	}
+	1171.1.1 = {
+		give_nickname = nick_jalal_ad_din
 	}
 	1193.1.1 = {
 		death = yes
@@ -67999,6 +68146,9 @@ Hamid2 = {
 	trait = education_diplomacy_3 #Despite his later failures, he successfully managed a vast empire and multiple diplomatic relations
 	1170.1.1 = {
 		birth = "1170.1.1"
+	}
+	1200.1.1 = {
+		give_nickname = nick_ala_ad_din
 	}
 	1220.1.1 = {
 		trait = pneumonic
@@ -68039,13 +68189,16 @@ Hamid2 = {
 }
 
 93053 = {
-	name = "Mingburnu Jalal ad-Din"
+	name = "Mangburni"
 	dynasty_house = house_anushtigar
 	religion = "maturidi"
 	culture = "khwarezmian"
 	father = 93052
 	1190.1.1 = {
 		birth = "1190.1.1"
+	}
+	1221.1.1 = {
+		give_nickname = nick_jalal_ad_din
 	}
 	1229.1.1 = {
 		effect = {
@@ -70613,7 +70766,7 @@ Salir5 = {
 }
 
 3038 = {
-	name = "Tughril-Beg"
+	name = "Tughril"
 	dynasty_house = house_oghuzSeljuks
 	martial = 4
 	diplomacy = 6
@@ -70626,6 +70779,9 @@ Salir5 = {
 	father = 3034
 	1010.1.2 = {
 		birth = "1010.1.2"
+	}
+	1050.1.1 = {
+		give_nickname = nick_rukn_ad_din
 	}
 	1063.9.4 = {
 		death = yes
@@ -70908,6 +71064,9 @@ Salir5 = {
 	}
 	1063.1.1 = {
 		remove_spouse = 1234551 #Her repudiation by Alp Arslan happened no earlier than 1063. And he was very active in the Caucasus in the late 1050'ies and the early 1060'ies, so it was likely a very short marriage
+	}
+	1063.1.1 = {
+		give_nickname = nick_adud_ad_dawla
 	}
 	1066.9.14 = {
 		add_character_flag = {
@@ -71555,6 +71714,9 @@ Salir5 = {
 	1055.1.2 = {
 		birth = "1055.1.2"
 	}
+	1066.1.1 = {
+		give_nickname = nick_jalal_ad_dawla
+	}
 	1092.11.1 = {
 		death = {
 			death_reason = death_murder
@@ -71792,6 +71954,9 @@ Salir5 = {
 	1094.1.1 = {
 		add_trait="smallpox"
 	}
+	1092.1.1 = {
+		give_nickname = nick_nasir_ad_din
+	}
 	1094.11.11 = {
 		death = { death_reason=death_smallpox }
 	}
@@ -71948,6 +72113,9 @@ Salir5 = {
 	1081.1.1 = {
 		birth = yes
 	}
+	1094.1.1 = {
+		give_nickname = nick_rukn_ad_din
+	}
 	1104.12.22 = {
 		death = yes
 	}
@@ -71999,6 +72167,9 @@ Salir5 = {
 	trait = "zealous"
 	1082.1.1 = {
 		birth = yes
+	}
+	1104.1.1 = {
+		give_nickname = nick_ghiyath_ad_din
 	}
 	1118.4.18 = {
 		death = yes
@@ -72225,6 +72396,9 @@ Salir5 = {
 	1101.1.1 = {
 		birth = "1101.1.1"
 	}
+	1134.1.1 = {
+		give_nickname = nick_ghiyath_ad_din
+	}
 	1152.10.2 = {
 		death = {
 			death_reason=death_ill
@@ -72257,6 +72431,9 @@ Salir5 = {
 	}
 	1133.1.1 = {
 		add_spouse=1230249
+	}
+	1160.1.1 = {
+		give_nickname = nick_mughith_ad_din
 	}
 	1161.1.1={
 		death = {
@@ -72302,6 +72479,9 @@ Salir5 = {
 	father = 144014
 	1104.1.1 = {
 		birth = "1104.1.1"
+	}
+	1118.1.1 = {
+		give_nickname = nick_mughith_ad_din
 	}
 	1131.1.1 = {
 		death = {
@@ -72363,6 +72543,9 @@ Salir5 = {
 	father = 144014
 	1109.1.1 = {
 		birth = "1109.1.1"
+	}
+	1132.1.1 = {
+		give_nickname = nick_rukn_ad_din
 	}
 	1134.11.1 = {
 		death = {
@@ -72450,6 +72633,9 @@ Salir5 = {
 	1131.1.1 = {
 		add_spouse=1229956
 	}
+	1131.1.1 = {
+		give_nickname = nick_ghiyath_ad_din
+	}
 	1132.1.1 = {
 		death = {
 			death_reason=death_hashshashin
@@ -72484,6 +72670,9 @@ Salir5 = {
 	1122.1.1 = {
 		birth = "1122.1.1"
 	}
+	1152.1.1 = {
+		give_nickname = nick_mughith_ad_din
+	}
 	1160.3.21 = { #murdered on caliphal vizier's order
 		death = { death_reason=death_poison }
 	}
@@ -72517,6 +72706,9 @@ Salir5 = {
 	}
 	1150.1.1 = {
 		add_spouse=144063M
+	}
+	1153.1.1 = {
+		give_nickname = nick_ghiyath_ad_din
 	}
 	1156.1.1 = {
 		add_spouse=1229948M1
@@ -72607,8 +72799,11 @@ Salir5 = {
 		add_spouse=144063M
 	}
 	1161.1.1 = {
-		add_spouse=1229948M1
+		add_spouse=1229948M11161.1.1 = {
+		give_nickname = nick_muizz_ad_din
 	}
+	}
+	
 	1175.12.31 = {
 		death = yes
 	}
@@ -72827,6 +73022,9 @@ Salir5 = {
 	1161.1.1 = {
 		birth = "1161.1.1"
 	}
+	1175.1.1 = {
+		give_nickname = nick_rukn_ad_din
+	}
 	1194.3.1 = {
 		death = {
 			death_reason = death_battle
@@ -72851,6 +73049,9 @@ Salir5 = {
 	father = 225000
 	1166.1.1 = {
 		birth = "1166.1.1"
+	}
+	1196.1.1 = {
+		give_nickname = nick_rukn_ad_din
 	}
 	1204.7.6={
 		death=yes ### Died 12 days after his armies took Ankara and killed his brother
@@ -72926,6 +73127,9 @@ Salir5 = {
 	1190.1.1 = {
 		add_spouse = 1232245
 	}
+	1192.1.1 = {
+		give_nickname = nick_ghiyath_ad_din
+	}
 	1211.1.1={
 		effect = {
 			set_relation_friend = { reason = friend_generic_history target = character:232518 }
@@ -72961,6 +73165,9 @@ Salir5 = {
 	father = 225004
 	1186.1.1 = {
 		birth = "1186.1.1"
+	}
+	1204.1.1 = {
+		give_nickname = nick_izz_ad_din
 	}
 	1205.1.1 = {
 		death = {
@@ -73004,6 +73211,9 @@ Salir5 = {
 	1191.1.1 = {
 		birth = "1191.1.1"
 	}
+	1211.1.1 = {
+		give_nickname = nick_izz_ad_din
+	}
 	1220.1.1 = {
 		death = yes
 	}
@@ -73029,6 +73239,9 @@ Salir5 = {
 	disallow_random_traits = yes
 	1192.1.1 = {
 		birth = "1192.1.1"
+	}
+	1220.1.1 = {
+		give_nickname = nick_ala_ad_din
 	}
 	1237.1.1 = {
 		death = yes
@@ -73164,6 +73377,9 @@ Salir5 = {
 	1237.1.1 = {
 		add_spouse = 71856
 	}
+	1237.1.1 = {
+		give_nickname = nick_ghiyath_ad_din
+	}
 	1246.1.1 = {
 		death = yes
 	}
@@ -73286,6 +73502,9 @@ Salir5 = {
 	1255.1.1 = {
 		birth = "1255.1.1"
 	}
+	1296.1.1 = {
+		give_nickname = nick_ala_ad_din
+	}
 	1302.1.1 = {
 		death = {
 			death_reason=death_execution
@@ -73319,6 +73538,9 @@ Salir5 = {
 	father = 34191
 	1260.1.1 = {
 		birth = "1260.1.1"
+	}
+	1284.1.1 = {
+		give_nickname = nick_ghiyath_ad_din
 	}
 	1307.1.1 = {
 		death = yes

@@ -1425,6 +1425,7 @@ d_sunni = {
 	always_follows_primary_heir = yes
 	destroy_if_invalid_heir = yes
 	can_be_named_after_dynasty = no
+	disable_regnal_numbers = yes
 
 	capital = c_baghdad
 
@@ -1448,6 +1449,7 @@ d_shiite = {
 	always_follows_primary_heir = yes
 	destroy_if_invalid_heir = yes
 	can_be_named_after_dynasty = no
+	disable_regnal_numbers = yes
 
 	capital = c_cairo
 
@@ -1465,6 +1467,7 @@ d_zayidi = {
 	destroy_if_invalid_heir = yes
 	can_be_named_after_dynasty = no
 	landless = yes
+	disable_regnal_numbers = yes
 }
 
 d_kharijite = { # The Kharijite Caliphate
@@ -1480,6 +1483,7 @@ d_kharijite = { # The Kharijite Caliphate
 	destroy_if_invalid_heir = yes
 	can_be_named_after_dynasty = no
 	landless = yes
+	disable_regnal_numbers = yes
 }
 
 d_nizari = { # Nizari Inamate
@@ -1495,6 +1499,7 @@ d_nizari = { # Nizari Inamate
 	destroy_if_invalid_heir = yes
 	can_be_named_after_dynasty = no
 	landless = yes
+	disable_regnal_numbers = yes
 }
 
 ####
@@ -1511,6 +1516,7 @@ d_barghawata = { # Tamasna # Sala
 	destroy_if_invalid_heir = no
 	can_be_named_after_dynasty = no
 	landless = yes
+	disable_regnal_numbers = yes
 }
 
 d_seveners = {
@@ -1526,6 +1532,7 @@ d_seveners = {
 	destroy_if_invalid_heir = yes
 	can_be_named_after_dynasty = no
 	landless = yes
+	disable_regnal_numbers = yes
 }
 
 d_imami = {
@@ -1541,6 +1548,7 @@ d_imami = {
 	destroy_if_invalid_heir = yes
 	can_be_named_after_dynasty = no
 	landless = yes
+	disable_regnal_numbers = yes
 
 }
 
@@ -1553,6 +1561,7 @@ d_ismaili = {
 	always_follows_primary_heir = yes
 	destroy_if_invalid_heir = yes
 	can_be_named_after_dynasty = no
+	disable_regnal_numbers = yes
 
 	capital = c_cairo
 }
@@ -1566,6 +1575,7 @@ d_zaydi = {
 	always_follows_primary_heir = yes
 	destroy_if_invalid_heir = yes
 	can_be_named_after_dynasty = no
+	disable_regnal_numbers = yes
 
 	capital = c_mecca
 }
@@ -1582,6 +1592,7 @@ d_alawi = {
 	destroy_if_invalid_heir = no
 	landless = yes
 	can_use_nomadic_naming = no
+	disable_regnal_numbers = yes
 }
 
 d_ishaqiya = {
@@ -1596,6 +1607,7 @@ d_ishaqiya = {
 	destroy_if_invalid_heir = no
 	landless = yes
 	can_use_nomadic_naming = no
+	disable_regnal_numbers = yes
 }
 
 d_isfahani = {
@@ -1609,6 +1621,7 @@ d_isfahani = {
 	no_automatic_claims = yes
 	always_follows_primary_heir = yes
 	destroy_if_invalid_heir = no
+	disable_regnal_numbers = yes
 	landless = yes
 }
 
@@ -1622,6 +1635,7 @@ d_hafizi = {
 	destroy_if_invalid_heir = yes
 	can_be_named_after_dynasty = no
 	can_use_nomadic_naming = no
+	disable_regnal_numbers = yes
 	
 	capital = c_cairo
 }
@@ -1636,6 +1650,7 @@ d_tayyibi = {
 	destroy_if_invalid_heir = yes
 	can_be_named_after_dynasty = no
 	can_use_nomadic_naming = no
+	disable_regnal_numbers = yes
 	
 	capital = c_sanaa
 }
@@ -1650,6 +1665,7 @@ d_hamimist = {
 	destroy_if_invalid_heir = no
 	can_be_named_after_dynasty = no
 	can_use_nomadic_naming = no
+	disable_regnal_numbers = yes
 	
 	capital = c_ceuta
 }
@@ -1664,6 +1680,7 @@ d_kaduist = {
 	destroy_if_invalid_heir = no
 	can_be_named_after_dynasty = no
 	can_use_nomadic_naming = no
+	disable_regnal_numbers = yes
 	
 	capital = c_satif
 }
@@ -1681,6 +1698,7 @@ d_hashashin = {
 	destroy_if_invalid_heir = no
 	can_be_named_after_dynasty = no
 	landless = yes
+	disable_regnal_numbers = yes
 }
 
 d_ibadi = {
@@ -1695,6 +1713,7 @@ d_ibadi = {
 	destroy_if_invalid_heir = no
 	landless = yes
 	can_use_nomadic_naming = no
+	disable_regnal_numbers = yes
 }
 
 d_wahbiya = {
@@ -1709,6 +1728,7 @@ d_wahbiya = {
 	destroy_if_invalid_heir = no
 	landless = yes
 	can_use_nomadic_naming = no
+	disable_regnal_numbers = yes
 }
 
 d_nukkari = {
@@ -1723,6 +1743,7 @@ d_nukkari = {
 	destroy_if_invalid_heir = no
 	landless = yes
 	can_use_nomadic_naming = no
+	disable_regnal_numbers = yes
 }
 
 d_masmudi = {
@@ -1737,6 +1758,7 @@ d_masmudi = {
 	destroy_if_invalid_heir = yes
 	can_be_named_after_dynasty = no
 	landless = yes
+	disable_regnal_numbers = yes
 
 	capital = c_marrakesh
 
@@ -1753,6 +1775,7 @@ d_muwalladi = {
 	destroy_if_invalid_heir = yes
 	can_be_named_after_dynasty = no
 	landless = yes
+	disable_regnal_numbers = yes
 
 	capital = c_toledo
 
@@ -1767,6 +1790,7 @@ d_ghulat = {
 	always_follows_primary_heir = yes
 	destroy_if_invalid_heir = yes
 	can_be_named_after_dynasty = no
+	disable_regnal_numbers = yes
 
 	capital = c_kufa
 }
@@ -19134,6 +19158,8 @@ e_byzantium = {
 		color = { 120 200 140 }
 
 		can_be_named_after_dynasty = yes
+		disable_regnal_numbers = yes
+		
 		capital = c_kaisereia
 
 	}
@@ -19142,6 +19168,7 @@ e_byzantium = {
 		color = { 144 182 161 }
 
 		can_be_named_after_dynasty = no
+
 		capital = c_lycaonia # Ikonion
 		#definite_form = yes
 		ai_primary_priority = {
@@ -46281,6 +46308,7 @@ e_turan = {
 	}
 
 	can_use_nomadic_naming = no
+	disable_regnal_numbers = yes
 	definite_form = yes
 
 	ai_primary_priority = {
@@ -46298,6 +46326,9 @@ e_turan = {
 		color = { 117 67 64 }
 
 		capital = c_gurganj	#	Gurganj
+		
+		disable_regnal_numbers = yes
+		
 	}
 
 	k_oghuz_il = {
@@ -46641,6 +46672,8 @@ e_turan = {
 		color = { 150 115 88 }
 
 		capital = c_chah
+		
+		disable_regnal_numbers = yes
 
 		ai_primary_priority = {
 			if = {
@@ -47022,6 +47055,8 @@ e_turan = {
 		}
 
 		capital = c_gurganj	#	Gurganj
+		
+		disable_regnal_numbers = yes
 
 		d_khorezm = {
 			color = { 246 85 106 }
@@ -47292,6 +47327,8 @@ e_turan = {
 		}
 
 		capital = c_bukhara	#	Bukhara
+		
+		disable_regnal_numbers = yes
 
 		d_soghd = {
 			color = { 197 39 20 }
@@ -48015,6 +48052,7 @@ e_tokhara = { # To represent the region being a borderlands between India and Ir
 	capital = c_ghazna
 
 	can_create_on_partition = { always = no }
+	disable_regnal_numbers = yes
 
 	can_create = {
 		rule_title_creation_imperial_power_projection_title_creation_trigger = yes
@@ -48040,6 +48078,8 @@ e_tokhara = { # To represent the region being a borderlands between India and Ir
 		}
 
 		capital = c_kabul # Kabul
+		
+		disable_regnal_numbers = yes
 
 		d_kabul = {
 			color = { 125 68 23 }
@@ -48336,6 +48376,8 @@ e_tokhara = { # To represent the region being a borderlands between India and Ir
 		color = { 145 40 150 }
 
 		capital = c_ghur # Firuzkuh
+		
+		disable_regnal_numbers = yes
 
 		can_create = {
 			trigger_if = {
@@ -48766,6 +48808,8 @@ e_tokhara = { # To represent the region being a borderlands between India and Ir
 		}
 
 		capital = c_panjgur	#	Bannajbur
+		
+		disable_regnal_numbers = yes
 
 		d_makran = {
 			color = { 100 200 70 }
@@ -49005,6 +49049,7 @@ e_tokhara = { # To represent the region being a borderlands between India and Ir
 
 	k_sistan = { #
 		color = { 190 85 230 }
+		
 		capital = c_zaranj
 
 		can_create = {
@@ -49015,6 +49060,8 @@ e_tokhara = { # To represent the region being a borderlands between India and Ir
 				NOT = {  culture = { has_cultural_pillar = heritage_mongolic } }
 			}
 		}
+		
+		disable_regnal_numbers = yes
 
 		d_sistan = {
 			color = { 5 75 5 }
@@ -49320,6 +49367,7 @@ e_persia = {
 	capital = c_isfahan #	Esfahan
 
 	can_use_nomadic_naming = no
+	disable_regnal_numbers = yes
 	definite_form = yes
 
 	ai_primary_priority = {
@@ -49351,12 +49399,16 @@ e_persia = {
 		color = { 135 240 20 }
 
 		capital = c_shiraz
+		
+		disable_regnal_numbers = yes
+		
 	}
 
 	k_persia = {
 		color = { 50 150 230 }
 
 		can_be_named_after_dynasty = yes
+		disable_regnal_numbers = yes
 
 		can_create = {
 			trigger_if = {
@@ -61832,6 +61884,8 @@ e_maghreb = {
 	color = { 165 45 40 }
 
 	can_be_named_after_dynasty = yes
+	disable_regnal_numbers = yes
+	
 	capital = c_marrakesh # Marrakesh
 
 	can_create = {
@@ -61859,6 +61913,8 @@ e_maghreb = {
 		color = { 140 20 7 }
 
 		can_be_named_after_dynasty = yes
+		disable_regnal_numbers = yes
+		
 		capital = c_marrakesh # Marrakesh
 
 		ai_primary_priority = {
@@ -63009,6 +63065,8 @@ e_maghreb = {
 		}
 
 		capital = c_kairwan # Kairouan
+		
+		disable_regnal_numbers = yes
 
 		d_kairouan = {
 			color = { 150 52 20 }
@@ -65733,6 +65791,7 @@ e_egypt = { # Misr
 	ruler_uses_title_name = no
 	can_be_named_after_dynasty = yes
 	can_use_nomadic_naming = no
+	disable_regnal_numbers = yes
 	definite_form = yes
 
 	can_create = {
@@ -65759,6 +65818,8 @@ e_egypt = { # Misr
 		color = { 15 220 95 }
 
 		capital	= c_cairo
+		
+		disable_regnal_numbers = yes
 
 		ai_primary_priority = {
 			if = {
@@ -66624,6 +66685,8 @@ e_arabia = {
 		color = { 100 225 25 }
 
 		capital = c_medina
+		
+		disable_regnal_numbers = yes
 
 		can_create = {
 			trigger_if = {
@@ -66649,6 +66712,8 @@ e_arabia = {
 			color = { 160 250 50 }
 
 			capital = c_medina
+			
+			disable_regnal_numbers = yes
 
 			c_medina = {
 				color = { 162 253 55 }
@@ -66794,6 +66859,8 @@ e_arabia = {
 
 		d_mecca = {
 			color = { 120 200 5 }
+			
+			disable_regnal_numbers = yes
 
 			capital = c_mecca
 
@@ -67029,6 +67096,8 @@ e_arabia = {
 		color = { 90 200 50 }
 
 		capital = c_nizwa
+		
+		disable_regnal_numbers = yes
 
 		ai_primary_priority = {
 			if = {
@@ -67044,6 +67113,8 @@ e_arabia = {
 			color = { 235 160 30 }
 
 			capital = c_nizwa
+			
+			disable_regnal_numbers = yes
 
 			c_nizwa = {
 				color = { 232 163 27 }
@@ -67765,6 +67836,8 @@ e_arabia = {
 		color = { 218 234 33 }
 
 		capital	= c_sanaa
+		
+		disable_regnal_numbers = yes
 
 		can_create = {
 			trigger_if = {
@@ -78787,6 +78860,8 @@ h_india = {					  # Titular, created by special decision only if entire India is
 			color = { 225 135 20 }
 	
 			capital = c_debul # Debul
+			
+			disable_regnal_numbers = yes
 	
 			ai_primary_priority = {
 				if = {

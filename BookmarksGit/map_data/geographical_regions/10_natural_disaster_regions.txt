@@ -202,7 +202,7 @@ himalaya_earthquake_region = {
 	}
 	counties = {
 		#Guge
-		c_tsaparang c_kyunglung c_gar c_gegyai
+		c_tsaparang c_kyunglung c_gegyai
 		#Maryul
 		c_rutog
 		#Lahore
@@ -214,7 +214,7 @@ himalaya_earthquake_region = {
 # 13 in e_bengal, 34 in k_pagan, 2 in k_dvaravati, 12 in e_tibet, 23 in e_liangyi, 82 in total. give it same level as himalaya.
 sichuan_myanmar_earthquake_region = {
 	kingdoms = {
-		k_pagan k_north_shan k_laos k_dali
+		k_pagan k_shan k_laos k_dali
 	}
 	duchies = {
 		# k_kamarupa
@@ -263,7 +263,7 @@ north_pacific_earthquake_region = {
 
 world_asia_southeast_islands_weak_earthquake_region = {
 	kingdoms = {
-		k_tanjunnagara k_buruna k_sulu k_tarakan k_banjar
+		k_tanjungnagara k_burune k_sulu k_tarakan k_banjar
 	}
 }
 world_asia_north_east_and_korea_weak_earthquake_region = {

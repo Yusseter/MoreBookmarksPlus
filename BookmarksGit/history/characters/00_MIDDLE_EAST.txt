@@ -16166,13 +16166,16 @@ bedouin0118 = {
 	870.1.1 = {
 		birth = "870.1.1"
 	}
+	881.1.1 = {
+		give_nickname = nick_al_mahdi_billah
+	}
 	934.1.1 = {
 		death = yes
 	}
 }
 
 32901 = {
-	name = "al-Qaim"
+	name = "Muhammad"
 	dynasty_house = house_Fatimid
 	trait = ubaydi #Fatimid Sayyid
 	diplomacy = 7
@@ -16191,6 +16194,9 @@ bedouin0118 = {
 	893.1.1 = {
 		birth = "893.1.1"
 	}
+	934.1.1 = {
+		give_nickname = nick_al_qaim_bi_amr_allah
+	}
 	944.1.1 = {
 		add_trait = patient  # Added when Abu Yazid rebellion begins - his ability to endure the long siege of al-Mahdiya
 	}
@@ -16200,7 +16206,7 @@ bedouin0118 = {
 }
 
 32902 = {
-	name = "al-Mansur"
+	name = "Isma'il"
 	dynasty_house = house_Fatimid
 	trait = ubaydi #Fatimid Sayyid
 	religion = "ismaili"
@@ -16208,6 +16214,9 @@ bedouin0118 = {
 	father = 32901
 	913.1.1 = {
 		birth = "913.1.1"
+	}
+	946.1.1 = {
+		give_nickname = nick_al_mansur_bi_nasr_allah
 	}
 	953.3.19 = {
 		death = yes
@@ -16231,7 +16240,7 @@ bedouin0118 = {
 }
 
 32903 = {
-	name = "al-Muizz"
+	name = "Ma'add"
 	dynasty_house = house_Fatimid
 	trait = ubaydi #Fatimid Sayyid
 	religion = "ismaili"
@@ -16239,6 +16248,9 @@ bedouin0118 = {
 	father = 32902
 	932.1.1 = {
 		birth = "932.1.1"
+	}
+	953.1.1 = {
+		give_nickname = nick_al_muizz_li_din_allah
 	}
 	975.1.1 = {
 		death = yes
@@ -16339,7 +16351,7 @@ bedouin0118 = {
 }
 
 3090 = {
-	name = "al-Aziz"
+	name = "Nizar"
 	dynasty_house = house_Fatimid
 	trait = ubaydi #Fatimid Sayyid
 	martial = 6
@@ -16354,6 +16366,9 @@ bedouin0118 = {
 	father = 32903
 	955.1.1 = {
 		birth = "955.1.1"
+	}
+	975.1.1 = {
+		give_nickname = nick_al_aziz_billah
 	}
 	996.10.13 = {
 		death = yes
@@ -16505,7 +16520,7 @@ bedouin0118 = {
 }
 
 3092 = {
-	name = "al-Hakim"
+	name = "Al-Mansur"
 	dynasty_house = house_Fatimid
 	trait = ubaydi #Fatimid Sayyid
 	martial = 3        # Reduced - not primarily a military leader
@@ -16525,6 +16540,9 @@ bedouin0118 = {
 	985.1.1 = {
 		birth = "985.1.1"
 	}
+	996.1.1 = {
+		give_nickname = nick_al_hakim_bi_amr_allah
+	}
 	1005.1.1 = {
 		add_trait = scholar  # Founded Dar al-Ilm (House of Wisdom) in Cairo, became patron of learning
 	}
@@ -16540,7 +16558,7 @@ bedouin0118 = {
 }
 
 3094 = {
-	name = "az-Zahir"
+	name = "Ali"
 	dynasty_house = house_Fatimid
 	trait = ubaydi #Fatimid Sayyid
 	martial = 6
@@ -16553,6 +16571,9 @@ bedouin0118 = {
 	father = 3092
 	1005.6.20 = {
 		birth = "1005.6.20"
+	}
+	1021.1.1 = {
+		give_nickname = nick_al_zahir_li_izaz_din_allah
 	}
 	1022.1.1 = {
 		add_spouse = additional_fatimids_1
@@ -16583,7 +16604,7 @@ bedouin0118 = {
 }
 
 3096 = {
-	name = "al-Mustansir"
+	name = "Ma'add"
 	dynasty_house = house_Fatimid
 	trait = ubaydi #Fatimid Sayyid
 	martial = 6
@@ -16601,6 +16622,9 @@ bedouin0118 = {
 	mother = additional_fatimids_1
 	1029.7.5 = {
 		birth = "1029.7.5"
+	}
+	1036.1.1 = {
+		give_nickname = nick_al_mustansir_billah
 	}
 	1060.1.1 = {
 		effect = {
@@ -16678,7 +16702,7 @@ bedouin0118 = {
 }
 
 3100 = {
-	name = "al-Mustali"
+	name = "Ahmad"
 	dynasty_house = house_Fatimid
 	trait = ubaydi #Fatimid Sayyid
 	martial = 6
@@ -16693,6 +16717,9 @@ bedouin0118 = {
 	father = 3096
 	1050.1.1 = {
 		birth = "1050.1.1"
+	}
+	1094.1.1 = {
+		give_nickname = nick_al_mustali_billah
 	}
 	1101.1.1 = {
 		death = yes
@@ -16715,7 +16742,7 @@ MBNazir1 = {
 }
 
 32907 = {
-	name = "al-Hafiz"
+	name = "Abd al-Majid"
 	dynasty_house = house_Fatimid
 	trait = ubaydi #Fatimid Sayyid
 	religion = "ismaili"
@@ -16727,13 +16754,16 @@ MBNazir1 = {
 	1112.1.1 = {
 		religion = hafizi #So he doesn't hate his kids
 	}
+	1130.1.1 = {
+		give_nickname = nick_al_hafiz_li_din_allah
+	}
 	1149.1.1 = {
 		death = yes
 	}
 }
 
 32905 = {
-	name = "al-Amir"
+	name = "Al-Mansur"
 	dynasty_house = house_Fatimid
 	trait = ubaydi #Fatimid Sayyid
 	religion = "ismaili"
@@ -16741,6 +16771,9 @@ MBNazir1 = {
 	father = 3100
 	1096.1.1 = {
 		birth = "1096.1.1"
+	}
+	1101.1.1 = {
+		give_nickname = nick_al_amir_bi_ahkam_allah
 	}
 	1130.1.1 = {
 		death = yes
@@ -16793,7 +16826,7 @@ MBNazir2 = {
 }
 
 32908 = {
-	name = "al-Zafir"
+	name = "Isma'il"
 	dynasty_house = house_Fatimid
 	trait = ubaydi #Fatimid Sayyid
 	religion = "hafizi"
@@ -16801,6 +16834,9 @@ MBNazir2 = {
 	father = 32907
 	1120.1.1 = {
 		birth = "1120.1.1"
+	}
+	1149.1.1 = {
+		give_nickname = nick_al_zafir_bi_amr_allah
 	}
 	1154.1.1 = {
 		death = yes
@@ -16945,7 +16981,7 @@ MBNazir3 = {
 }
 
 32909 = {
-	name = "al-Faiz"
+	name = "Isa"
 	dynasty_house = house_Fatimid
 	trait = ubaydi #Fatimid Sayyid
 	religion = "hafizi"
@@ -16954,13 +16990,16 @@ MBNazir3 = {
 	1149.1.1 = {
 		birth = "1149.1.1"
 	}
+	1154.1.1 = {
+		give_nickname = nick_al_faiz_bi_nasr_allah
+	}
 	1160.1.1 = {
 		death = yes
 	}
 }
 
 32910 = {
-	name = "al-Adid"
+	name = "Abdallah"
 	dynasty_house = house_Fatimid
 	trait = ubaydi #Fatimid Sayyid
 	religion = "hafizi"
@@ -16968,6 +17007,9 @@ MBNazir3 = {
 	father = 32908
 	1150.1.1 = {
 		birth = "1150.1.1"
+	}
+	1160.1.1 = {
+		give_nickname = nick_al_adid_li_din_allah
 	}
 	1171.9.13 = {
 		death = {
@@ -20045,6 +20087,9 @@ levantine0086 = {
 	914.1.1 = {
 		add_spouse = andalusian0033 #Maryam
 	}
+	929.1.1 = {
+		give_nickname = nick_al_nasir
+	}
 	929.1.16 = {
 		add_trait = august  # Added when he declares himself Caliph, representing his imperial status and authority
 	}
@@ -20237,6 +20282,9 @@ andalusian0026 = {
 	father = 3200
 	915.1.13 = {
 		birth = "915.1.13"
+	}
+	961.1.1 = {
+		give_nickname = nick_al_mustansir
 	}
 	976.10.16 = {
 		death = yes
@@ -20658,6 +20706,9 @@ andalusian0048 = {
 	965.1.1 = {
 		birth = "986.1.1"
 	}
+	1009.1.1 = {
+		give_nickname = nick_al_mustain
+	}
 	1016.7.1 = {
 		death = {
 			death_reason = death_execution
@@ -20684,6 +20735,9 @@ andalusian0048 = {
 	father = 3202
 	965.6.11 = {
 		birth = "965.6.11"
+	}
+	976.1.1 = {
+		give_nickname = nick_al_muayyad
 	}
 	1013.4.19 = {
 		death = yes
@@ -20799,6 +20853,9 @@ andalusian0053 = {
 	977.1.1 = {
 		birth = yes
 	}
+	1009.1.1 = {
+		give_nickname = nick_al_mahdi
+	}
 	1010.7.23 = {
 		death = {
 			death_reason = death_murder_known
@@ -20817,6 +20874,9 @@ andalusian0053 = {
 	father = 73667 #Abd al-Rahman ibn Ubayd Allah
 	979.1.1 = {
 		birth = yes
+	}
+	1024.1.1 = {
+		give_nickname = nick_al_mustakfi
 	}
 	1025.6.12 = {
 		death = {
@@ -20859,6 +20919,9 @@ andalusian0053 = {
 	father = 73677
 	980.1.1 = {
 		birth = "980.1.1"
+	}
+	1027.1.1 = {
+		give_nickname = nick_al_mutadd
 	}
 	1036.1.1 = {
 		death = yes
@@ -20939,6 +21002,9 @@ andalusian0044 = {
 	father = 73670 #Hisham ibn Abd al-Yabbar
 	989.1.1 = {
 		birth = yes
+	}
+	1023.1.1 = {
+		give_nickname = nick_al_mustazhir
 	}
 	1024.1.17 = {
 		death = {
@@ -21397,7 +21463,7 @@ andalusian0066 = {
 }
 
 34002 = {
-	name = "Al-Mansur"
+	name = "Abdallah"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = levantine
@@ -21408,6 +21474,9 @@ andalusian0066 = {
 	}
 	732.1.1 = {
 		add_spouse = 188746
+	}
+	754.1.1 = {
+		give_nickname = nick_al_mansur
 	}
 	775.1.1 = {
 		death = yes
@@ -21445,7 +21514,7 @@ andalusian0066 = {
 }
 
 34001 = {
-	name = "al-Saffah"
+	name = "Abdallah"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = "bedouin"
@@ -21453,6 +21522,9 @@ andalusian0066 = {
 	trait = quraysh
 	721.1.1 = {
 		birth = "721.1.1"
+	}
+	750.1.1 = {
+		give_nickname = nick_al_saffah
 	}
 	754.6.10 = {
 		death = yes
@@ -21490,7 +21562,7 @@ andalusian0066 = {
 }
 
 34003 = {
-	name = "Al-Mahdi"
+	name = "Muhammad"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = levantine
@@ -21499,6 +21571,9 @@ andalusian0066 = {
 	trait = quraysh
 	735.1.1 = {
 		birth = yes
+	}
+	775.1.1 = {
+		give_nickname = nick_al_mahdi
 	}
 	785.1.1 = {
 		death = yes
@@ -21597,7 +21672,7 @@ andalusian0066 = {
 }
 
 34004 = {
-	name = "Al-Hadi"
+	name = "Musa"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = levantine
@@ -21605,6 +21680,9 @@ andalusian0066 = {
 	trait = quraysh
 	755.1.1 = {
 		birth = "755.1.1"
+	}
+	785.1.1 = {
+		give_nickname = nick_al_hadi
 	}
 	786.1.1 = {
 		death = yes
@@ -21627,7 +21705,7 @@ andalusian0066 = {
 }
 
 34005 = {
-	name = "Harun_al-Rashid"
+	name = "Harun"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = levantine
@@ -21635,6 +21713,9 @@ andalusian0066 = {
 	trait = quraysh
 	763.1.1 = {
 		birth = "763.1.1"
+	}
+	786.1.1 = {
+		give_nickname = nick_ar_rashid
 	}
 	809.1.1 = {
 		death = yes
@@ -21673,7 +21754,7 @@ andalusian0066 = {
 }
 
 34007 = {
-	name = "Al-Ma_mum"
+	name = "Abdallah"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = levantine
@@ -21682,13 +21763,16 @@ andalusian0066 = {
 	786.9.13 = {
 		birth = "786.9.13"
 	}
+	813.1.1 = {
+		give_nickname = nick_al_mamun
+	}
 	833.8.9 = {
 		death = yes
 	}
 }
 
 34006 = {
-	name = "Al-Amin"
+	name = "Muhammad"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = levantine
@@ -21697,13 +21781,16 @@ andalusian0066 = {
 	787.1.1 = {
 		birth = "787.1.1"
 	}
+	809.1.1 = {
+		give_nickname = nick_al_amin
+	}
 	813.1.1 = {
 		death = yes
 	}
 }
 
 34008 = {
-	name = "Al-Mu_tasim"
+	name = "Muhammad"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = levantine
@@ -21712,13 +21799,16 @@ andalusian0066 = {
 	794.1.1 = {
 		birth = "794.1.1"
 	}
+	833.1.1 = {
+		give_nickname = nick_al_mutasim
+	}
 	842.1.5 = {
 		death = yes
 	}
 }
 
 34009 = {
-	name = "Al-Wathiq"
+	name = "Harun"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = levantine
@@ -21727,13 +21817,16 @@ andalusian0066 = {
 	817.1.1 = {
 		birth = "817.1.1"
 	}
+	842.1.1 = {
+		give_nickname = nick_al_wathiq
+	}
 	847.1.1 = {
 		death = yes
 	}
 }
 
 34010 = {
-	name = "Al-Mutawakkil"
+	name = "Ja_far"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = levantine
@@ -21741,6 +21834,9 @@ andalusian0066 = {
 	trait = quraysh
 	821.3.1 = {
 		birth = "821.3.1"
+	}
+	847.1.1 = {
+		give_nickname = nick_al_mutawakkil
 	}
 	861.12.1 = {
 		death = {
@@ -21766,7 +21862,7 @@ andalusian0066 = {
 }
 
 34015 = {
-	name = "Al-Muhtadi"
+	name = "Muhammad"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = levantine
@@ -21774,6 +21870,9 @@ andalusian0066 = {
 	trait = quraysh
 	833.1.1 = {
 		birth = yes
+	}
+	869.1.1 = {
+		give_nickname = nick_al_muhtadi
 	}
 	870.6.1 = {
 		death = yes
@@ -21796,7 +21895,7 @@ andalusian0066 = {
 }
 
 34012 = {
-	name = "Al-Muntasir"
+	name = "Muhammad"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = levantine
@@ -21804,6 +21903,9 @@ andalusian0066 = {
 	trait = quraysh
 	840.1.1 = {
 		birth = "840.1.1"
+	}
+	861.1.1 = {
+		give_nickname = nick_al_muntasir
 	}
 	862.6.7 = {
 		death = {
@@ -21814,7 +21916,7 @@ andalusian0066 = {
 }
 
 34013 = {
-	name = "Al-Musta_in"
+	name = "Ahmad"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = levantine
@@ -21822,6 +21924,9 @@ andalusian0066 = {
 	trait = quraysh
 	840.1.1 = {
 		birth = yes
+	}
+	862.1.1 = {
+		give_nickname = nick_al_mustain
 	}
 	866.1.1 = {
 		death = {
@@ -21832,7 +21937,7 @@ andalusian0066 = {
 }
 
 34017 = {
-	name = "Al-Muwaffak"
+	name = "Ja_far"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = levantine
@@ -21841,13 +21946,16 @@ andalusian0066 = {
 	840.1.1 = {
 		birth = yes
 	}
+	870.1.1 = {
+		give_nickname = nick_al_mufawwid
+	}
 	890.1.1 = {
 		death = yes
 	}
 }
 
 34016 = {
-	name = "Al-Mu_tamid"
+	name = "Ahmad"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = levantine
@@ -21860,13 +21968,16 @@ andalusian0066 = {
 	844.1.1 = {
 		birth = yes
 	}
+	870.1.1 = {
+		give_nickname = nick_al_mutamid
+	}
 	892.10.1 = {
 		death = yes
 	}
 }
 
 34014 = {
-	name = "Al-Mu_tazz"
+	name = "Muhammad"
 	dna = 34014_caliph
 	dynasty_house = house_abbasid
 	religion = "ashari"
@@ -21884,6 +21995,9 @@ andalusian0066 = {
 		effect = {
 			add_character_flag = has_scripted_appearance
 		}
+	}
+	866.1.1 = {
+		give_nickname = nick_al_mutazz
 	}
 	866.1.1 = {
 		add_pressed_claim = title:k_egypt #Tulunids
@@ -21934,7 +22048,7 @@ andalusian0066 = {
 }
 
 34018 = {
-	name = "Al-Mu_tadid"
+	name = "Ahmad"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = levantine
@@ -21942,6 +22056,9 @@ andalusian0066 = {
 	trait = quraysh
 	857.1.1 = {
 		birth = yes
+	}
+	892.1.1 = {
+		give_nickname = nick_al_mutadid
 	}
 	902.1.1 = {
 		death = yes
@@ -21961,6 +22078,9 @@ andalusian0066 = {
 	877.11.1={
 		add_trait = lifestyle_reveler #reveler_2
 	}
+	908.1.1 = {
+		give_nickname = nick_al_murtada
+	}
 	908.12.29={
 		death = {
 			death_reason=death_murder
@@ -21969,7 +22089,7 @@ andalusian0066 = {
 }
 
 34019 = {
-	name = "Al-Muktafi"
+	name = "Ali"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = levantine
@@ -21978,13 +22098,16 @@ andalusian0066 = {
 	880.1.1 = {
 		birth = yes
 	}
+	902.1.1 = {
+		give_nickname = nick_al_muktafi
+	}
 	908.1.1 = {
 		death = yes
 	}
 }
 
 34021 = {
-	name = "Al-Muqtadir"
+	name = "Ja_far"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = levantine
@@ -21993,13 +22116,16 @@ andalusian0066 = {
 	895.1.1 = {
 		birth = yes
 	}
+	908.1.1 = {
+		give_nickname = nick_al_muqtadir
+	}
 	932.1.1 = {
 		death = yes
 	}
 }
 
 34020 = {
-	name = "Al-Qahir"
+	name = "Muhammad"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = levantine
@@ -22008,13 +22134,16 @@ andalusian0066 = {
 	899.1.1 = {
 		birth = yes
 	}
+	932.1.1 = {
+		give_nickname = nick_al_qahir
+	}
 	950.1.1 = {
 		death = yes
 	}
 }
 
 34024 = {
-	name = "Al-Mustakfi"
+	name = "Abdallah"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = levantine
@@ -22023,13 +22152,16 @@ andalusian0066 = {
 	900.1.1 = {
 		birth = yes
 	}
+	944.1.1 = {
+		give_nickname = nick_al_mustakfi
+	}
 	946.1.1 = {
 		death = yes
 	}
 }
 
 34022 = {
-	name = "Ar-Radi"
+	name = "Ahmad"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = levantine
@@ -22047,6 +22179,9 @@ andalusian0066 = {
 	912.1.1 = {
 		birth = yes
 	}
+	934.1.1 = {
+		give_nickname = nick_al_radi
+	}
 	936.1.1 = {
 		add_trait = theologian  # Added when he becomes "the last caliph to deliver Friday sermons"
 	}
@@ -22055,7 +22190,7 @@ andalusian0066 = {
 	}
 }
 34023 = {
-	name = "Al-Muttaqi"
+	name = "Ibrahim"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = levantine
@@ -22064,13 +22199,16 @@ andalusian0066 = {
 	915.1.1 = {
 		birth = yes
 	}
+	940.1.1 = {
+		give_nickname = nick_al_muttaqi
+	}
 	944.1.1 = {
 		death = yes
 	}
 }
 
 34025 = {
-	name = "Al-Muti"
+	name = "al-Fadl"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = levantine
@@ -22079,13 +22217,16 @@ andalusian0066 = {
 	916.1.1 = {
 		birth = yes
 	}
+	946.1.1 = {
+		give_nickname = nick_al_muti
+	}
 	974.1.1 = {
 		death = yes
 	}
 }
 
 3080 = {
-	name = "Al-Ta_i"
+	name = "Abd al-Karim"
 	dynasty_house = house_abbasid
 	martial = 6
 	diplomacy = 4
@@ -22101,13 +22242,16 @@ andalusian0066 = {
 	932.1.1 = {
 		birth = "932.1.1"
 	}
+	974.1.1 = {
+		give_nickname = nick_al_tai
+	}
 	1003.1.1 = {
 		death = yes
 	}
 }
 
 3082 = {
-	name = "Al-Qadir"
+	name = "Ahmad"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = iraqi
@@ -22122,13 +22266,16 @@ andalusian0066 = {
 	943.1.1 = {
 		birth = "943.1.1"
 	}
+	991.1.1 = {
+		give_nickname = nick_al_qadir
+	}
 	1031.1.1 = {
 		death = yes
 	}
 }
 
 3084 = {
-	name = "Al-Qa_im"
+	name = "Abdallah"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = iraqi
@@ -22141,6 +22288,9 @@ andalusian0066 = {
 	trait = quraysh
 	1017.1.1 = {
 		birth = "1017.1.1"
+	}
+	1031.1.1 = {
+		give_nickname = nick_al_qaim
 	}
 	1075.1.1 = {
 		death = yes
@@ -22179,7 +22329,7 @@ andalusian0066 = {
 }
 
 3086 = {
-	name = "Al-Muqtadi"
+	name = "Abdallah"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = iraqi
@@ -22193,13 +22343,16 @@ andalusian0066 = {
 	1052.1.1 = {
 		birth = "1052.1.1"
 	}
+	1075.1.1 = {
+		give_nickname = nick_al_muqtadi
+	}
 	1094.1.1 = {
 		death = yes
 	}
 }
 
 3088 = {
-	name = "Al-Mustazhir"
+	name = "Ahmad"
 	dynasty_house = house_abbasid
 	martial = 4
 	diplomacy = 8
@@ -22213,6 +22366,9 @@ andalusian0066 = {
 	father = 3086
 	1075.1.1 = {
 		birth = "1075.1.1"
+	}
+	1094.1.1 = {
+		give_nickname = nick_al_mustazhir
 	}
 	1118.1.1 = {
 		death = yes
@@ -22236,7 +22392,7 @@ andalusian0066 = {
 }
 
 144060 = {
-	name = "Al-Mustarshid"
+	name = "al-Fadl"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = "iraqi"
@@ -22244,6 +22400,9 @@ andalusian0066 = {
 	trait = quraysh
 	1092.1.1 = {
 		birth = "1092.1.1"
+	}
+	1118.1.1 = {
+		give_nickname = nick_al_mustarshid
 	}
 	1135.1.1 = {
 		death = {
@@ -22268,7 +22427,7 @@ andalusian0066 = {
 }
 
 144062 = {
-	name = "Al-Muqtafi"
+	name = "Muhammad"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = "iraqi"
@@ -22277,13 +22436,16 @@ andalusian0066 = {
 	1095.1.1 = {
 		birth = "1095.1.1"
 	}
+	1136.1.1 = {
+		give_nickname = nick_al_muqtafi
+	}
 	1160.1.1 = {
 		death = yes
 	}
 }
 
 144061 = {
-	name = "Al-Rashid"
+	name = "al-Mansur"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = "iraqi"
@@ -22291,6 +22453,9 @@ andalusian0066 = {
 	trait = quraysh
 	1109.1.1 = {
 		birth = "1109.1.1"
+	}
+	1135.1.1 = {
+		give_nickname = nick_ar_rashid
 	}
 	1138.1.1 = {
 		death = {
@@ -22333,7 +22498,7 @@ andalusian0066 = {
 }
 
 144063 = {
-	name = "Al-Mustanjid"
+	name = "Yusuf"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = "iraqi"
@@ -22341,6 +22506,9 @@ andalusian0066 = {
 	trait = quraysh
 	1120.1.1 = {
 		birth = "1120.1.1"
+	}
+	1160.1.1 = {
+		give_nickname = nick_al_mustanjid
 	}
 	1170.1.1 = {
 		death = yes
@@ -22379,7 +22547,7 @@ andalusian0066 = {
 }
 
 144064 = {
-	name = "Al-Mustadi"
+	name = "al-Hasan"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = "iraqi"
@@ -22388,13 +22556,16 @@ andalusian0066 = {
 	1142.1.1 = {
 		birth = "1142.1.1"
 	}
+	1170.1.1 = {
+		give_nickname = nick_al_mustadi
+	}
 	1180.1.1 = {
 		death = yes
 	}
 }
 
 227000 = {
-	name = "Al-Nasir"
+	name = "Ahmad"
 	dynasty_house = house_abbasid
 	martial = 6        # Increased from 4 - successfully expanded eastward and defeated Seljuk forces
 	diplomacy = 7
@@ -22412,6 +22583,9 @@ andalusian0066 = {
 	father = 144064
 	1158.1.1 = {
 		birth = "1158.1.1"
+	}
+	1180.1.1 = {
+		give_nickname = nick_al_nasir
 	}
 	1225.1.1 = {
 		death = yes
@@ -22434,7 +22608,7 @@ andalusian0066 = {
 }
 
 34027 = {
-	name = "Az-Zahir"
+	name = "Muhammad"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = iraqi
@@ -22453,13 +22627,16 @@ andalusian0066 = {
 	1176.1.1 = {
 		birth = yes
 	}
+	1225.1.1 = {
+		give_nickname = nick_al_zahir
+	}
 	1226.1.1 = {
 		death = yes
 	}
 }
 
 34028 = {
-	name = "Al-Mustansir"
+	name = "al-Mansur"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = iraqi
@@ -22468,13 +22645,16 @@ andalusian0066 = {
 	1192.1.1 = {
 		birth = yes
 	}
+	1225.1.1 = {
+		give_nickname = nick_al_mustansir
+	}
 	1242.1.1 = {
 		death = yes
 	}
 }
 
 34032 = {
-	name = "Al-Mustansir"
+	name = "Ahmad"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = iraqi
@@ -22483,13 +22663,16 @@ andalusian0066 = {
 	1205.1.1 = {
 		birth = yes
 	}
+	1258.1.1 = {
+		give_nickname = nick_al_mustansir
+	}
 	1262.1.1 = {
 		death = yes
 	}
 }
 
 34029 = {
-	name = "Al-Musta_sim"
+	name = "Abdallah"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = iraqi
@@ -22497,6 +22680,9 @@ andalusian0066 = {
 	trait = quraysh
 	1213.1.1 = {
 		birth = yes
+	}
+	1242.1.1 = {
+		give_nickname = nick_al_mustasim
 	}
 	1258.2.20 = {
 		death = yes
@@ -22522,7 +22708,7 @@ andalusian0066 = {
 }
 
 34033 = {
-	name = "Al-Hakim"
+	name = "Ahmad"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = iraqi
@@ -22530,6 +22716,9 @@ andalusian0066 = {
 	trait = quraysh
 	1240.1.1 = {
 		birth = yes
+	}
+	1262.1.1 = {
+		give_nickname = nick_al_hakim
 	}
 	1302.1.1 = {
 		death = yes
@@ -22553,7 +22742,7 @@ andalusian0066 = {
 }
 
 34034 = {
-	name = "Al-Mustakfi"
+	name = "Sulayman"
 	dynasty_house = house_abbasid
 	religion = "ashari"
 	culture = iraqi
@@ -22561,6 +22750,9 @@ andalusian0066 = {
 	trait = quraysh
 	1285.1.1 = {
 		birth = yes
+	}
+	1302.1.1 = {
+		give_nickname = nick_al_mustakfi
 	}
 	1340.1.1 = {
 		death = yes
@@ -35811,6 +36003,9 @@ extra_farighunids_4 = { #vaguely attested
 	1050.1.1 = {
 		birth = yes
 	}
+	1070.1.1 = {
+		give_nickname = nick_qutb_ad_din
+	}
 	1100.1.1 = {
 		death = yes
 	}
@@ -35825,19 +36020,25 @@ extra_farighunids_4 = { #vaguely attested
 	1084.1.1 = {
 		birth = yes
 	}
+	1100.1.1 = {
+		give_nickname = nick_izz_ad_din
+	}
 	1146.1.1 = {
 		death = yes
 	}
 }
 
 93140 = {
-	name = "Saif"
+	name = "Suri"
 	dynasty = 791
 	religion = "maturidi"
 	culture = tajik
 	father = 93139
 	1110.1.1 = {
 		birth = yes
+	}
+	1146.1.1 = {
+		give_nickname = nick_sayf_ad_din
 	}
 	1149.1.1 = {
 		death = yes
@@ -35883,6 +36084,9 @@ extra_farighunids_4 = { #vaguely attested
 	father = 93139
 	1113.1.1 = {
 		birth = yes
+	}
+	1149.1.1 = {
+		give_nickname = nick_baha_ad_din
 	}
 	1155.1.1 = {
 		death = yes
@@ -36045,13 +36249,16 @@ extra_farighunids_4 = { #vaguely attested
 }
 
 1230334 = {
-	name="Muhammad Sayf al-Dîn" #Sayf al-Dîn
+	name="Muhammad" #Sayf al-Dîn
 	dynasty=791
 	religion="maturidi"
 	culture = tajik
 	father=93143
 	1140.1.1={
 		birth = yes
+	}
+	1161.1.1 = {
+		give_nickname = nick_sayf_ad_din
 	}
 	1163.1.1={
 		death = { death_reason=death_murder } #murdered by his general
@@ -36122,7 +36329,7 @@ extra_farighunids_4 = { #vaguely attested
 }
 
 1230332 = {
-	name="'Alî 'Alâ al-Dîn" #or Muhammad
+	name="Ali" #or Muhammad
 	dynasty=791
 	religion="maturidi"
 	culture = tajik
@@ -36132,6 +36339,9 @@ extra_farighunids_4 = { #vaguely attested
 	father=1230331
 	1168.1.1={
 		birth = yes
+	}
+	1212.1.1 = {
+		give_nickname = nick_ala_ad_din
 	}
 	1218.1.1={ #died in captivity
 		death = { death_reason=death_dungeon }
@@ -36255,13 +36465,16 @@ Shansabanifemale = {
 	1223.7.19 = {
 		birth = "1223.7.19"
 	}
+	1260.10.24 = {
+		give_nickname = nick_al_zahir
+	}
 	1277.7.1 = {
 		death = yes
 	}
 }
 
 32934 = {
-	name = "al-Said_Barakah"
+	name = "Barakah"
 	dynasty = 7267
 	religion = "ashari"
 	culture = "kipchak"
@@ -36269,6 +36482,9 @@ Shansabanifemale = {
 	father = 32933
 	1260.1.1 = {
 		birth = "1260.1.1"
+	}
+	1277.7.1 = {
+		give_nickname = nick_al_said
 	}
 	1279.1.1 = {
 		death = yes
@@ -36299,6 +36515,9 @@ Shansabanifemale = {
 	father = 32933
 	1272.1.1 = {
 		birth = "1272.1.1"
+	}
+	1279.1.1 = {
+		give_nickname = nick_al_adil
 	}
 	1290.1.1 = {
 		death = yes
@@ -36333,6 +36552,9 @@ Shansabanifemale = {
 	1240.1.1 = {
 		birth = "1240.1.1"
 	}
+	1279.7.1 = {
+		give_nickname = nick_al_mansur
+	}
 	1291.11.10 = {
 		death = yes
 	}
@@ -36358,7 +36580,7 @@ Shansabanifemale = {
 }
 
 32937 = {
-	name = "al-Ashraf_Khalil"
+	name = "Khalil"
 	dynasty = 762
 	religion = "ashari"
 	culture = "kipchak"
@@ -36366,6 +36588,9 @@ Shansabanifemale = {
 	father = 32936
 	1262.1.1 = {
 		birth = "1262.1.1"
+	}
+	1291.11.10 = {
+		give_nickname = nick_al_ashraf
 	}
 	1293.12.14 = {
 		death = yes
@@ -36388,7 +36613,7 @@ Shansabanifemale = {
 }
 
 485000 = {
-	name = "al-Nasir_Muhammad"
+	name = "Muhammad"
 	dynasty = 762
 	martial = 4
 	diplomacy = 8
@@ -36404,6 +36629,9 @@ Shansabanifemale = {
 	father = 32936
 	1285.1.1 = {
 		birth = "1285.1.1"
+	}
+	1293.12.14 = {
+		give_nickname = nick_al_nasir
 	}
 	1343.1.1 = {
 		death = yes
@@ -38180,7 +38408,7 @@ kurdish0001 = {
 }
 
 226050 = {
-	name = "Al-Aziz_Uthman"
+	name = "Uthman"
 	dynasty_house = house_Ayyubid
 	martial = 6        # Increased from 5 - he did lead military campaigns against his brother
 	diplomacy = 3      # Reduced from 4 - constant conflicts with family members and shifting alliances
@@ -38205,6 +38433,9 @@ kurdish0001 = {
 				IMPRISONER = character:226050
 			}
 		}
+	}
+	1193.3.4 = {
+		give_nickname = nick_al_aziz
 	}
 	1198.11.29 = { #Was 1221. Not sure why
 		death = {
@@ -38292,7 +38523,7 @@ kurdish0001 = {
 }
 
 32924 = {
-	name = "al-Kamil_Naser-al-Din" #Egypt
+	name = "Muhammad" #Egypt
 	dynasty_house = house_Ayyubid
 	dna = 32924_al_kamil_ayyubid
 	martial = 6
@@ -38308,7 +38539,9 @@ kurdish0001 = {
 	father = 226052
 	1180.1.1 = {
 		birth = "1180.1.1"
-		give_nickname = nick_meledin
+	}
+	1218.8.1 = {
+		give_nickname = nick_al_kamil
 	}
 	1238.1.1 = {
 		death = yes
@@ -38408,7 +38641,7 @@ kurdish0001 = {
 }
 
 32922 = {
-	name = "al-Mansour_Muhammad" #Egypt 1200
+	name = "Muhammad" #Egypt 1200
 	dynasty_house = house_Ayyubid
 	religion = "ashari"
 	culture = "egyptian"
@@ -38418,6 +38651,9 @@ kurdish0001 = {
 	}
 	1211.1.1 = {
 		employer=226054
+	}
+	1198.11.29 = {
+		give_nickname = nick_al_mansur
 	}
 	1216.1.1 = {
 		death = yes
@@ -38499,7 +38735,7 @@ kurdish0001 = {
 }
 
 32925 = {
-	name = "as-Salih_Ayyub" #Damascus and Egypt
+	name = "Ayyub" #Damascus and Egypt
 	dynasty_house = house_Ayyubid
 	religion = "ashari"
 	culture = "egyptian"
@@ -38509,6 +38745,9 @@ kurdish0001 = {
 	}
 	1231.1.1 = {
 		add_spouse = 32928
+	}
+	1240.1.1 = {
+		give_nickname = nick_as_salih
 	}
 	1246.1.1 = {
 		effect = {
@@ -38591,7 +38830,7 @@ kurdish0001 = {
 }
 
 32926 = {
-	name = "al-Adil" #Egypt
+	name = "Abu Bakr" #Egypt
 	dynasty_house = house_Ayyubid
 	religion = "ashari"
 	culture = "egyptian"
@@ -38599,19 +38838,25 @@ kurdish0001 = {
 	1216.1.1 = {
 		birth = "1216.1.1"
 	}
+	1238.1.1 = {
+		give_nickname = nick_al_adil
+	}
 	1248.1.1 = {
 		death = yes
 	}
 }
 
 32927 = {
-	name = "al-Muazzam_Turanshah" #Egypt
+	name = "Turanshah" #Egypt
 	dynasty_house = house_Ayyubid
 	religion = "ashari"
 	culture = "egyptian"
 	father = 32925
 	1225.1.1 = {
 		birth = "1225.1.1"
+	}
+	1249.11.22 = {
+		give_nickname = nick_al_muazzam
 	}
 	1250.1.1 = {
 		death = yes
@@ -57610,6 +57855,9 @@ persian_scholars_2 = { #Bahmanyar
 	1247.1.1 = {
 		birth = "1247.1.1"
 	}
+	1294.1.1 = {
+		give_nickname = nick_al_adil
+	}
 	1296.1.1 = {
 		death = yes
 	}
@@ -63009,7 +63257,7 @@ ArsacidDynn005_wife = { #Rinnu
 }
 
 93296 = {
-	name = "Nusrat_ud-Din_Abu-Bakr"
+	name = "Abu_Bakr"
 	dynasty = 101876
 	religion = "ashari"
 	culture = "persian"
@@ -63026,13 +63274,16 @@ ArsacidDynn005_wife = { #Rinnu
 	1178.1.1 = {
 		birth = "1178.1.1"
 	}
+	1191.1.1 = {
+		give_nickname = nick_nusrat_ad_din
+	}
 	1210.1.1 = {
 		death = yes
 	}
 }
 
 93297 = {
-	name = "Muzaffar_ud-Din_Ozbeg"
+	name = "Uzbek"
 	dynasty = 101876
 	religion = "ashari"
 	culture = "persian"
@@ -63042,6 +63293,9 @@ ArsacidDynn005_wife = { #Rinnu
 	}
 	1194.1.1 = {
 		add_spouse = 144056M3
+	}
+	1210.1.1 = {
+		give_nickname = nick_muzaffar_ad_din
 	}
 	1220.1.1 = {
 		death = yes
@@ -66745,7 +66999,7 @@ Kartid1 = {
 }
 
 93153 = {
-	name = "Rukh_ud-Din_Abu-Bakr"
+	name = "Abu-Bakr"
 	dynasty_house = house_Kartid
 	religion = "maturidi"
 	culture = "persian"
@@ -66753,19 +67007,25 @@ Kartid1 = {
 	1190.1.1 = {
 		birth = "1190.1.1"
 	}
+	1206.1.1 = {
+		give_nickname = nick_rukn_ad_din
+	}
 	1245.1.1 = {
 		death = yes
 	}
 }
 
 93154 = {
-	name = "Shams_ud-Din"
+	name = "Muhammad"
 	dynasty_house = house_Kartid
 	religion = "maturidi"
 	culture = "persian"
 	father = 93153
 	1210.1.1 = {
 		birth = "1210.1.1"
+	}
+	1245.1.1 = {
+		give_nickname = nick_shams_ad_din
 	}
 	1277.1.1 = {
 		death = {
@@ -66776,7 +67036,7 @@ Kartid1 = {
 }
 
 93155 = {
-	name = "Shams_ud-Din"
+	name = "Muhammad"
 	dynasty_house = house_Kartid
 	religion = "maturidi"
 	culture = "persian"
@@ -66787,19 +67047,25 @@ Kartid1 = {
 	1246.1.1 = {
 		add_spouse = IlkhanateFemale2
 	}
+	1277.1.1 = {
+		give_nickname = nick_rukn_ad_din
+	}
 	1295.1.1 = {
 		death = yes
 	}
 }
 
 93156 = {
-	name = "Fakhr_ud-Din"
+	name = "Muhammad"
 	dynasty_house = house_Kartid
 	religion = "maturidi"
 	culture = "persian"
 	father = 93155
 	1255.1.1 = {
 		birth = "1255.1.1"
+	}
+	1295.1.1 = {
+		give_nickname = nick_fakhr_ad_din
 	}
 	1308.1.1 = {
 		death = {
@@ -66810,13 +67076,16 @@ Kartid1 = {
 }
 
 93157 = {
-	name = "Shams_ud-Din"
+	name = "Muhammad"
 	dynasty_house = house_Kartid
 	religion = "maturidi"
 	culture = "persian"
 	father = 93156
 	1275.1.1 = {
 		birth = "1275.1.1"
+	}
+	1308.1.1 = {
+		give_nickname = nick_shams_ad_din
 	}
 	1330.1.1 = {
 		death = yes
@@ -66838,13 +67107,16 @@ Kartid1 = {
 }
 
 93159 = {
-	name = "Mu_izz_ud-Din"
+	name = "Husayn"
 	dynasty_house = house_Kartid
 	religion = "maturidi"
 	culture = "persian"
 	father = 93158
 	1315.1.1 = {
 		birth = "1315.1.1"
+	}
+	1332.1.1 = {
+		give_nickname = nick_muizz_ad_din
 	}
 	1370.1.1 = {
 		death = yes
@@ -67162,14 +67434,17 @@ armenian.000015 = {
 }
 
 93285 = {
-	name = "Shams_al-Din"
+	name = "Ali"
 	dynasty_house = house_mihrabani
 	religion = "maturidi"
 	culture = "persian"
 	father = 93284
 	1195.1.1 = {
 		birth = "1195.1.1"
+	}1229.1.1 = {
+		give_nickname = nick_shams_ad_din
 	}
+	
 	1246.1.1 = {
 		add_spouse = IlkhanateFemale3
 	}
@@ -67193,13 +67468,16 @@ armenian.000015 = {
 }
 
 93287 = {
-	name = "Nasir_al-Din"
+	name = "Muhammad"
 	dynasty_house = house_mihrabani
 	religion = "maturidi"
 	culture = "persian"
 	father = 93286
 	1238.1.1 = {
 		birth = "1238.1.1"
+	}
+	1255.1.1 = {
+		give_nickname = nick_nasir_ad_din
 	}
 	1318.1.1 = {
 		death = yes
@@ -67221,13 +67499,16 @@ armenian.000015 = {
 }
 
 93288 = {
-	name = "Nusrat_al-Din"
+	name = "Muhammad"
 	dynasty_house = house_mihrabani
 	religion = "maturidi"
 	culture = "persian"
 	father = 93287
 	1268.1.1 = {
 		birth = "1268.1.1"
+	}
+	1318.1.1 = {
+		give_nickname = nick_nusrat_ad_din
 	}
 	1331.1.1 = {
 		death = yes
@@ -67249,13 +67530,16 @@ armenian.000015 = {
 }
 
 93290 = {
-	name = "Qutb_al-Din"
+	name = "Muhammad"
 	dynasty_house = house_mihrabani
 	religion = "maturidi"
 	culture = "persian"
 	father = 93289
 	1290.1.1 = {
 		birth = "1290.1.1"
+	}
+	1331.1.1 = {
+		give_nickname = nick_qutb_ad_din
 	}
 	1346.1.1 = {
 		death = yes
@@ -77529,6 +77813,9 @@ TajikMB25 = {
 	1210.1.1 = {
 		add_pressed_claim = title:k_delhi
 	}
+	1211.1.1 = {
+		give_nickname = nick_shams_ad_din
+	}
 	1236.5.1 = {
 		death = yes
 	}
@@ -77561,6 +77848,9 @@ TajikMB25 = {
 	1250.1.1 = {
 		add_spouse = 32928
 	}
+	1250.1.1 = {
+		give_nickname = nick_al_muizz
+	}
 	1257.4.11 = {
 		death = {
 			death_reason=death_murder_known
@@ -77570,7 +77860,7 @@ TajikMB25 = {
 }
 
 32931 = {
-	name = "al-Mansour_Ali"
+	name = "Ali"
 	dynasty = 7268
 	religion = "maturidi"
 	culture = "turkish"
@@ -77578,6 +77868,9 @@ TajikMB25 = {
 	father = 32930
 	1225.1.1 = {
 		birth = "1225.1.1"
+	}
+	1257.1.1 = {
+		give_nickname = nick_al_mansur
 	}
 	1259.1.1 = {
 		death = {
@@ -77606,6 +77899,9 @@ TajikMB25 = {
 	}
 	1211.1.1 = {
 		employer="226052"
+	}
+	1259.1.1 = {
+		give_nickname = nick_al_muzaffar
 	}
 	1260.10.24 = {
 		death = {

@@ -26961,6 +26961,9 @@ Almohad1 = {
 	1184.1.1 = {
 		add_trait="strategist" #talented organizer in both military and administrative matters
 	}
+	1184.1.1 = {
+		give_nickname = nick_al_mansur
+	}
 	1185.1.1 = {
 		effect = {
 			set_realm_capital = title:c_marrakesh
@@ -27024,6 +27027,9 @@ Almohad1 = {
 	father=224000
 	1163.1.1 = { #in his sixties upon succession
 		birth=yes
+	}
+	1224.1.1 = {
+		give_nickname = nick_al_makhlu
 	}
 	1224.9.1 = {
 		death={ death_reason=death_execution } #deposed and executed by the Almohads in the Maghreb
@@ -27139,6 +27145,9 @@ Almohad1 = {
 	father=32980
 	1175.1.1 = {
 		birth="1175.1.1"
+	}
+	1224.1.1 = {
+		give_nickname = nick_al_adil
 	}
 	1227.10.1 = {
 		death=yes #assassinated by his own men
@@ -27261,6 +27270,9 @@ Almohad1 = {
 		birth=yes
 		culture="masmuda"
 	}
+	1199.1.1 = {
+		give_nickname = nick_al_nasir
+	}
 	1211.1.1 = {
 		effect = {
 			set_relation_nemesis = character:207510 #Primary Christian adversary
@@ -27312,6 +27324,9 @@ Almohad1 = {
 	mother=1235100 #Safiyya b. Muhammad b. Mardanish
 	1186.1.1 = {
 		birth="1186.1.1"
+	}
+	1227.1.1 = {
+		give_nickname = nick_al_mamun
 	}
 	1232.10.1 = {
 		death = yes
@@ -27388,6 +27403,9 @@ Almohad1 = {
 	1203.1.1 = { #10 years old upon succession
 		birth=yes
 	}
+	1213.1.1 = {
+		give_nickname = nick_al_mustansir
+	}
 	1224.1.1 = {
 		death=yes #possibly killed by his pet cow
 	}
@@ -27402,6 +27420,9 @@ Almohad1 = {
 	father=224005
 	1205.1.1 = { #?
 		birth=yes
+	}
+	1229.1.1 = {
+		give_nickname = nick_al_mutasim
 	}
 	1236.1.1 = {
 		death={
@@ -27448,6 +27469,9 @@ Almohad1 = {
 	1210.1.1 = {
 		birth="1210.1.1"
 	}
+	1248.1.1 = {
+		give_nickname = nick_al_murtada
+	}
 	1266.1.1 = {
 		death = yes
 	}
@@ -27462,6 +27486,9 @@ Almohad1 = {
 	1218.1.1 = { #14 years old upon succession
 		birth="1218.1.1"
 	}
+	1232.1.1 = {
+		give_nickname = nick_ar_rashid
+	}
 	1242.1.1 = {
 		death = yes
 	}
@@ -27475,6 +27502,9 @@ Almohad1 = {
 	father=1228891
 	1218.1.1 = {
 		birth="1218.1.1"
+	}
+	1266.1.1 = {
+		give_nickname = nick_al_wathiq
 	}
 	1269.1.1 = {
 		death={
@@ -27492,6 +27522,9 @@ Almohad1 = {
 	father=32985
 	1219.1.1 = { #?
 		birth="1219.1.1"
+	}
+	1242.1.1 = {
+		give_nickname = nick_as_said
 	}
 	1248.1.1 = {
 		death={
@@ -62211,6 +62244,9 @@ zanata0093 = {
 	1269.1.1 = {
 		add_pressed_claim = title:d_tlemcen
 		remove_claim = title:k_maghreb
+	}
+	1269.1.1 = {
+		give_nickname = nick_al_nasir
 	}
 	1286.3.20 = {
 		death = yes
