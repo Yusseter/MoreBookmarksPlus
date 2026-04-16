@@ -1,0 +1,16 @@
+# TECH PLACEHOLDER PROVINCES BEGIN
+# Generated staging block for preserve_old_ids placeholder provinces.
+impassable_mountains = RANGE { 12773 12809 }
+impassable_mountains = LIST { 12826 }
+impassable_mountains = RANGE { 12882 12899 }
+impassable_mountains = RANGE { 12922 12925 }
+impassable_mountains = LIST { 12945 12946 12985 12987 13129 13134 13158 13160 }
+impassable_mountains = RANGE { 13270 13844 }
+impassable_mountains = RANGE { 13847 13857 }
+impassable_mountains = RANGE { 13860 13919 }
+impassable_mountains = RANGE { 13921 13934 }
+impassable_mountains = LIST { 13944 }
+impassable_mountains = RANGE { 13946 14097 }
+impassable_mountains = RANGE { 14100 14109 }
+impassable_mountains = RANGE { 14117 14660 }
+# TECH PLACEHOLDER PROVINCES END

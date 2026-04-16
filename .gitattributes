@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+# LFS
+#BookmarksGit/test_files/gfx/map/terrain/detail_index.tga filter=lfs diff=lfs merge=lfs -text
+#BookmarksGit/test_files/gfx/map/terrain/detail_intensity.tga filter=lfs diff=lfs merge=lfs -text
+#BookmarksGit/test_files/map_data/heightmap.png filter=lfs diff=lfs merge=lfs -text

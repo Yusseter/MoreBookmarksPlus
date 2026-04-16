@@ -1,0 +1,12 @@
+probe_name,row_count,playable_rows,sea_rows,ready_exact,review_target_fully_captured,review_strong_single_candidate,review_high_overlap,review_manual,blocked_not_primary_target_source,blocked_shared_target_low_coverage,blocked_no_source_history,recommendation
+e_srivijaya_pilot,264,191,53,2,0,0,18,145,0,0,26,continue_exact_probe
+e_bengal_block_probe,151,151,0,24,0,0,1,33,52,34,7,continue_exact_probe
+e_tibet_block_probe,41,41,0,21,0,0,1,14,0,1,4,continue_exact_probe
+c_toungoo_block_probe,9,9,0,0,0,0,1,0,4,2,2,continue_exact_probe
+e_andong_pilot,228,228,0,0,0,0,0,129,60,4,35,park
+e_goryeo_pilot,160,35,125,0,0,0,0,24,9,0,2,park
+e_yongliang_block_probe,130,130,0,6,0,0,0,55,44,11,14,park
+e_yongliang_pilot,130,130,0,6,0,0,0,55,44,11,14,park
+e_amur_block_probe,23,23,0,1,0,0,0,10,5,0,7,park
+e_goryeo_block_probe,21,21,0,0,0,0,0,16,3,0,2,park
+e_xi_xia_block_probe,5,5,0,2,0,0,0,0,2,1,0,park

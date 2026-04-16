@@ -1,0 +1,138 @@
+﻿# Source RGB Overlap Audit
+
+Method:
+- source west image: `Works/map_data_sources/provinces_modlu_kalan.png`
+- source east image: `Works/map_data_sources/provinces_orijinal_dogu.png`
+- west definition subset: `Works/map_data_sources/definition_modlu_kalan.csv`
+- east definition subset: `Works/map_data_sources/definition_orijinal_dogu.csv`
+- overlap decision rule:
+  - same RGB + same ID = benign
+  - same RGB + different ID = real conflict
+
+- modlu_kalan unique non-black RGB: `9891`
+- orijinal_dogu unique non-black RGB: `3391`
+- shared RGB count: `140`
+- benign shared (same RGB + same ID): `21`
+- real conflicts (same RGB + different ID): `119`
+- missing definition rows across both subsets: `0`
+
+Conflict rows:
+- `10,195,130` -> mod `10005` `Linggo Co` / orijinal `9969` `Goryeo_Tamna_WestTamna`
+- `10,210,5` -> mod `10010` `Zhuonai Lake` / orijinal `9974` `Goryeo_Gyeongsang_Ulju`
+- `10,27,10` -> mod `10020` `Longmu Co` / orijinal `9979` `Goryeo_Gyeongsang_Andong`
+- `10,57,15` -> mod `10030` `Maharloo Lake` / orijinal `9984` `Goryeo_Gyeongsang_Sangju`
+- `10,72,145` -> mod `10035` `Lake Sevan` / orijinal `9988` `Goryeo_Gyeongsang_Geochang`
+- `135,114,89` -> mod `9978` `Gomang Co` / orijinal `9953` `Goryeo_Jeolla_Jeonju`
+- `135,147,59` -> mod `9918` `Ashtarak` / orijinal `9913` `Goryeo_Seohae_Anak`
+- `135,159,224` -> mod `9993` `Dawa Lake` / orijinal `9962` `Goryeo_Jeolla_Imsil`
+- `135,162,189` -> mod `9923` `Tercan` / orijinal `9916` `Goryeo_Seohae_Pungju`
+- `135,174,99` -> mod `9998` `Ang Laren` / orijinal `9965` `Goryeo_Jeolla_Heungyang`
+- `135,186,59` -> mod `9718` `Concordia` / orijinal `9815` `Lingnan_Qinzhou_Lingshan`
+- `135,192,194` -> mod `9933` `Issyk-Kul` / orijinal `9923` `Goryeo_Yanggwan_Bukju`
+- `135,195,159` -> mod `9863` `Qula` / orijinal `9864` `Goryeo_Donggye_Heupgok`
+- `135,201,189` -> mod `9723` `Caminate` / orijinal `9816` `Lingnan_Qinzhou_Gusendong`
+- `135,207,69` -> mod `9938` `Ailik Lake` / orijinal `9926` `Goryeo_Yanggwan_Wonju`
+- `135,210,34` -> mod `9868` `TowerDavid` / orijinal `9870` `Goryeo_Gyoju_Inje`
+- `135,24,74` -> mod `9948` `Taatsiin Tsagaan Nuur` / orijinal `9934` `Goryeo_Yanggwan_Goeju`
+- `135,27,39` -> mod `9878` `Kantara` / orijinal `9881` `Goryeo_Gyoju_Hoengcheon`
+- `135,75,139` -> mod `9823` `Madytos` / orijinal `9845` `Lingnan_Siming_Silingzhou`
+- `135,84,84` -> mod `9968` `Yamdrok Yumtso` / orijinal `9948` `Goryeo_Yanggwan_Jukju`
+- `135,87,49` -> mod `9898` `Keselo` / orijinal `9894` `Goryeo_Bukgye_Taeju`
+- `135,9,199` -> mod `9943` `Sangiin Dalai Nuur` / orijinal `9932` `Goryeo_Yanggwan_Jecheon`
+- `136,189,129` -> mod `10003` `Dorsoidong Co` / orijinal `9967` `Goryeo_Jeolla_Haeyang`
+- `136,204,4` -> mod `10008` `Xijir Ulan Lake` / orijinal `9972` `Goryeo_Gyeongsang_Yeju`
+- `136,36,139` -> mod `10023` `Lumajangdong Co` / orijinal `9981` `Goryeo_Gyeongsang_Jinju`
+- `136,6,134` -> mod `10013` `Lexie Wudan Lake` / orijinal `9976` `Goryeo_Gyeongsang_Cheongdo`
+- `136,66,144` -> mod `10033` `Lake Van` / orijinal `9986` `Goryeo_Gyeongsang_Giju`
+- `136,81,19` -> mod `10038` `Lake Tatta` / orijinal `9991` `Goryeo_Gyeongsang_Ilseon`
+- `136,96,149` -> mod `10043` `Lake Polydorion` / orijinal `9994` `Goryeo_Gyeongsang_Yeongsan`
+- `177,0,162` -> mod `9869` `Bethlehem` / orijinal `9872` `Goryeo_Gyoju_Yanggu`
+- `177,102,87` -> mod `9974` `Pung Co` / orijinal `9950` `Goryeo_Jeolla_Mokpo`
+- `177,12,72` -> mod `9944` `Ereen Nuur` / orijinal `9927` `Goryeo_Yanggwan_Cheonan`
+- `177,132,92` -> mod `9984` `Urru Co` / orijinal `9957` `Goryeo_Jeolla_Jindong`
+- `177,135,57` -> mod `9914` `Mahkanaberd` / orijinal `9908` `Goryeo_Seohae_Tosan`
+- `177,15,37` -> mod `9874` `Amioun` / orijinal `9882` `Goryeo_Gyoju_Hongcheon`
+- `177,150,187` -> mod `9919` `Amberd` / orijinal `9914` `Goryeo_Seohae_Bongju`
+- `177,177,227` -> mod `9999` `Lagkor Co` / orijinal `9966` `Goryeo_Jeolla_Neungseong`
+- `177,180,192` -> mod `9929` `Hazar DeÅˆizi` / orijinal `9920` `Goryeo_Seohae_Ongjin`
+- `177,183,157` -> mod `9859` `Byblos` / orijinal `9860` `Goryeo_Donggye_Ingnyeong`
+- `177,195,67` -> mod `9934` `Sayram Lake` / orijinal `9924` `Goryeo_Yanggwan_Namyeong`
+- `177,198,32` -> mod `9864` `JerLod` / orijinal `9859` `Goryeo_Donggye_Samcheok`
+- `177,21,67` -> mod `9734` `Aderno` / orijinal `9850` `Taiwan_Miaoli`
+- `177,210,197` -> mod `9939` `Tsetseg Nuur` / orijinal `9930` `Goryeo_Yanggwan_Pyeongchang`
+- `177,27,202` -> mod `9949` `Khyargas Nuur` / orijinal `9935` `Goryeo_Yanggwan_Jangyeon`
+- `177,42,77` -> mod `9954` `TeÅ„iz KÃ³li` / orijinal `9939` `Goryeo_Yanggwan_Gwangju`
+- `177,75,47` -> mod `9894` `Odzrakhe` / orijinal `9890` `Goryeo_Bukgye_Cheolju`
+- `178,192,2` -> mod `10004` `Pongyin Co` / orijinal `9968` `GORYEO_TAEBAEK_MOUNTAINS`
+- `178,207,132` -> mod `10009` `Hoh Xil Lake` / orijinal `9973` `Goryeo_Gyeongsang_Gyeongju`
+- `178,24,137` -> mod `10019` `Amtogor Lake` / orijinal `9978` `Goryeo_Gyeongsang_Sunan`
+- `178,39,12` -> mod `10024` `Aru Co` / orijinal `9982` `Goryeo_Gyeongsang_Geoje`
+- `178,69,17` -> mod `10034` `Lake ErÃ§ek` / orijinal `9987` `Goryeo_Gyeongsang_Hamyang`
+- `178,84,147` -> mod `10039` `Lake Philomelion` / orijinal `9992` `Goryeo_Gyeongsang_Gaeryeong`
+- `178,99,22` -> mod `10044` `Lake Anaua` / orijinal `9995` `Goryeo_Gyeongsang_Chirwon`
+- `51,108,88` -> mod `9976` `Zigetangcuo Lake` / orijinal `9951` `Goryeo_Jeolla_Yeonggwang`
+- `51,111,53` -> mod `9906` `Vararakn` / orijinal `9901` `Goryeo_Bukgye_Jaju`
+- `51,114,18` -> mod `9836` `Yamboli` / orijinal `9784` `Lingnan_Nanning_Fu_Wuxuzhen`
+- `51,123,218` -> mod `9981` `Angda'er Co` / orijinal `9954` `Goryeo_Jeolla_Jangheung`
+- `51,135,178` -> mod `9701` `Sirmione` / orijinal `9803` `Lingnan_Leizhou_Zhanjiang`
+- `51,138,93` -> mod `9986` `DagzÃª Co` / orijinal `9959` `Goryeo_Jeolla_Mupung`
+- `51,156,188` -> mod `9921` `Tekor` / orijinal `9910` `Goryeo_Seohae_Sineun`
+- `51,171,63` -> mod `9926` `Tralles` / orijinal `9919` `Goryeo_Seohae_Haeju`
+- `51,18,73` -> mod `9946` `BÃ¶Ã¶n Tsagaan Nuur` / orijinal `9929` `Goryeo_Yanggwan_Cheonyeong`
+- `51,186,193` -> mod `9931` `Lake Alakol` / orijinal `9921` `Goryeo_Seohae_Ubong`
+- `51,189,158` -> mod `9861` `Gibelin` / orijinal `9862` `Goryeo_Donggye_Goseong`
+- `51,201,68` -> mod `9936` `Ulungur Lake` / orijinal `9925` `Goryeo_Yanggwan_Haengju`
+- `51,48,78` -> mod `9956` `Katta KÃ¶l` / orijinal `9940` `Goryeo_Yanggwan_Seorim`
+- `51,57,73` -> mod `9746` `Andria` / orijinal `9785` `Lingnan_Nanning_Fu_Yongchun`
+- `51,63,208` -> mod `9961` `Ngoring Lake` / orijinal `9943` `Goryeo_Yanggwan_Guseong`
+- `51,69,138` -> mod `9821` `Moluag` / orijinal `9843` `Lingnan_Siming_Siming`
+- `51,78,83` -> mod `9966` `Lake Aqqikkol` / orijinal `9946` `Goryeo_Yanggwan_Dangseong`
+- `52,0,133` -> mod `10011` `Kusai Lake` / orijinal `9975` `Goryeo_Gyeongsang_Gijang`
+- `52,105,23` -> mod `10046` `Lake Yansli` / orijinal `9869` `Goryeo_Donggye_Ulleung`
+- `52,15,8` -> mod `10016` `Xuemei Lake` / orijinal `9977` `Goryeo_Gyeongsang_Jaesan`
+- `52,198,3` -> mod `10006` `Wulanwula Lake` / orijinal `9970` `Goryeo_Gyeongsang_Janggi`
+- `52,30,138` -> mod `10021` `Chem Co` / orijinal `9980` `Goryeo_Gyeongsang_Hadong`
+- `52,45,13` -> mod `10026` `Luotuo Co` / orijinal `9983` `Goryeo_Gyeongsang_Boryeong`
+- `52,75,18` -> mod `10036` `Lake Ã‡Ä±ldÄ±r` / orijinal `9989` `Goryeo_Gyeongsang_Gyeongsanbu`
+- `52,90,148` -> mod `10041` `Lake Akrotori` / orijinal `9993` `Goryeo_Gyeongsang_Yeongju`
+- `9,0,70` -> mod `9940` `Khar-Us Nuur` / orijinal `9931` `Goryeo_Yanggwan_Yeongwol`
+- `9,105,215` -> mod `9975` `Cona` / orijinal `9949` `Goryeo_Jeolla_Hampyeong`
+- `9,111,145` -> mod `9835` `Mangup` / orijinal `9783` `Lingnan_Nanning_Fu_Shangsi`
+- `9,135,220` -> mod `9985` `Norma Co` / orijinal `9958` `Goryeo_Jeolla_Jillye`
+- `9,138,185` -> mod `9915` `Haghpat` / orijinal `9909` `Goryeo_Seohae_Suan`
+- `9,15,200` -> mod `9945` `Gegeen Nuur` / orijinal `9928` `Goryeo_Yanggwan_Yanggeun`
+- `9,150,95` -> mod `9990` `Mucuobingni` / orijinal `9960` `Goryeo_Jeolla_Jinan`
+- `9,153,60` -> mod `9920` `Shirakavan` / orijinal `9915` `Goryeo_Seohae_Dongju`
+- `9,165,225` -> mod `9995` `Taro Tso` / orijinal `9963` `Goryeo_Jeolla_Seungpyeong`
+- `9,168,190` -> mod `9925` `Varzahan` / orijinal `9918` `Goryeo_Seohae_Cheongsong`
+- `9,24,195` -> mod `9735` `PaternoSicily` / orijinal `9851` `Taiwan_Taipei`
+- `9,3,35` -> mod `9870` `Belfort` / orijinal `9873` `Goryeo_Gyoju_Gyoju`
+- `9,30,75` -> mod `9950` `Uvs Nuur` / orijinal `9936` `Goryeo_Yanggwan_Cheongju`
+- `9,60,80` -> mod `9960` `Suqian Lake` / orijinal `9942` `Goryeo_Yanggwan_Buseong`
+- `9,63,45` -> mod `9890` `Akhalkalaki` / orijinal `9887` `Goryeo_Bukgye_Jangjeong`
+- `9,9,65` -> mod `9730` `Nerola` / orijinal `9846` `Taiwan_Chiayi`
+- `93,105,81` -> mod `9762` `Nocera` / orijinal `9781` `Lingnan_Nanning_Fu_Nanning`
+- `93,111,216` -> mod `9977` `Ringco Kongma` / orijinal `9952` `Goryeo_Jeolla_Gangseong`
+- `93,126,91` -> mod `9982` `Gyaring Co` / orijinal `9955` `Goryeo_Jeolla_Donggang`
+- `93,129,56` -> mod `9912` `TatevMon` / orijinal `9907` `Goryeo_Gaeseong_Chuiljeon`
+- `93,144,186` -> mod `9917` `Bjni` / orijinal `9912` `Goryeo_Seohae_Hwangju`
+- `93,156,96` -> mod `9992` `Paiku Co` / orijinal `9961` `Goryeo_Jeolla_Namwon`
+- `93,171,226` -> mod `9997` `Rinchen Shuptso` / orijinal `9964` `Goryeo_Jeolla_Boseong`
+- `93,183,186` -> mod `9717` `Martellago` / orijinal `9757` `Lingnan_Lianzhou_Hepu`
+- `93,189,66` -> mod `9932` `Ebi Lake` / orijinal `9922` `Goryeo_Seohae_Pyeongju`
+- `93,192,31` -> mod `9862` `Ibelin` / orijinal `9863` `Goryeo_Donggye_Tongcheon`
+- `93,204,196` -> mod `9937` `Jili Lake` / orijinal `9945` `Goryeo_Yanggwan_Ganghwa`
+- `93,21,201` -> mod `9947` `Orog Nuur` / orijinal `9933` `Goryeo_Yanggwan_Chungju`
+- `93,36,76` -> mod `9952` `Achit Nuur` / orijinal `9937` `Goryeo_Yanggwan_Gongju`
+- `93,39,41` -> mod `9882` `Martvili` / orijinal `9878` `Goryeo_Gyoju_Anhyeop`
+- `93,51,206` -> mod `9957` `Siob KÃ¶l` / orijinal `9941` `Goryeo_Yanggwan_Nampo`
+- `93,57,136` -> mod `9817` `Colonsay` / orijinal `9838` `Lingnan_Guishunzhou_Napo`
+- `93,66,81` -> mod `9962` `Gyaring Lake` / orijinal `9944` `Goryeo_Yanggwan_Yesan`
+- `93,81,211` -> mod `9967` `Lake Jingyu` / orijinal `9947` `Goryeo_Yanggwan_Anseong`
+- `93,9,36` -> mod `9872` `Bikfaiya` / orijinal `9875` `Goryeo_Gyoju_Nangcheon`
+- `93,96,86` -> mod `9972` `Neri Punco` / orijinal `9956` `Goryeo_Jeolla_Jindo`
+- `93,99,51` -> mod `9902` `Kaghankatuyk` / orijinal `9897` `Goryeo_Bukgye_Samhwa`
+- `94,108,151` -> mod `10047` `Lake Kaunos` / orijinal `9868` `Goryeo_Donggye_Yeju`
+- `94,201,131` -> mod `10007` `Mingjing Lake` / orijinal `9971` `Goryeo_Gyeongsang_Pyeonghae`
+- `94,63,16` -> mod `10032` `Lake Urmia` / orijinal `9985` `Goryeo_Gyeongsang_Dian`
+- `94,78,146` -> mod `10037` `Lake Yay` / orijinal `9990` `Goryeo_Gyeongsang_Hapcheon`

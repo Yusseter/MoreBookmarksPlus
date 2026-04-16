@@ -1,0 +1,8 @@
+﻿"target_file","root","source_file","status"
+"00_ASIA_NORTH.txt","e_goryeo","e_goryeo.txt","imported"
+"00_ASIA_NORTH.txt","k_yongson_throne","e_goryeo.txt","imported"
+"00_OTHER.txt","e_tibet","00_other_titles.txt","imported"
+"00_ASIA_SOUTH.txt","e_kambuja","e_khmer.txt","imported"
+"00_ASIA_JAPAN.txt","e_japan","e_japan.txt","imported"
+"00_ASIA_JAPAN.txt","k_chrysanthemum_throne","e_japan.txt","imported"
+"00_ASIA_CHINA.txt","h_china","e_china.txt","imported"

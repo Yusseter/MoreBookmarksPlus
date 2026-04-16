@@ -1,0 +1,473 @@
+#max_provinces = 1466
+definitions = "definition.csv"
+provinces = "provinces.png"
+#positions = "positions.txt"
+rivers = "rivers.png"
+#terrain_definition = "terrain.txt"
+topology = "heightmap.heightmap"
+#tree_definition = "trees.bmp"
+continent = "continent.txt"
+adjacencies = "adjacencies.csv"
+#climate = "climate.txt"
+island_region = "island_region.txt"
+seasons = "seasons.txt"
+
+#############
+# SEA ZONES
+#############
+# European Seas
+sea_zones = RANGE { 632 641 }
+sea_zones = RANGE { 643 649 }
+sea_zones = RANGE { 661 667 }
+sea_zones = RANGE { 683 688 }
+sea_zones = RANGE { 690 700 }
+sea_zones = RANGE { 708 715 }
+sea_zones = RANGE { 722 729 }
+sea_zones = RANGE { 936 942 }
+sea_zones = RANGE { 945 951 }
+sea_zones = LIST { 953 954 }
+sea_zones = RANGE { 958 960 }
+sea_zones = RANGE { 964 970 }
+sea_zones = RANGE { 973 975 }
+sea_zones = LIST { 977 }
+sea_zones = RANGE { 980 982 }
+sea_zones = RANGE { 985 997 }
+sea_zones = RANGE { 999 1012 }
+sea_zones = RANGE { 1014 1017 }
+sea_zones = RANGE { 1019 1025 }
+sea_zones = RANGE { 1027 1038 }
+sea_zones = RANGE { 1109 1111 }
+sea_zones = LIST { 3229 3230 }
+
+#North European Seas
+sea_zones = RANGE { 8613 8617 }
+sea_zones = RANGE { 8618 8622 }
+
+#Mediterranean Seas
+sea_zones = RANGE { 8626 8648 }
+sea_zones = RANGE { 8649 8653 }
+sea_zones = RANGE { 8654 8666 }
+sea_zones = LIST { 8740 10093 10094 }
+
+sea_zones = RANGE { 10171 10182 }
+
+#Black, Azov, Caspian & Aral Seas
+sea_zones = RANGE { 8667 8672 }
+sea_zones = LIST { 10091 10092 }
+
+#Middle Eastern Seas
+sea_zones = LIST { 8673 }
+sea_zones = LIST { 8674 8675 }
+sea_zones = RANGE { 10163 10166 }
+sea_zones = LIST { 8676 8677 }
+sea_zones = LIST { 8678 8679 }
+sea_zones = RANGE { 10167 10170 }
+sea_zones = RANGE { 8680 8682 }
+
+#Indian Seas
+sea_zones = RANGE { 1382 1407 }
+sea_zones = RANGE { 1409 1412 }
+sea_zones = LIST { 8684 }
+sea_zones = LIST { 8683 }
+
+#African Seas
+sea_zones = RANGE { 8692 8700 }
+
+# Non-accessible sea zones
+sea_zones = RANGE { 8623 8625 }
+
+###############
+# MAJOR RIVERS
+###############
+
+####
+
+#Caspian Sea
+#Has to be done to prevent nomads from using the various seas as a highway thanks to Paradox's stupid decision to not use docks and boats with CK3. There is no modifier to make a culture unable to cross the sea but there is an innovation for only certain cultures being able to traverse rivers which means this makes it impossible for the nomads of the steppe to build 100 ships out the whole 25 trees in a 50 mile radious to invade Persia
+
+river_provinces = LIST { 1062 1064 9929 }
+
+#Aral Sea
+
+river_provinces = LIST { 944 }
+
+#Lakes that I marked as 'rivers' so they actually have names when hovered over and aren't just called 'Lake' since for some reason only Seas and Rivers can have their names shown on hover and I like the flavor names add (too bad I can't think of a way for wastelands to show).
+
+#Also removed a lot of modern reservoirs Paradox had on the map since whoever worked on the map couldn't be assed to spend 5 minutes looking at what they were adding
+
+river_provinces = RANGE { 9930 9952 }
+river_provinces = RANGE { 9954 10087 }
+
+river_provinces = RANGE { 961 963 }
+river_provinces = LIST { 983 1026 1069 1076 1305 1348 }
+river_provinces = RANGE { 1491 1494 }
+river_provinces = RANGE { 8519 8525 }
+river_provinces = LIST { 8738 9000 9001 }
+
+####
+
+#European rivers
+river_provinces = RANGE { 628 630 }
+river_provinces = LIST { 456 457 }
+river_provinces = RANGE { 5855 5857 }
+river_provinces = RANGE { 1052 1061 }
+river_provinces = RANGE { 1070 1075 }
+river_provinces = RANGE { 1085 1087 }
+river_provinces = RANGE { 1090 1106 }
+river_provinces = RANGE { 3223 3228 }
+river_provinces = RANGE { 3231 3252 }
+river_provinces = LIST { 3253 3254 }
+river_provinces = LIST { 8586 8587 }
+river_provinces = LIST { 8558 8559 }
+
+#Russian rivers
+river_provinces = LIST { 8561 8562 }
+river_provinces = RANGE { 8563 8567 }
+river_provinces = LIST { 8569 8570 }
+river_provinces = RANGE { 8583 8585 }
+river_provinces = RANGE { 8578 8582 }
+river_provinces = RANGE { 8574 8576 }
+
+#Indian rivers
+river_provinces = RANGE { 1307 1309 }
+river_provinces = RANGE { 1311 1316 }
+river_provinces = LIST { 8588 8589 }
+river_provinces = RANGE { 8590 8592 }
+river_provinces = LIST { 8593 8594 }
+river_provinces = LIST { 8595 8596 }
+river_provinces = RANGE { 8597 8599 }
+river_provinces = LIST { 8600 8601 }
+river_provinces = RANGE { 8603 8605 }
+
+#African rivers
+river_provinces = LIST { 1317 8612 8702 }
+river_provinces = RANGE { 6026 6029 }
+river_provinces = RANGE { 6126 6128 }
+river_provinces = RANGE { 6791 6796 }
+river_provinces = RANGE { 8092 8096 }
+
+river_provinces = LIST { 626 689 1063 }
+river_provinces = RANGE { 1065 1067 }
+river_provinces = RANGE { 1077 1079 }
+river_provinces = RANGE { 1081 1084 }
+river_provinces = LIST { 1487 5510 5511 6125 }
+river_provinces = LIST { 8560 8568 }
+river_provinces = RANGE { 8571 8573 }
+river_provinces = LIST { 8577 8602 }
+
+
+########
+# LAKES
+########
+lakes = LIST { 943 956 957 979 1018 1080 1088 1107 1108 1486 3265 8736 8737 }
+lakes = RANGE { 10088 10090 }
+lakes = RANGE { 1472 1478 }
+lakes = LIST { 1483 1484 }
+lakes = LIST { 1490 }
+lakes = LIST { 1497 1498 }
+lakes = LIST { 5854 }
+lakes = LIST { 5858 }
+lakes = LIST { 7208 }
+
+#####################
+# IMPASSABLE TERRAIN
+#####################
+# Can be colored by whoever owns the most of the province's neighbours.
+# Blocks unit movement.
+
+#Africa
+impassable_mountains = RANGE { 1049 1051 }
+impassable_mountains = LIST { 1080 1088 1089 3294 }
+impassable_mountains = RANGE { 790 807 }
+impassable_mountains = LIST { 1045 1046 }
+impassable_mountains = LIST { 1047 1048 }
+impassable_mountains = LIST { 1334 }
+impassable_mountains = RANGE { 6583 6589 }
+impassable_mountains = RANGE { 6592 6600 }
+impassable_mountains = LIST { 6603 }
+impassable_mountains = RANGE { 6605 6607 }
+impassable_mountains = RANGE { 6416 6426 }
+impassable_mountains = RANGE { 6788 6790 }
+impassable_mountains = RANGE { 6902 6904 }
+impassable_mountains = LIST { 6998 6999 }
+impassable_mountains = RANGE { 8089 8091 }
+impassable_mountains = RANGE { 8097 8099 }
+impassable_mountains = RANGE { 8439 8449 }
+
+#Anatolia
+impassable_mountains = RANGE { 5685 5688 }
+
+#Armenia & Georgia
+impassable_mountains = RANGE { 5795 5797 }
+
+#Balkans
+impassable_mountains = RANGE { 1039 1044 }
+impassable_mountains = RANGE { 3295 3299 }
+
+#Bjarmaland
+impassable_mountains = LIST { 5852 5853 }
+
+#Bohemia, France, Germany, Italy
+impassable_mountains = RANGE { 763 789 }
+
+#Burma
+
+#Carpathia
+impassable_mountains = LIST { 642 894 4898 }
+impassable_mountains = RANGE { 716 721 }
+impassable_mountains = LIST { 732 733 }
+impassable_mountains = RANGE { 3949 3952 }
+
+#Caucasus
+impassable_mountains = LIST { 5515 8557 }
+impassable_mountains = LIST { 1417 1428 1429 1436 }
+
+#Iberia
+impassable_mountains = LIST { 659 }
+impassable_mountains = RANGE { 3300 3306 }
+
+#Indian ghats
+impassable_mountains = LIST { 7796 7942 7943 }
+impassable_mountains = RANGE { 7936 7940 }
+
+#Kazakh Steppe
+impassable_mountains = RANGE { 7352 7354 }
+impassable_mountains = LIST { 8710 }
+
+#Mongolia, Tarim & Dzungaria
+impassable_mountains = LIST { 7512 }
+impassable_mountains = RANGE { 7781 7786 }
+
+#Persia
+impassable_mountains = RANGE { 3289 3292 }
+impassable_mountains = LIST { 1437 1471 1485 }
+impassable_mountains = LIST { 2580 2601 2667 2668 2702 2716 2718 2734 2740 2754 2881 }
+impassable_mountains = LIST { 2884 2908 2929 2930 2944 2974 2996 3002 3011 3022 3026 }
+impassable_mountains = LIST { 3029 3031 3036 }
+
+#Russia
+impassable_mountains = RANGE { 5516 5518 }
+impassable_mountains = LIST { 972 8703 }
+
+#Scandinavia & Finland & Iceland
+impassable_mountains = RANGE { 650 658 }
+impassable_mountains = RANGE { 3260 3264 }
+impassable_mountains = LIST { 281 299 899 902 935 971 3307 }
+
+#Siberia & Tartaria
+impassable_mountains = RANGE { 5859 5864 }
+impassable_mountains = LIST { 7055 7056 }
+impassable_mountains = RANGE { 7452 7454 }
+
+#Tarim Basin
+impassable_mountains = LIST { 1347 }
+impassable_mountains = LIST { 9621 }
+
+#Tartaria Mountains
+impassable_mountains = RANGE { 8704 8708 }
+impassable_mountains = LIST { 1495 }
+impassable_mountains = LIST { 734 1501 1550 1614 2486 2539 8709 }
+impassable_mountains = LIST { 3037 3071 3104 3123 3150 3179 3255 3293 3612 4059 4255 4282 }
+impassable_mountains = LIST { 7941 }
+impassable_mountains = LIST { 8526 8527 }
+impassable_mountains = RANGE { 8529 8538 }
+impassable_mountains = RANGE { 8539 8542 }
+impassable_mountains = RANGE { 8544 8555 }
+
+#Turkestan
+impassable_mountains = LIST { 1489 7209 }
+impassable_mountains = RANGE { 7213 7215 }
+
+#Western Europe
+impassable_mountains = LIST { 3256 3257 }
+impassable_mountains = RANGE { 3308 3314 }
+impassable_mountains = LIST { 2484 3259 }
+
+############
+# WASTELAND
+############
+# These are actually supposed to be Wasteland:
+# Cannot be colored. Blocks unit movement, used for things like Sahara desert.
+
+impassable_mountains = LIST { 730 731 8711 }
+impassable_mountains = LIST { 1464 }
+impassable_mountains = LIST { 3390 3970 }
+impassable_mountains = RANGE { 5512 5514 }
+impassable_mountains = LIST { 5755 }
+impassable_mountains = LIST { 1107 1108 1280 6114 }
+impassable_mountains = LIST { 6115 }
+impassable_mountains = LIST { 1320 1322 6123 }
+impassable_mountains = LIST { 1343 1344 1373 1379 1380 6124 }
+impassable_mountains = LIST { 1326 1330 1332 1335 6167 6173 6202 6256 }
+impassable_mountains = RANGE { 6318 6320 }
+impassable_mountains = LIST { 6142 6277 }
+impassable_mountains = RANGE { 6323 6328 }
+impassable_mountains = RANGE { 7210 7212 }
+impassable_mountains = RANGE { 10131 10133 }
+impassable_mountains = LIST { 10135 10136 }
+impassable_mountains = RANGE { 10140 10145 }
+impassable_mountains = LIST { 10183 }
+
+# IMPASSABLE SEA ZONES
+# These sea provinces cannot be crossed/sailed
+impassable_seas = LIST { 660 976 978 984 998 1465 1467 8690 8701 }
+
+# UNUSED PROVINCES
+# These provinces cause issues because they are passable land, but not part of any title.
+# They are probably not visible anywhere on the map, so feel free to reuse them (after double checking that they are actually missing).
+
+
+#####MORE BOOKMARKS#####
+
+
+#Places Paradox made up in nearly uninhabited places like mountains and deserts to pad barony count that should actually be impassable/wasteland provinces
+impassable_mountains = LIST { 4267 4538 4541 4629 4817 6870 6981 8174 }
+
+#Added impassable regions
+impassable_mountains = RANGE { 10156 10162 }
+impassable_mountains = RANGE { 10186 10202 }
+impassable_mountains = RANGE { 10205 10235 }
+impassable_mountains = RANGE { 14303 14309 }
+impassable_mountains = RANGE { 14367 14370 }
+impassable_mountains = RANGE { 13422 13426 }
+impassable_mountains = RANGE { 14039 14081 }
+
+#Empty provinces from Rajas port over or they were already empty in Rajas. When emptying provinces make sure to remove the 'name' in definitions to prevent an error report
+
+impassable_mountains = LIST { 399 416 420 3222 4024 4056 4071 4224 4415 4512 4884 5802 6304 7108 7113 7117 7267 7268 8153 8162 8167 8168 9040 9041 }
+impassable_mountains = LIST { 9069 9074 9084 9171 9184 9185 9193 9227 9236 9295 9360 9394 9468 11512 12001 12035 12773 12783 12799 12888 12946 13430 13450 13503 }
+impassable_mountains = LIST { 13504 13615 }
+impassable_mountains = RANGE { 13881 13884 }
+impassable_mountains = LIST { 13886 13887 13914 }
+impassable_mountains = RANGE { 13919 13922 }
+impassable_mountains = LIST { 13945 14033 14088 }
+impassable_mountains = RANGE { 14091 14094 }
+impassable_mountains = LIST { 14096 }
+impassable_mountains = RANGE { 14098 14100 }
+impassable_mountains = LIST { 14105 14165 14166 }
+impassable_mountains = RANGE { 14199 14203 }
+impassable_mountains = LIST { 14363 }
+impassable_mountains = RANGE { 14409 14412 }
+
+#Old Steppe. Re use these
+impassable_mountains = LIST { 12794 12809 14196 14197 }
+
+# TECH PLACEHOLDER PROVINCES BEGIN
+# Added from final preserve_old_ids staging. Only IDs not already impassable in default.map are included.
+impassable_mountains = RANGE { 12774 12782 }
+impassable_mountains = RANGE { 12784 12793 }
+impassable_mountains = RANGE { 12795 12798 }
+impassable_mountains = RANGE { 12800 12808 }
+impassable_mountains = LIST { 12826 }
+impassable_mountains = RANGE { 12882 12887 }
+impassable_mountains = RANGE { 12889 12899 }
+impassable_mountains = RANGE { 12922 12925 }
+impassable_mountains = LIST { 12945 12985 12987 13129 13134 13158 13160 }
+impassable_mountains = RANGE { 13270 13343 }
+impassable_mountains = RANGE { 13345 13421 }
+impassable_mountains = RANGE { 13423 13425 }
+impassable_mountains = LIST { 13428 13429 }
+impassable_mountains = RANGE { 13431 13449 }
+impassable_mountains = RANGE { 13451 13467 }
+impassable_mountains = RANGE { 13469 13495 }
+impassable_mountains = RANGE { 13497 13501 }
+impassable_mountains = RANGE { 13508 13511 }
+impassable_mountains = RANGE { 13519 13521 }
+impassable_mountains = RANGE { 13525 13529 }
+impassable_mountains = LIST { 13537 13538 }
+impassable_mountains = RANGE { 13547 13558 }
+impassable_mountains = RANGE { 13566 13571 }
+impassable_mountains = RANGE { 13573 13614 }
+impassable_mountains = LIST { 13616 }
+impassable_mountains = RANGE { 13618 13638 }
+impassable_mountains = RANGE { 13640 13800 }
+impassable_mountains = RANGE { 13802 13839 }
+impassable_mountains = RANGE { 13842 13844 }
+impassable_mountains = RANGE { 13847 13857 }
+impassable_mountains = RANGE { 13860 13866 }
+impassable_mountains = RANGE { 13868 13873 }
+impassable_mountains = LIST { 13875 }
+impassable_mountains = RANGE { 13877 13879 }
+impassable_mountains = RANGE { 13888 13893 }
+impassable_mountains = RANGE { 13895 13908 }
+impassable_mountains = RANGE { 13911 13913 }
+impassable_mountains = LIST { 13916 13917 }
+impassable_mountains = RANGE { 13924 13934 }
+impassable_mountains = RANGE { 13946 13951 }
+impassable_mountains = RANGE { 13953 14032 }
+impassable_mountains = LIST { 14034 }
+impassable_mountains = RANGE { 14036 14038 }
+impassable_mountains = RANGE { 14040 14080 }
+impassable_mountains = RANGE { 14082 14087 }
+impassable_mountains = LIST { 14089 14090 14095 }
+impassable_mountains = RANGE { 14106 14109 }
+impassable_mountains = RANGE { 14117 14164 }
+impassable_mountains = RANGE { 14167 14195 }
+impassable_mountains = LIST { 14198 }
+impassable_mountains = RANGE { 14204 14302 }
+impassable_mountains = RANGE { 14304 14308 }
+impassable_mountains = RANGE { 14310 14362 }
+impassable_mountains = RANGE { 14364 14366 }
+impassable_mountains = LIST { 14368 14369 }
+impassable_mountains = RANGE { 14371 14408 }
+impassable_mountains = RANGE { 14413 14660 }
+# TECH PLACEHOLDER PROVINCES END
+
+
+sea_zones = RANGE { 13468 13502 }
+sea_zones = RANGE { 13923 13944 }
+sea_zones = RANGE { 13546 13559 }
+sea_zones = RANGE { 13507 13512 }
+sea_zones = RANGE { 13518 13522 }
+sea_zones = RANGE { 13518 13522 }
+sea_zones = RANGE { 13617 13639 }
+sea_zones = RANGE { 13894 13909 }
+sea_zones = RANGE { 13915 13918 }
+sea_zones = RANGE { 13524 13530 }
+
+sea_zones = LIST { 10551 12029 12040 13505 }
+sea_zones = RANGE { 13532 13535 }
+sea_zones = LIST { 13540 13543 13563 13840 13841 13845 13846 13858 13859 13952 14035 }
+
+river_provinces = RANGE { 13536 13539 }
+river_provinces = RANGE { 13876 13880 }
+river_provinces = RANGE { 13565 13572 }
+
+river_provinces = LIST { 13344 13427 }
+river_provinces = RANGE { 13515 13517 }
+river_provinces = LIST { 13523 13531 13541 13542 13544 13545 }
+river_provinces = RANGE { 13560 13564 }
+river_provinces = LIST { 13801 13867 13874 13885 14097 14101 14102 14104 }
+
+
+impassable_seas = LIST { 13910 }
+
+#Various seas that get marked as impassable. Mainly for large expanses of ocean (ships going from Ireland to Iberia, for example, would generally stick to the French coast rather than go directly south into the open ocean) that shouldn't be traversable in this time period or other dangerous areas that were impassable till later advancements.
+impassable_seas = LIST { 991 }
+impassable_seas = RANGE { 8623 8625 }
+impassable_seas = LIST { 8689 10554 10817 13496 13506 13513 13514 13919 13920 14103 }
+# VANILLA EAST DEFAULT MAP BEGIN
+sea_zones = LIST { 8685 8686 8687 8688 8691 12574 12575 12576 12577 12578 12579 12580 12581 12582 12583 12584 12585 12586 12587 12588 12589 12590 12591 12592 12593 12594 12595 12596 12597 12598 12599 12600 }
+sea_zones = LIST { 12601 12602 12603 12604 12605 12606 12607 12608 12609 12610 12611 12612 12613 12614 12615 12616 12617 12618 12619 12620 12621 12622 12623 12624 12625 12626 12627 12628 12629 12630 12631 12632 }
+sea_zones = LIST { 12633 12634 12635 12636 12637 12638 12639 12640 12641 12642 12643 12644 12645 12646 12647 12648 12649 12650 12651 12652 12653 12654 12655 12656 12657 12658 12659 12660 12661 12662 12663 12664 }
+sea_zones = LIST { 12665 12666 12667 12668 12669 12670 12671 12672 12673 12674 12675 12676 12677 12678 12679 12680 12681 12682 12683 12684 12685 12686 12687 12688 12689 12690 12691 12692 12693 12694 12695 12696 }
+sea_zones = LIST { 12697 12698 12699 12700 12701 12702 12703 12704 12705 12706 12707 12708 12709 12710 12711 12712 12713 12714 12715 12716 12717 12718 12719 12720 12721 12722 12723 12724 12725 12726 12727 12728 }
+sea_zones = LIST { 12729 12730 12731 12732 12733 12734 12735 12736 12737 12738 12739 12740 12741 12742 12743 12744 12745 12746 12747 12748 12749 12750 12751 12752 12753 12754 12755 12756 12757 12758 12759 12760 }
+sea_zones = LIST { 12761 12762 12768 12769 12770 12821 12822 12827 12828 12829 12831 12832 12833 12834 12850 }
+river_provinces = LIST { 8606 8607 8608 8609 8610 8611 10456 10457 10458 10459 10460 10461 10464 11915 11916 11917 11918 11919 11920 11921 11922 11923 11924 11925 11926 11927 11928 11933 11934 11935 11936 11937 }
+river_provinces = LIST { 11938 11939 11940 12513 12514 12515 12516 12517 12518 12519 12525 12527 12528 12529 12530 12531 12532 12533 12546 12547 12548 12549 }
+lakes = LIST { 1496 10451 10452 11233 11234 11235 11249 11250 11527 11528 11942 12487 12488 12551 12948 }
+impassable_mountains = LIST { 397 402 408 631 1408 1466 8543 8556 9566 9567 10442 10487 10498 10562 10582 10586 10588 10605 10607 10612 10648 10689 11098 11099 11100 11165 11166 11167 11168 11169 11215 11232 }
+impassable_mountains = LIST { 11236 11237 11238 11239 11240 11241 11242 11243 11244 11245 11246 11247 11390 11391 11392 11393 11394 11395 11396 11501 11502 11503 11504 11505 11506 11507 11508 11509 11510 11511 11513 11514 }
+impassable_mountains = LIST { 11515 11516 11517 11518 11519 11520 11521 11522 11523 11524 11525 11526 11636 11930 11931 11932 11944 11945 11948 12038 12295 12431 12483 12484 12485 12489 12490 12491 12492 12493 12494 12495 }
+impassable_mountains = LIST { 12496 12497 12498 12499 12500 12520 12521 12522 12523 12524 12539 12771 12774 12775 12776 12778 12779 12784 12786 12830 12846 12853 12858 12859 12860 12861 12862 12864 12865 12866 12867 12868 }
+impassable_mountains = LIST { 12869 12870 12871 12872 12873 12874 12875 12876 12877 12878 12881 12900 12901 12902 12903 12904 12905 12906 12907 12908 12909 12910 12911 12912 12913 12914 12915 12917 12918 12919 12920 12921 }
+impassable_mountains = LIST { 12926 12927 12928 12929 12976 13161 13162 13163 13164 13165 13166 13167 13168 13169 13170 13171 13172 13173 13174 13175 13176 13177 13178 13179 13180 13181 13182 13183 13184 13185 13186 13187 }
+impassable_mountains = LIST { 13188 13189 13190 13191 13192 13193 13194 13195 13196 13197 13198 13199 13200 13201 13202 13203 13204 13205 13206 13207 13208 13209 13210 13211 13212 13213 13214 13215 13216 13217 13218 13219 }
+impassable_mountains = LIST { 13220 13221 13222 13223 13224 13225 13226 13227 13228 13229 13230 13231 13232 13233 13234 13235 13236 13237 13238 13239 13240 13241 13242 13243 13244 13245 13246 13247 13248 13249 13250 13251 }
+impassable_mountains = LIST { 13252 13253 13254 13255 13256 13257 13258 13259 13260 13261 13262 13263 13264 13265 13266 13267 13268 13269 }
+impassable_seas = LIST { 1293 12550 12763 12764 12765 12766 12767 }
+# VANILLA EAST DEFAULT MAP END
+
+
+
