@@ -1,16 +1,14 @@
 # County Source Fix Plan
 
-- plan rows: 3610
+- plan rows: 3608
 
 ## Actions
-- no_action: 3296
-- manual_review: 305
-- replace_with_vanilla_block: 9
+- no_action: 3312
+- manual_review: 296
 
 ## Confidence
-- not_needed: 3296
-- manual: 305
-- review_required: 9
+- not_needed: 3312
+- manual: 296
 
 ## Outputs
 - fix plan: F:\Storage\Codding\git\Crusader Kings III\Yusseter MoreBookmarksPlus\BookmarksGit\works\analysis\generated\landed_titles_source_audit\county_source_fix_plan.csv

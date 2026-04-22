@@ -2409,7 +2409,7 @@ c_itanagar,no_action,mod,both_exact,,not_needed,current county block already mat
 c_along,no_action,mod,both_exact,,not_needed,current county block already matches expected source class
 c_pemako,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
 c_rima,manual_review,mixed,both_exact,,manual,audit_status=manual_review:mixed; not safe for automatic source replacement
-c_golag,replace_with_vanilla_block,vanilla,mod_exact,C:\Program Files (x86)\Steam\steamapps\common\Crusader Kings III\game\common\landed_titles\00_landed_titles.txt:71245,review_required,reverse mismatch; check border or intentional mod-canonical cases before applying
+c_golag,no_action,vanilla,vanilla_exact,,not_needed,current county block already matches expected source class
 c_roing,no_action,mod,both_exact,,not_needed,current county block already matches expected source class
 c_tezu,manual_review,mixed,both_exact,,manual,audit_status=manual_review:mixed; not safe for automatic source replacement
 c_multan,no_action,mod,both_exact,,not_needed,current county block already matches expected source class
@@ -2672,7 +2672,7 @@ c_sog,no_action,mod,mod_exact,,not_needed,current county block already matches e
 c_banbar,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
 c_bome,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
 c_baxoi,manual_review,mixed,mod_exact,,manual,audit_status=manual_review:mixed; not safe for automatic source replacement
-c_zogang,replace_with_vanilla_block,vanilla,mod_exact,C:\Program Files (x86)\Steam\steamapps\common\Crusader Kings III\game\common\landed_titles\00_landed_titles.txt:68709,review_required,reverse mismatch; check border or intentional mod-canonical cases before applying
+c_zogang,no_action,vanilla,vanilla_exact,,not_needed,current county block already matches expected source class
 c_nyingchi,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
 c_mainling,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
 c_nangqen,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
@@ -2688,11 +2688,10 @@ c_garze,no_action,mod,mod_exact,,not_needed,current county block already matches
 c_batang,manual_review,mixed,mod_exact,,manual,audit_status=manual_review:mixed; not safe for automatic source replacement
 c_markam,manual_review,mixed,mod_exact,,manual,audit_status=manual_review:mixed; not safe for automatic source replacement
 c_deqen,manual_review,vanilla,vanilla_closest,C:\Program Files (x86)\Steam\steamapps\common\Crusader Kings III\game\common\landed_titles\00_landed_titles.txt:69004,manual,audit_status=review:expected_vanilla_source_not_exact; not safe for automatic source replacement
-c_gyaitang,replace_with_vanilla_block,vanilla,mod_exact,C:\Program Files (x86)\Steam\steamapps\common\Crusader Kings III\game\common\landed_titles\00_landed_titles.txt:69018,review_required,reverse mismatch; check border or intentional mod-canonical cases before applying
+c_gyaitang,no_action,vanilla,vanilla_exact,,not_needed,current county block already matches expected source class
 c_litang,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
-c_lenggu,replace_with_vanilla_block,vanilla,mod_exact,C:\Program Files (x86)\Steam\steamapps\common\Crusader Kings III\game\common\landed_titles\00_landed_titles.txt:69058,review_required,reverse mismatch; check border or intentional mod-canonical cases before applying
+c_lenggu,no_action,vanilla,vanilla_exact,,not_needed,current county block already matches expected source class
 c_nyagrong,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
-c_muli,manual_review,vanilla,mod_closest,,manual,audit_status=review:expected_vanilla_source_not_exact; not safe for automatic source replacement
 c_xining,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
 c_datong,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
 c_fuqi,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
@@ -2716,14 +2715,14 @@ c_trandam,no_action,mod,mod_exact,,not_needed,current county block already match
 c_zhidoi,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
 c_qumarleb,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
 c_chindu,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
-c_barkam,manual_review,mixed,mod_exact,,manual,audit_status=manual_review:mixed; not safe for automatic source replacement
+c_barkam,manual_review,mixed,mod_closest,,manual,audit_status=manual_review:mixed; not safe for automatic source replacement
 c_ngawa,manual_review,mixed,mod_exact,,manual,audit_status=manual_review:mixed; not safe for automatic source replacement
 c_maowun,manual_review,vanilla,mod_closest,,manual,audit_status=review:expected_vanilla_source_not_exact; not safe for automatic source replacement
-c_sungqu,replace_with_vanilla_block,vanilla,mod_exact,C:\Program Files (x86)\Steam\steamapps\common\Crusader Kings III\game\common\landed_titles\00_landed_titles.txt:69790,review_required,reverse mismatch; check border or intentional mod-canonical cases before applying
-c_zoige,replace_with_vanilla_block,vanilla,mod_exact,C:\Program Files (x86)\Steam\steamapps\common\Crusader Kings III\game\common\landed_titles\00_landed_titles.txt:69817,review_required,reverse mismatch; check border or intentional mod-canonical cases before applying
-c_quqen,replace_with_vanilla_block,vanilla,mod_exact,C:\Program Files (x86)\Steam\steamapps\common\Crusader Kings III\game\common\landed_titles\00_landed_titles.txt:69843,review_required,reverse mismatch; check border or intentional mod-canonical cases before applying
+c_sungqu,no_action,vanilla,vanilla_exact,,not_needed,current county block already matches expected source class
+c_zoige,no_action,vanilla,vanilla_exact,,not_needed,current county block already matches expected source class
+c_quqen,manual_review,vanilla,vanilla_closest,C:\Program Files (x86)\Steam\steamapps\common\Crusader Kings III\game\common\landed_titles\00_landed_titles.txt:69843,manual,audit_status=review:expected_vanilla_source_not_exact; not safe for automatic source replacement
 c_chakla,manual_review,vanilla,mod_closest,C:\Program Files (x86)\Steam\steamapps\common\Crusader Kings III\game\common\landed_titles\00_landed_titles.txt:69903,manual,audit_status=review:expected_vanilla_source_not_exact; not safe for automatic source replacement
-c_lhagang,replace_with_vanilla_block,vanilla,mod_exact,C:\Program Files (x86)\Steam\steamapps\common\Crusader Kings III\game\common\landed_titles\00_landed_titles.txt:69925,review_required,reverse mismatch; check border or intentional mod-canonical cases before applying
+c_lhagang,no_action,vanilla,vanilla_exact,,not_needed,current county block already matches expected source class
 c_dawu,manual_review,mixed,mod_exact,,manual,audit_status=manual_review:mixed; not safe for automatic source replacement
 c_sertar,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
 c_maqen,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
@@ -2735,7 +2734,7 @@ c_zekog,no_action,mod,mod_exact,,not_needed,current county block already matches
 c_maqu,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
 c_jone,manual_review,mixed,mod_exact,,manual,audit_status=manual_review:mixed; not safe for automatic source replacement
 c_sangqu,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
-c_tewo,replace_with_vanilla_block,vanilla,mod_exact,C:\Program Files (x86)\Steam\steamapps\common\Crusader Kings III\game\common\landed_titles\00_landed_titles.txt:70299,review_required,reverse mismatch; check border or intentional mod-canonical cases before applying
+c_tewo,no_action,vanilla,vanilla_exact,,not_needed,current county block already matches expected source class
 c_tsaparang,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
 c_kyunglung,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
 c_gegyai,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
@@ -2898,7 +2897,7 @@ c_fangzhou,manual_review,vanilla,vanilla_closest,C:\Program Files (x86)\Steam\st
 c_jingzhou,manual_review,vanilla,vanilla_closest,C:\Program Files (x86)\Steam\steamapps\common\Crusader Kings III\game\common\landed_titles\02_china.txt:2354,manual,audit_status=review:expected_vanilla_source_not_exact; not safe for automatic source replacement
 c_yuanzhou_2,manual_review,vanilla,vanilla_closest,C:\Program Files (x86)\Steam\steamapps\common\Crusader Kings III\game\common\landed_titles\02_china.txt:2373,manual,audit_status=review:expected_vanilla_source_not_exact; not safe for automatic source replacement
 c_xiaoguan,manual_review,vanilla,vanilla_closest,C:\Program Files (x86)\Steam\steamapps\common\Crusader Kings III\game\common\landed_titles\02_china.txt:2392,manual,audit_status=review:expected_vanilla_source_not_exact; not safe for automatic source replacement
-c_qinzhou_1,no_action,vanilla,vanilla_exact,,not_needed,current county block already matches expected source class
+c_qinzhou_1,manual_review,vanilla,vanilla_closest,C:\Program Files (x86)\Steam\steamapps\common\Crusader Kings III\game\common\landed_titles\02_china.txt:2414,manual,audit_status=review:expected_vanilla_source_not_exact; not safe for automatic source replacement
 c_weizhou_2,no_action,vanilla,vanilla_exact,,not_needed,current county block already matches expected source class
 c_chengzhou,manual_review,vanilla,vanilla_closest,C:\Program Files (x86)\Steam\steamapps\common\Crusader Kings III\game\common\landed_titles\02_china.txt:2452,manual,audit_status=review:expected_vanilla_source_not_exact; not safe for automatic source replacement
 c_minzhou,no_action,vanilla,vanilla_exact,,not_needed,current county block already matches expected source class
@@ -2910,24 +2909,24 @@ c_fanhe,no_action,mod,mod_exact,,not_needed,current county block already matches
 c_baishan,no_action,vanilla,vanilla_exact,,not_needed,current county block already matches expected source class
 c_zhanyin,no_action,vanilla,vanilla_exact,,not_needed,current county block already matches expected source class
 c_guangwu,manual_review,mixed,vanilla_exact,,manual,audit_status=manual_review:mixed; not safe for automatic source replacement
-c_xiningzhou,manual_review,mod,vanilla_exact,,manual,"expected mod source, but no mod county block candidate was found"
+c_shanzhou_mbp,manual_review,mod,no_source_candidate,,manual,audit_status=review:expected_mod_source_not_exact; not safe for automatic source replacement
 c_kuozhou,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
 c_lanzhou_1,no_action,vanilla,vanilla_exact,,not_needed,current county block already matches expected source class
 c_hezhou_2,no_action,vanilla,vanilla_exact,,not_needed,current county block already matches expected source class
 c_qilin,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
 c_yalong,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
 c_ganzhou,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
-c_liaoquan,manual_review,mod,vanilla_exact,,manual,"expected mod source, but no mod county block candidate was found"
-c_jiankang,manual_review,mod,vanilla_exact,,manual,"expected mod source, but no mod county block candidate was found"
-c_zhenwu_1,manual_review,mod,vanilla_exact,,manual,"expected mod source, but no mod county block candidate was found"
-c_jiuquan,manual_review,mod,vanilla_exact,,manual,"expected mod source, but no mod county block candidate was found"
+c_linze,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
+c_gaotai,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
+c_jinta,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
+c_suzhou,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
 c_yumen,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
 c_shazhou,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
 c_guazhou,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
-c_xincheng,manual_review,mod,vanilla_exact,,manual,"expected mod source, but no mod county block candidate was found"
-c_hehe,manual_review,mod,vanilla_exact,,manual,"expected mod source, but no mod county block candidate was found"
-c_shouchang,manual_review,mod,vanilla_exact,,manual,"expected mod source, but no mod county block candidate was found"
-c_ziting,manual_review,mod,vanilla_exact,,manual,"expected mod source, but no mod county block candidate was found"
+c_changma,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
+c_hongliuyuan,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
+c_yumenguan,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
+c_subei,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
 c_jiangning,no_action,vanilla,vanilla_exact,,not_needed,current county block already matches expected source class
 c_runzhou,no_action,vanilla,vanilla_exact,,not_needed,current county block already matches expected source class
 c_changzhou,no_action,vanilla,vanilla_exact,,not_needed,current county block already matches expected source class
@@ -3582,7 +3581,6 @@ c_tsugaru,no_action,vanilla,vanilla_exact,,not_needed,current county block alrea
 c_iwaki,no_action,vanilla,vanilla_exact,,not_needed,current county block already matches expected source class
 c_nushiro,no_action,vanilla,vanilla_exact,,not_needed,current county block already matches expected source class
 c_tokisara,no_action,vanilla,vanilla_exact,,not_needed,current county block already matches expected source class
-c_subei,manual_review,mod,mod_closest,F:\Storage\Codding\git\Crusader Kings III\Leviathonlx MoreBookmarks-Plus\BookmarksGit\common\landed_titles\00_landed_titles.txt:100366,manual,audit_status=review:expected_mod_source_not_exact; not safe for automatic source replacement
 c_aksay,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
 c_haltang,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
 c_lingzhou,manual_review,vanilla,vanilla_closest,C:\Program Files (x86)\Steam\steamapps\common\Crusader Kings III\game\common\landed_titles\02_china.txt:2971,manual,audit_status=review:expected_vanilla_source_not_exact; not safe for automatic source replacement
@@ -3605,7 +3603,7 @@ c_hequ,no_action,vanilla,vanilla_exact,,not_needed,current county block already 
 c_zhenfan,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
 c_tengger,no_action,vanilla,vanilla_exact,,not_needed,current county block already matches expected source class
 c_alxa,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
-c_tongcheng,manual_review,mod,vanilla_exact,,manual,"expected mod source, but no mod county block candidate was found"
+c_yijinai,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
 c_wentugaole,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
 c_heihe,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class
 c_mazongshan,no_action,mod,mod_exact,,not_needed,current county block already matches expected source class

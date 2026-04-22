@@ -90728,7 +90728,6 @@ e_tibet = {
 					province = 9281
 
 					color = { 181 90 63 }
-
 				}
 				b_rawu = {
 					province = 9278
@@ -91783,7 +91782,7 @@ e_tibet = {
 				b_barkam = { #Ma'erkang/Muerkvua
 					province = 9463
 
-					color = { 29 83 112 }
+					color = { 100 57 0 }
 
 					cultural_names = {
 						name_list_han = cn_maerkang
@@ -91793,7 +91792,7 @@ e_tibet = {
 				b_rongbur = { #Ribu
 					province = 9462
 
-					color = { 29 83 112 }
+					color = { 87 22 3 }
 
 					cultural_names = {
 						name_list_han = cn_ribu
@@ -95205,7 +95204,7 @@ h_china = {
 				c_hezhong = {
 					color = { 169 125 73 }
 
-					b_hedong = {
+					b_hezhongfu_hexi = {
 						province = 10403
 
 						color = { 177 139 93 }
@@ -96373,7 +96372,7 @@ h_china = {
 
 						color = { 193 197 197 }
 					}
-					b_qingshui = {
+					b_qingshui_china = {
 						province = 12356
 
 						color = { 167 169 170 }
@@ -96607,7 +96606,7 @@ h_china = {
 			d_longyou = {
 				color = { 124 120 60 }
 
-				capital = c_xiningzhou
+				capital = c_shanzhou_mbp
 
 				c_shanzhou_mbp = {
 					color = { 2 154 20 }
@@ -114090,7 +114089,7 @@ e_amur = {
 			d_juyan = {
 				color = { 66 55 56 }
 
-				capital = c_tongcheng
+				capital = c_yijinai
 
 				c_yijinai = {
 					color = { 20 71 214 }

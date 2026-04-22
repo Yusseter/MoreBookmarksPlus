@@ -1,24 +1,5 @@
 county_id,current_source,expected_source,status
-c_golag,mod_exact,vanilla,mismatch
-c_gyaitang,mod_exact,vanilla,mismatch
-c_lenggu,mod_exact,vanilla,mismatch
-c_lhagang,mod_exact,vanilla,mismatch
-c_quqen,mod_exact,vanilla,mismatch
-c_sungqu,mod_exact,vanilla,mismatch
-c_tewo,mod_exact,vanilla,mismatch
-c_zogang,mod_exact,vanilla,mismatch
-c_zoige,mod_exact,vanilla,mismatch
-c_hehe,vanilla_exact,mod,mismatch
-c_jiankang,vanilla_exact,mod,mismatch
-c_jiuquan,vanilla_exact,mod,mismatch
-c_liaoquan,vanilla_exact,mod,mismatch
-c_shouchang,vanilla_exact,mod,mismatch
-c_tongcheng,vanilla_exact,mod,mismatch
-c_xincheng,vanilla_exact,mod,mismatch
-c_xiningzhou,vanilla_exact,mod,mismatch # Named to c_shanzhou_mbp
-c_zhenwu_1,vanilla_exact,mod,mismatch
-c_ziting,vanilla_exact,mod,mismatch
-c_barkam,mod_exact,mixed,mixed
+c_barkam,mod_closest,mixed,mixed
 c_batang,mod_exact,mixed,mixed
 c_baxoi,mod_exact,mixed,mixed
 c_charaideo,vanilla_exact,mixed,mixed
@@ -64,7 +45,7 @@ c_namwon,mod_closest,unknown,unknown
 c_ulju,vanilla_closest,unknown,unknown
 c_ulleong,mod_closest,unknown,unknown
 c_hezhou_china,mod_closest,mod,review
-c_subei,mod_closest,mod,review
+c_shanzhou_mbp,no_source_candidate,mod,review
 c_LIAO_diezhou,vanilla_closest,vanilla,review
 c_LIAO_guidezhou,vanilla_closest,vanilla,review
 c_LIAO_heicaoan,mod_closest,vanilla,review
@@ -190,7 +171,6 @@ c_mianzhou,vanilla_closest,vanilla,review
 c_mingzhou,vanilla_closest,vanilla,review
 c_mingzhou_1,vanilla_closest,vanilla,review
 c_mozhou,vanilla_closest,vanilla,review
-c_muli,mod_closest,vanilla,review
 c_nakkavaram,vanilla_closest,vanilla,review
 c_nankang,vanilla_closest,vanilla,review
 c_nanping,vanilla_closest,vanilla,review
@@ -204,10 +184,12 @@ c_pungju,mod_closest,vanilla,review
 c_puzhou,vanilla_closest,vanilla,review
 c_qianzhou_1,vanilla_closest,vanilla,review
 c_qingyang,vanilla_closest,vanilla,review
+c_qinzhou_1,vanilla_closest,vanilla,review
 c_qinzhou_2,vanilla_closest,vanilla,review
 c_qiongbu,vanilla_closest,vanilla,review
 c_qiongzhou,vanilla_closest,vanilla,review
 c_quanzhou,vanilla_closest,vanilla,review
+c_quqen,vanilla_closest,vanilla,review
 c_quye,vanilla_closest,vanilla,review
 c_quzhou,vanilla_closest,vanilla,review
 c_rangzhou,vanilla_closest,vanilla,review
@@ -239,7 +221,6 @@ c_songzhou,vanilla_closest,vanilla,review
 c_suining,vanilla_closest,vanilla,review
 c_suizhou,vanilla_closest,vanilla,review
 c_suizhou_1,vanilla_closest,vanilla,review
-c_suzhou,vanilla_closest,vanilla,review
 c_taeju,mod_closest,vanilla,review
 c_taiyuan,vanilla_closest,vanilla,review
 c_taizhou,vanilla_closest,vanilla,review
@@ -313,3 +294,4 @@ c_zongzhou,vanilla_closest,vanilla,review
 c_nf_huang_9EC4,both_exact,no_provinces,skip
 c_nf_qin_79E6_4,vanilla_exact,no_provinces,skip
 c_nf_xia_liang,mod_exact,no_provinces,skip
+c_suzhou,vanilla_closest,vanilla,ok

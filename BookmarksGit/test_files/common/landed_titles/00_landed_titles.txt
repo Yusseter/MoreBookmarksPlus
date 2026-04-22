@@ -82763,24 +82763,24 @@ h_india = {					  # Titular, created by special decision only if entire India is
 					}
 				}
 				c_golag = {
-					color = { 72 84 20 }
+					color = { 72 84 1 }
 	
 					b_golag = {
 						province = 9176
 	
-						color = { 72 84 20 }
+						color = { 72 84 1 }
 	
 					}
 					b_cawarong = {
 						province = 9177
 	
-						color = { 72 84 20 }
+						color = { 72 84 1 }
 	
 					}
 					b_goyu = {
 						province = 9178
 	
-						color = { 72 84 20 }
+						color = { 72 84 1 }
 	
 					}
 				}
@@ -90728,7 +90728,6 @@ e_tibet = {
 					province = 9281
 
 					color = { 181 90 63 }
-
 				}
 				b_rawu = {
 					province = 9278
@@ -90738,7 +90737,7 @@ e_tibet = {
 				}
 			}
 			c_zogang = {
-				color = { 236 20 67 }
+				color = { 184 53 15 }
 
 				b_zogang = {
 					province = 9282
@@ -90749,7 +90748,7 @@ e_tibet = {
 				b_kagong = {
 					province = 9283
 
-					color = { 184 53 15 }
+					color = { 184 83 15 }
 
 				}
 			}
@@ -91079,7 +91078,7 @@ e_tibet = {
 				}
 			}
 			c_gyaitang = {
-				color = { 153 72 90 }
+				color = { 171 26 88 }
 
 				b_gyaitang = {
 					province = 9318
@@ -91090,13 +91089,13 @@ e_tibet = {
 				b_takchongrong = {
 					province = 9322
 
-					color = { 171 26 88 }
+					color = { 171 26 58 }
 
 				}
 				b_derong = {
 					province = 9319
 
-					color = { 171 26 88 }
+					color = { 171 56 88 }
 
 				}
 			}
@@ -91124,7 +91123,7 @@ e_tibet = {
 				}
 			}
 			c_lenggu = {
-				color = { 222 9 66 }
+				color = { 171 90 65 }
 
 				b_lenggu = {
 					province = 9324
@@ -91135,9 +91134,13 @@ e_tibet = {
 				b_dabba_tibet = {
 					province = 9320
 
-					color = { 171 90 65 }
+					color = { 171 20 65 }
 
 				}
+                b_muli = {
+                    province = 11454
+                    color = { 174 4 80 }
+                }
 			}
 			c_nyagrong = {
 				color = { 219 20 64 }
@@ -91153,16 +91156,6 @@ e_tibet = {
 
 					color = { 156 64 36 }
 
-				}
-			}
-
-			c_muli = {
-				color = { 215 20 58 }
-
-				b_muli = {
-					province = 11454
-
-					color = { 191 118 75 }
 				}
 			}
 		}
@@ -91789,7 +91782,7 @@ e_tibet = {
 				b_barkam = { #Ma'erkang/Muerkvua
 					province = 9463
 
-					color = { 29 83 112 }
+					color = { 100 57 0 }
 
 					cultural_names = {
 						name_list_han = cn_maerkang
@@ -91799,7 +91792,7 @@ e_tibet = {
 				b_rongbur = { #Ribu
 					province = 9462
 
-					color = { 29 83 112 }
+					color = { 87 22 3 }
 
 					cultural_names = {
 						name_list_han = cn_ribu
@@ -91893,7 +91886,7 @@ e_tibet = {
 				}
 			}
 			c_sungqu = { #Songpan
-				color = { 83 20 25 }
+				color = { 90 36 0 }
 
 				cultural_names = {
 					name_list_han = cn_songpan
@@ -91902,7 +91895,7 @@ e_tibet = {
 				b_sungqu = { #Songpan
 					province = 9456
 
-					color = { 45 120 160 }
+					color = { 128 79 46 }
 
 					cultural_names = {
 						name_list_han = cn_songpan
@@ -91911,7 +91904,7 @@ e_tibet = {
 				b_choqu = { #Heishui/Kezheb
 					province = 9457
 
-					color = { 45 120 160 }
+					color = { 85 34 0 }
 
 					cultural_names = {
 						name_list_han = cn_heishui
@@ -91920,7 +91913,7 @@ e_tibet = {
 				}
 			}
 			c_zoige = { #Ruo'ergai
-				color = { 0 80 125 }
+				color = { 100 57 0 }
 
 				cultural_names = {
 					name_list_han = cn_ruoergai
@@ -91929,7 +91922,7 @@ e_tibet = {
 				b_zoige = { #Ruo'ergai
 					province = 9453
 
-					color = { 0 80 125 }
+					color = { 87 22 3 }
 
 					cultural_names = {
 						name_list_han = cn_ruoergai
@@ -91938,7 +91931,7 @@ e_tibet = {
 				b_yunglro = { #Jiuzhaigou
 					province = 9454
 
-					color = { 108 38 46 }
+					color = { 146 104 76 }
 
 					cultural_names = {
 						name_list_han = cn_jiuzhaigou
@@ -91946,7 +91939,7 @@ e_tibet = {
 				}
 			}
 			c_quqen = { #Jinchuan
-				color = { 75 12 8 }
+				color = { 75 29 0 }
 
 				cultural_names = {
 					name_list_han = cn_jinchuan
@@ -91956,7 +91949,7 @@ e_tibet = {
 				b_quqen = { #Jinchuan
 					province = 9464
 
-					color = { 10 75 155 }
+					color = { 110 73 0 }
 
 					cultural_names = {
 						name_list_han = cn_jinchuan
@@ -91966,7 +91959,7 @@ e_tibet = {
 				b_kharsa = { #Kasa
 					province = 9467
 
-					color = { 10 75 155 }
+					color = { 90 12 0 }
 
 					cultural_names = {
 						name_list_han = cn_kasa
@@ -91976,7 +91969,7 @@ e_tibet = {
 				b_zainlha = { #Xiaojin
 					province = 9466
 
-					color = { 10 75 155 }
+					color = { 110 49 9 }
 
 					cultural_names = {
 						name_list_han = cn_xiaojin
@@ -91986,7 +91979,7 @@ e_tibet = {
 				b_trashingling = { #Li/Pauxugv
 					province = 9465
 
-					color = { 10 75 155 }
+					color = { 90 36 0 }
 
 					cultural_names = {
 						name_list_han = cn_zagunao
@@ -92038,7 +92031,7 @@ e_tibet = {
 				}
 			}
 			c_lhagang = {
-				color = { 123 20 20 }
+				color = { 146 104 76 }
 
 				cultural_names = {
 					name_list_han = cn_tagong
@@ -92047,7 +92040,7 @@ e_tibet = {
 				b_lhagang = {
 					province = 9331
 
-					color = { 50 115 125 }
+					color = { 72 29 0 }
 
 					cultural_names = {
 						name_list_han = cn_tagong
@@ -92056,7 +92049,7 @@ e_tibet = {
 				b_gyezil = {
 					province = 9328
 
-					color = { 50 115 125 }
+					color = { 110 73 0 }
 
 					cultural_names = {
 						name_list_han = cn_jiulong
@@ -92431,7 +92424,7 @@ e_tibet = {
 				}
 			}
 			c_tewo = { #Diebu
-				color = { 122 20 20 }
+				color = { 90 12 0 }
 
 				cultural_names = {
 					name_list_han = cn_diebu
@@ -92440,7 +92433,7 @@ e_tibet = {
 				b_tewo = { #Diebu
 					province = 9444
 
-					color = { 45 80 90 }
+					color = { 110 49 9 }
 
 					cultural_names = {
 						name_list_han = cn_diebu
@@ -92449,7 +92442,7 @@ e_tibet = {
 				b_zhugqu = { #Zhouqu
 					province = 9445
 
-					color = { 45 80 90 }
+					color = { 90 36 0 }
 
 					cultural_names = {
 						name_list_han = cn_zhouqu
@@ -95211,7 +95204,7 @@ h_china = {
 				c_hezhong = {
 					color = { 169 125 73 }
 
-					b_hedong = {
+					b_hezhongfu_hexi = {
 						province = 10403
 
 						color = { 177 139 93 }
@@ -96379,7 +96372,7 @@ h_china = {
 
 						color = { 193 197 197 }
 					}
-					b_qingshui = {
+					b_qingshui_china = {
 						province = 12356
 
 						color = { 167 169 170 }
@@ -96497,13 +96490,16 @@ h_china = {
 				}
 			}
 		}
-		k_hexi = {
-			color = { 150 110 70 }
-
-			d_hexi = {
-				color = { 188 143 87 }
-
-				capital = c_liangzhou
+		
+		k_guishi = { #
+			color = { 53 43 80 }
+			capital = c_guazhou
+			can_be_named_after_dynasty = no
+			
+			d_guiyi = { #Guazhou
+				color = { 20 50 144 }
+	
+				capital = c_guazhou
 
 				c_liangzhou = { #Wuwei
 					color = { 20 56 221 }
@@ -96610,30 +96606,51 @@ h_china = {
 			d_longyou = {
 				color = { 124 120 60 }
 
-				capital = c_xiningzhou
+				capital = c_shanzhou_mbp
 
-				c_xiningzhou = {
-					color = { 138 134 81 }
-
-					b_huangshui = {
+				c_shanzhou_mbp = {
+					color = { 2 154 20 }
+	
+					cultural_names = {
+						name_list_bodpa = cn_tsongkha
+						name_list_tsangpa = cn_tsongkha
+						name_list_lhomon = cn_tsongkha
+						name_list_sumpa = cn_tsongkha
+						name_list_zhangzhung = cn_tsongkha
+					}
+	
+					b_shanzhou = { #Ping'an
 						province = 9418
-
-						color = { 150 147 100 }
+	
+						color = { 117 77 219 }
+	
+						cultural_names = {
+							name_list_bodpa = cn_zongge
+							name_list_tsangpa = cn_zongge
+							name_list_lhomon = cn_zongge
+							name_list_sumpa = cn_zongge
+							name_list_zhangzhung = cn_zongge
+						}
 					}
-					b_longzhi = {
+					b_chuankou = { #Minhe
 						province = 9417
-
-						color = { 123 119 73 }
+	
+						color = { 117 77 219 }
 					}
-					b_miaochuan = {
+					b_ledu = {
 						province = 9416
-
-						color = { 135 137 75 }
+	
+						color = { 117 77 219 }
 					}
-					b_gemen = {
+					b_gonglung = { #Huzhu
 						province = 9415
-
-						color = { 128 120 79 }
+	
+						color = { 117 77 219 }
+	
+						cultural_names = {
+							name_list_han = cn_huzhu
+							name_list_mongol = cn_huzhu
+						}
 					}
 				}
 				c_kuozhou = {
@@ -96754,70 +96771,70 @@ h_china = {
 						color = { 144 80 181 }
 					}
 				}
-				c_liaoquan = {
-					color = { 177 64 79 }
-
-					b_liaoquan = {
-						province = 9500
-
-						color = { 184 85 98 }
+				c_linze = {
+					color = { 31 56 221 }
+	
+					b_linze = {
+						province = 9501
+	
+						color = { 185 120 220 }
 					}
 					b_ganjun = {
-						province = 9501
-
-						color = { 158 57 72 }
+						province = 9500
+	
+						color = { 185 120 220 }
 					}
-					b_heli = {
+					b_pingchuan = {
 						province = 9503
-
-						color = { 178 54 56 }
+	
+						color = { 185 120 220 }
 					}
 				}
-				c_jiankang = {
-					color = { 200 63 63 }
-
-					b_jiankang = {
+				c_gaotai = {
+					color = { 20 20 200 }
+	
+					b_gaotai = {
 						province = 9502
-
-						color = { 205 84 84 }
+	
+						color = { 200 100 220 }
 					}
-					b_qilian = {
+					b_sunan = {
 						province = 9499
-
-						color = { 178 56 57 }
+	
+						color = { 200 100 220 }
 					}
 				}
-				c_zhenwu_1 = {
-					color = { 189 76 103 }
-
-					b_zhenwu = {
+				c_jinta = {
+					color = { 31 43 155 }
+	
+					b_jinta = {
 						province = 9496
-
-						color = { 195 95 119 }
+	
+						color = { 195 130 225 }
 					}
-					b_baiting = {
+					b_xiba = {
 						province = 9495
-
-						color = { 168 68 93 }
+	
+						color = { 195 130 225 }
 					}
 				}
-				c_jiuquan = {
-					color = { 209 109 120 }
-
-					b_jiuquan = {
-						province = 9494
-
-						color = { 213 125 134 }
-					}
-					b_dongting = {
+				c_suzhou = {
+					color = { 33 18 162 }
+	
+					b_jiayuguan = {
 						province = 9493
-
-						color = { 186 97 108 }
+	
+						color = { 220 140 210 }
 					}
-					b_fulu = {
+					b_suzhou = { #Jiuquan
+						province = 9494
+	
+						color = { 220 140 210 }
+					}
+					b_qingshui = {
 						province = 9498
-
-						color = { 210 100 100 }
+	
+						color = { 220 140 210 }
 					}
 				}
 				c_yumen = {
@@ -96889,70 +96906,82 @@ h_china = {
 						color = { 72 55 145 }
 					}
 				}
-				c_xincheng = {
-					color = { 114 145 86 }
-
-					b_xincheng = {
-						province = 9486
-
-						color = { 129 156 104 }
-					}
-					b_mingshui = {
+				c_changma = {
+					color = { 20 44 158 }
+	
+					b_changma = {
 						province = 9485
-
-						color = { 102 129 78 }
+	
+						color = { 110 65 175 }
+					}
+					b_hedong = {
+						province = 9486
+	
+						color = { 110 65 175 }
 					}
 				}
-				c_hehe = {
-					color = { 123 138 90 }
-
-					b_hehe = {
+				c_hongliuyuan = {
+					color = { 6 29 109 }
+	
+					b_hongliuyuan = {
 						province = 9483
-
-						color = { 137 150 108 }
+	
+						color = { 120 75 165 }
 					}
-					b_baizhang = {
+					b_qidun = {
 						province = 9488
-
-						color = { 110 122 81 }
+	
+						color = { 120 75 165 }
 					}
-					b_xinghu = {
+					b_xihu = {
 						province = 9484
-
-						color = { 115 137 84 }
+	
+						color = { 120 75 165 }
 					}
 				}
-				c_shouchang = {
-					color = { 149 168 124 }
-
-					b_shouchang = {
+				c_yumenguan = {
+					color = { 20 67 179 }
+	
+					b_yumenguan = {
 						province = 9474
-
-						color = { 160 176 138 }
+	
+						color = { 75 55 135 }
 					}
 					b_yangguan = {
 						province = 9473
-
-						color = { 133 149 111 }
+	
+						color = { 75 55 135 }
 					}
-					b_longle = {
+					b_akeqi = {
 						province = 9475
-
-						color = { 139 167 117 }
+	
+						color = { 75 55 135 }
+	
+						cultural_names = {
+							name_list_kirghiz = cn_akqi
+							name_list_uyghur = cn_akqi
+							name_list_mongol = cn_akqi
+						}
 					}
 				}
-				c_ziting = {
-					color = { 100 118 73 }
-
-					b_ziting = {
+				c_subei = {
+					color = { 55 51 140 }
+	
+					b_subei = {
 						province = 9479
-
-						color = { 117 132 93 }
+	
+						color = { 70 55 110 }
 					}
-					b_ganquan = {
+					b_yanchiwan = {
 						province = 9480
-
-						color = { 90 105 66 }
+	
+						color = { 70 55 110 }
+					}
+					b_ngor = { #Suli
+						province = 9408
+	
+						color = { 68 18 176 }
+	
 					}
 				}
 			}
@@ -113542,21 +113571,6 @@ e_amur = {
 
 				capital = c_lingzhou
 
-				d_guiyi = {
-					color = { 20 50 144 }
-
-					capital = c_subei
-
-					c_subei = {
-						color = { 55 51 140 }
-						b_ngor = {
-							province = 9408
-
-							color = { 68 18 176 }
-						}
-					}
-				}
-
 				d_aksay = {
 					color = { 20 60 98 }
 
@@ -114075,20 +114089,34 @@ e_amur = {
 			d_juyan = {
 				color = { 66 55 56 }
 
-				capital = c_tongcheng
+				capital = c_yijinai
 
-				c_tongcheng = {
-					color = { 87 77 78 }
-
-					b_heicheng = {
-						province = 9506
-
-						color = { 105 96 97 }
+				c_yijinai = {
+					color = { 20 71 214 }
+	
+					cultural_names = {
+						name_list_mongol = cn_khara_khoto
+						name_list_kirghiz = cn_ecina
+						name_list_uyghur = cn_ecina
+						name_list_han = cn_heicheng
 					}
-					b_sogo = {
+	
+					b_yijinai = { #Khara Khoto/Heicheng
+						province = 9506
+	
+						color = { 72 47 105 }
+	
+						cultural_names = {
+							name_list_mongol = cn_khara_khoto
+							name_list_kirghiz = cn_ecina
+							name_list_uyghur = cn_ecina
+							name_list_han = cn_heicheng
+						}
+					}
+					b_juyan = { #Sogo
 						province = 9507
-
-						color = { 79 69 71 }
+	
+						color = { 72 47 105 }
 					}
 				}
 				c_wentugaole = {

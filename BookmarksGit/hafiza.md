@@ -4445,3 +4445,39 @@ Yeni raporlar:
   - `mixed`: `29`
   - `unknown`: `16`
   - `skip`: `3`
+
+## 2026-04-22 County Source Worklist Regeneration ve Not Koruma
+
+- Kullanici `county_source_manual_worklist.csv` icinde manuel not ekledi:
+  - `c_xiningzhou,# Named to c_shanzhou_mbp`
+- `works/tools/build_county_source_manual_worklist.py` guncellendi:
+  - Ana CSV 4 kolonlu kalir: `county_id,current_source,expected_source,status`.
+  - `status` icindeki ` # ...` notlari county bazinda okunup ayni county halen worklist'te varsa geri yazilir.
+  - Worklist'ten dusen notlar `works/analysis/generated/landed_titles_source_audit/county_source_manual_worklist_preserved_notes.csv` icinde korunur.
+- Su an preserved notes:
+  - `c_xiningzhou,# Named to c_shanzhou_mbp,county_not_in_current_worklist`
+- Manuel landed_titles degisikliklerinden sonra validator su hatalari verdi ve duzeltildi:
+  - `d_longyou` capital: `c_xiningzhou` -> `c_shanzhou_mbp`
+  - `d_juyan` capital: `c_tongcheng` -> `c_yijinai`
+  - province `10403` icin duplicate barony id cozuldu: `b_hedong` -> `b_hezhongfu_hexi`
+  - province `12356` icin duplicate barony id cozuldu: `b_qingshui` -> `b_qingshui_china`
+  - `localization/replace/english/z_MB_titles_l_english.yml` icine `b_hezhongfu_hexi: "Hexi"` eklendi.
+- Degisiklikler hem live hem test landed_titles dosyasina uygulandi.
+- `works/tools/validate_east_mapping_pipeline.ps1` son durum:
+  - `landed_titles live/test hash match = yes`
+  - `missing playable province titles = 0`
+  - `validation errors = 0`
+  - `validation warnings = 0`
+- `works/tools/audit_landed_title_county_source_from_map.py` son durum:
+  - county rows: `3608`
+  - high signal mismatches: `0`
+- `county_source_fix_plan.csv` son dagilim:
+  - `no_action`: `3312`
+  - `manual_review`: `296`
+- Sade `county_source_manual_worklist.csv` son dagilim:
+  - toplam rows: `296`
+  - `review`: `247`
+  - `mixed`: `29`
+  - `unknown`: `16`
+  - `skip`: `3`
+  - `ok`: `1` (`c_suzhou`, fix-plan manual_review kaldigi icin listede)
