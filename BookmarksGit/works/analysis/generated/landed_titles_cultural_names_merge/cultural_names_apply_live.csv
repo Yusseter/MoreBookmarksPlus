@@ -1,0 +1,529 @@
+title_path,title_id,missing_key,value,source_line,target_line,status
+e_byzantium > k_thessalonika > d_thrace > c_byzantion > b_constantinople,b_constantinople,name_list_persian_turkish_anatolian,cn_konstantiniyye,15175,15162,will_add
+e_byzantium > k_thessalonika > d_thrace > c_byzantion > b_constantinople,b_constantinople,name_list_turkish,cn_konstantiniyye,15176,15162,will_add
+e_byzantium > k_thessalonika > d_aegean_islands > c_kyzikos > b_kyzikos,b_kyzikos,name_list_persian_turkish_anatolian,cn_aydincik,15485,15470,will_add
+e_byzantium > k_thessalonika > d_aegean_islands > c_kyzikos > b_kyzikos,b_kyzikos,name_list_turkish,cn_aydincik,15486,15470,will_add
+e_byzantium > k_cyprus,k_cyprus,name_list_persian_turkish_anatolian,cn_kibris,17691,17649,will_add
+e_byzantium > k_cyprus,k_cyprus,name_list_turkish,cn_kibris,17692,17649,will_add
+e_byzantium > k_cyprus > d_cyprus,d_cyprus,name_list_persian_turkish_anatolian,cn_kibris,17702,17683,will_add
+e_byzantium > k_cyprus > d_cyprus,d_cyprus,name_list_turkish,cn_kibris,17703,17683,will_add
+e_byzantium > k_cyprus > d_cyprus > c_nicosia,c_nicosia,name_list_persian_turkish_anatolian,cn_lefkosa,17711,17692,will_add
+e_byzantium > k_cyprus > d_cyprus > c_nicosia,c_nicosia,name_list_turkish,cn_lefkosa,17712,17692,will_add
+e_byzantium > k_cyprus > d_cyprus > c_nicosia > b_nicosia,b_nicosia,name_list_persian_turkish_anatolian,cn_lefkosa,17722,17699,will_add
+e_byzantium > k_cyprus > d_cyprus > c_nicosia > b_nicosia,b_nicosia,name_list_turkish,cn_lefkosa,17723,17699,will_add
+e_byzantium > k_cyprus > d_cyprus > c_nicosia > b_cerynia,b_cerynia,name_list_persian_turkish_anatolian,cn_girne,17740,17714,will_add
+e_byzantium > k_cyprus > d_cyprus > c_nicosia > b_cerynia,b_cerynia,name_list_turkish,cn_girne,17741,17714,will_add
+e_byzantium > k_cyprus > d_cyprus > c_limisol,c_limisol,name_list_persian_turkish_anatolian,cn_leymosun,17752,17727,will_add
+e_byzantium > k_cyprus > d_cyprus > c_limisol,c_limisol,name_list_turkish,cn_leymosun,17753,17727,will_add
+e_byzantium > k_cyprus > d_cyprus > c_limisol > b_limisol,b_limisol,name_list_persian_turkish_anatolian,cn_leymosun,17763,17734,will_add
+e_byzantium > k_cyprus > d_cyprus > c_limisol > b_limisol,b_limisol,name_list_turkish,cn_leymosun,17764,17734,will_add
+e_byzantium > k_cyprus > d_cyprus > c_limisol > b_paphos,b_paphos,name_list_persian_turkish_anatolian,cn_baf,17774,17743,will_add
+e_byzantium > k_cyprus > d_cyprus > c_limisol > b_paphos,b_paphos,name_list_turkish,cn_baf,17775,17743,will_add
+e_byzantium > k_cyprus > d_cyprus > c_famagusta,c_famagusta,name_list_persian_turkish_anatolian,cn_magusa,17792,17761,will_add
+e_byzantium > k_cyprus > d_cyprus > c_famagusta,c_famagusta,name_list_turkish,cn_magusa,17793,17761,will_add
+e_byzantium > k_cyprus > d_cyprus > c_famagusta > b_famagusta,b_famagusta,name_list_persian_turkish_anatolian,cn_magusa,17803,17768,will_add
+e_byzantium > k_cyprus > d_cyprus > c_famagusta > b_famagusta,b_famagusta,name_list_turkish,cn_magusa,17804,17768,will_add
+e_byzantium > k_nikaea > d_paphlagonia,d_paphlagonia,name_list_persian_turkish_anatolian,cn_paflagonya,17853,17816,will_add
+e_byzantium > k_nikaea > d_paphlagonia,d_paphlagonia,name_list_turkish,cn_paflagonya,17854,17816,will_add
+e_byzantium > k_nikaea > d_paphlagonia > c_paphlagonia,c_paphlagonia,name_list_persian_turkish_anatolian,cn_paflagonya,17862,17825,will_add
+e_byzantium > k_nikaea > d_paphlagonia > c_paphlagonia,c_paphlagonia,name_list_turkish,cn_paflagonya,17863,17825,will_add
+e_byzantium > k_nikaea > d_paphlagonia > c_paphlagonia > b_amastris,b_amastris,name_list_persian_turkish_anatolian,cn_amasra,17873,17832,will_add
+e_byzantium > k_nikaea > d_paphlagonia > c_paphlagonia > b_amastris,b_amastris,name_list_turkish,cn_amasra,17874,17832,will_add
+e_byzantium > k_nikaea > d_paphlagonia > c_paphlagonia > b_aigialos,b_aigialos,name_list_persian_turkish_anatolian,cn_karaagac_limani,17884,17841,will_add
+e_byzantium > k_nikaea > d_paphlagonia > c_paphlagonia > b_aigialos,b_aigialos,name_list_turkish,cn_karaagac_limani,17885,17841,will_add
+e_byzantium > k_nikaea > d_paphlagonia > c_paphlagonia > b_ionopolis,b_ionopolis,name_list_persian_turkish_anatolian,cn_inebolu,17895,17850,will_add
+e_byzantium > k_nikaea > d_paphlagonia > c_paphlagonia > b_ionopolis,b_ionopolis,name_list_turkish,cn_inebolu,17896,17850,will_add
+e_byzantium > k_nikaea > d_paphlagonia > c_paphlagonia > b_paphlagonia,b_paphlagonia,name_list_persian_turkish_anatolian,cn_istifan,17906,17859,will_add
+e_byzantium > k_nikaea > d_paphlagonia > c_paphlagonia > b_paphlagonia,b_paphlagonia,name_list_turkish,cn_istifan,17907,17859,will_add
+e_byzantium > k_nikaea > d_paphlagonia > c_gangra > b_gangra,b_gangra,name_list_persian_turkish_anatolian,cn_cankiri,17922,17873,will_add
+e_byzantium > k_nikaea > d_paphlagonia > c_gangra > b_gangra,b_gangra,name_list_turkish,cn_cankiri,17923,17873,will_add
+e_byzantium > k_nikaea > d_paphlagonia > c_gangra > b_kandara,b_kandara,name_list_persian_turkish_anatolian,cn_candere,17934,17883,will_add
+e_byzantium > k_nikaea > d_paphlagonia > c_gangra > b_kandara,b_kandara,name_list_turkish,cn_candere,17935,17883,will_add
+e_byzantium > k_nikaea > d_paphlagonia > c_pompeiopolis,c_pompeiopolis,name_list_persian_turkish_anatolian,cn_taskopru,17946,17895,will_add
+e_byzantium > k_nikaea > d_paphlagonia > c_pompeiopolis,c_pompeiopolis,name_list_turkish,cn_taskopru,17947,17895,will_add
+e_byzantium > k_nikaea > d_paphlagonia > c_pompeiopolis > b_pompeiopolis,b_pompeiopolis,name_list_persian_turkish_anatolian,cn_taskopru,17957,17902,will_add
+e_byzantium > k_nikaea > d_paphlagonia > c_pompeiopolis > b_pompeiopolis,b_pompeiopolis,name_list_turkish,cn_taskopru,17958,17902,will_add
+e_byzantium > k_nikaea > d_paphlagonia > c_pompeiopolis > b_castamon,b_castamon,name_list_persian_turkish_anatolian,cn_kastamonu,17968,17911,will_add
+e_byzantium > k_nikaea > d_paphlagonia > c_pompeiopolis > b_castamon,b_castamon,name_list_turkish,cn_kastamonu,17969,17911,will_add
+e_byzantium > k_nikaea > d_paphlagonia > c_pompeiopolis > b_ziporea,b_ziporea,name_list_persian_turkish_anatolian,cn_aday,17979,17920,will_add
+e_byzantium > k_nikaea > d_paphlagonia > c_pompeiopolis > b_ziporea,b_ziporea,name_list_turkish,cn_aday,17980,17920,will_add
+e_byzantium > k_nikaea > d_cibyrrhaeot,d_cibyrrhaeot,name_list_persian_turkish_anatolian,cn_kibirreoton,17994,17932,will_add
+e_byzantium > k_nikaea > d_cibyrrhaeot,d_cibyrrhaeot,name_list_turkish,cn_kibirreoton,17995,17932,will_add
+e_byzantium > k_nikaea > d_cibyrrhaeot > c_lycia,c_lycia,name_list_persian_turkish_anatolian,cn_likya,18004,17942,will_add
+e_byzantium > k_nikaea > d_cibyrrhaeot > c_lycia,c_lycia,name_list_turkish,cn_likya,18005,17942,will_add
+e_byzantium > k_nikaea > d_cibyrrhaeot > c_lycia > b_myra,b_myra,name_list_persian_turkish_anatolian,cn_kale,18015,17950,will_add
+e_byzantium > k_nikaea > d_cibyrrhaeot > c_lycia > b_myra,b_myra,name_list_turkish,cn_kale,18016,17950,will_add
+e_byzantium > k_nikaea > d_cibyrrhaeot > c_lycia > b_telmessos,b_telmessos,name_list_persian_turkish_anatolian,cn_fethiye,18027,17960,will_add
+e_byzantium > k_nikaea > d_cibyrrhaeot > c_lycia > b_telmessos,b_telmessos,name_list_turkish,cn_fethiye,18028,17960,will_add
+e_byzantium > k_nikaea > d_cibyrrhaeot > c_lycia > b_phaselis,b_phaselis,name_list_persian_turkish_anatolian,cn_faselis,18039,17970,will_add
+e_byzantium > k_nikaea > d_cibyrrhaeot > c_lycia > b_phaselis,b_phaselis,name_list_turkish,cn_faselis,18040,17970,will_add
+e_byzantium > k_nikaea > d_cibyrrhaeot > c_lycia > b_limyra,b_limyra,name_list_persian_turkish_anatolian,cn_limira,18050,17979,will_add
+e_byzantium > k_nikaea > d_cibyrrhaeot > c_lycia > b_limyra,b_limyra,name_list_turkish,cn_limira,18051,17979,will_add
+e_byzantium > k_nikaea > d_cibyrrhaeot > c_caria,c_caria,name_list_persian_turkish_anatolian,cn_karya,18091,18019,will_add
+e_byzantium > k_nikaea > d_cibyrrhaeot > c_caria,c_caria,name_list_turkish,cn_karya,18092,18019,will_add
+e_byzantium > k_nikaea > d_cibyrrhaeot > c_caria > b_halikarnassos,b_halikarnassos,name_list_persian_turkish_anatolian,cn_halikarnas,18102,18027,will_add
+e_byzantium > k_nikaea > d_cibyrrhaeot > c_caria > b_halikarnassos,b_halikarnassos,name_list_turkish,cn_halikarnas,18103,18027,will_add
+e_byzantium > k_nikaea > d_cibyrrhaeot > c_caria > b_mylasa,b_mylasa,name_list_persian_turkish_anatolian,cn_milas,18113,18036,will_add
+e_byzantium > k_nikaea > d_cibyrrhaeot > c_caria > b_mylasa,b_mylasa,name_list_turkish,cn_milas,18114,18036,will_add
+e_byzantium > k_nikaea > d_cibyrrhaeot > c_caria > b_aphrodisias,b_aphrodisias,name_list_persian_turkish_anatolian,cn_afrodisias,18130,18051,will_add
+e_byzantium > k_nikaea > d_cibyrrhaeot > c_caria > b_aphrodisias,b_aphrodisias,name_list_turkish,cn_afrodisias,18131,18051,will_add
+e_byzantium > k_nikaea > d_cibyrrhaeot > c_pamphylia > b_attaleia,b_attaleia,name_list_persian_turkish_anatolian,cn_antalya,18145,18064,will_add
+e_byzantium > k_nikaea > d_cibyrrhaeot > c_pamphylia > b_attaleia,b_attaleia,name_list_turkish,cn_antalya,18146,18064,will_add
+e_byzantium > k_nikaea > d_cibyrrhaeot > c_pamphylia > b_korakesion,b_korakesion,name_list_persian_turkish_anatolian,cn_alanya,18157,18074,will_add
+e_byzantium > k_nikaea > d_cibyrrhaeot > c_pamphylia > b_korakesion,b_korakesion,name_list_turkish,cn_alanya,18158,18074,will_add
+e_byzantium > k_nikaea > d_opsikion > c_nikaea,c_nikaea,name_list_persian_turkish_anatolian,cn_iznik,18181,18098,will_add
+e_byzantium > k_nikaea > d_opsikion > c_nikaea,c_nikaea,name_list_turkish,cn_iznik,18182,18098,will_add
+e_byzantium > k_nikaea > d_opsikion > c_nikaea > b_nikaea,b_nikaea,name_list_persian_turkish_anatolian,cn_iznik,18192,18105,will_add
+e_byzantium > k_nikaea > d_opsikion > c_nikaea > b_nikaea,b_nikaea,name_list_turkish,cn_iznik,18193,18105,will_add
+e_byzantium > k_nikaea > d_opsikion > c_nikaea > b_lopadion,b_lopadion,name_list_persian_turkish_anatolian,cn_uluabat,18215,18126,will_add
+e_byzantium > k_nikaea > d_opsikion > c_nikaea > b_lopadion,b_lopadion,name_list_turkish,cn_uluabat,18216,18126,will_add
+e_byzantium > k_nikaea > d_opsikion > c_mysia,c_mysia,name_list_persian_turkish_anatolian,cn_misya,18226,18137,will_add
+e_byzantium > k_nikaea > d_opsikion > c_mysia,c_mysia,name_list_turkish,cn_misya,18227,18137,will_add
+e_byzantium > k_nikaea > d_opsikion > c_mysia > b_miletopolis,b_miletopolis,name_list_persian_turkish_anatolian,cn_mihalic,18237,18144,will_add
+e_byzantium > k_nikaea > d_opsikion > c_mysia > b_miletopolis,b_miletopolis,name_list_turkish,cn_mihalic,18238,18144,will_add
+e_byzantium > k_nikaea > d_opsikion > c_mysia > b_poimanenon,b_poimanenon,name_list_persian_turkish_anatolian,cn_alexa,18248,18153,will_add
+e_byzantium > k_nikaea > d_opsikion > c_mysia > b_poimanenon,b_poimanenon,name_list_turkish,cn_alexa,18249,18153,will_add
+e_byzantium > k_nikaea > d_opsikion > c_mysia > b_appollonia,b_appollonia,name_list_persian_turkish_anatolian,cn_golyazi,18259,18162,will_add
+e_byzantium > k_nikaea > d_opsikion > c_mysia > b_appollonia,b_appollonia,name_list_turkish,cn_golyazi,18260,18162,will_add
+e_byzantium > k_nikaea > d_opsikion > c_mysia > b_hadrianoi,b_hadrianoi,name_list_persian_turkish_anatolian,cn_orhaneli,18270,18171,will_add
+e_byzantium > k_nikaea > d_opsikion > c_mysia > b_hadrianoi,b_hadrianoi,name_list_turkish,cn_orhaneli,18271,18171,will_add
+e_byzantium > k_nikaea > d_opsikion > c_prusa,c_prusa,name_list_persian_turkish_anatolian,cn_bursa,18281,18182,will_add
+e_byzantium > k_nikaea > d_opsikion > c_prusa,c_prusa,name_list_turkish,cn_bursa,18282,18182,will_add
+e_byzantium > k_nikaea > d_opsikion > c_prusa > b_prusa,b_prusa,name_list_persian_turkish_anatolian,cn_bursa,18292,18189,will_add
+e_byzantium > k_nikaea > d_opsikion > c_prusa > b_prusa,b_prusa,name_list_turkish,cn_bursa,18293,18189,will_add
+e_byzantium > k_nikaea > d_opsikion > c_prusa > b_helge,b_helge,name_list_persian_turkish_anatolian,cn_tahtali,18303,18198,will_add
+e_byzantium > k_nikaea > d_opsikion > c_prusa > b_helge,b_helge,name_list_turkish,cn_tahtali,18304,18198,will_add
+e_byzantium > k_nikaea > d_opsikion > c_prusa > b_dabla,b_dabla,name_list_persian_turkish_anatolian,cn_ahmetler,18326,18219,will_add
+e_byzantium > k_nikaea > d_opsikion > c_prusa > b_dabla,b_dabla,name_list_turkish,cn_ahmetler,18327,18219,will_add
+e_byzantium > k_nikaea > d_opsikion > c_dorylaion > b_dorylaion,b_dorylaion,name_list_persian_turkish_anatolian,cn_sarhoyuk,18342,18233,will_add
+e_byzantium > k_nikaea > d_opsikion > c_dorylaion > b_dorylaion,b_dorylaion,name_list_turkish,cn_sarhoyuk,18343,18233,will_add
+e_byzantium > k_nikaea > d_opsikion > c_dorylaion > b_midaeum,b_midaeum,name_list_persian_turkish_anatolian,cn_karahuyuk,18362,18250,will_add
+e_byzantium > k_nikaea > d_opsikion > c_dorylaion > b_midaeum,b_midaeum,name_list_turkish,cn_karahuyuk,18363,18250,will_add
+e_byzantium > k_nikaea > d_opsikion > c_phrygia,c_phrygia,name_list_persian_turkish_anatolian,cn_frigya,18374,18263,will_add
+e_byzantium > k_nikaea > d_opsikion > c_phrygia,c_phrygia,name_list_turkish,cn_frigya,18375,18263,will_add
+e_byzantium > k_nikaea > d_opsikion > c_phrygia > b_gordium,b_gordium,name_list_persian_turkish_anatolian,cn_gordiyon,18385,18270,will_add
+e_byzantium > k_nikaea > d_opsikion > c_phrygia > b_gordium,b_gordium,name_list_turkish,cn_gordiyon,18386,18270,will_add
+e_byzantium > k_nikaea > d_opsikion > c_phrygia > b_oka,b_oka,name_list_persian_turkish_anatolian,cn_harmanlar,18396,18279,will_add
+e_byzantium > k_nikaea > d_opsikion > c_phrygia > b_oka,b_oka,name_list_turkish,cn_harmanlar,18397,18279,will_add
+e_byzantium > k_nikaea > d_ephese,d_ephese,name_list_persian_turkish_anatolian,cn_efes,18417,18297,will_add
+e_byzantium > k_nikaea > d_ephese,d_ephese,name_list_turkish,cn_efes,18418,18297,will_add
+e_byzantium > k_nikaea > d_ephese > c_ionia,c_ionia,name_list_persian_turkish_anatolian,cn_iyonya,18427,18307,will_add
+e_byzantium > k_nikaea > d_ephese > c_ionia,c_ionia,name_list_turkish,cn_iyonya,18428,18307,will_add
+e_byzantium > k_nikaea > d_ephese > c_ionia > b_ephesos,b_ephesos,name_list_persian_turkish_anatolian,cn_efes,18439,18315,will_add
+e_byzantium > k_nikaea > d_ephese > c_ionia > b_ephesos,b_ephesos,name_list_turkish,cn_efes,18440,18315,will_add
+e_byzantium > k_nikaea > d_ephese > c_ionia > b_iassus,b_iassus,name_list_persian_turkish_anatolian,cn_kiyikislacik,18452,18326,will_add
+e_byzantium > k_nikaea > d_ephese > c_ionia > b_iassus,b_iassus,name_list_turkish,cn_kiyikislacik,18453,18326,will_add
+e_byzantium > k_nikaea > d_ephese > c_ionia > b_miletus,b_miletus,name_list_persian_turkish_anatolian,cn_milet,18469,18342,will_add
+e_byzantium > k_nikaea > d_ephese > c_ionia > b_miletus,b_miletus,name_list_turkish,cn_milet,18470,18342,will_add
+e_byzantium > k_nikaea > d_ephese > c_ionia > b_lebedos,b_lebedos,name_list_persian_turkish_anatolian,cn_lebedos,18480,18351,will_add
+e_byzantium > k_nikaea > d_ephese > c_ionia > b_lebedos,b_lebedos,name_list_turkish,cn_lebedos,18481,18351,will_add
+e_byzantium > k_nikaea > d_ephese > c_smyrna > b_smyrna,b_smyrna,name_list_persian_turkish_anatolian,cn_izmir,18495,18364,will_add
+e_byzantium > k_nikaea > d_ephese > c_smyrna > b_smyrna,b_smyrna,name_list_turkish,cn_izmir,18496,18364,will_add
+e_byzantium > k_nikaea > d_ephese > c_smyrna > b_phocaea,b_phocaea,name_list_persian_turkish_anatolian,cn_foca,18507,18374,will_add
+e_byzantium > k_nikaea > d_ephese > c_smyrna > b_phocaea,b_phocaea,name_list_turkish,cn_foca,18508,18374,will_add
+e_byzantium > k_nikaea > d_ephese > c_aeolis,c_aeolis,name_list_persian_turkish_anatolian,cn_aiolis,18532,18399,will_add
+e_byzantium > k_nikaea > d_ephese > c_aeolis,c_aeolis,name_list_turkish,cn_aiolis,18533,18399,will_add
+e_byzantium > k_nikaea > d_ephese > c_aeolis > b_adramyttium,b_adramyttium,name_list_persian_turkish_anatolian,cn_oren,18544,18406,will_add
+e_byzantium > k_nikaea > d_ephese > c_aeolis > b_adramyttium,b_adramyttium,name_list_turkish,cn_oren,18545,18406,will_add
+e_byzantium > k_nikaea > d_ephese > c_aeolis > b_pergamon,b_pergamon,name_list_persian_turkish_anatolian,cn_bergama,18556,18417,will_add
+e_byzantium > k_nikaea > d_ephese > c_aeolis > b_pergamon,b_pergamon,name_list_turkish,cn_bergama,18557,18417,will_add
+e_byzantium > k_nikaea > d_thracesia,d_thracesia,name_list_persian_turkish_anatolian,cn_trakya,18570,18428,will_add
+e_byzantium > k_nikaea > d_thracesia,d_thracesia,name_list_turkish,cn_trakya,18571,18428,will_add
+e_byzantium > k_nikaea > d_thracesia > c_lydia,c_lydia,name_list_persian_turkish_anatolian,cn_lidya,18579,18438,will_add
+e_byzantium > k_nikaea > d_thracesia > c_lydia,c_lydia,name_list_turkish,cn_lidya,18580,18438,will_add
+e_byzantium > k_nikaea > d_thracesia > c_lydia > b_philadelphia,b_philadelphia,name_list_persian_turkish_anatolian,cn_alasehir,18590,18445,will_add
+e_byzantium > k_nikaea > d_thracesia > c_lydia > b_philadelphia,b_philadelphia,name_list_turkish,cn_alasehir,18591,18445,will_add
+e_byzantium > k_nikaea > d_thracesia > c_lydia > b_sardes,b_sardes,name_list_persian_turkish_anatolian,cn_sardis,18601,18454,will_add
+e_byzantium > k_nikaea > d_thracesia > c_lydia > b_sardes,b_sardes,name_list_turkish,cn_sardis,18602,18454,will_add
+e_byzantium > k_nikaea > d_thracesia > c_lydia > b_bagis,b_bagis,name_list_persian_turkish_anatolian,cn_bage,18612,18463,will_add
+e_byzantium > k_nikaea > d_thracesia > c_lydia > b_bagis,b_bagis,name_list_turkish,cn_bage,18613,18463,will_add
+e_byzantium > k_nikaea > d_thracesia > c_lydia > b_sebaste,b_sebaste,name_list_persian_turkish_anatolian,cn_sivasli,18629,18478,will_add
+e_byzantium > k_nikaea > d_thracesia > c_lydia > b_sebaste,b_sebaste,name_list_turkish,cn_sivasli,18630,18478,will_add
+e_byzantium > k_nikaea > d_thracesia > c_laodikeia > b_laodikeia,b_laodikeia,name_list_persian_turkish_anatolian,cn_laodikeia,18645,18492,will_add
+e_byzantium > k_nikaea > d_thracesia > c_laodikeia > b_laodikeia,b_laodikeia,name_list_turkish,cn_laodikeia,18646,18492,will_add
+e_byzantium > k_nikaea > d_thracesia > c_laodikeia > b_cibyra,b_cibyra,name_list_persian_turkish_anatolian,cn_golhisar,18664,18509,will_add
+e_byzantium > k_nikaea > d_thracesia > c_laodikeia > b_cibyra,b_cibyra,name_list_turkish,cn_golhisar,18665,18509,will_add
+e_byzantium > k_nikaea > d_thracesia > c_laodikeia > b_olbasa,b_olbasa,name_list_persian_turkish_anatolian,cn_oura,18683,18526,will_add
+e_byzantium > k_nikaea > d_thracesia > c_laodikeia > b_olbasa,b_olbasa,name_list_turkish,cn_oura,18684,18526,will_add
+e_byzantium > k_nikaea > d_thracesia > c_thyatira,c_thyatira,name_list_persian_turkish_anatolian,cn_akhisar,18695,18538,will_add
+e_byzantium > k_nikaea > d_thracesia > c_thyatira,c_thyatira,name_list_turkish,cn_akhisar,18696,18538,will_add
+e_byzantium > k_nikaea > d_thracesia > c_thyatira > b_thyatira,b_thyatira,name_list_persian_turkish_anatolian,cn_akhisar,18706,18545,will_add
+e_byzantium > k_nikaea > d_thracesia > c_thyatira > b_thyatira,b_thyatira,name_list_turkish,cn_akhisar,18707,18545,will_add
+e_byzantium > k_nikaea > d_thracesia > c_thyatira > b_attalia,b_attalia,name_list_persian_turkish_anatolian,cn_antalya,18717,18554,will_add
+e_byzantium > k_nikaea > d_thracesia > c_thyatira > b_attalia,b_attalia,name_list_turkish,cn_antalya,18718,18554,will_add
+e_byzantium > k_nikaea > d_thracesia > c_thyatira > b_tabala,b_tabala,name_list_persian_turkish_anatolian,cn_diskaya,18734,18569,will_add
+e_byzantium > k_nikaea > d_thracesia > c_thyatira > b_tabala,b_tabala,name_list_turkish,cn_diskaya,18735,18569,will_add
+e_byzantium > k_nikaea > d_thracesia > c_hadrianeia,c_hadrianeia,name_list_persian_turkish_anatolian,cn_dursunbey,18744,18579,will_add
+e_byzantium > k_nikaea > d_thracesia > c_hadrianeia,c_hadrianeia,name_list_turkish,cn_dursunbey,18745,18579,will_add
+e_byzantium > k_nikaea > d_thracesia > c_hadrianeia > b_hadrianeia,b_hadrianeia,name_list_persian_turkish_anatolian,cn_dursunbey,18755,18586,will_add
+e_byzantium > k_nikaea > d_thracesia > c_hadrianeia > b_hadrianeia,b_hadrianeia,name_list_turkish,cn_dursunbey,18756,18586,will_add
+e_byzantium > k_nikaea > d_thracesia > c_hadrianeia > b_cybele,b_cybele,name_list_persian_turkish_anatolian,cn_akcaalan,18766,18595,will_add
+e_byzantium > k_nikaea > d_thracesia > c_hadrianeia > b_cybele,b_cybele,name_list_turkish,cn_akcaalan,18767,18595,will_add
+e_byzantium > k_nikaea > d_thracesia > c_chonae,c_chonae,name_list_persian_turkish_anatolian,cn_honaz,18782,18611,will_add
+e_byzantium > k_nikaea > d_thracesia > c_chonae,c_chonae,name_list_turkish,cn_honaz,18783,18611,will_add
+e_byzantium > k_nikaea > d_thracesia > c_chonae > b_chonae,b_chonae,name_list_persian_turkish_anatolian,cn_honaz,18793,18618,will_add
+e_byzantium > k_nikaea > d_thracesia > c_chonae > b_chonae,b_chonae,name_list_turkish,cn_honaz,18794,18618,will_add
+e_byzantium > k_nikaea > d_thracesia > c_chonae > b_apamea,b_apamea,name_list_persian_turkish_anatolian,cn_apameia_kibotos,18804,18627,will_add
+e_byzantium > k_nikaea > d_thracesia > c_chonae > b_apamea,b_apamea,name_list_turkish,cn_apameia_kibotos,18805,18627,will_add
+e_byzantium > k_nikaea > d_optimatoi,d_optimatoi,name_list_persian_turkish_anatolian,cn_optimatoi,18817,18638,will_add
+e_byzantium > k_nikaea > d_optimatoi,d_optimatoi,name_list_turkish,cn_optimatoi,18818,18638,will_add
+e_byzantium > k_nikaea > d_optimatoi > c_bithynia,c_bithynia,name_list_persian_turkish_anatolian,cn_bitinya,18826,18647,will_add
+e_byzantium > k_nikaea > d_optimatoi > c_bithynia,c_bithynia,name_list_turkish,cn_bitinya,18827,18647,will_add
+e_byzantium > k_nikaea > d_optimatoi > c_bithynia > b_chalcedon,b_chalcedon,name_list_persian_turkish_anatolian,cn_kalkedon,18837,18654,will_add
+e_byzantium > k_nikaea > d_optimatoi > c_bithynia > b_chalcedon,b_chalcedon,name_list_turkish,cn_kalkedon,18838,18654,will_add
+e_byzantium > k_nikaea > d_optimatoi > c_bithynia > b_chelai,b_chelai,name_list_persian_turkish_anatolian,cn_sile,18848,18663,will_add
+e_byzantium > k_nikaea > d_optimatoi > c_bithynia > b_chelai,b_chelai,name_list_turkish,cn_sile,18849,18663,will_add
+e_byzantium > k_nikaea > d_optimatoi > c_bithynia > b_nikomedia,b_nikomedia,name_list_persian_turkish_anatolian,cn_izmit,18859,18672,will_add
+e_byzantium > k_nikaea > d_optimatoi > c_bithynia > b_nikomedia,b_nikomedia,name_list_turkish,cn_izmit,18860,18672,will_add
+e_byzantium > k_nikaea > d_optimatoi > c_tarsos,c_tarsos,name_list_persian_turkish_anatolian,cn_tarsiye,18869,18682,will_add
+e_byzantium > k_nikaea > d_optimatoi > c_tarsos,c_tarsos,name_list_turkish,cn_tarsiye,18870,18682,will_add
+e_byzantium > k_nikaea > d_optimatoi > c_tarsos > b_tarsos,b_tarsos,name_list_persian_turkish_anatolian,cn_tarsiye,18880,18689,will_add
+e_byzantium > k_nikaea > d_optimatoi > c_tarsos > b_tarsos,b_tarsos,name_list_turkish,cn_tarsiye,18881,18689,will_add
+e_byzantium > k_nikaea > d_optimatoi > c_tarsos > b_prusias_ad_hypium,b_prusias_ad_hypium,name_list_persian_turkish_anatolian,cn_konuralp,18891,18698,will_add
+e_byzantium > k_nikaea > d_optimatoi > c_tarsos > b_prusias_ad_hypium,b_prusias_ad_hypium,name_list_turkish,cn_konuralp,18892,18698,will_add
+e_byzantium > k_nikaea > d_optimatoi > c_tarsos > b_modra,b_modra,name_list_persian_turkish_anatolian,cn_mudurnu,18902,18707,will_add
+e_byzantium > k_nikaea > d_optimatoi > c_tarsos > b_modra,b_modra,name_list_turkish,cn_mudurnu,18903,18707,will_add
+e_byzantium > k_nikaea > d_bucellaria,d_bucellaria,name_list_persian_turkish_anatolian,cn_bukellarion,18917,18719,will_add
+e_byzantium > k_nikaea > d_bucellaria,d_bucellaria,name_list_turkish,cn_bukellarion,18918,18719,will_add
+e_byzantium > k_nikaea > d_bucellaria > c_honorias > b_herakleia,b_herakleia,name_list_persian_turkish_anatolian,cn_karadeniz_eregli,18931,18732,will_add
+e_byzantium > k_nikaea > d_bucellaria > c_honorias > b_herakleia,b_herakleia,name_list_turkish,cn_karadeniz_eregli,18932,18732,will_add
+e_byzantium > k_nikaea > d_bucellaria > c_honorias > b_claudiopolis,b_claudiopolis,name_list_persian_turkish_anatolian,cn_bolu,18942,18741,will_add
+e_byzantium > k_nikaea > d_bucellaria > c_honorias > b_claudiopolis,b_claudiopolis,name_list_turkish,cn_bolu,18943,18741,will_add
+e_byzantium > k_nikaea > d_bucellaria > c_vithynion > b_cratea,b_cratea,name_list_persian_turkish_anatolian,cn_krateia,18965,18762,will_add
+e_byzantium > k_nikaea > d_bucellaria > c_vithynion > b_cratea,b_cratea,name_list_turkish,cn_krateia,18966,18762,will_add
+e_byzantium > k_nikaea > d_bucellaria > c_vithynion > b_cratea,b_cratea,name_list_persian_turkish_anatolian,cn_gerede,18968,18762,will_add
+e_byzantium > k_nikaea > d_bucellaria > c_vithynion > b_cratea,b_cratea,name_list_turkish,cn_gerede,18969,18762,will_add
+e_byzantium > k_nikaea > d_bucellaria > c_galatia,c_galatia,name_list_persian_turkish_anatolian,cn_galatlar,18980,18775,will_add
+e_byzantium > k_nikaea > d_bucellaria > c_galatia,c_galatia,name_list_turkish,cn_galatlar,18981,18775,will_add
+e_byzantium > k_nikaea > d_bucellaria > c_galatia > b_ankyra,b_ankyra,name_list_persian_turkish_anatolian,cn_ankara,18991,18782,will_add
+e_byzantium > k_nikaea > d_bucellaria > c_galatia > b_ankyra,b_ankyra,name_list_turkish,cn_ankara,18992,18782,will_add
+e_byzantium > k_nikaea > d_bucellaria > c_galatia > b_vindia,b_vindia,name_list_persian_turkish_anatolian,cn_yassihuyuk,19002,18791,will_add
+e_byzantium > k_nikaea > d_bucellaria > c_galatia > b_vindia,b_vindia,name_list_turkish,cn_yassihuyuk,19003,18791,will_add
+e_byzantium > k_nikaea > d_bucellaria > c_galatia > b_papira,b_papira,name_list_persian_turkish_anatolian,cn_balikuyumcu,19013,18800,will_add
+e_byzantium > k_nikaea > d_bucellaria > c_galatia > b_papira,b_papira,name_list_turkish,cn_balikuyumcu,19014,18800,will_add
+e_byzantium > k_nikaea > d_bucellaria > c_hadrianopolis,c_hadrianopolis,name_list_persian_turkish_anatolian,cn_edirne,19023,18810,will_add
+e_byzantium > k_nikaea > d_bucellaria > c_hadrianopolis,c_hadrianopolis,name_list_turkish,cn_edirne,19024,18810,will_add
+e_byzantium > k_nikaea > d_bucellaria > c_hadrianopolis > b_hadrianopolis,b_hadrianopolis,name_list_persian_turkish_anatolian,cn_edirne,19034,18817,will_add
+e_byzantium > k_nikaea > d_bucellaria > c_hadrianopolis > b_hadrianopolis,b_hadrianopolis,name_list_turkish,cn_edirne,19035,18817,will_add
+e_byzantium > k_nikaea > d_bucellaria > c_hadrianopolis > b_krateia,b_krateia,name_list_persian_turkish_anatolian,cn_gerede,19045,18826,will_add
+e_byzantium > k_nikaea > d_bucellaria > c_hadrianopolis > b_krateia,b_krateia,name_list_turkish,cn_gerede,19046,18826,will_add
+e_byzantium > k_nikaea > d_bucellaria > c_hadrianopolis > b_iuliopolis,b_iuliopolis,name_list_persian_turkish_anatolian,cn_sarilar,19056,18835,will_add
+e_byzantium > k_nikaea > d_bucellaria > c_hadrianopolis > b_iuliopolis,b_iuliopolis,name_list_turkish,cn_sarilar,19057,18835,will_add
+e_byzantium > k_nikaea > d_bucellaria > c_hadrianopolis > b_lagania,b_lagania,name_list_persian_turkish_anatolian,cn_beypazari,19067,18844,will_add
+e_byzantium > k_nikaea > d_bucellaria > c_hadrianopolis > b_lagania,b_lagania,name_list_turkish,cn_beypazari,19068,18844,will_add
+e_byzantium > k_cilician > d_cilicia,d_cilicia,name_list_persian_turkish_anatolian,cn_kilikya,19104,18878,will_add
+e_byzantium > k_cilician > d_cilicia,d_cilicia,name_list_turkish,cn_kilikya,19105,18878,will_add
+e_byzantium > k_cilician > d_cilicia > c_cilicia,c_cilicia,name_list_persian_turkish_anatolian,cn_kilikya,19114,18888,will_add
+e_byzantium > k_cilician > d_cilicia > c_cilicia,c_cilicia,name_list_turkish,cn_kilikya,19115,18888,will_add
+e_byzantium > k_cilician > d_cilicia > c_cilicia > b_tarsus,b_tarsus,name_list_persian_turkish_anatolian,cn_tarsus,19125,18896,will_add
+e_byzantium > k_cilician > d_cilicia > c_cilicia > b_tarsus,b_tarsus,name_list_turkish,cn_tarsus,19126,18896,will_add
+e_byzantium > k_cilician > d_cilicia > c_cilicia > b_podandus,b_podandus,name_list_persian_turkish_anatolian,cn_pozanti,19142,18911,will_add
+e_byzantium > k_cilician > d_cilicia > c_cilicia > b_podandus,b_podandus,name_list_turkish,cn_pozanti,19143,18911,will_add
+e_byzantium > k_cilician > d_cilicia > c_sis > b_anazaribus,b_anazaribus,name_list_persian_turkish_anatolian,cn_anavarza,19158,18925,will_add
+e_byzantium > k_cilician > d_cilicia > c_sis > b_anazaribus,b_anazaribus,name_list_turkish,cn_anavarza,19159,18925,will_add
+e_byzantium > k_cilician > d_cilicia > c_sis > b_cocussus,b_cocussus,name_list_persian_turkish_anatolian,cn_goksun,19170,18935,will_add
+e_byzantium > k_cilician > d_cilicia > c_sis > b_cocussus,b_cocussus,name_list_turkish,cn_goksun,19171,18935,will_add
+e_byzantium > k_cilician > d_cilicia > c_sis > b_faustinopolis,b_faustinopolis,name_list_persian_turkish_anatolian,cn_basmakci,19181,18944,will_add
+e_byzantium > k_cilician > d_cilicia > c_sis > b_faustinopolis,b_faustinopolis,name_list_turkish,cn_basmakci,19182,18944,will_add
+e_byzantium > k_cilician > d_cilicia > c_alexandretta,c_alexandretta,name_list_persian_turkish_anatolian,cn_iskandarun,19198,18956,will_add
+e_byzantium > k_cilician > d_cilicia > c_alexandretta,c_alexandretta,name_list_turkish,cn_iskandarun,19199,18956,will_add
+e_byzantium > k_cilician > d_cilicia > c_alexandretta > b_alexandretta,b_alexandretta,name_list_persian_turkish_anatolian,cn_iskandarun,19212,18968,will_add
+e_byzantium > k_cilician > d_cilicia > c_alexandretta > b_alexandretta,b_alexandretta,name_list_turkish,cn_iskandarun,19213,18968,will_add
+e_byzantium > k_cilician > d_cilicia > c_tall_hamid,c_tall_hamid,name_list_persian_turkish_anatolian,cn_issos,19239,18997,will_add
+e_byzantium > k_cilician > d_cilicia > c_tall_hamid,c_tall_hamid,name_list_turkish,cn_issos,19240,18997,will_add
+e_byzantium > k_cilician > d_cilicia > c_tall_hamid > b_adana,b_adana,name_list_persian_turkish_anatolian,cn_adana,19250,19005,will_add
+e_byzantium > k_cilician > d_cilicia > c_tall_hamid > b_adana,b_adana,name_list_turkish,cn_adana,19251,19005,will_add
+e_byzantium > k_cilician > d_cilicia > c_tall_hamid > b_mallus,b_mallus,name_list_persian_turkish_anatolian,cn_karatas,19261,19014,will_add
+e_byzantium > k_cilician > d_cilicia > c_tall_hamid > b_mallus,b_mallus,name_list_turkish,cn_karatas,19262,19014,will_add
+e_byzantium > k_cilician > d_cilicia > c_tall_hamid > b_tall_hamid,b_tall_hamid,name_list_persian_turkish_anatolian,cn_issos,19274,19024,will_add
+e_byzantium > k_cilician > d_cilicia > c_tall_hamid > b_tall_hamid,b_tall_hamid,name_list_turkish,cn_issos,19275,19024,will_add
+e_byzantium > k_cilician > d_cilicia > c_tall_hamid > b_al-haruniya,b_al-haruniya,name_list_persian_turkish_anatolian,cn_castabala,19286,19034,will_add
+e_byzantium > k_cilician > d_cilicia > c_tall_hamid > b_al-haruniya,b_al-haruniya,name_list_turkish,cn_castabala,19287,19034,will_add
+e_byzantium > k_cilician > d_cilicia > c_tall_hamid > b_ayas,b_ayas,name_list_persian_turkish_anatolian,cn_yumurtalik,19298,19044,will_add
+e_byzantium > k_cilician > d_cilicia > c_tall_hamid > b_ayas,b_ayas,name_list_turkish,cn_yumurtalik,19299,19044,will_add
+e_byzantium > k_cilician > d_seleucia > c_seleucia,c_seleucia,name_list_persian_turkish_anatolian,cn_silifke,19316,19062,will_add
+e_byzantium > k_cilician > d_seleucia > c_seleucia,c_seleucia,name_list_turkish,cn_silifke,19317,19062,will_add
+e_byzantium > k_cilician > d_seleucia > c_seleucia > b_seleukia,b_seleukia,name_list_persian_turkish_anatolian,cn_silifke,19327,19070,will_add
+e_byzantium > k_cilician > d_seleucia > c_seleucia > b_seleukia,b_seleukia,name_list_turkish,cn_silifke,19328,19070,will_add
+e_byzantium > k_cilician > d_seleucia > c_seleucia > b_corycus,b_corycus,name_list_persian_turkish_anatolian,cn_kiz_kalesi,19338,19079,will_add
+e_byzantium > k_cilician > d_seleucia > c_seleucia > b_corycus,b_corycus,name_list_turkish,cn_kiz_kalesi,19339,19079,will_add
+e_byzantium > k_cilician > d_seleucia > c_seleucia > b_claudiopolis_SELEUCIA,b_claudiopolis_SELEUCIA,name_list_persian_turkish_anatolian,cn_ninica,19349,19088,will_add
+e_byzantium > k_cilician > d_seleucia > c_seleucia > b_claudiopolis_SELEUCIA,b_claudiopolis_SELEUCIA,name_list_turkish,cn_ninica,19350,19088,will_add
+e_byzantium > k_cilician > d_seleucia > c_anamur > b_anemurium,b_anemurium,name_list_persian_turkish_anatolian,cn_anamur,19365,19102,will_add
+e_byzantium > k_cilician > d_seleucia > c_anamur > b_anemurium,b_anemurium,name_list_turkish,cn_anamur,19366,19102,will_add
+e_byzantium > k_cilician > d_seleucia > c_anamur > b_selinus,b_selinus,name_list_persian_turkish_anatolian,cn_selinunte,19377,19112,will_add
+e_byzantium > k_cilician > d_seleucia > c_anamur > b_selinus,b_selinus,name_list_turkish,cn_selinunte,19378,19112,will_add
+e_byzantium > k_cilician > d_seleucia > c_anamur > b_adrassos,b_adrassos,name_list_persian_turkish_anatolian,cn_pamfilya,19389,19122,will_add
+e_byzantium > k_cilician > d_seleucia > c_anamur > b_adrassos,b_adrassos,name_list_turkish,cn_pamfilya,19390,19122,will_add
+e_byzantium > k_anatolia,k_anatolia,name_list_persian_turkish_anatolian,cn_anadolu,19436,19147,will_add
+e_byzantium > k_anatolia > d_coloneia > c_colonea,c_colonea,name_list_persian_turkish_anatolian,cn_sebinkarahisar,19451,19181,will_add
+e_byzantium > k_anatolia > d_coloneia > c_colonea,c_colonea,name_list_turkish,cn_sebinkarahisar,19452,19181,will_add
+e_byzantium > k_anatolia > d_coloneia > c_colonea > b_colonea,b_colonea,name_list_persian_turkish_anatolian,cn_sebinkarahisar,19463,19189,will_add
+e_byzantium > k_anatolia > d_coloneia > c_colonea > b_colonea,b_colonea,name_list_turkish,cn_sebinkarahisar,19464,19189,will_add
+e_byzantium > k_anatolia > d_coloneia > c_colonea > b_satala,b_satala,name_list_persian_turkish_anatolian,cn_sadak,19480,19205,will_add
+e_byzantium > k_anatolia > d_coloneia > c_colonea > b_satala,b_satala,name_list_turkish,cn_sadak,19481,19205,will_add
+e_byzantium > k_anatolia > d_coloneia > c_colonea > b_sinoria,b_sinoria,name_list_persian_turkish_anatolian,cn_yaglidere,19491,19214,will_add
+e_byzantium > k_anatolia > d_coloneia > c_colonea > b_sinoria,b_sinoria,name_list_turkish,cn_yaglidere,19492,19214,will_add
+e_byzantium > k_anatolia > d_coloneia > c_colonea > b_nicopolis_ARM,b_nicopolis_ARM,name_list_persian_turkish_anatolian,cn_koyulhisar,19502,19223,will_add
+e_byzantium > k_anatolia > d_coloneia > c_colonea > b_nicopolis_ARM,b_nicopolis_ARM,name_list_turkish,cn_koyulhisar,19503,19223,will_add
+e_byzantium > k_anatolia > d_coloneia > c_neokaisareia > b_neocaesara,b_neocaesara,name_list_persian_turkish_anatolian,cn_niksar,19519,19237,will_add
+e_byzantium > k_anatolia > d_coloneia > c_neokaisareia > b_neocaesara,b_neocaesara,name_list_turkish,cn_niksar,19520,19237,will_add
+e_byzantium > k_anatolia > d_elbistan > c_ablastha,c_ablastha,name_list_persian_turkish_anatolian,cn_elbistan,19545,19264,will_add
+e_byzantium > k_anatolia > d_elbistan > c_ablastha,c_ablastha,name_list_turkish,cn_elbistan,19546,19264,will_add
+e_byzantium > k_anatolia > d_elbistan > c_ablastha > b_ablastha,b_ablastha,name_list_persian_turkish_anatolian,cn_elbistan,19556,19271,will_add
+e_byzantium > k_anatolia > d_elbistan > c_ablastha > b_ablastha,b_ablastha,name_list_turkish,cn_elbistan,19557,19271,will_add
+e_byzantium > k_anatolia > d_elbistan > c_ablastha > b_dalanda,b_dalanda,name_list_persian_turkish_anatolian,cn_darende,19567,19280,will_add
+e_byzantium > k_anatolia > d_elbistan > c_ablastha > b_dalanda,b_dalanda,name_list_turkish,cn_darende,19568,19280,will_add
+e_byzantium > k_anatolia > d_elbistan > c_ablastha > b_osdara,b_osdara,name_list_persian_turkish_anatolian,cn_demircilik,19578,19289,will_add
+e_byzantium > k_anatolia > d_elbistan > c_ablastha > b_osdara,b_osdara,name_list_turkish,cn_demircilik,19579,19289,will_add
+e_byzantium > k_anatolia > d_elbistan > c_lycandus > b_comana_LYK,b_comana_LYK,name_list_persian_turkish_anatolian,cn_sar,19607,19316,will_add
+e_byzantium > k_anatolia > d_elbistan > c_lycandus > b_comana_LYK,b_comana_LYK,name_list_turkish,cn_sar,19608,19316,will_add
+e_byzantium > k_anatolia > d_elbistan > c_lycandus > b_arabissus,b_arabissus,name_list_persian_turkish_anatolian,cn_afsin,19618,19325,will_add
+e_byzantium > k_anatolia > d_elbistan > c_lycandus > b_arabissus,b_arabissus,name_list_turkish,cn_afsin,19619,19325,will_add
+e_byzantium > k_anatolia > d_sebasteia,d_sebasteia,name_list_persian_turkish_anatolian,cn_sivas,19633,19338,will_add
+e_byzantium > k_anatolia > d_sebasteia,d_sebasteia,name_list_turkish,cn_sivas,19634,19338,will_add
+e_byzantium > k_anatolia > d_sebasteia > c_sebasteia,c_sebasteia,name_list_persian_turkish_anatolian,cn_sivas,19642,19347,will_add
+e_byzantium > k_anatolia > d_sebasteia > c_sebasteia,c_sebasteia,name_list_turkish,cn_sivas,19643,19347,will_add
+e_byzantium > k_anatolia > d_sebasteia > c_sebasteia > b_sebasteia,b_sebasteia,name_list_persian_turkish_anatolian,cn_sivas,19653,19354,will_add
+e_byzantium > k_anatolia > d_sebasteia > c_sebasteia > b_sebasteia,b_sebasteia,name_list_turkish,cn_sivas,19654,19354,will_add
+e_byzantium > k_anatolia > d_sebasteia > c_sebasteia > b_sebastopolis,b_sebastopolis,name_list_persian_turkish_anatolian,cn_sulusaray,19664,19363,will_add
+e_byzantium > k_anatolia > d_sebasteia > c_sebasteia > b_sebastopolis,b_sebastopolis,name_list_turkish,cn_sulusaray,19665,19363,will_add
+e_byzantium > k_anatolia > d_sebasteia > c_sebasteia > b_agranai,b_agranai,name_list_persian_turkish_anatolian,cn_musalim_kalesi,19675,19372,will_add
+e_byzantium > k_anatolia > d_sebasteia > c_sebasteia > b_agranai,b_agranai,name_list_turkish,cn_musalim_kalesi,19676,19372,will_add
+e_byzantium > k_anatolia > d_sebasteia > c_sebasteia > b_pedachtoe,b_pedachtoe,name_list_persian_turkish_anatolian,cn_aksehir,19686,19381,will_add
+e_byzantium > k_anatolia > d_sebasteia > c_sebasteia > b_pedachtoe,b_pedachtoe,name_list_turkish,cn_aksehir,19687,19381,will_add
+e_byzantium > k_anatolia > d_sebasteia > c_tzamandos > b_malandra,b_malandra,name_list_persian_turkish_anatolian,cn_sarkisla,19725,19418,will_add
+e_byzantium > k_anatolia > d_sebasteia > c_tzamandos > b_malandra,b_malandra,name_list_turkish,cn_sarkisla,19726,19418,will_add
+e_byzantium > k_anatolia > d_sebasteia > c_tzamandos > b_armaxa,b_armaxa,name_list_persian_turkish_anatolian,cn_gemerek,19737,19428,will_add
+e_byzantium > k_anatolia > d_sebasteia > c_tzamandos > b_armaxa,b_armaxa,name_list_turkish,cn_gemerek,19738,19428,will_add
+e_byzantium > k_anatolia > d_sebasteia > c_tzamandos > b_dasmenda,b_dasmenda,name_list_persian_turkish_anatolian,cn_kuskalesi,19749,19438,will_add
+e_byzantium > k_anatolia > d_sebasteia > c_tzamandos > b_dasmenda,b_dasmenda,name_list_turkish,cn_kuskalesi,19750,19438,will_add
+e_byzantium > k_anatolia > d_sebasteia > c_azysia > b_euspena,b_euspena,name_list_persian_turkish_anatolian,cn_kangal,19765,19452,will_add
+e_byzantium > k_anatolia > d_sebasteia > c_azysia > b_euspena,b_euspena,name_list_turkish,cn_kangal,19766,19452,will_add
+e_byzantium > k_anatolia > d_sebasteia > c_azysia > b_karnalis,b_karnalis,name_list_persian_turkish_anatolian,cn_viransehir,19777,19462,will_add
+e_byzantium > k_anatolia > d_sebasteia > c_azysia > b_karnalis,b_karnalis,name_list_turkish,cn_viransehir,19778,19462,will_add
+e_byzantium > k_anatolia > d_sebasteia > c_azysia > b_gauraina,b_gauraina,name_list_persian_turkish_anatolian,cn_gurun,19788,19471,will_add
+e_byzantium > k_anatolia > d_sebasteia > c_azysia > b_gauraina,b_gauraina,name_list_turkish,cn_gurun,19789,19471,will_add
+e_byzantium > k_anatolia > d_sebasteia > c_azysia > b_tanadaris,b_tanadaris,name_list_persian_turkish_anatolian,cn_tanir,19799,19480,will_add
+e_byzantium > k_anatolia > d_sebasteia > c_azysia > b_tanadaris,b_tanadaris,name_list_turkish,cn_tanir,19800,19480,will_add
+e_byzantium > k_anatolia > d_anatolia,d_anatolia,name_list_persian_turkish_anatolian,cn_anadolu,19814,19492,will_add
+e_byzantium > k_anatolia > d_anatolia > c_lycaonia,c_lycaonia,name_list_persian_turkish_anatolian,cn_likaonya,19824,19503,will_add
+e_byzantium > k_anatolia > d_anatolia > c_lycaonia,c_lycaonia,name_list_turkish,cn_likaonya,19825,19503,will_add
+e_byzantium > k_anatolia > d_anatolia > c_lycaonia > b_ikonion,b_ikonion,name_list_persian_turkish_anatolian,cn_konya,19835,19511,will_add
+e_byzantium > k_anatolia > d_anatolia > c_lycaonia > b_ikonion,b_ikonion,name_list_turkish,cn_konya,19836,19511,will_add
+e_byzantium > k_anatolia > d_anatolia > c_lycaonia > b_ouasada,b_ouasada,name_list_persian_turkish_anatolian,cn_bostandere,19846,19520,will_add
+e_byzantium > k_anatolia > d_anatolia > c_lycaonia > b_ouasada,b_ouasada,name_list_turkish,cn_bostandere,19847,19520,will_add
+e_byzantium > k_anatolia > d_anatolia > c_lycaonia > b_mistea,b_mistea,name_list_persian_turkish_anatolian,cn_beysehir,19857,19529,will_add
+e_byzantium > k_anatolia > d_anatolia > c_lycaonia > b_mistea,b_mistea,name_list_turkish,cn_beysehir,19858,19529,will_add
+e_byzantium > k_anatolia > d_anatolia > c_lycaonia > b_lystra,b_lystra,name_list_persian_turkish_anatolian,cn_hatunsaray,19868,19538,will_add
+e_byzantium > k_anatolia > d_anatolia > c_lycaonia > b_lystra,b_lystra,name_list_turkish,cn_hatunsaray,19869,19538,will_add
+e_byzantium > k_anatolia > d_anatolia > c_lycaonia > b_pappa,b_pappa,name_list_persian_turkish_anatolian,cn_yunuslar,19879,19547,will_add
+e_byzantium > k_anatolia > d_anatolia > c_lycaonia > b_pappa,b_pappa,name_list_turkish,cn_yunuslar,19880,19547,will_add
+e_byzantium > k_anatolia > d_anatolia > c_lycaonia > b_katakekaumene,b_katakekaumene,name_list_persian_turkish_anatolian,cn_ladik,19890,19556,will_add
+e_byzantium > k_anatolia > d_anatolia > c_lycaonia > b_katakekaumene,b_katakekaumene,name_list_turkish,cn_ladik,19891,19556,will_add
+e_byzantium > k_anatolia > d_anatolia > c_pacatiana > b_aezani,b_aezani,name_list_persian_turkish_anatolian,cn_cavdarhisar,19905,19569,will_add
+e_byzantium > k_anatolia > d_anatolia > c_pacatiana > b_aezani,b_aezani,name_list_turkish,cn_cavdarhisar,19906,19569,will_add
+e_byzantium > k_anatolia > d_anatolia > c_pacatiana > b_nakoleia,b_nakoleia,name_list_persian_turkish_anatolian,cn_seyitgazi,19916,19578,will_add
+e_byzantium > k_anatolia > d_anatolia > c_pacatiana > b_nakoleia,b_nakoleia,name_list_turkish,cn_seyitgazi,19917,19578,will_add
+e_byzantium > k_anatolia > d_anatolia > c_pacatiana > b_docimium,b_docimium,name_list_persian_turkish_anatolian,cn_sarhoyuk,19928,19587,will_add
+e_byzantium > k_anatolia > d_anatolia > c_pacatiana > b_docimium,b_docimium,name_list_turkish,cn_sarhoyuk,19929,19587,will_add
+e_byzantium > k_anatolia > d_anatolia > c_pacatiana > b_synnada,b_synnada,name_list_persian_turkish_anatolian,cn_simav,19939,19597,will_add
+e_byzantium > k_anatolia > d_anatolia > c_pacatiana > b_synnada,b_synnada,name_list_turkish,cn_simav,19940,19597,will_add
+e_byzantium > k_anatolia > d_anatolia > c_pisidia,c_pisidia,name_list_persian_turkish_anatolian,cn_pisidya,19955,19613,will_add
+e_byzantium > k_anatolia > d_anatolia > c_pisidia,c_pisidia,name_list_turkish,cn_pisidya,19956,19613,will_add
+e_byzantium > k_anatolia > d_anatolia > c_pisidia > b_sozopolis,b_sozopolis,name_list_persian_turkish_anatolian,cn_uluborlu,19966,19620,will_add
+e_byzantium > k_anatolia > d_anatolia > c_pisidia > b_sozopolis,b_sozopolis,name_list_turkish,cn_uluborlu,19967,19620,will_add
+e_byzantium > k_anatolia > d_anatolia > c_pisidia > b_sagalassus,b_sagalassus,name_list_persian_turkish_anatolian,cn_aglasun,19977,19629,will_add
+e_byzantium > k_anatolia > d_anatolia > c_pisidia > b_sagalassus,b_sagalassus,name_list_turkish,cn_aglasun,19978,19629,will_add
+e_byzantium > k_anatolia > d_anatolia > c_pisidia > b_parlais,b_parlais,name_list_persian_turkish_anatolian,cn_barla,19988,19638,will_add
+e_byzantium > k_anatolia > d_anatolia > c_pisidia > b_parlais,b_parlais,name_list_turkish,cn_barla,19989,19638,will_add
+e_byzantium > k_anatolia > d_anatolia > c_selge,c_selge,name_list_persian_turkish_anatolian,cn_altinkaya,19998,19648,will_add
+e_byzantium > k_anatolia > d_anatolia > c_selge,c_selge,name_list_turkish,cn_altinkaya,19999,19648,will_add
+e_byzantium > k_anatolia > d_anatolia > c_selge > b_selge,b_selge,name_list_persian_turkish_anatolian,cn_altinkaya,20009,19655,will_add
+e_byzantium > k_anatolia > d_anatolia > c_selge > b_selge,b_selge,name_list_turkish,cn_altinkaya,20010,19655,will_add
+e_byzantium > k_anatolia > d_anatolia > c_selge > b_adada,b_adada,name_list_persian_turkish_anatolian,cn_sagrak,20020,19664,will_add
+e_byzantium > k_anatolia > d_anatolia > c_selge > b_adada,b_adada,name_list_turkish,cn_sagrak,20021,19664,will_add
+e_byzantium > k_anatolia > d_anatolia > c_selge > b_kaklouma,b_kaklouma,name_list_persian_turkish_anatolian,cn_dalayman,20031,19673,will_add
+e_byzantium > k_anatolia > d_anatolia > c_selge > b_kaklouma,b_kaklouma,name_list_turkish,cn_dalayman,20032,19673,will_add
+e_byzantium > k_anatolia > d_anatolia > c_galatia_salutaris,c_galatia_salutaris,name_list_persian_turkish_anatolian,cn_bati_galatya,20041,19683,will_add
+e_byzantium > k_anatolia > d_anatolia > c_galatia_salutaris,c_galatia_salutaris,name_list_turkish,cn_bati_galatya,20042,19683,will_add
+e_byzantium > k_anatolia > d_anatolia > c_galatia_salutaris > b_polybotus,b_polybotus,name_list_persian_turkish_anatolian,cn_bolvadin,20052,19690,will_add
+e_byzantium > k_anatolia > d_anatolia > c_galatia_salutaris > b_polybotus,b_polybotus,name_list_turkish,cn_bolvadin,20053,19690,will_add
+e_byzantium > k_anatolia > d_anatolia > c_galatia_salutaris > b_pessinus,b_pessinus,name_list_persian_turkish_anatolian,cn_ballihisar,20069,19705,will_add
+e_byzantium > k_anatolia > d_anatolia > c_galatia_salutaris > b_pessinus,b_pessinus,name_list_turkish,cn_ballihisar,20070,19705,will_add
+e_byzantium > k_anatolia > d_anatolia > c_galatia_salutaris > b_tyraion,b_tyraion,name_list_persian_turkish_anatolian,cn_ilgin,20080,19714,will_add
+e_byzantium > k_anatolia > d_anatolia > c_galatia_salutaris > b_tyraion,b_tyraion,name_list_turkish,cn_ilgin,20081,19714,will_add
+e_byzantium > k_anatolia > d_anatolia > c_philomelium,c_philomelium,name_list_persian_turkish_anatolian,cn_aksehir,20090,19724,will_add
+e_byzantium > k_anatolia > d_anatolia > c_philomelium,c_philomelium,name_list_turkish,cn_aksehir,20091,19724,will_add
+e_byzantium > k_anatolia > d_anatolia > c_philomelium > b_philomelium,b_philomelium,name_list_persian_turkish_anatolian,cn_aksehir,20101,19731,will_add
+e_byzantium > k_anatolia > d_anatolia > c_philomelium > b_philomelium,b_philomelium,name_list_turkish,cn_aksehir,20102,19731,will_add
+e_byzantium > k_anatolia > d_anatolia > c_philomelium > b_amorion,b_amorion,name_list_persian_turkish_anatolian,cn_hisarkoy,20112,19740,will_add
+e_byzantium > k_anatolia > d_anatolia > c_philomelium > b_amorion,b_amorion,name_list_turkish,cn_hisarkoy,20113,19740,will_add
+e_byzantium > k_anatolia > d_anatolia > c_philomelium > b_antiochia,b_antiochia,name_list_persian_turkish_anatolian,cn_yalvac,20123,19749,will_add
+e_byzantium > k_anatolia > d_anatolia > c_philomelium > b_antiochia,b_antiochia,name_list_turkish,cn_yalvac,20124,19749,will_add
+e_byzantium > k_anatolia > d_anatolia > c_philomelium > b_neapolis,b_neapolis,name_list_persian_turkish_anatolian,cn_kiyakdede,20134,19758,will_add
+e_byzantium > k_anatolia > d_anatolia > c_philomelium > b_neapolis,b_neapolis,name_list_turkish,cn_kiyakdede,20135,19758,will_add
+e_byzantium > k_anatolia > d_anatolia > c_isauria,c_isauria,name_list_persian_turkish_anatolian,cn_sirista,20144,19768,will_add
+e_byzantium > k_anatolia > d_anatolia > c_isauria,c_isauria,name_list_turkish,cn_sirista,20145,19768,will_add
+e_byzantium > k_anatolia > d_anatolia > c_isauria > b_isaura,b_isaura,name_list_persian_turkish_anatolian,cn_sirista,20155,19775,will_add
+e_byzantium > k_anatolia > d_anatolia > c_isauria > b_isaura,b_isaura,name_list_turkish,cn_sirista,20156,19775,will_add
+e_byzantium > k_anatolia > d_anatolia > c_isauria > b_laranalia,b_laranalia,name_list_persian_turkish_anatolian,cn_karaman,20166,19784,will_add
+e_byzantium > k_anatolia > d_anatolia > c_isauria > b_laranalia,b_laranalia,name_list_turkish,cn_karaman,20167,19784,will_add
+e_byzantium > k_anatolia > d_anatolia > c_isauria > b_derbe,b_derbe,name_list_persian_turkish_anatolian,cn_kerti_huruk,20177,19793,will_add
+e_byzantium > k_anatolia > d_anatolia > c_isauria > b_derbe,b_derbe,name_list_turkish,cn_kerti_huruk,20178,19793,will_add
+e_byzantium > k_anatolia > d_anatolia > c_isauria > b_barata,b_barata,name_list_persian_turkish_anatolian,cn_kizilkale,20188,19802,will_add
+e_byzantium > k_anatolia > d_anatolia > c_isauria > b_barata,b_barata,name_list_turkish,cn_kizilkale,20189,19802,will_add
+e_byzantium > k_anatolia > d_cappadocia,d_cappadocia,name_list_persian_turkish_anatolian,cn_kapadokya,20203,19814,will_add
+e_byzantium > k_anatolia > d_cappadocia,d_cappadocia,name_list_turkish,cn_kapadokya,20204,19814,will_add
+e_byzantium > k_anatolia > d_cappadocia > c_cappadocia,c_cappadocia,name_list_persian_turkish_anatolian,cn_kapadokya,20213,19824,will_add
+e_byzantium > k_anatolia > d_cappadocia > c_cappadocia,c_cappadocia,name_list_turkish,cn_kapadokya,20214,19824,will_add
+e_byzantium > k_anatolia > d_cappadocia > c_cappadocia > b_tyana,b_tyana,name_list_persian_turkish_anatolian,cn_kemerhisar,20224,19832,will_add
+e_byzantium > k_anatolia > d_cappadocia > c_cappadocia > b_tyana,b_tyana,name_list_turkish,cn_kemerhisar,20225,19832,will_add
+e_byzantium > k_anatolia > d_cappadocia > c_cappadocia > b_comitanassus,b_comitanassus,name_list_persian_turkish_anatolian,cn_ortakuyu,20235,19841,will_add
+e_byzantium > k_anatolia > d_cappadocia > c_cappadocia > b_comitanassus,b_comitanassus,name_list_turkish,cn_ortakuyu,20236,19841,will_add
+e_byzantium > k_anatolia > d_cappadocia > c_cappadocia > b_cybistra,b_cybistra,name_list_persian_turkish_anatolian,cn_eregli,20247,19851,will_add
+e_byzantium > k_anatolia > d_cappadocia > c_cappadocia > b_cybistra,b_cybistra,name_list_turkish,cn_eregli,20248,19851,will_add
+e_byzantium > k_anatolia > d_cappadocia > c_archelais > b_nazianzus,b_nazianzus,name_list_persian_turkish_anatolian,cn_nenizi,20263,19865,will_add
+e_byzantium > k_anatolia > d_cappadocia > c_archelais > b_nazianzus,b_nazianzus,name_list_turkish,cn_nenizi,20264,19865,will_add
+e_byzantium > k_anatolia > d_cappadocia > c_archelais > b_garsaura,b_garsaura,name_list_persian_turkish_anatolian,cn_aksaray,20275,19875,will_add
+e_byzantium > k_anatolia > d_cappadocia > c_archelais > b_garsaura,b_garsaura,name_list_turkish,cn_aksaray,20276,19875,will_add
+e_byzantium > k_anatolia > d_cappadocia > c_lower_galatia,c_lower_galatia,name_list_persian_turkish_anatolian,cn_alt_galatya,20287,19887,will_add
+e_byzantium > k_anatolia > d_cappadocia > c_lower_galatia,c_lower_galatia,name_list_turkish,cn_alt_galatya,20288,19887,will_add
+e_byzantium > k_anatolia > d_cappadocia > c_lower_galatia > b_parnassos,b_parnassos,name_list_persian_turkish_anatolian,cn_degirmenyolu,20298,19894,will_add
+e_byzantium > k_anatolia > d_cappadocia > c_lower_galatia > b_parnassos,b_parnassos,name_list_turkish,cn_degirmenyolu,20299,19894,will_add
+e_byzantium > k_anatolia > d_cappadocia > c_lower_galatia > b_aspona,b_aspona,name_list_persian_turkish_anatolian,cn_sarihuyuk,20309,19903,will_add
+e_byzantium > k_anatolia > d_cappadocia > c_lower_galatia > b_aspona,b_aspona,name_list_turkish,cn_sarihuyuk,20310,19903,will_add
+e_byzantium > k_anatolia > d_cappadocia > c_lower_galatia > b_kinna,b_kinna,name_list_persian_turkish_anatolian,cn_karahamzili,20320,19912,will_add
+e_byzantium > k_anatolia > d_cappadocia > c_lower_galatia > b_kinna,b_kinna,name_list_turkish,cn_karahamzili,20321,19912,will_add
+e_byzantium > k_anatolia > d_charsianon,d_charsianon,name_list_persian_turkish_anatolian,cn_rum,20334,19924,will_add
+e_byzantium > k_anatolia > d_charsianon,d_charsianon,name_list_turkish,cn_rum,20335,19924,will_add
+e_byzantium > k_anatolia > d_charsianon > c_charsianon,c_charsianon,name_list_persian_turkish_anatolian,cn_harsianon,20343,19933,will_add
+e_byzantium > k_anatolia > d_charsianon > c_charsianon,c_charsianon,name_list_turkish,cn_harsianon,20344,19933,will_add
+e_byzantium > k_anatolia > d_charsianon > c_charsianon > b_charsianon,b_charsianon,name_list_persian_turkish_anatolian,cn_harsianon,20354,19940,will_add
+e_byzantium > k_anatolia > d_charsianon > c_charsianon > b_charsianon,b_charsianon,name_list_turkish,cn_harsianon,20355,19940,will_add
+e_byzantium > k_anatolia > d_charsianon > c_charsianon > b_therma,b_therma,name_list_persian_turkish_anatolian,cn_yerkoy_kaplica,20365,19949,will_add
+e_byzantium > k_anatolia > d_charsianon > c_charsianon > b_therma,b_therma,name_list_turkish,cn_yerkoy_kaplica,20366,19949,will_add
+e_byzantium > k_anatolia > d_charsianon > c_charsianon > b_euaissa,b_euaissa,name_list_persian_turkish_anatolian,cn_yogunhisar,20376,19958,will_add
+e_byzantium > k_anatolia > d_charsianon > c_charsianon > b_euaissa,b_euaissa,name_list_turkish,cn_yogunhisar,20377,19958,will_add
+e_byzantium > k_anatolia > d_charsianon > c_charsianon > b_galatia,b_galatia,name_list_persian_turkish_anatolian,cn_kirsehir,20388,19967,will_add
+e_byzantium > k_anatolia > d_charsianon > c_charsianon > b_galatia,b_galatia,name_list_turkish,cn_kirsehir,20389,19967,will_add
+e_byzantium > k_anatolia > d_charsianon > c_charsianon > b_soanda,b_soanda,name_list_persian_turkish_anatolian,cn_kusakli_huyuk,20399,19977,will_add
+e_byzantium > k_anatolia > d_charsianon > c_charsianon > b_soanda,b_soanda,name_list_turkish,cn_kusakli_huyuk,20400,19977,will_add
+e_byzantium > k_anatolia > d_charsianon > c_charsianon > b_aspona_CHA,b_aspona_CHA,name_list_persian_turkish_anatolian,cn_sarihuyuk,20410,19986,will_add
+e_byzantium > k_anatolia > d_charsianon > c_charsianon > b_aspona_CHA,b_aspona_CHA,name_list_turkish,cn_sarihuyuk,20411,19986,will_add
+e_byzantium > k_anatolia > d_charsianon > c_realgalatia > b_tabia,b_tabia,name_list_persian_turkish_anatolian,cn_buyuk_nefes,20426,20000,will_add
+e_byzantium > k_anatolia > d_charsianon > c_realgalatia > b_tabia,b_tabia,name_list_turkish,cn_buyuk_nefes,20427,20000,will_add
+e_byzantium > k_anatolia > d_charsianon > c_realgalatia > b_ecobrogis,b_ecobrogis,name_list_persian_turkish_anatolian,cn_sorsovus,20438,20010,will_add
+e_byzantium > k_anatolia > d_charsianon > c_realgalatia > b_ecobrogis,b_ecobrogis,name_list_turkish,cn_sorsovus,20439,20010,will_add
+e_byzantium > k_anatolia > d_charsianon > c_kaisereia,c_kaisereia,name_list_persian_turkish_anatolian,cn_kayseri,20450,20022,will_add
+e_byzantium > k_anatolia > d_charsianon > c_kaisereia,c_kaisereia,name_list_turkish,cn_kayseri,20451,20022,will_add
+e_byzantium > k_anatolia > d_charsianon > c_kaisereia > b_kaisereia,b_kaisereia,name_list_persian_turkish_anatolian,cn_kayseri,20461,20029,will_add
+e_byzantium > k_anatolia > d_charsianon > c_kaisereia > b_kaisereia,b_kaisereia,name_list_turkish,cn_kayseri,20462,20029,will_add
+e_byzantium > k_anatolia > d_charsianon > c_kaisereia > b_herpha,b_herpha,name_list_persian_turkish_anatolian,cn_karmalas,20472,20038,will_add
+e_byzantium > k_anatolia > d_charsianon > c_kaisereia > b_herpha,b_herpha,name_list_turkish,cn_karmalas,20473,20038,will_add
+e_byzantium > k_anatolia > d_charsianon > c_kyzistra,c_kyzistra,name_list_persian_turkish_anatolian,cn_zengibar_kalesi,20483,20049,will_add
+e_byzantium > k_anatolia > d_charsianon > c_kyzistra,c_kyzistra,name_list_turkish,cn_zengibar_kalesi,20484,20049,will_add
+e_byzantium > k_anatolia > d_charsianon > c_kyzistra > b_kyzistra,b_kyzistra,name_list_persian_turkish_anatolian,cn_zengibar_kalesi,20494,20056,will_add
+e_byzantium > k_anatolia > d_charsianon > c_kyzistra > b_kyzistra,b_kyzistra,name_list_turkish,cn_zengibar_kalesi,20495,20056,will_add
+e_byzantium > k_anatolia > d_charsianon > c_kyzistra > b_zeila_CHA,b_zeila_CHA,name_list_persian_turkish_anatolian,cn_zile,20505,20065,will_add
+e_byzantium > k_anatolia > d_charsianon > c_kyzistra > b_zeila_CHA,b_zeila_CHA,name_list_turkish,cn_zile,20506,20065,will_add
+e_byzantium > k_anatolia > d_charsianon > c_kyzistra > b_arasaxa,b_arasaxa,name_list_persian_turkish_anatolian,cn_akmescit,20516,20074,will_add
+e_byzantium > k_anatolia > d_charsianon > c_kyzistra > b_arasaxa,b_arasaxa,name_list_turkish,cn_akmescit,20517,20074,will_add
+e_byzantium > k_pontus > d_armeniac > c_helenopontus,c_helenopontus,name_list_persian_turkish_anatolian,cn_pervane,21539,21097,will_add
+e_byzantium > k_pontus > d_armeniac > c_helenopontus,c_helenopontus,name_list_turkish,cn_pervane,21540,21097,will_add
+e_byzantium > k_pontus > d_armeniac > c_helenopontus > b_gadilon,b_gadilon,name_list_persian_turkish_anatolian,cn_bafra,21550,21104,will_add
+e_byzantium > k_pontus > d_armeniac > c_helenopontus > b_gadilon,b_gadilon,name_list_turkish,cn_bafra,21551,21104,will_add
+e_byzantium > k_pontus > d_armeniac > c_helenopontus > b_amisos,b_amisos,name_list_persian_turkish_anatolian,cn_samsun,21561,21113,will_add
+e_byzantium > k_pontus > d_armeniac > c_helenopontus > b_amisos,b_amisos,name_list_turkish,cn_samsun,21562,21113,will_add
+e_byzantium > k_pontus > d_armeniac > c_helenopontus > b_oinaion,b_oinaion,name_list_persian_turkish_anatolian,cn_unye,21572,21122,will_add
+e_byzantium > k_pontus > d_armeniac > c_helenopontus > b_oinaion,b_oinaion,name_list_turkish,cn_unye,21573,21122,will_add
+e_byzantium > k_pontus > d_armeniac > c_sinope,c_sinope,name_list_persian_turkish_anatolian,cn_sinop,21582,21132,will_add
+e_byzantium > k_pontus > d_armeniac > c_sinope,c_sinope,name_list_turkish,cn_sinop,21583,21132,will_add
+e_byzantium > k_pontus > d_armeniac > c_sinope > b_sinope,b_sinope,name_list_persian_turkish_anatolian,cn_sinop,21593,21139,will_add
+e_byzantium > k_pontus > d_armeniac > c_sinope > b_sinope,b_sinope,name_list_turkish,cn_sinop,21594,21139,will_add
+e_byzantium > k_pontus > d_armeniac > c_sinope > b_zagora,b_zagora,name_list_persian_turkish_anatolian,cn_cayagzi,21604,21148,will_add
+e_byzantium > k_pontus > d_armeniac > c_sinope > b_zagora,b_zagora,name_list_turkish,cn_cayagzi,21605,21148,will_add
+e_byzantium > k_pontus > d_armeniac > c_euchaita,c_euchaita,name_list_persian_turkish_anatolian,cn_beyozu,21614,21158,will_add
+e_byzantium > k_pontus > d_armeniac > c_euchaita,c_euchaita,name_list_turkish,cn_beyozu,21615,21158,will_add
+e_byzantium > k_pontus > d_armeniac > c_euchaita > b_euchaita,b_euchaita,name_list_persian_turkish_anatolian,cn_beyozu,21625,21165,will_add
+e_byzantium > k_pontus > d_armeniac > c_euchaita > b_euchaita,b_euchaita,name_list_turkish,cn_beyozu,21626,21165,will_add
+e_byzantium > k_pontus > d_armeniac > c_euchaita > b_pimolisa,b_pimolisa,name_list_persian_turkish_anatolian,cn_osmancik,21636,21174,will_add
+e_byzantium > k_pontus > d_armeniac > c_euchaita > b_pimolisa,b_pimolisa,name_list_turkish,cn_osmancik,21637,21174,will_add
+e_byzantium > k_pontus > d_armeniac > c_euchaita > b_andrapa,b_andrapa,name_list_persian_turkish_anatolian,cn_vezirkopru,21647,21183,will_add
+e_byzantium > k_pontus > d_armeniac > c_euchaita > b_andrapa,b_andrapa,name_list_turkish,cn_vezirkopru,21648,21183,will_add
+e_byzantium > k_pontus > d_armeniac > c_euchaita > b_magnopolis,b_magnopolis,name_list_persian_turkish_anatolian,cn_kale,21658,21192,will_add
+e_byzantium > k_pontus > d_armeniac > c_euchaita > b_magnopolis,b_magnopolis,name_list_turkish,cn_kale,21659,21192,will_add
+e_byzantium > k_pontus > d_armeniac > c_euchaita > b_carissa,b_carissa,name_list_persian_turkish_anatolian,cn_elvan_celebi,21669,21201,will_add
+e_byzantium > k_pontus > d_armeniac > c_euchaita > b_carissa,b_carissa,name_list_turkish,cn_elvan_celebi,21670,21201,will_add
+e_byzantium > k_pontus > d_armeniac > c_zela > b_amaseia,b_amaseia,name_list_persian_turkish_anatolian,cn_amasya,21684,21214,will_add
+e_byzantium > k_pontus > d_armeniac > c_zela > b_amaseia,b_amaseia,name_list_turkish,cn_amasya,21685,21214,will_add
+e_byzantium > k_pontus > d_armeniac > c_zela > b_pteria,b_pteria,name_list_persian_turkish_anatolian,cn_kerkenes_dag,21696,21224,will_add
+e_byzantium > k_pontus > d_armeniac > c_zela > b_pteria,b_pteria,name_list_turkish,cn_kerkenes_dag,21697,21224,will_add
+e_byzantium > k_pontus > d_armeniac > c_zela > b_comana_pontica,b_comana_pontica,name_list_persian_turkish_anatolian,cn_kilicli,21708,21234,will_add
+e_byzantium > k_pontus > d_armeniac > c_zela > b_comana_pontica,b_comana_pontica,name_list_turkish,cn_kilicli,21709,21234,will_add
+e_byzantium > k_pontus > d_armeniac > c_zela > b_zela,b_zela,name_list_persian_turkish_anatolian,cn_zile,21719,21243,will_add
+e_byzantium > k_pontus > d_armeniac > c_zela > b_zela,b_zela,name_list_turkish,cn_zile,21720,21243,will_add
+e_byzantium > k_pontus > d_chaldia > c_trebizond,c_trebizond,name_list_persian_turkish_anatolian,cn_trabzon,21741,21264,will_add
+e_byzantium > k_pontus > d_chaldia > c_trebizond,c_trebizond,name_list_turkish,cn_trabzon,21742,21264,will_add
+e_byzantium > k_pontus > d_chaldia > c_trebizond > b_trebizond,b_trebizond,name_list_persian_turkish_anatolian,cn_trabzon,21753,21272,will_add
+e_byzantium > k_pontus > d_chaldia > c_trebizond > b_trebizond,b_trebizond,name_list_turkish,cn_trabzon,21754,21272,will_add
+e_byzantium > k_pontus > d_chaldia > c_acampse > b_rhizus,b_rhizus,name_list_persian_turkish_anatolian,cn_rize,21782,21299,will_add
+e_byzantium > k_pontus > d_chaldia > c_acampse > b_rhizus,b_rhizus,name_list_turkish,cn_rize,21783,21299,will_add
+e_byzantium > k_pontus > d_chaldia > c_cerasus,c_cerasus,name_list_persian_turkish_anatolian,cn_giresun,21809,21326,will_add
+e_byzantium > k_pontus > d_chaldia > c_cerasus,c_cerasus,name_list_turkish,cn_giresun,21810,21326,will_add
+e_byzantium > k_pontus > d_chaldia > c_cerasus > b_cerasus,b_cerasus,name_list_persian_turkish_anatolian,cn_giresun,21821,21334,will_add
+e_byzantium > k_pontus > d_chaldia > c_cerasus > b_cerasus,b_cerasus,name_list_turkish,cn_giresun,21822,21334,will_add
+e_byzantium > k_pontus > d_chaldia > c_cerasus > b_polemonium,b_polemonium,name_list_persian_turkish_anatolian,cn_fatsa,21832,21344,will_add
+e_byzantium > k_pontus > d_chaldia > c_cerasus > b_polemonium,b_polemonium,name_list_turkish,cn_fatsa,21833,21344,will_add
+e_byzantium > k_pontus > d_chaldia > c_cerasus > b_koralla,b_koralla,name_list_persian_turkish_anatolian,cn_gorele,21843,21353,will_add
+e_byzantium > k_pontus > d_chaldia > c_cerasus > b_koralla,b_koralla,name_list_turkish,cn_gorele,21844,21353,will_add
+e_transcaucasia > k_armenia > d_dzopk > c_karin > b_keltzine,b_keltzine,name_list_persian_turkish_anatolian,cn_erzincan,21947,21454,will_add
+e_transcaucasia > k_armenia > d_dzopk > c_karin > b_keltzine,b_keltzine,name_list_turkish,cn_erzincan,21948,21454,will_add
+e_transcaucasia > k_armenia > d_melitene > c_melitene,c_melitene,name_list_persian_turkish_anatolian,cn_malatya,21966,21474,will_add
+e_transcaucasia > k_armenia > d_melitene > c_melitene,c_melitene,name_list_turkish,cn_malatya,21967,21474,will_add
+e_transcaucasia > k_armenia > d_melitene > c_melitene > b_melitene,b_melitene,name_list_persian_turkish_anatolian,cn_malatya,21978,21482,will_add
+e_transcaucasia > k_armenia > d_melitene > c_melitene > b_melitene,b_melitene,name_list_turkish,cn_malatya,21979,21482,will_add
+e_transcaucasia > k_armenia > d_melitene > c_melitene > b_arsamosata,b_arsamosata,name_list_persian_turkish_anatolian,cn_elazig,21990,21492,will_add
+e_transcaucasia > k_armenia > d_melitene > c_melitene > b_arsamosata,b_arsamosata,name_list_turkish,cn_elazig,21991,21492,will_add
+e_transcaucasia > k_armenia > d_melitene > c_melitene > b_arca,b_arca,name_list_persian_turkish_anatolian,cn_akcadag,22002,21502,will_add
+e_transcaucasia > k_armenia > d_melitene > c_melitene > b_arca,b_arca,name_list_turkish,cn_akcadag,22003,21502,will_add
+e_transcaucasia > k_armenia > d_mesopotamia > c_theodosiopolis,c_theodosiopolis,name_list_persian_turkish_anatolian,cn_erzurum,22036,21536,will_add
+e_transcaucasia > k_armenia > d_mesopotamia > c_theodosiopolis,c_theodosiopolis,name_list_turkish,cn_erzurum,22037,21536,will_add
+e_transcaucasia > k_armenia > d_mesopotamia > c_theodosiopolis > b_theodosiopolis,b_theodosiopolis,name_list_persian_turkish_anatolian,cn_erzurum,22048,21544,will_add
+e_transcaucasia > k_armenia > d_mesopotamia > c_theodosiopolis > b_theodosiopolis,b_theodosiopolis,name_list_turkish,cn_erzurum,22049,21544,will_add
+e_transcaucasia > k_armenia > d_mesopotamia > c_sper > b_speri,b_speri,name_list_persian_turkish_anatolian,cn_ispir,22096,21590,will_add
+e_transcaucasia > k_armenia > d_mesopotamia > c_sper > b_speri,b_speri,name_list_turkish,cn_ispir,22097,21590,will_add
+e_transcaucasia > k_armenia > d_taron > c_taron > b_musch,b_musch,name_list_persian_turkish_anatolian,cn_mus,22134,21626,will_add
+e_transcaucasia > k_armenia > d_taron > c_taron > b_musch,b_musch,name_list_turkish,cn_mus,22135,21626,will_add
+e_transcaucasia > k_armenia > d_taron > c_turuberan > b_manzikert,b_manzikert,name_list_persian_turkish_anatolian,cn_malazgirt,22158,21648,will_add
+e_transcaucasia > k_armenia > d_taron > c_turuberan > b_manzikert,b_manzikert,name_list_turkish,cn_malazgirt,22159,21648,will_add
+e_transcaucasia > k_armenia > d_vaspurakan,d_vaspurakan,name_list_persian_turkish_anatolian,cn_vasburagan,22185,21673,will_add
+e_transcaucasia > k_armenia > d_vaspurakan,d_vaspurakan,name_list_turkish,cn_vasburagan,22186,21673,will_add
+e_transcaucasia > k_armenia > d_vaspurakan > c_vaspurakan,c_vaspurakan,name_list_persian_turkish_anatolian,cn_vasburagan,22194,21682,will_add
+e_transcaucasia > k_armenia > d_vaspurakan > c_vaspurakan,c_vaspurakan,name_list_turkish,cn_vasburagan,22195,21682,will_add
+e_transcaucasia > k_armenia > d_vaspurakan > c_vaspurakan > b_berkri,b_berkri,name_list_persian_turkish_anatolian,cn_muradiye,22214,21698,will_add
+e_transcaucasia > k_armenia > d_vaspurakan > c_vaspurakan > b_berkri,b_berkri,name_list_turkish,cn_muradiye,22215,21698,will_add
+e_transcaucasia > k_armenia > d_vaspurakan > c_vaspurakan > b_hadamakert,b_hadamakert,name_list_persian_turkish_anatolian,cn_baskale,22231,21713,will_add
+e_transcaucasia > k_armenia > d_vaspurakan > c_vaspurakan > b_hadamakert,b_hadamakert,name_list_turkish,cn_baskale,22232,21713,will_add
+e_transcaucasia > k_armenia > d_vaspurakan > c_persarmenia > b_akhtamar,b_akhtamar,name_list_persian_turkish_anatolian,cn_akdamar,22257,21737,will_add
+e_transcaucasia > k_armenia > d_vaspurakan > c_persarmenia > b_akhtamar,b_akhtamar,name_list_turkish,cn_akdamar,22258,21737,will_add
+e_transcaucasia > k_armenia > d_vaspurakan > c_apahunik > b_khlat,b_khlat,name_list_persian_turkish_anatolian,cn_ahlat,22274,21752,will_add
+e_transcaucasia > k_armenia > d_vaspurakan > c_apahunik > b_khlat,b_khlat,name_list_turkish,cn_ahlat,22275,21752,will_add
+e_transcaucasia > k_armenia > d_vaspurakan > c_apahunik > b_arjesh,b_arjesh,name_list_persian_turkish_anatolian,cn_ercis,22293,21769,will_add
+e_transcaucasia > k_armenia > d_vaspurakan > c_apahunik > b_arjesh,b_arjesh,name_list_turkish,cn_ercis,22294,21769,will_add
+e_transcaucasia > k_armenia > d_greater_armenia > c_ani > b_ani,b_ani,name_list_persian_turkish_anatolian,cn_ani,22530,22003,will_add
+e_transcaucasia > k_armenia > d_greater_armenia > c_ani > b_ani,b_ani,name_list_turkish,cn_ani,22531,22003,will_add
+e_transcaucasia > k_armenia > d_greater_armenia > c_hayk > b_yerevan,b_yerevan,name_list_persian_turkish_anatolian,cn_erivan,22588,22060,will_add
+e_transcaucasia > k_armenia > d_greater_armenia > c_hayk > b_yerevan,b_yerevan,name_list_turkish,cn_erivan,22589,22060,will_add
+e_volga-ural > k_mordvinia > d_chuvashia,d_chuvashia,name_list_persian_turkish_anatolian,cn_burtasia,37974,35033,will_add
+e_volga-ural > k_mordvinia > d_chuvashia,d_chuvashia,name_list_turkish,cn_burtasia,37975,35033,will_add
+e_volga-ural > k_mordvinia > d_chuvashia > c_saratov,c_saratov,name_list_persian_turkish_anatolian,cn_saratau,37985,35044,will_add
+e_volga-ural > k_mordvinia > d_chuvashia > c_saratov,c_saratov,name_list_turkish,cn_saratau,37986,35044,will_add
+e_volga-ural > k_mordvinia > d_chuvashia > c_saratov > b_saratov,b_saratov,name_list_persian_turkish_anatolian,cn_saratau,38004,35059,will_add
+e_volga-ural > k_mordvinia > d_chuvashia > c_saratov > b_saratov,b_saratov,name_list_turkish,cn_saratau,38005,35059,will_add
+e_volga-ural > k_mordvinia > d_chuvashia > c_penza,c_penza,name_list_persian_turkish_anatolian,cn_burtas,38032,35089,will_add
+e_volga-ural > k_mordvinia > d_chuvashia > c_penza,c_penza,name_list_turkish,cn_burtas,38033,35089,will_add
+e_volga-ural > k_mordvinia > d_chuvashia > c_penza > b_penza,b_penza,name_list_persian_turkish_anatolian,cn_burtas,38043,35096,will_add
+e_volga-ural > k_mordvinia > d_chuvashia > c_penza > b_penza,b_penza,name_list_turkish,cn_burtas,38044,35096,will_add
+e_carpathia > k_croatia > d_realusora > c_soli,c_soli,name_list_persian_turkish_anatolian,cn_tuzla,55288,52712,will_add
+e_carpathia > k_croatia > d_realusora > c_soli,c_soli,name_list_turkish,cn_tuzla,55289,52712,will_add

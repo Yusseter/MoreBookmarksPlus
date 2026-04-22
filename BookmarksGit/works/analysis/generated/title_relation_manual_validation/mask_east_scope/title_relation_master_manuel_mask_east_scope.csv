@@ -1,0 +1,1349 @@
+source_title_id,mod_title_id,is_same_title_id,mask_scope_change,mask_scope_reasons,source_tier,source_line_no,source_parent_id,source_root_title,source_title_path,manual_line_no
+k_dali,k_dali,yes,,province_path;reverse_capital_owner_of:c_dali;reverse_capital_owner_of:c_jianchuan;reverse_capital_owner_of:c_yinsheng,k,3516,,k_dali,k_dali,2154
+k_khitan,k_khitan_china,no,,province_path;reverse_capital_owner_of:c_LIAO_dading;reverse_capital_owner_of:c_LIAO_linhuang;reverse_capital_owner_of:c_LIAO_ulagaian;reverse_capital_owner_of:c_LIAO_wuzhou;reverse_capital_owner_of:c_lxj_huanzhou,k,42962,e_great_liao,e_great_liao,e_great_liao > k_khitan,189
+d_LIAO_linhuang,d_xarmoron_china,no,,province_path;reverse_capital_owner_of:c_LIAO_linhuang,d,42967,k_khitan,e_great_liao,e_great_liao > k_khitan > d_LIAO_linhuang,199
+c_LIAO_linhuang,c_LIAO_linhuang,yes,,province_path,c,42972,d_LIAO_linhuang,e_great_liao,e_great_liao > k_khitan > d_LIAO_linhuang > c_LIAO_linhuang,243
+c_LIAO_raozhou,c_LIAO_raozhou,yes,,province_path,c,42997,d_LIAO_linhuang,e_great_liao,e_great_liao > k_khitan > d_LIAO_linhuang > c_LIAO_raozhou,245
+c_LIAO_longhuazhou,c_LIAO_longhuazhou,yes,,province_path,c,43017,d_LIAO_linhuang,e_great_liao,e_great_liao > k_khitan > d_LIAO_linhuang > c_LIAO_longhuazhou,244
+c_LIAO_heicaoan,c_LIAO_heicaoan,yes,,province_path,c,43037,d_LIAO_linhuang,e_great_liao,e_great_liao > k_khitan > d_LIAO_linhuang > c_LIAO_heicaoan,242
+c_LIAO_dalian,c_LIAO_dalian,yes,,province_path,c,43057,d_LIAO_linhuang,e_great_liao,e_great_liao > k_khitan > d_LIAO_linhuang > c_LIAO_dalian,241
+d_LIAO_shangjing,d_changchun_china,no,,province_path;reverse_capital_owner_of:c_LIAO_wuzhou,d,43073,k_khitan,e_great_liao,e_great_liao > k_khitan > d_LIAO_shangjing,200
+c_LIAO_wuzhou,c_LIAO_wuzhou,yes,,province_path,c,43082,d_LIAO_shangjing,e_great_liao,e_great_liao > k_khitan > d_LIAO_shangjing > c_LIAO_wuzhou,251
+c_LIAO_taizhou,c_LIAO_taizhou,yes,,province_path,c,43112,d_LIAO_shangjing,e_great_liao,e_great_liao > k_khitan > d_LIAO_shangjing > c_LIAO_taizhou,250
+c_LIAO_ningzhou,c_LIAO_ningzhou,yes,,province_path,c,43137,d_LIAO_shangjing,e_great_liao,e_great_liao > k_khitan > d_LIAO_shangjing > c_LIAO_ningzhou,249
+c_LIAO_changchun,c_LIAO_changchun,yes,,province_path,c,43162,d_LIAO_shangjing,e_great_liao,e_great_liao > k_khitan > d_LIAO_shangjing > c_LIAO_changchun,247
+c_LIAO_horqinan,c_LIAO_horqinan,yes,,province_path,c,43187,d_LIAO_shangjing,e_great_liao,e_great_liao > k_khitan > d_LIAO_shangjing > c_LIAO_horqinan,248
+d_LIAO_zhongjing,d_tohchen_china,no,,province_path;reverse_capital_owner_of:c_LIAO_dading,d,43210,k_khitan,e_great_liao,e_great_liao > k_khitan > d_LIAO_zhongjing,206
+c_LIAO_dading,c_LIAO_dading,yes,,province_path,c,43219,d_LIAO_zhongjing,e_great_liao,e_great_liao > k_khitan > d_LIAO_zhongjing > c_LIAO_dading,270
+c_lzj_chengdexi,c_lzj_chengdexi,yes,,province_path,c,43243,d_LIAO_zhongjing,e_great_liao,e_great_liao > k_khitan > d_LIAO_zhongjing > c_lzj_chengdexi,274
+c_lzj_chengde,c_lzj_chengde,yes,,province_path,c,43267,d_LIAO_zhongjing,e_great_liao,e_great_liao > k_khitan > d_LIAO_zhongjing > c_lzj_chengde,273
+c_lxj_yuyidong,c_lxj_yuyidong,yes,,province_path,c,43291,d_LIAO_zhongjing,e_great_liao,e_great_liao > k_khitan > d_LIAO_zhongjing > c_lxj_yuyidong,272
+c_woye,c_woye,yes,,province_path,c,43305,d_LIAO_zhongjing,e_great_liao,e_great_liao > k_khitan > d_LIAO_zhongjing > c_woye,275
+c_liao_fengzhou,c_liao_fengzhou,yes,,province_path,c,43324,d_LIAO_zhongjing,e_great_liao,e_great_liao > k_khitan > d_LIAO_zhongjing > c_liao_fengzhou,271
+d_yanyun_yuyi,d_hiyaxu_china,no,,province_path;reverse_capital_owner_of:c_lxj_huanzhou,d,43339,k_khitan,e_great_liao,e_great_liao > k_khitan > d_yanyun_yuyi,208
+c_lxj_huanzhou,c_lxj_huanzhou,yes,,province_path,c,43344,d_yanyun_yuyi,e_great_liao,e_great_liao > k_khitan > d_yanyun_yuyi > c_lxj_huanzhou,282
+c_lxj_yangchengzhou,c_lxj_yangchengzhou,yes,,province_path,c,43363,d_yanyun_yuyi,e_great_liao,e_great_liao > k_khitan > d_yanyun_yuyi > c_lxj_yangchengzhou,283
+c_LIAO_ulagaian,c_LIAO_ulagaian,yes,,province_path,c,43389,d_hejes_china,e_great_liao,e_great_liao > k_khitan > d_hejes_china > c_LIAO_ulagaian,246
+c_SW_dongcheziguo,c_SW_dongcheziguo,yes,,province_path,c,43408,d_hejes_china,e_great_liao,e_great_liao > k_khitan > d_hejes_china > c_SW_dongcheziguo,289
+c_SW_hongxingan,c_SW_hongxingan,yes,,province_path,c,43432,d_hejes_china,e_great_liao,e_great_liao > k_khitan > d_hejes_china > c_SW_hongxingan,290
+k_goguryeo,k_goguryeo,yes,,province_path;reverse_capital_owner_of:c_gaeseong;reverse_capital_owner_of:c_gwangju;reverse_capital_owner_of:c_gyoju;reverse_capital_owner_of:c_haeju;reverse_capital_owner_of:c_jangjeong;reverse_capital_owner_of:c_seogyeong,k,43464,e_great_liao,e_great_liao,e_great_liao > k_goguryeo,638
+e_viet,e_viet,yes,,reverse_capital_owner_of:c_thang_long,e,81234,,e_viet,e_viet,2131
+h_china,h_china,yes,,province_path;reverse_capital_owner_of:c_bazhou;reverse_capital_owner_of:c_bianzhou;reverse_capital_owner_of:c_binzhou;reverse_capital_owner_of:c_cangzhou;reverse_capital_owner_of:c_chengdu;reverse_capital_owner_of:c_daizhou;reverse_capital_owner_of:c_dali;reverse_capital_owner_of:c_datong_2;reverse_capital_owner_of:c_dingzhou;reverse_capital_owner_of:c_ezhou;reverse_capital_owner_of:c_fengxiang;reverse_capital_owner_of:c_fuzhou_1;reverse_capital_owner_of:c_fuzhou_5;reverse_capital_owner_of:c_gaozhou;reverse_capital_owner_of:c_guangzhou_1;reverse_capital_owner_of:c_guizhou_1;reverse_capital_owner_of:c_hai_dong;reverse_capital_owner_of:c_hangzhou;reverse_capital_owner_of:c_hejian;reverse_capital_owner_of:c_henan;reverse_capital_owner_of:c_hezhong;reverse_capital_owner_of:c_hongzhou;reverse_capital_owner_of:c_huaizhou;reverse_capital_owner_of:c_huazhou;reverse_capital_owner_of:c_huizhou_1;reverse_capital_owner_of:c_jian_an;reverse_capital_owner_of:c_jianchuan;reverse_capital_owner_of:c_jiangling;reverse_capital_owner_of:c_jiangning;reverse_capital_owner_of:c_jingzhao;reverse_capital_owner_of:c_jingzhou;reverse_capital_owner_of:c_jinzhou_1;reverse_capital_owner_of:c_juzhou;reverse_capital_owner_of:c_kuizhou;reverse_capital_owner_of:c_lam_tay;reverse_capital_owner_of:c_lizhou_2;reverse_capital_owner_of:c_longde;reverse_capital_owner_of:c_luodian;reverse_capital_owner_of:c_luxi;reverse_capital_owner_of:c_lxj_yunneizhou;reverse_capital_owner_of:c_nghe_an;reverse_capital_owner_of:c_qianzhou;reverse_capital_owner_of:c_qianzhou_1;reverse_capital_owner_of:c_qingzhou;reverse_capital_owner_of:c_qinzhou_1;reverse_capital_owner_of:c_qiongzhou;reverse_capital_owner_of:c_quanzhou;reverse_capital_owner_of:c_rongzhou_2;reverse_capital_owner_of:c_shanzhou_2;reverse_capital_owner_of:c_shouzhou;reverse_capital_owner_of:c_sie;reverse_capital_owner_of:c_siyuan;reverse_capital_owner_of:c_suining;reverse_capital_owner_of:c_taiyuan;reverse_capital_owner_of:c_tanzhou;reverse_capital_owner_of:c_thang_long;reverse_capital_owner_of:c_tongchuan;reverse_capital_owner_of:c_weizhou;reverse_capital_owner_of:c_xiangyang;reverse_capital_owner_of:c_xingqing;reverse_capital_owner_of:c_xingyuan;reverse_capital_owner_of:c_xingzhou;reverse_capital_owner_of:c_xuanzhou;reverse_capital_owner_of:c_xuzhou_1;reverse_capital_owner_of:c_yangzhou;reverse_capital_owner_of:c_yanzhou;reverse_capital_owner_of:c_yazhou;reverse_capital_owner_of:c_yingchuan;reverse_capital_owner_of:c_yinsheng;reverse_capital_owner_of:c_yinzhou_1;reverse_capital_owner_of:c_yongxing;reverse_capital_owner_of:c_yongzhou;reverse_capital_owner_of:c_yongzhou_1;reverse_capital_owner_of:c_youzhou;reverse_capital_owner_of:c_yuezhou;reverse_capital_owner_of:c_yunyang;reverse_capital_owner_of:c_yunzhou;reverse_capital_owner_of:c_zhaozhou_1;reverse_capital_owner_of:c_zhenzhou,h,93405,,h_china,h_china,2132
+e_zhongyuan,e_zhongyuan,yes,,province_path;reverse_capital_owner_of:c_bianzhou;reverse_capital_owner_of:c_cangzhou;reverse_capital_owner_of:c_daizhou;reverse_capital_owner_of:c_datong_2;reverse_capital_owner_of:c_dingzhou;reverse_capital_owner_of:c_hejian;reverse_capital_owner_of:c_henan;reverse_capital_owner_of:c_hezhong;reverse_capital_owner_of:c_huaizhou;reverse_capital_owner_of:c_huazhou;reverse_capital_owner_of:c_longde;reverse_capital_owner_of:c_lxj_yunneizhou;reverse_capital_owner_of:c_qingzhou;reverse_capital_owner_of:c_shanzhou_2;reverse_capital_owner_of:c_taiyuan;reverse_capital_owner_of:c_weizhou;reverse_capital_owner_of:c_xingzhou;reverse_capital_owner_of:c_xuzhou_1;reverse_capital_owner_of:c_yanzhou;reverse_capital_owner_of:c_yingchuan;reverse_capital_owner_of:c_yongxing;reverse_capital_owner_of:c_youzhou;reverse_capital_owner_of:c_yunzhou;reverse_capital_owner_of:c_zhenzhou,e,93429,h_china,h_china,h_china > e_zhongyuan,2146
+k_henan,k_zhou_china,no,,province_path;reverse_capital_owner_of:c_bianzhou;reverse_capital_owner_of:c_henan;reverse_capital_owner_of:c_huazhou;reverse_capital_owner_of:c_shanzhou_2;reverse_capital_owner_of:c_yingchuan,k,93434,e_zhongyuan,h_china,h_china > e_zhongyuan > k_henan,2169
+d_dongji,d_heluo_china,no,,province_path;reverse_capital_owner_of:c_henan,d,93439,k_henan,h_china,h_china > e_zhongyuan > k_henan > d_dongji,2249
+c_henan,c_luoyang_china,no,,province_path,c,93444,d_dongji,h_china,h_china > e_zhongyuan > k_henan > d_dongji > c_henan,2581
+c_ruzhou,c_ruzhou_china,no,,province_path,c,93473,d_dongji,h_china,h_china > e_zhongyuan > k_henan > d_dongji > c_ruzhou,2582
+d_biansong,d_biansong,yes,,province_path;reverse_capital_owner_of:c_bianzhou,d,93493,k_henan,h_china,h_china > e_zhongyuan > k_henan > d_biansong,2247
+c_bianzhou,c_bianzhou,yes,,province_path,c,93497,d_biansong,h_china,h_china > e_zhongyuan > k_henan > d_biansong > c_bianzhou,2572
+c_songzhou,c_songzhou_song_china,no,,province_path,c,93521,d_biansong,h_china,h_china > e_zhongyuan > k_henan > d_biansong > c_songzhou,2575
+c_shanzhou,c_danzhou_song_china,no,,province_path,c,93545,d_biansong,h_china,h_china > e_zhongyuan > k_henan > d_biansong > c_shanzhou,2574
+c_bozhou,c_bozhou_song_china,no,,province_path,c,93559,d_biansong,h_china,h_china > e_zhongyuan > k_henan > d_biansong > c_bozhou,2573
+c_yingzhou,c_yingzhou_song_china,no,,province_path,c,93583,d_biansong,h_china,h_china > e_zhongyuan > k_henan > d_biansong > c_yingzhou,2576
+d_shanguo,d_hezhong1_china,no,,province_path;reverse_capital_owner_of:c_shanzhou_2,d,93608,k_henan,h_china,h_china > e_zhongyuan > k_henan > d_shanguo,2250
+c_shanzhou_2,c_shaanzhou_china,no,,province_path,c,93613,d_shanguo,h_china,h_china > e_zhongyuan > k_henan > d_shanguo > c_shanzhou_2,2584
+c_guozhou,c_guozhou_zhou_china,no,,province_path,c,93627,d_shanguo,h_china,h_china > e_zhongyuan > k_henan > d_shanguo > c_guozhou,2583
+d_zhenghua,d_zhenghua_china,no,,province_path;reverse_capital_owner_of:c_huazhou,d,93642,k_henan,h_china,h_china > e_zhongyuan > k_henan > d_zhenghua,2251
+c_huazhou,c_huazhou_liang_china,no,,province_path,c,93647,d_zhenghua,h_china,h_china > e_zhongyuan > k_henan > d_zhenghua > c_huazhou,2585
+c_zhengzhou,c_zhengzhou_china,no,,province_path,c,93666,d_zhenghua,h_china,h_china > e_zhongyuan > k_henan > d_zhenghua > c_zhengzhou,2586
+d_chenxu,d_chenxu_china,no,,province_path;reverse_capital_owner_of:c_yingchuan,d,93686,k_henan,h_china,h_china > e_zhongyuan > k_henan > d_chenxu,2248
+c_yingchuan,c_xuuzhou_china,no,,province_path,c,93691,d_chenxu,h_china,h_china > e_zhongyuan > k_henan > d_chenxu > c_yingchuan,2580
+c_huaining,c_chenzhou_china,no,,province_path,c,93715,d_chenxu,h_china,h_china > e_zhongyuan > k_henan > d_chenxu > c_huaining,2578
+c_caizhou,c_caizhou_china,no,,province_path,c,93734,d_chenxu,h_china,h_china > e_zhongyuan > k_henan > d_chenxu > c_caizhou,2577
+c_shenzhou,c_shenzhou_china,no,,province_path,c,93758,d_chenxu,h_china,h_china > e_zhongyuan > k_henan > d_chenxu > c_shenzhou,2579
+k_qingxu,k_qi_china & k_shandong_east,no & no,,province_path;reverse_capital_owner_of:c_qingzhou;reverse_capital_owner_of:c_xuzhou_1;reverse_capital_owner_of:c_yanzhou;reverse_capital_owner_of:c_yunzhou,k,93779,e_zhongyuan,h_china,h_china > e_zhongyuan > k_qingxu,2170
+d_ziqing,d_ziqing_china,no,,province_path;reverse_capital_owner_of:c_qingzhou,d,93784,k_qingxu,h_china,h_china > e_zhongyuan > k_qingxu > d_ziqing,2255
+c_qingzhou,c_qingzhou_qi_china,no,,province_path,c,93789,d_ziqing,h_china,h_china > e_zhongyuan > k_qingxu > d_ziqing > c_qingzhou,2601
+c_zichuan,c_zibo_china,no,,province_path,c,93813,d_ziqing,h_china,h_china > e_zhongyuan > k_qingxu > d_ziqing > c_zichuan,2603
+c_weizhou_4,c_weizhou_qi_china,no,,province_path,c,93832,d_ziqing,h_china,h_china > e_zhongyuan > k_qingxu > d_ziqing > c_weizhou_4,2602
+c_dengzhou,c_penglai_china,no,,province_path,c,93846,d_ziqing,h_china,h_china > e_zhongyuan > k_qingxu > d_ziqing > c_dengzhou,2599
+c_laizhou,c_laizhou_china,no,,province_path,c,93870,d_ziqing,h_china,h_china > e_zhongyuan > k_qingxu > d_ziqing > c_laizhou,2600
+d_yanhai,d_taining_china,no,,province_path;reverse_capital_owner_of:c_yanzhou,d,93895,k_qingxu,h_china,h_china > e_zhongyuan > k_qingxu > d_yanhai,2253
+c_yanzhou,c_yanzhou_china,no,,province_path,c,93900,d_yanhai,h_china,h_china > e_zhongyuan > k_qingxu > d_yanhai > c_yanzhou,2594
+c_langya,c_yizhou_taining_china,no,,province_path,c,93929,d_yanhai,h_china,h_china > e_zhongyuan > k_qingxu > d_yanhai > c_langya,2592
+c_mizhou,c_mizhou_qi_china,no,,province_path,c,93958,d_yanhai,h_china,h_china > e_zhongyuan > k_qingxu > d_yanhai > c_mizhou,2593
+c_haizhou,c_haizhou_xu_china,no,,province_path,c,93987,d_yanhai,h_china,h_china > e_zhongyuan > k_qingxu > d_yanhai > c_haizhou,2591
+d_xusi,d_xusi_china,no,,province_path;reverse_capital_owner_of:c_xuzhou_1,d,94007,k_qingxu,h_china,h_china > e_zhongyuan > k_qingxu > d_xusi,2252
+c_xuzhou_1,c_xuzhou_xu_china,no,,province_path,c,94012,d_xusi,h_china,h_china > e_zhongyuan > k_qingxu > d_xusi > c_xuzhou_1,2590
+c_huaiyang,c_huayang_china,no,,province_path,c,94036,d_xusi,h_china,h_china > e_zhongyuan > k_qingxu > d_xusi > c_huaiyang,2587
+c_suzhou,c_suzhou_xu_china,no,,province_path,c,94055,d_xusi,h_china,h_china > e_zhongyuan > k_qingxu > d_xusi > c_suzhou,2589
+c_sizhou_2,c_sizhou_xu_china,no,,province_path,c,94079,d_xusi,h_china,h_china > e_zhongyuan > k_qingxu > d_xusi > c_sizhou_2,2588
+d_yuncao,d_pucao_china,no,,province_path;reverse_capital_owner_of:c_yunzhou,d,94099,k_qingxu,h_china,h_china > e_zhongyuan > k_qingxu > d_yuncao,2254
+c_yunzhou,c_yunzhou_liang_china,no,,province_path,c,94104,d_yuncao,h_china,h_china > e_zhongyuan > k_qingxu > d_yuncao > c_yunzhou,2598
+c_qizhou,c_qizhou_qi_china,no,,province_path,c,94128,d_yuncao,h_china,h_china > e_zhongyuan > k_qingxu > d_yuncao > c_qizhou,2597
+c_puzhou_2,c_puzhou_liang_china,no,,province_path,c,94152,d_yuncao,h_china,h_china > e_zhongyuan > k_qingxu > d_yuncao > c_puzhou_2,2596
+c_caozhou,c_caozhou,yes,,province_path,c,94171,d_yuncao,h_china,h_china > e_zhongyuan > k_qingxu > d_yuncao > c_caozhou,2595
+k_hebei,k_hebei_east & k_hebeidong & k_weibo & k_weibo_jin,no & no & no & no,,province_path;reverse_capital_owner_of:c_cangzhou;reverse_capital_owner_of:c_huaizhou;reverse_capital_owner_of:c_weizhou;reverse_capital_owner_of:c_xingzhou;reverse_capital_owner_of:c_zhenzhou,k,94197,e_zhongyuan,h_china,h_china > e_zhongyuan > k_hebei,2167
+d_weibo,d_weibo_china,no,,province_path;reverse_capital_owner_of:c_weizhou,d,94202,k_hebei,h_china,h_china > e_zhongyuan > k_hebei > d_weibo,2241
+c_weizhou,c_weizhou_china,no,,province_path,c,94207,d_weibo,h_china,h_china > e_zhongyuan > k_hebei > d_weibo > c_weizhou,2553
+c_bozhou_1,c_bozhou_wei_china,no,,province_path,c,94226,d_weibo,h_china,h_china > e_zhongyuan > k_hebei > d_weibo > c_bozhou_1,2552
+c_beizhou,c_beizhou_china,no,,province_path,c,94240,d_weibo,h_china,h_china > e_zhongyuan > k_hebei > d_weibo > c_beizhou,2551
+d_xingming,d_xingci_china,no,,province_path;reverse_capital_owner_of:c_xingzhou,d,94260,k_hebei,h_china,h_china > e_zhongyuan > k_hebei > d_xingming,2242
+c_xingzhou,c_xingzhou_china,no,,province_path,c,94265,d_xingming,h_china,h_china > e_zhongyuan > k_hebei > d_xingming > c_xingzhou,2556
+c_mingzhou,c_mingzhou_hebei_china,no,,province_path,c,94284,d_xingming,h_china,h_china > e_zhongyuan > k_hebei > d_xingming > c_mingzhou,2554
+c_xiangzhou,c_xiangzhou_china,no,,province_path,c,94303,d_xingming,h_china,h_china > e_zhongyuan > k_hebei > d_xingming > c_xiangzhou,2555
+d_chengde,d_chengde_china,no,,province_path;reverse_capital_owner_of:c_zhenzhou,d,94323,k_hebei,h_china,h_china > e_zhongyuan > k_hebei > d_chengde,2239
+c_zhenzhou,c_hengzhou_china,no,,province_path,c,94328,d_chengde,h_china,h_china > e_zhongyuan > k_hebei > d_chengde > c_zhenzhou,2548
+c_zhaozhou,c_zhaozhou_china,no,,province_path,c,94347,d_chengde,h_china,h_china > e_zhongyuan > k_hebei > d_chengde > c_zhaozhou,2547
+c_jizhou,c_jizhou_zhao_china,no,,province_path,c,94366,d_chengde,h_china,h_china > e_zhongyuan > k_hebei > d_chengde > c_jizhou,2545
+c_shenzhou_1,c_shenzhou_hebei_china,no,,province_path,c,94380,d_chengde,h_china,h_china > e_zhongyuan > k_hebei > d_chengde > c_shenzhou_1,2546
+d_cangjing,d_henghai_china,no,,province_path;reverse_capital_owner_of:c_cangzhou,d,94400,k_hebei,h_china,h_china > e_zhongyuan > k_hebei > d_cangjing,2238
+c_cangzhou,c_cangzhou_china,no,,province_path,c,94405,d_cangjing,h_china,h_china > e_zhongyuan > k_hebei > d_cangjing > c_cangzhou,2542
+c_dezhou,c_dezhou_wei_china,no,,province_path,c,94424,d_cangjing,h_china,h_china > e_zhongyuan > k_hebei > d_cangjing > c_dezhou,2543
+c_dizhou,c_dizhou_china,no,,province_path,c,94443,d_cangjing,h_china,h_china > e_zhongyuan > k_hebei > d_cangjing > c_dizhou,2544
+d_heyang,d_heyang_china,no,,province_path;reverse_capital_owner_of:c_huaizhou,d,94463,k_hebei,h_china,h_china > e_zhongyuan > k_hebei > d_heyang,2240
+c_huaizhou,c_huaizhou_zhou_china,no,,province_path,c,94468,d_heyang,h_china,h_china > e_zhongyuan > k_hebei > d_heyang > c_huaizhou,2549
+c_weizhou_1,c_weizhou_ji_china,no,,province_path,c,94482,d_heyang,h_china,h_china > e_zhongyuan > k_hebei > d_heyang > c_weizhou_1,2550
+k_hedong,k_jin_china,no,,province_path;reverse_capital_owner_of:c_daizhou;reverse_capital_owner_of:c_hezhong;reverse_capital_owner_of:c_longde;reverse_capital_owner_of:c_taiyuan,k,94498,e_zhongyuan,h_china,h_china > e_zhongyuan > k_hedong,2168
+d_hedong,d_hedong_china,no,,province_path;reverse_capital_owner_of:c_taiyuan,d,94503,k_hedong,h_china,h_china > e_zhongyuan > k_hedong > d_hedong,2243
+c_taiyuan,c_taiyuan_china,no,,province_path,c,94508,d_hedong,h_china,h_china > e_zhongyuan > k_hedong > d_hedong > c_taiyuan,2561
+c_liaozhou,c_yizhou_hedong_china,no,,province_path,c,94537,d_hedong,h_china,h_china > e_zhongyuan > k_hedong > d_hedong > c_liaozhou,2559
+c_lanzhou,c_lanzhou_hedong_china,no,,province_path,c,94561,d_hedong,h_china,h_china > e_zhongyuan > k_hedong > d_hedong > c_lanzhou,2558
+c_shizhou,c_shizhou_china,no,,province_path,c,94585,d_hedong,h_china,h_china > e_zhongyuan > k_hedong > d_hedong > c_shizhou,2560
+c_fenzhou,c_fenzhou_china,no,,province_path,c,94609,d_hedong,h_china,h_china > e_zhongyuan > k_hedong > d_hedong > c_fenzhou,2557
+d_yanmen,d_yanmen_china,no,,province_path;reverse_capital_owner_of:c_daizhou,d,94629,k_hedong,h_china,h_china > e_zhongyuan > k_hedong > d_yanmen,2245
+c_daizhou,c_daizhou_china,no,,province_path,c,94634,d_yanmen,h_china,h_china > e_zhongyuan > k_hedong > d_yanmen > c_daizhou,2567
+c_xinzhou,c_xinzhou_dai_china,no,,province_path,c,94663,d_yanmen,h_china,h_china > e_zhongyuan > k_hedong > d_yanmen > c_xinzhou,2568
+d_hezhong,d_hezhong_china,no,,province_path;reverse_capital_owner_of:c_hezhong,d,94678,k_hedong,h_china,h_china > e_zhongyuan > k_hedong > d_hezhong,2244
+c_hezhong,c_puzhou_china,no,,province_path,c,94683,d_hezhong,h_china,h_china > e_zhongyuan > k_hedong > d_hezhong > c_hezhong,2563
+c_jiangzhou_2,c_jiangzhou_china,no,,province_path,c,94707,d_hezhong,h_china,h_china > e_zhongyuan > k_hedong > d_hezhong > c_jiangzhou_2,2564
+c_xizhou,c_xizhou_hezhong_china,no,,province_path,c,94731,d_hezhong,h_china,h_china > e_zhongyuan > k_hedong > d_hezhong > c_xizhou,2566
+c_pingyang,c_jinzhou_hezhong_china,no,,province_path,c,94755,d_hezhong,h_china,h_china > e_zhongyuan > k_hedong > d_hezhong > c_pingyang,2565
+c_cizhou,c_cizhou_hezhong_china,no,,province_path,c,94774,d_hezhong,h_china,h_china > e_zhongyuan > k_hedong > d_hezhong > c_cizhou,2562
+d_zelu,d_zelu_china,no,,province_path;reverse_capital_owner_of:c_longde,d,94789,k_hedong,h_china,h_china > e_zhongyuan > k_hedong > d_zelu,2246
+c_longde,c_luzhou_jin_china,no,,province_path,c,94794,d_zelu,h_china,h_china > e_zhongyuan > k_hedong > d_zelu > c_longde,2569
+c_zezhou,c_zezhou_china,no,,province_path,c,94818,d_zelu,h_china,h_china > e_zhongyuan > k_hedong > d_zelu > c_zezhou,2571
+c_yangcheng,c_qinzhou_hedong_china,no,,province_path,c,94837,d_zelu,h_china,h_china > e_zhongyuan > k_hedong > d_zelu > c_yangcheng,2570
+k_youji,k_yan_china,no,,province_path;reverse_capital_owner_of:c_dingzhou;reverse_capital_owner_of:c_hejian;reverse_capital_owner_of:c_youzhou,k,94858,e_zhongyuan,h_china,h_china > e_zhongyuan > k_youji,2171
+d_youzhou,d_youzhou_china,no,,province_path;reverse_capital_owner_of:c_youzhou,d,94863,k_youji,h_china,h_china > e_zhongyuan > k_youji > d_youzhou,2258
+c_youzhou,c_youzhou_china,no,,province_path,c,94868,d_youzhou,h_china,h_china > e_zhongyuan > k_youji > d_youzhou > c_youzhou,2612
+c_zhuozhou,c_baozhou_china,no,,province_path,c,94897,d_youzhou,h_china,h_china > e_zhongyuan > k_youji > d_youzhou > c_zhuozhou,2613
+c_jizhou_1,c_jizhou_yan_china,no,,province_path,c,94911,d_youzhou,h_china,h_china > e_zhongyuan > k_youji > d_youzhou > c_jizhou_1,2609
+c_tanzhou_2,c_guzhu_china,no,,province_path,c,94935,d_youzhou,h_china,h_china > e_zhongyuan > k_youji > d_youzhou > c_tanzhou_2,2611
+c_pinzhou,c_pingzhou_china,no,,province_path,c,94959,d_youzhou,h_china,h_china > e_zhongyuan > k_youji > d_youzhou > c_pinzhou,2610
+c_guizhou_2,c_guizhou_yan_china,no,,province_path,c,94983,d_youzhou,h_china,h_china > e_zhongyuan > k_youji > d_youzhou > c_guizhou_2,2608
+d_yideng,d_jizhou_china,no,,province_path;reverse_capital_owner_of:c_dingzhou,d,94998,k_youji,h_china,h_china > e_zhongyuan > k_youji > d_yideng,2256
+c_dingzhou,c_dingzhou_china,no,,province_path,c,95003,d_yideng,h_china,h_china > e_zhongyuan > k_youji > d_yideng > c_dingzhou,2604
+c_yizhou_1,c_yizhou_yan_china,no,,province_path,c,95017,d_yideng,h_china,h_china > e_zhongyuan > k_youji > d_yideng > c_yizhou_1,2605
+d_yingmo,d_yingmo_china,no,,province_path;reverse_capital_owner_of:c_hejian,d,95037,k_youji,h_china,h_china > e_zhongyuan > k_youji > d_yingmo,2257
+c_hejian,c_yingzhou_ji_china,no,,province_path,c,95042,d_yingmo,h_china,h_china > e_zhongyuan > k_youji > d_yingmo > c_hejian,2606
+c_mozhou,c_mozhou_china,no,,province_path,c,95061,d_yingmo,h_china,h_china > e_zhongyuan > k_youji > d_yingmo > c_mozhou,2607
+k_daibei,k_yinshan_china,no,,province_path;reverse_capital_owner_of:c_datong_2;reverse_capital_owner_of:c_lxj_yunneizhou;reverse_capital_owner_of:c_yongxing,k,95082,e_zhongyuan,h_china,h_china > e_zhongyuan > k_daibei,2166
+d_yunshuo,d_yunzhong_china,no,,province_path;reverse_capital_owner_of:c_datong_2,d,95087,k_daibei,h_china,h_china > e_zhongyuan > k_daibei > d_yunshuo,2237
+c_datong_2,c_yunzhou_china,no,,province_path,c,95092,d_yunshuo,h_china,h_china > e_zhongyuan > k_daibei > d_yunshuo > c_datong_2,2537
+c_shuozhou,c_shuozhou_china,no,,province_path,c,95116,d_yunshuo,h_china,h_china > e_zhongyuan > k_daibei > d_yunshuo > c_shuozhou,2539
+c_yuzhou,c_yuzhou_dai_china,no,,province_path,c,95140,d_yunshuo,h_china,h_china > e_zhongyuan > k_daibei > d_yunshuo > c_yuzhou,2541
+c_yingzhou_5,c_yingzhou_jin_china,no,,province_path,c,95164,d_yunshuo,h_china,h_china > e_zhongyuan > k_daibei > d_yunshuo > c_yingzhou_5,2540
+c_hongzhou_2,c_hongzhou_datong_china,no,,province_path,c,95183,d_yunshuo,h_china,h_china > e_zhongyuan > k_daibei > d_yunshuo > c_hongzhou_2,2538
+d_sanggan,d_xuandezhou_china,no,,province_path;reverse_capital_owner_of:c_yongxing,d,95198,k_daibei,h_china,h_china > e_zhongyuan > k_daibei > d_sanggan,2235
+c_yongxing,c_xuandezhou1_china (second),no,,province_path,c,95203,d_sanggan,h_china,h_china > e_zhongyuan > k_daibei > d_sanggan > c_yongxing,2531
+c_rouyuan,c_qibingga_china,no,,province_path,c,95222,d_sanggan,h_china,h_china > e_zhongyuan > k_daibei > d_sanggan > c_rouyuan,2530
+c_jiushijiuquan,c_xuandezhou_china,no,,province_path,c,95236,d_sanggan,h_china,h_china > e_zhongyuan > k_daibei > d_sanggan > c_jiushijiuquan,2529
+c_huaian,c_xuandezhou1_china,no,,province_path,c,95255,d_sanggan,h_china,h_china > e_zhongyuan > k_daibei > d_sanggan > c_huaian,2528
+d_xinan,d_fengzhou_china,no,,province_path;reverse_capital_owner_of:c_lxj_yunneizhou,d,95275,k_daibei,h_china,h_china > e_zhongyuan > k_daibei > d_xinan,2236
+c_lxj_yunneizhou,c_midsurrended_china,no,,province_path,c,95280,d_xinan,h_china,h_china > e_zhongyuan > k_daibei > d_xinan > c_lxj_yunneizhou,2534
+c_qingshan,c_chanyufu_china,no,,province_path,c,95301,d_xinan,h_china,h_china > e_zhongyuan > k_daibei > d_xinan > c_qingshan,2535
+c_shengzhou,c_shengzhou_china,no,,province_path,c,95315,d_xinan,h_china,h_china > e_zhongyuan > k_daibei > d_xinan > c_shengzhou,2536
+c_linzhou,c_linzhou_shaan_china,no,,province_path,c,95339,d_xinan,h_china,h_china > e_zhongyuan > k_daibei > d_xinan > c_linzhou,2533
+c_fuzhou,c_hequ_china,no,,province_path,c,95358,d_xinan,h_china,h_china > e_zhongyuan > k_daibei > d_xinan > c_fuzhou,2532
+e_yongliang,e_yongliang,yes,,province_path;reverse_capital_owner_of:c_binzhou;reverse_capital_owner_of:c_fengxiang;reverse_capital_owner_of:c_fuzhou_5;reverse_capital_owner_of:c_jingzhao;reverse_capital_owner_of:c_jingzhou;reverse_capital_owner_of:c_jinzhou_1;reverse_capital_owner_of:c_qinzhou_1;reverse_capital_owner_of:c_xingqing,e,95376,h_china,h_china,h_china > e_yongliang,2145
+k_guannei,k_qin_china & k_yongxingjun_china & k_jingzhaofu & k_shaanxi,no & no & no & no,,province_path;reverse_capital_owner_of:c_binzhou;reverse_capital_owner_of:c_fengxiang;reverse_capital_owner_of:c_fuzhou_5;reverse_capital_owner_of:c_jingzhao;reverse_capital_owner_of:c_jingzhou;reverse_capital_owner_of:c_jinzhou_1;reverse_capital_owner_of:c_qinzhou_1;reverse_capital_owner_of:c_xingqing,k,95416,e_yongliang,h_china,h_china > e_yongliang > k_guannei,2163
+d_yongxing,d_xijing_china,no,,province_path;reverse_capital_owner_of:c_jingzhao,d,95421,k_guannei,h_china,h_china > e_yongliang > k_guannei > d_yongxing,2229
+c_jingzhao,c_jingzhao,yes,,province_path,c,95426,d_yongxing,h_china,h_china > e_yongliang > k_guannei > d_yongxing > c_jingzhao,2502
+c_huayin,c_huazhou_pingyi_china,no,,province_path,c,95456,d_yongxing,h_china,h_china > e_yongliang > k_guannei > d_yongxing > c_huayin,2501
+c_tongzhou,c_tongzhou_pingyi_china,no,,province_path,c,95475,d_yongxing,h_china,h_china > e_yongliang > k_guannei > d_yongxing > c_tongzhou,2503
+c_yaozhou,c_yaozhou_china,no,,province_path,c,95494,d_yongxing,h_china,h_china > e_yongliang > k_guannei > d_yongxing > c_yaozhou,2504
+d_fengxiang,d_fengxiang_china,no,,province_path;reverse_capital_owner_of:c_fengxiang,d,95514,k_guannei,h_china,h_china > e_yongliang > k_guannei > d_fengxiang,2223
+c_fengxiang,c_fengxiang_china,no,,province_path,c,95519,d_fengxiang,h_china,h_china > e_yongliang > k_guannei > d_fengxiang > c_fengxiang,2483
+c_longzhou_2,c_longzhou_china,no,,province_path,c,95538,d_fengxiang,h_china,h_china > e_yongliang > k_guannei > d_fengxiang > c_longzhou_2,2484
+d_jinshang,d_jinshang_china,no,,province_path;reverse_capital_owner_of:c_jinzhou_1,d,95558,k_guannei,h_china,h_china > e_yongliang > k_guannei > d_jinshang,2226
+c_jinzhou_1,c_jinzhou_hanzhong_china,no,,province_path,c,95563,d_jinshang,h_china,h_china > e_yongliang > k_guannei > d_jinshang > c_jinzhou_1,2492
+c_shangzhou,c_shangzhou_qin_china,no,,province_path,c,95587,d_jinshang,h_china,h_china > e_yongliang > k_guannei > d_jinshang > c_shangzhou,2493
+d_binning,d_binning_china,no,,province_path;reverse_capital_owner_of:c_binzhou,d,95612,k_guannei,h_china,h_china > e_yongliang > k_guannei > d_binning,2222
+c_binzhou,c_binzhou_qin_china,no,,province_path,c,95617,d_binning,h_china,h_china > e_yongliang > k_guannei > d_binning > c_binzhou,2479
+c_jinzhou,c_ningzhou_qin_china,no,,province_path,c,95636,d_binning,h_china,h_china > e_yongliang > k_guannei > d_binning > c_jinzhou,2481
+c_qingyang,c_qingzhou_china,no,,province_path,c,95655,d_binning,h_china,h_china > e_yongliang > k_guannei > d_binning > c_qingyang,2482
+c_huanzhou,c_huanzhou_china,no,,province_path,c,95674,d_binning,h_china,h_china > e_yongliang > k_guannei > d_binning > c_huanzhou,2480
+d_fufang,d_fufang_china,no,,province_path;reverse_capital_owner_of:c_fuzhou_5,d,95694,k_guannei,h_china,h_china > e_yongliang > k_guannei > d_fufang,2224
+c_fuzhou_5,c_fuzhou_qin_china,no,,province_path,c,95699,d_fufang,h_china,h_china > e_yongliang > k_guannei > d_fufang > c_fuzhou_5,2487
+c_yan_an,c_yanzhou_xia_china,no,,province_path,c,95718,d_fufang,h_china,h_china > e_yongliang > k_guannei > d_fufang > c_yan_an,2488
+c_danzhou,c_danzhou_china,no,,province_path,c,95747,d_fufang,h_china,h_china > e_yongliang > k_guannei > d_fufang > c_danzhou,2485
+c_fangzhou,c_fangzhou_china,no,,province_path,c,95761,d_fufang,h_china,h_china > e_yongliang > k_guannei > d_fufang > c_fangzhou,2486
+d_jingyuan,d_jingyuan_china,no,,province_path;reverse_capital_owner_of:c_jingzhou,d,95781,k_guannei,h_china,h_china > e_yongliang > k_guannei > d_jingyuan,2225
+c_jingzhou,c_jingzhou_xia_china,no,,province_path,c,95786,d_jingyuan,h_china,h_china > e_yongliang > k_guannei > d_jingyuan > c_jingzhou,2489
+c_yuanzhou_2,c_yuanzou_xia_china,no,,province_path,c,95805,d_jingyuan,h_china,h_china > e_yongliang > k_guannei > d_jingyuan > c_yuanzhou_2,2491
+c_xiaoguan,c_yuanzou_xia_china (second),no,,province_path,c,95824,d_jingyuan,h_china,h_china > e_yongliang > k_guannei > d_jingyuan > c_xiaoguan,2490
+d_qincheng,d_longxi_china,no,,province_path;reverse_capital_owner_of:c_qinzhou_1,d,95840,k_guannei,h_china,h_china > e_yongliang > k_guannei > d_qincheng,2227
+c_qinzhou_1,c_tianshui_china,no,,province_path,c,95846,d_qincheng,h_china,h_china > e_yongliang > k_guannei > d_qincheng > c_qinzhou_1,2497
+c_weizhou_2,c_weizhou_longxi_china,no,,province_path,c,95870,d_qincheng,h_china,h_china > e_yongliang > k_guannei > d_qincheng > c_weizhou_2,2498
+c_chengzhou,c_qiuchi_china,no,,province_path,c,95884,d_qincheng,h_china,h_china > e_yongliang > k_guannei > d_qincheng > c_chengzhou,2494
+c_minzhou,c_minzhou_china,no,,province_path,c,95903,d_qincheng,h_china,h_china > e_yongliang > k_guannei > d_qincheng > c_minzhou,2496
+c_jiezhou,c_wudu_china,no,,province_path,c,95922,d_qincheng,h_china,h_china > e_yongliang > k_guannei > d_qincheng > c_jiezhou,2495
+d_xingfeng,d_zhaowu,no,,province_path;reverse_capital_owner_of:c_xingqing,d,95937,k_guannei,h_china,h_china > e_yongliang > k_guannei > d_xingfeng,2228
+c_fengzhou,c_fengzhou_hanzhong_china,no,,province_path,c,95942,d_xingfeng,h_china,h_china > e_yongliang > k_guannei > d_xingfeng > c_fengzhou,2499
+c_xingqing,c_xingzhou_hanzhong_china,no,,province_path,c,95956,d_xingfeng,h_china,h_china > e_yongliang > k_guannei > d_xingfeng > c_xingqing,2500
+k_hexi,k_hexi & k_xia,yes & no,,province_path,k,95972,e_yongliang,h_china,h_china > e_yongliang > k_hexi,2164
+d_hexi,d_liangzhou,no,,province_path,d,95975,k_hexi,h_china,h_china > e_yongliang > k_hexi > d_hexi,2232
+c_liangzhou,c_liangzhou,yes,removed_by_mask,,c,95980,d_hexi,h_china,h_china > e_yongliang > k_hexi > d_hexi > c_liangzhou,2520
+c_fanhe,c_fanhe,yes,removed_by_mask,,c,95999,d_hexi,h_china,h_china > e_yongliang > k_hexi > d_hexi > c_fanhe,2518
+c_baishan,c_dajing,no,,province_path,c,96013,d_hexi,h_china,h_china > e_yongliang > k_hexi > d_hexi > c_baishan,2517
+c_zhanyin,c_baiyin,no,,province_path,c,96027,d_hexi,h_china,h_china > e_yongliang > k_hexi > d_hexi > c_zhanyin,2521
+c_guangwu,c_yongdeng,no,,province_path,c,96046,d_hexi,h_china,h_china > e_yongliang > k_hexi > d_hexi > c_guangwu,2519
+d_longyou,d_shanzhou,no,,province_path,d,96066,k_hexi,h_china,h_china > e_yongliang > k_hexi > d_longyou,2233
+c_xiningzhou,c_shanzhou,no,removed_by_mask,,c,96071,d_longyou,h_china,h_china > e_yongliang > k_hexi > d_longyou > c_xiningzhou,2525
+c_kuozhou,c_kuozhou,yes,removed_by_mask,,c,96095,d_longyou,h_china,h_china > e_yongliang > k_hexi > d_longyou > c_kuozhou,2523
+c_lanzhou_1,c_lanzhou_longxi_china,no,,province_path,c,96109,d_longyou,h_china,h_china > e_yongliang > k_hexi > d_longyou > c_lanzhou_1,2524
+c_hezhou_2,c_hezhou_china,no,,province_path,c,96123,d_longyou,h_china,h_china > e_yongliang > k_hexi > d_longyou > c_hezhou_2,2522
+d_qilian,d_qilin,no,removed_by_mask,,d,96143,k_hexi,h_china,h_china > e_yongliang > k_hexi > d_qilian,2234
+c_qilin,c_qilin,yes,removed_by_mask,,c,96148,d_qilian,h_china,h_china > e_yongliang > k_hexi > d_qilian > c_qilin,2526
+c_yalong,c_yalong,yes,removed_by_mask,,c,96162,d_qilian,h_china,h_china > e_yongliang > k_hexi > d_qilian > c_yalong,2527
+d_gansu,d_ganzhou,no,removed_by_mask,,d,96177,k_hexi,h_china,h_china > e_yongliang > k_hexi > d_gansu,2230
+c_ganzhou,c_ganzhou,yes,removed_by_mask,,c,96182,d_gansu,h_china,h_china > e_yongliang > k_hexi > d_gansu > c_ganzhou,2505
+c_liaoquan,c_linze,no,removed_by_mask,,c,96201,d_gansu,h_china,h_china > e_yongliang > k_hexi > d_gansu > c_liaoquan,2508
+c_jiankang,c_gaotai,no,removed_by_mask,,c,96220,d_gansu,h_china,h_china > e_yongliang > k_hexi > d_gansu > c_jiankang,2506
+c_zhenwu_1,c_jinta,no,removed_by_mask,,c,96234,d_gansu,h_china,h_china > e_yongliang > k_hexi > d_gansu > c_zhenwu_1,2510
+c_jiuquan,c_suzhou,no,removed_by_mask,,c,96248,d_gansu,h_china,h_china > e_yongliang > k_hexi > d_gansu > c_jiuquan,2507
+c_yumen,c_yumen,yes,removed_by_mask,,c,96267,d_gansu,h_china,h_china > e_yongliang > k_hexi > d_gansu > c_yumen,2509
+d_guasha,d_guiyi,no,removed_by_mask,,d,96287,k_hexi,h_china,h_china > e_yongliang > k_hexi > d_guasha,2231
+c_shazhou,c_shazhou,yes,removed_by_mask,,c,96292,d_guasha,h_china,h_china > e_yongliang > k_hexi > d_guasha > c_shazhou,2513
+c_guazhou,c_guazhou,yes,removed_by_mask,,c,96306,d_guasha,h_china,h_china > e_yongliang > k_hexi > d_guasha > c_guazhou,2511
+c_xincheng,c_changma,no,removed_by_mask,,c,96325,d_guasha,h_china,h_china > e_yongliang > k_hexi > d_guasha > c_xincheng,2515
+c_hehe,c_hongliuyuan,no,removed_by_mask,,c,96339,d_guasha,h_china,h_china > e_yongliang > k_hexi > d_guasha > c_hehe,2512
+c_shouchang,c_yumenguan,no,removed_by_mask,,c,96358,d_guasha,h_china,h_china > e_yongliang > k_hexi > d_guasha > c_shouchang,2514
+c_ziting,c_subei,no,removed_by_mask,,c,96377,d_guasha,h_china,h_china > e_yongliang > k_hexi > d_guasha > c_ziting,2516
+e_jingyang,e_jingyang,yes,,province_path;reverse_capital_owner_of:c_ezhou;reverse_capital_owner_of:c_fuzhou_1;reverse_capital_owner_of:c_hangzhou;reverse_capital_owner_of:c_hongzhou;reverse_capital_owner_of:c_jian_an;reverse_capital_owner_of:c_jiangling;reverse_capital_owner_of:c_jiangning;reverse_capital_owner_of:c_qianzhou;reverse_capital_owner_of:c_quanzhou;reverse_capital_owner_of:c_shouzhou;reverse_capital_owner_of:c_tanzhou;reverse_capital_owner_of:c_xiangyang;reverse_capital_owner_of:c_xuanzhou;reverse_capital_owner_of:c_yangzhou;reverse_capital_owner_of:c_yongzhou;reverse_capital_owner_of:c_yuezhou;reverse_capital_owner_of:c_yunyang,e,96395,h_china,h_china,h_china > e_jingyang,2133
+k_jiangdong,k_jiangnandong_china,no,,province_path;reverse_capital_owner_of:c_jiangning;reverse_capital_owner_of:c_xuanzhou,k,96400,e_jingyang,h_china,h_china > e_jingyang > k_jiangdong,2150
+d_jiangdong,d_zhenhai_china,no,,province_path;reverse_capital_owner_of:c_jiangning,d,96405,k_jiangdong,h_china,h_china > e_jingyang > k_jiangdong > d_jiangdong,2179
+c_jiangning,c_jiangning,yes,,province_path,c,96410,d_jiangdong,h_china,h_china > e_jingyang > k_jiangdong > d_jiangdong > c_jiangning,2288
+c_runzhou,c_runzhou_china,no,,province_path,c,96434,d_jiangdong,h_china,h_china > e_jingyang > k_jiangdong > d_jiangdong > c_runzhou,2289
+c_changzhou,c_changzhou_china,no,,province_path,c,96453,d_jiangdong,h_china,h_china > e_jingyang > k_jiangdong > d_jiangdong > c_changzhou,2287
+c_suzhou_2,c_suzhou_wu_china,no,,province_path,c,96477,d_jiangdong,h_china,h_china > e_jingyang > k_jiangdong > d_jiangdong > c_suzhou_2,2290
+d_xuanshe,d_xuanshe_china,no,,province_path;reverse_capital_owner_of:c_xuanzhou,d,96497,k_jiangdong,h_china,h_china > e_jingyang > k_jiangdong > d_xuanshe,2180
+c_xuanzhou,c_xuanzhou_china,no,,province_path,c,96502,d_xuanshe,h_china,h_china > e_jingyang > k_jiangdong > d_xuanshe > c_xuanzhou,2294
+c_chizhou,c_chizhou_china,no,,province_path,c,96531,d_xuanshe,h_china,h_china > e_jingyang > k_jiangdong > d_xuanshe > c_chizhou,2291
+c_shezhou,c_shezhou_china,no,,province_path,c,96555,d_xuanshe,h_china,h_china > e_jingyang > k_jiangdong > d_xuanshe > c_shezhou,2293
+c_guangde,c_guangde_china,no,,province_path,c,96584,d_xuanshe,h_china,h_china > e_jingyang > k_jiangdong > d_xuanshe > c_guangde,2292
+k_liangzhe,k_liangzhe & k_yue_china,yes & no,,province_path;reverse_capital_owner_of:c_hangzhou;reverse_capital_owner_of:c_yuezhou,k,96600,e_jingyang,h_china,h_china > e_jingyang > k_liangzhe,2152
+d_zhexi,d_zhexi,yes,,province_path;reverse_capital_owner_of:c_hangzhou,d,96605,k_liangzhe,h_china,h_china > e_jingyang > k_liangzhe > d_zhexi,2185
+c_hangzhou,c_hangzhou_china,no,,province_path,c,96610,d_zhexi,h_china,h_china > e_jingyang > k_liangzhe > d_zhexi > c_hangzhou,2316
+c_xiuzhou,c_xiuzhou,yes,,province_path,c,96634,d_zhexi,h_china,h_china > e_jingyang > k_liangzhe > d_zhexi > c_xiuzhou,2319
+c_huzhou,c_huzhou_wu_china,no,,province_path,c,96653,d_zhexi,h_china,h_china > e_jingyang > k_liangzhe > d_zhexi > c_huzhou,2317
+c_muzhou,c_muzhou_yue_china,no,,province_path,c,96672,d_zhexi,h_china,h_china > e_jingyang > k_liangzhe > d_zhexi > c_muzhou,2318
+d_zhedong,d_zhedong_china,no,,province_path;reverse_capital_owner_of:c_yuezhou,d,96697,k_liangzhe,h_china,h_china > e_jingyang > k_liangzhe > d_zhedong,2184
+c_yuezhou,c_yuezhou_yue_china,no,,province_path,c,96702,d_zhedong,h_china,h_china > e_jingyang > k_liangzhe > d_zhedong > c_yuezhou,2315
+c_mingzhou_1,c_mingzhou_china,no,,province_path,c,96726,d_zhedong,h_china,h_china > e_jingyang > k_liangzhe > d_zhedong > c_mingzhou_1,2310
+c_wuzhou,c_wuzhou_yue_china,no,,province_path,c,96750,d_zhedong,h_china,h_china > e_jingyang > k_liangzhe > d_zhedong > c_wuzhou,2313
+c_taizhou,c_taizhou_china,no,,province_path,c,96774,d_zhedong,h_china,h_china > e_jingyang > k_liangzhe > d_zhedong > c_taizhou,2311
+c_chuzhou,c_kuozhou_yue_china,no,,province_path,c,96798,d_zhedong,h_china,h_china > e_jingyang > k_liangzhe > d_zhedong > c_chuzhou,2309
+c_xin_an,c_quzhou_china,no,,province_path,c,96827,d_zhedong,h_china,h_china > e_jingyang > k_liangzhe > d_zhedong > c_xin_an,2314
+c_wenzhou_2,c_wenzhou_yue_china,no,,province_path,c,96846,d_zhedong,h_china,h_china > e_jingyang > k_liangzhe > d_zhedong > c_wenzhou_2,2312
+k_fujian,k_min,no,,province_path;reverse_capital_owner_of:c_fuzhou_1;reverse_capital_owner_of:c_jian_an;reverse_capital_owner_of:c_quanzhou,k,96872,e_jingyang,h_china,h_china > e_jingyang > k_fujian,2147
+d_weiwu,d_fujian_china,no,,province_path,d,96877,k_fujian,h_china,h_china > e_jingyang > k_fujian > d_weiwu,2174
+c_fuzhou_1,c_fuzou_china,no,,province_path,c,96880,d_weiwu,h_china,h_china > e_jingyang > k_fujian > d_weiwu > c_fuzhou_1,2267
+c_funing,c_fuzou_china (second),no,,province_path,c,96909,d_weiwu,h_china,h_china > e_jingyang > k_fujian > d_weiwu > c_funing,2266
+d_pinghai,d_qingyuan,no,,province_path;reverse_capital_owner_of:c_quanzhou,d,96929,k_fujian,h_china,h_china > e_jingyang > k_fujian > d_pinghai,2173
+c_quanzhou,c_quanzhou_china,no,,province_path,c,96934,d_pinghai,h_china,h_china > e_jingyang > k_fujian > d_pinghai > c_quanzhou,2263
+c_zhangzhou,c_zhangzhou_min_china,no,,province_path,c,96958,d_pinghai,h_china,h_china > e_jingyang > k_fujian > d_pinghai > c_zhangzhou,2265
+c_xinghua,c_quanzhou_china (second),no,,province_path,c,96982,d_pinghai,h_china,h_china > e_jingyang > k_fujian > d_pinghai > c_xinghua,2264
+d_jianning,d_jianning,yes,,province_path;reverse_capital_owner_of:c_jian_an,d,97002,k_fujian,h_china,h_china > e_jingyang > k_fujian > d_jianning,2172
+c_jian_an,c_jianzhou_min_china,no,,province_path,c,97007,d_jianning,h_china,h_china > e_jingyang > k_fujian > d_jianning > c_jian_an,2259
+c_nanjian,c_nanjianzhou,no,,province_path,c,97031,d_jianning,h_china,h_china > e_jingyang > k_fujian > d_jianning > c_nanjian,2260
+c_shaowu,c_jianzhou_min_china (second),no,,province_path,c,97065,d_jianning,h_china,h_china > e_jingyang > k_fujian > d_jianning > c_shaowu,2261
+c_tingzhou,c_tingzhou_min_china,no,,province_path,c,97084,d_jianning,h_china,h_china > e_jingyang > k_fujian > d_jianning > c_tingzhou,2262
+k_huainan,k_wu_china & k_huainandong,no & no,,province_path;reverse_capital_owner_of:c_shouzhou;reverse_capital_owner_of:c_yangzhou,k,97110,e_jingyang,h_china,h_china > e_jingyang > k_huainan,2148
+d_huainan,d_huainan_china,no,,province_path;reverse_capital_owner_of:c_yangzhou,d,97115,k_huainan,h_china,h_china > e_jingyang > k_huainan > d_huainan,2175
+c_yangzhou,c_yangzhou_china,no,,province_path,c,97120,d_huainan,h_china,h_china > e_jingyang > k_huainan > d_huainan > c_yangzhou,2271
+c_taizhou_1,c_hailing_china,no,,province_path,c,97144,d_huainan,h_china,h_china > e_jingyang > k_huainan > d_huainan > c_taizhou_1,2270
+c_chuzhou_1,c_huaiyin_china,no,,province_path,c,97163,d_huainan,h_china,h_china > e_jingyang > k_huainan > d_huainan > c_chuzhou_1,2268
+c_chuzhou_2,c_chuzhou_huai_china,no,,province_path,c,97187,d_huainan,h_china,h_china > e_jingyang > k_huainan > d_huainan > c_chuzhou_2,2269
+d_huaixi,d_huaixi_china,no,,province_path;reverse_capital_owner_of:c_shouzhou,d,97207,k_huainan,h_china,h_china > e_jingyang > k_huainan > d_huaixi,2176
+c_shouzhou,c_shouchun_china,no,,province_path,c,97212,d_huaixi,h_china,h_china > e_jingyang > k_huainan > d_huaixi > c_shouzhou,2276
+c_lujiang,c_luzhou_huai_china,no,,province_path,c,97241,d_huaixi,h_china,h_china > e_jingyang > k_huainan > d_huaixi > c_lujiang,2275
+c_liyang_2,c_hezhou_huai_china,no,,province_path,c,97270,d_huaixi,h_china,h_china > e_jingyang > k_huainan > d_huaixi > c_liyang_2,2274
+c_haozhou,c_haozhou_huainan_china,no,,province_path,c,97284,d_huaixi,h_china,h_china > e_jingyang > k_huainan > d_huaixi > c_haozhou,2273
+c_guangzhou,c_guangzhou_huainan_china,no,,province_path,c,97303,d_huaixi,h_china,h_china > e_jingyang > k_huainan > d_huaixi > c_guangzhou,2272
+c_shuzhou,c_shuzhou_huai_china,no,,province_path,c,97327,d_huaixi,h_china,h_china > e_jingyang > k_huainan > d_huaixi > c_shuzhou,2277
+k_jiangxi,k_jiangxi,yes,,province_path;reverse_capital_owner_of:c_hongzhou;reverse_capital_owner_of:c_qianzhou;reverse_capital_owner_of:c_yunyang,k,97358,e_jingyang,h_china,h_china > e_jingyang > k_jiangxi,2151
+d_jiangxi,d_jiangxi_china,no,,province_path;reverse_capital_owner_of:c_hongzhou,d,97363,k_jiangxi,h_china,h_china > e_jingyang > k_jiangxi > d_jiangxi,2182
+c_hongzhou,c_hongzhou_china,no,,province_path,c,97368,d_jiangxi,h_china,h_china > e_jingyang > k_jiangxi > d_jiangxi > c_hongzhou,2300
+c_yunzhou_2,c_yunzhou_jiangxi_china,no,,province_path,c,97397,d_jiangxi,h_china,h_china > e_jingyang > k_jiangxi > d_jiangxi > c_yunzhou_2,2305
+c_yuanzhou,c_yuanzhou_jiangxi_china,no,,province_path,c,97416,d_jiangxi,h_china,h_china > e_jingyang > k_jiangxi > d_jiangxi > c_yuanzhou,2304
+c_fuzhou_2,c_fuzhou_jiangxi_china,no,,province_path,c,97435,d_jiangxi,h_china,h_china > e_jingyang > k_jiangxi > d_jiangxi > c_fuzhou_2,2299
+c_jianchang,c_fuzhou_jiangxi_china (second),no,,province_path,c,97464,d_jiangxi,h_china,h_china > e_jingyang > k_jiangxi > d_jiangxi > c_jianchang,2301
+c_jizhou_3,c_jizhou_jiangxi_china,no,,province_path,c,97483,d_jiangxi,h_china,h_china > e_jingyang > k_jiangxi > d_jiangxi > c_jizhou_3,2302
+c_linjiang,c_yunzhou_jiangxi_china (second),no,,province_path,c,97512,d_jiangxi,h_china,h_china > e_jingyang > k_jiangxi > d_jiangxi > c_linjiang,2303
+d_dingjiang,d_jiangzhou_china,no,,province_path;reverse_capital_owner_of:c_yunyang,d,97532,k_jiangxi,h_china,h_china > e_jingyang > k_jiangxi > d_dingjiang,2181
+c_yunyang,c_jiangzhou_wu_china,no,,province_path,c,97537,d_dingjiang,h_china,h_china > e_jingyang > k_jiangxi > d_dingjiang > c_yunyang,2298
+c_raozhou,c_raozhou_china,no,,province_path,c,97556,d_dingjiang,h_china,h_china > e_jingyang > k_jiangxi > d_dingjiang > c_raozhou,2296
+c_nankang,c_jiangzhou_wu_china (second),no,,province_path,c,97585,d_dingjiang,h_china,h_china > e_jingyang > k_jiangxi > d_dingjiang > c_nankang,2295
+c_xinhzou,c_xinzhou_wu_china,no,,province_path,c,97604,d_dingjiang,h_china,h_china > e_jingyang > k_jiangxi > d_dingjiang > c_xinhzou,2297
+d_zhaoxin,d_luling_china,no,,province_path;reverse_capital_owner_of:c_qianzhou,d,97634,k_jiangxi,h_china,h_china > e_jingyang > k_jiangxi > d_zhaoxin,2183
+c_qianzhou,c_qianzhou_jiangxi_china,no,,province_path,c,97639,d_zhaoxin,h_china,h_china > e_jingyang > k_jiangxi > d_zhaoxin > c_qianzhou,2308
+c_ningduzhou,c_qianzhou_jiangxi_china (second),no,,province_path,c,97653,d_zhaoxin,h_china,h_china > e_jingyang > k_jiangxi > d_zhaoxin > c_ningduzhou,2307
+c_nanan,c_qianzhou_jiangxi_china (second),no,,province_path,c,97677,d_zhaoxin,h_china,h_china > e_jingyang > k_jiangxi > d_zhaoxin > c_nanan,2306
+k_shannan,k_jingnan & k_jingxinan,no & no,,province_path;reverse_capital_owner_of:c_ezhou;reverse_capital_owner_of:c_jiangling;reverse_capital_owner_of:c_xiangyang,k,97698,e_jingyang,h_china,h_china > e_jingyang > k_shannan,2153
+d_xiangdeng,d_jingxiang_china,no,,province_path;reverse_capital_owner_of:c_xiangyang,d,97703,k_shannan,h_china,h_china > e_jingyang > k_shannan > d_xiangdeng,2188
+c_xiangyang,c_xiangfan_china,no,,province_path,c,97708,d_xiangdeng,h_china,h_china > e_jingyang > k_shannan > d_xiangdeng > c_xiangyang,2337
+c_junzhou,c_junzhou_china,no,,province_path,c,97737,d_xiangdeng,h_china,h_china > e_jingyang > k_shannan > d_xiangdeng > c_junzhou,2334
+c_fangzhou_1,c_fangzhou_chu_china,no,,province_path,c,97756,d_xiangdeng,h_china,h_china > e_jingyang > k_shannan > d_xiangdeng > c_fangzhou_1,2333
+c_yingzhou_2,c_yingzhou_chu_china,no,,province_path,c,97780,d_xiangdeng,h_china,h_china > e_jingyang > k_shannan > d_xiangdeng > c_yingzhou_2,2338
+c_suizhou_1,c_suizhou_china,no,,province_path,c,97799,d_xiangdeng,h_china,h_china > e_jingyang > k_shannan > d_xiangdeng > c_suizhou_1,2335
+c_dengzhou_1,c_dengzhou_china,no,,province_path,c,97823,d_xiangdeng,h_china,h_china > e_jingyang > k_shannan > d_xiangdeng > c_dengzhou_1,2332
+c_tangzhou,c_tangzhou_chu_china,no,,province_path,c,97852,d_xiangdeng,h_china,h_china > e_jingyang > k_shannan > d_xiangdeng > c_tangzhou,2336
+d_jingnan,d_jingnan_china,no,,province_path;reverse_capital_owner_of:c_jiangling,d,97877,k_shannan,h_china,h_china > e_jingyang > k_shannan > d_jingnan,2187
+c_jiangling,c_jingzhou_chu_china,no,,province_path,c,97882,d_jingnan,h_china,h_china > e_jingyang > k_shannan > d_jingnan > c_jiangling,2328
+c_hanyang,c_hanyang,yes,,province_path,c,97911,d_jingnan,h_china,h_china > e_jingyang > k_shannan > d_jingnan > c_hanyang,2327
+c_fuzhou_3,c_fuzhou_chu_china,no,,province_path,c,97925,d_jingnan,h_china,h_china > e_jingyang > k_shannan > d_jingnan > c_fuzhou_3,2325
+c_xiazhou_1,c_xiazhou_chu_china,no,,province_path,c,97949,d_jingnan,h_china,h_china > e_jingyang > k_shannan > d_jingnan > c_xiazhou_1,2331
+c_guizhou,c_zigui_china,no,,province_path,c,97968,d_jingnan,h_china,h_china > e_jingyang > k_shannan > d_jingnan > c_guizhou,2326
+c_liyang,c_lizhou_chu_china,no,,province_path,c,97987,d_jingnan,h_china,h_china > e_jingyang > k_shannan > d_jingnan > c_liyang,2330
+c_langzhou,c_langzhou_chu_china,no,,province_path,c,98016,d_jingnan,h_china,h_china > e_jingyang > k_shannan > d_jingnan > c_langzhou,2329
+d_eyue,d_eyue_china,no,,province_path;reverse_capital_owner_of:c_ezhou,d,98041,k_shannan,h_china,h_china > e_jingyang > k_shannan > d_eyue,2186
+c_ezhou,c_ezhou_china,no,,province_path,c,98046,d_eyue,h_china,h_china > e_jingyang > k_shannan > d_eyue > c_ezhou,2321
+c_anzhou,c_anzhou_china,no,,province_path,c,98075,d_eyue,h_china,h_china > e_jingyang > k_shannan > d_eyue > c_anzhou,2320
+c_yuezhou_1,c_yuezhou_chu_china,no,,province_path,c,98099,d_eyue,h_china,h_china > e_jingyang > k_shannan > d_eyue > c_yuezhou_1,2324
+c_huangzhou,c_huangzhou_china,no,,province_path,c,98123,d_eyue,h_china,h_china > e_jingyang > k_shannan > d_eyue > c_huangzhou,2322
+c_qizhou_1,c_qichun_china,no,,province_path,c,98142,d_eyue,h_china,h_china > e_jingyang > k_shannan > d_eyue > c_qizhou_1,2323
+k_hunan,k_hunan & k_chu_china,yes & no,,province_path;reverse_capital_owner_of:c_tanzhou;reverse_capital_owner_of:c_yongzhou,k,98168,e_jingyang,h_china,h_china > e_jingyang > k_hunan,2149
+d_hunan,d_hunan_china,no,,province_path;reverse_capital_owner_of:c_tanzhou,d,98173,k_hunan,h_china,h_china > e_jingyang > k_hunan > d_hunan,2177
+c_tanzhou,c_changsha_china,no,,province_path,c,98178,d_hunan,h_china,h_china > e_jingyang > k_hunan > d_hunan > c_tanzhou,2282
+c_hengzhou,c_hengshan_china,no,,province_path,c,98207,d_hunan,h_china,h_china > e_jingyang > k_hunan > d_hunan > c_hengzhou,2280
+c_chenzhou_1,c_chenzhou_hunan_china,no,,province_path,c,98236,d_hunan,h_china,h_china > e_jingyang > k_hunan > d_hunan > c_chenzhou_1,2278
+c_guiyang,c_chenzhou_hunan_china (second),no,,province_path,c,98265,d_hunan,h_china,h_china > e_jingyang > k_hunan > d_hunan > c_guiyang,2279
+c_lianzhou,c_lianzhou_china,no,,province_path,c,98284,d_hunan,h_china,h_china > e_jingyang > k_hunan > d_hunan > c_lianzhou,2281
+d_lingling,d_lingling,yes,,province_path;reverse_capital_owner_of:c_yongzhou,d,98304,k_hunan,h_china,h_china > e_jingyang > k_hunan > d_lingling,2178
+c_yongzhou,c_yongzhou_hunan_china,no,,province_path,c,98309,d_lingling,h_china,h_china > e_jingyang > k_hunan > d_lingling > c_yongzhou,2286
+c_quanzhou_2,c_yongzhou_hunan_china (second),no,,province_path,c,98328,d_lingling,h_china,h_china > e_jingyang > k_hunan > d_lingling > c_quanzhou_2,2284
+c_shaozhou,c_shaozhou_hunan_china,no,,province_path,c,98347,d_lingling,h_china,h_china > e_jingyang > k_hunan > d_lingling > c_shaozhou,2285
+c_daozhou,c_daozhou_china,no,,province_path,c,98381,d_lingling,h_china,h_china > e_jingyang > k_hunan > d_lingling > c_daozhou,2283
+e_liangyi,e_liangyi,yes,,province_path;reverse_capital_owner_of:c_bazhou;reverse_capital_owner_of:c_chengdu;reverse_capital_owner_of:c_dali;reverse_capital_owner_of:c_jianchuan;reverse_capital_owner_of:c_juzhou;reverse_capital_owner_of:c_kuizhou;reverse_capital_owner_of:c_lizhou_2;reverse_capital_owner_of:c_luodian;reverse_capital_owner_of:c_luxi;reverse_capital_owner_of:c_qianzhou_1;reverse_capital_owner_of:c_qiongzhou;reverse_capital_owner_of:c_sie;reverse_capital_owner_of:c_siyuan;reverse_capital_owner_of:c_suining;reverse_capital_owner_of:c_tongchuan;reverse_capital_owner_of:c_xingyuan;reverse_capital_owner_of:c_yinsheng;reverse_capital_owner_of:c_yinzhou_1,e,98404,h_china,h_china,h_china > e_liangyi,2134
+k_xichuan,k_shu_china & k_chengdufu,no & no,,province_path;reverse_capital_owner_of:c_chengdu;reverse_capital_owner_of:c_qiongzhou,k,98409,e_liangyi,h_china,h_china > e_liangyi > k_xichuan,2158
+d_xichuan,d_xichuan_china,no,,province_path;reverse_capital_owner_of:c_chengdu,d,98414,k_xichuan,h_china,h_china > e_liangyi > k_xichuan > d_xichuan,2206
+c_chengdu,c_chengdu,yes,,province_path,c,98419,d_xichuan,h_china,h_china > e_liangyi > k_xichuan > d_xichuan > c_chengdu,2409
+c_pengzhou,c_pengzhou_china,no,,province_path,c,98438,d_xichuan,h_china,h_china > e_liangyi > k_xichuan > d_xichuan > c_pengzhou,2413
+c_hanzhou,c_hanzhou_shu_china,no,,province_path,c,98452,d_xichuan,h_china,h_china > e_liangyi > k_xichuan > d_xichuan > c_hanzhou,2410
+c_jianyang,c_jianzhou_shu2_china,no,,province_path,c,98471,d_xichuan,h_china,h_china > e_liangyi > k_xichuan > d_xichuan > c_jianyang,2411
+c_lingzhou_1,c_lingzhou_xichuan_china,no,,province_path,c,98485,d_xichuan,h_china,h_china > e_liangyi > k_xichuan > d_xichuan > c_lingzhou_1,2412
+d_qiongnan,d_yongping_china,no,,province_path;reverse_capital_owner_of:c_qiongzhou,d,98500,k_xichuan,h_china,h_china > e_liangyi > k_xichuan > d_qiongnan,2205
+c_qiongzhou,c_qiongzhou_china,no,,province_path,c,98505,d_qiongnan,h_china,h_china > e_liangyi > k_xichuan > d_qiongnan > c_qiongzhou,2407
+c_yazhou_2,c_yazhou_china,no,,province_path,c,98524,d_qiongnan,h_china,h_china > e_liangyi > k_xichuan > d_qiongnan > c_yazhou_2,2408
+c_meizhou,c_meizhou_xichuan_china,no,,province_path,c,98543,d_qiongnan,h_china,h_china > e_liangyi > k_xichuan > d_qiongnan > c_meizhou,2405
+c_jiazhou,c_jiazhou_xichuan_china,no,,province_path,c,98562,d_qiongnan,h_china,h_china > e_liangyi > k_xichuan > d_qiongnan > c_jiazhou,2404
+c_hanyuan,c_lizhou_shu_china,no,,province_path,c,98586,d_qiongnan,h_china,h_china > e_liangyi > k_xichuan > d_qiongnan > c_hanyuan,2403
+c_qiongbu,c_pengluzhou_china,no,,province_path,c,98600,d_qiongnan,h_china,h_china > e_liangyi > k_xichuan > d_qiongnan > c_qiongbu,2406
+k_xingyuan,k_han_china & k_lizhou,no & no,,province_path;reverse_capital_owner_of:c_bazhou;reverse_capital_owner_of:c_lizhou_2;reverse_capital_owner_of:c_xingyuan,k,98621,e_liangyi,h_china,h_china > e_liangyi > k_xingyuan,2159
+d_xingyuan,d_hanzhong_china,no,,province_path;reverse_capital_owner_of:c_xingyuan,d,98626,k_xingyuan,h_china,h_china > e_liangyi > k_xingyuan > d_xingyuan,2209
+c_xingyuan,c_nanzheng_china,no,,province_path,c,98631,d_xingyuan,h_china,h_china > e_liangyi > k_xingyuan > d_xingyuan > c_xingyuan,2425
+c_yangzhou_1,c_yangzhou_hanzhong_china,no,,province_path,c,98655,d_xingyuan,h_china,h_china > e_liangyi > k_xingyuan > d_xingyuan > c_yangzhou_1,2426
+c_bizhou,c_ziwudao_china,no,,province_path,c,98674,d_xingyuan,h_china,h_china > e_liangyi > k_xingyuan > d_xingyuan > c_bizhou,2423
+c_jizhou_2,c_xingzhou_hanzhong_china (second),no,,province_path,c,98698,d_xingyuan,h_china,h_china > e_liangyi > k_xingyuan > d_xingyuan > c_jizhou_2,2424
+d_lilang,d_zizhou_china,no,,province_path;reverse_capital_owner_of:c_lizhou_2,d,98713,k_xingyuan,h_china,h_china > e_liangyi > k_xingyuan > d_lilang,2208
+c_lizhou_2,c_lizhou_hanzhong_china,no,,province_path,c,98718,d_lilang,h_china,h_china > e_liangyi > k_xingyuan > d_lilang > c_lizhou_2,2420
+c_langzhou_1,c_langzhou_ba_china,no,,province_path,c,98737,d_lilang,h_china,h_china > e_liangyi > k_xingyuan > d_lilang > c_langzhou_1,2419
+c_wenzhou,c_yinping_china,no,,province_path,c,98756,d_lilang,h_china,h_china > e_liangyi > k_xingyuan > d_lilang > c_wenzhou,2422
+c_guozhou_1,c_guozhou_ba_china,no,,province_path,c,98770,d_lilang,h_china,h_china > e_liangyi > k_xingyuan > d_lilang > c_guozhou_1,2418
+c_pengzhou_2,c_quzhou_ba_china,no,,province_path,c,98789,d_lilang,h_china,h_china > e_liangyi > k_xingyuan > d_lilang > c_pengzhou_2,2421
+d_baqu,d_ba_china,no,,province_path;reverse_capital_owner_of:c_bazhou,d,98804,k_xingyuan,h_china,h_china > e_liangyi > k_xingyuan > d_baqu,2207
+c_bazhou,c_bazhou_ba_china,no,,province_path,c,98809,d_baqu,h_china,h_china > e_liangyi > k_xingyuan > d_baqu > c_bazhou,2414
+c_quzhou,c_quzhou_1_china,no,,province_path,c,98828,d_baqu,h_china,h_china > e_liangyi > k_xingyuan > d_baqu > c_quzhou,2416
+c_tongzhou_1,c_dazhou_ba_china,no,,province_path,c,98847,d_baqu,h_china,h_china > e_liangyi > k_xingyuan > d_baqu > c_tongzhou_1,2417
+c_kaizhou,c_kaizhou_china,no,,province_path,c,98871,d_baqu,h_china,h_china > e_liangyi > k_xingyuan > d_baqu > c_kaizhou,2415
+k_dongchuan,k_zizhou,no,,province_path;reverse_capital_owner_of:c_suining;reverse_capital_owner_of:c_tongchuan,k,98887,e_liangyi,h_china,h_china > e_liangyi > k_dongchuan,2155
+d_dongchuan,d_dongchuan & d_dongchuan_china,yes & no,,province_path;reverse_capital_owner_of:c_tongchuan,d,98892,k_dongchuan,h_china,h_china > e_liangyi > k_dongchuan > d_dongchuan,2195
+c_tongchuan,c_zizhou_dongchuan_china,no,,province_path,c,98897,d_dongchuan,h_china,h_china > e_liangyi > k_dongchuan > d_dongchuan > c_tongchuan,2360
+c_mianzhou,c_mianzhou_china,no,,province_path,c,98921,d_dongchuan,h_china,h_china > e_liangyi > k_dongchuan > d_dongchuan > c_mianzhou,2358
+c_longzhou,c_longzhou_shu_china,no,,province_path,c,98935,d_dongchuan,h_china,h_china > e_liangyi > k_dongchuan > d_dongchuan > c_longzhou,2357
+c_jianzhou_1,c_jianzhou_shu_china,no,,province_path,c,98949,d_dongchuan,h_china,h_china > e_liangyi > k_dongchuan > d_dongchuan > c_jianzhou_1,2356
+c_puzhou,c_puzhou_dongchuan_china,no,,province_path,c,98968,d_dongchuan,h_china,h_china > e_liangyi > k_dongchuan > d_dongchuan > c_puzhou,2359
+c_zizhou_2,c_zizhou_xichuan_china,no,,province_path,c,98982,d_dongchuan,h_china,h_china > e_liangyi > k_dongchuan > d_dongchuan > c_zizhou_2,2361
+d_wuxin,d_luzhou_china,no,,province_path;reverse_capital_owner_of:c_suining,d,98997,k_dongchuan,h_china,h_china > e_liangyi > k_dongchuan > d_wuxin,2196
+c_suining,c_suizhou_dongchuan_china,no,,province_path,c,99002,d_wuxin,h_china,h_china > e_liangyi > k_dongchuan > d_wuxin > c_suining,2366
+c_changzhou_1,c_luzhou_dongchuan_china (second),no,,province_path,c,99021,d_wuxin,h_china,h_china > e_liangyi > k_dongchuan > d_wuxin > c_changzhou_1,2362
+c_yuzhou_2,c_yuzhou_ba_china,no,,province_path,c,99035,d_wuxin,h_china,h_china > e_liangyi > k_dongchuan > d_wuxin > c_yuzhou_2,2367
+c_rongzhou,c_rongzhou_xichuan_china (second),no,,province_path,c,99054,d_wuxin,h_china,h_china > e_liangyi > k_dongchuan > d_wuxin > c_rongzhou,2365
+c_luzhou_2,c_luzhou_dongchuan_china,no,,province_path,c,99068,d_wuxin,h_china,h_china > e_liangyi > k_dongchuan > d_wuxin > c_luzhou_2,2363
+c_nanxi,c_rongzhou_xichuan_china,no,,province_path,c,99087,d_wuxin,h_china,h_china > e_liangyi > k_dongchuan > d_wuxin > c_nanxi,2364
+k_kuizhou,k_kuizhou,yes,,province_path;reverse_capital_owner_of:c_kuizhou;reverse_capital_owner_of:c_luxi;reverse_capital_owner_of:c_qianzhou_1,k,99103,e_liangyi,h_china,h_china > e_liangyi > k_kuizhou,2156
+d_kuizhong,d_ningjiang_china,no,,province_path;reverse_capital_owner_of:c_kuizhou,d,99108,k_kuizhou,h_china,h_china > e_liangyi > k_kuizhou > d_kuizhong,2197
+c_kuizhou,c_kuizhou_china,no,,province_path,c,99113,d_kuizhong,h_china,h_china > e_liangyi > k_kuizhou > d_kuizhong > c_kuizhou,2369
+c_zhongzhou,c_zhongzhou_ba_china,no,,province_path,c,99137,d_kuizhong,h_china,h_china > e_liangyi > k_kuizhou > d_kuizhong > c_zhongzhou,2371
+c_wanzhou,c_wanzhou_china,no,,province_path,c,99156,d_kuizhong,h_china,h_china > e_liangyi > k_kuizhou > d_kuizhong > c_wanzhou,2370
+c_fuzhou_4,c_fuzhou_ba_china,no,,province_path,c,99180,d_kuizhong,h_china,h_china > e_liangyi > k_kuizhou > d_kuizhong > c_fuzhou_4,2368
+d_qianzhong,d_qianzhong_china,no,,province_path;reverse_capital_owner_of:c_qianzhou_1,d,99205,k_kuizhou,h_china,h_china > e_liangyi > k_kuizhou > d_qianzhong,2198
+c_qianzhou_1,c_qianzhong_china,no,,province_path,c,99211,d_qianzhong,h_china,h_china > e_liangyi > k_kuizhou > d_qianzhong > c_qianzhou_1,2374
+c_shizhou_1,c_enshi_china,no,,province_path,c,99235,d_qianzhong,h_china,h_china > e_liangyi > k_kuizhou > d_qianzhong > c_shizhou_1,2375
+c_zhenxi,c_ligao_china,no,,province_path,c,99259,d_qianzhong,h_china,h_china > e_liangyi > k_kuizhou > d_qianzhong > c_zhenxi,2378
+c_nanzhou,c_ligao_china (second),no,,province_path,c,99278,d_qianzhong,h_china,h_china > e_liangyi > k_kuizhou > d_qianzhong > c_nanzhou,2373
+c_sizhou,c_sizhou_qian_china,no,,province_path,c,99292,d_qianzhong,h_china,h_china > e_liangyi > k_kuizhou > d_qianzhong > c_sizhou,2376
+c_bochuan,c_bozhou_zunyi_china,no,,province_path,c,99316,d_qianzhong,h_china,h_china > e_liangyi > k_kuizhou > d_qianzhong > c_bochuan,2372
+c_yizhou_3,c_pingyi_china,no,,province_path,c,99330,d_qianzhong,h_china,h_china > e_liangyi > k_kuizhou > d_qianzhong > c_yizhou_3,2377
+d_wuxi,d_wuxi_china,no,,province_path;reverse_capital_owner_of:c_luxi,d,99350,k_kuizhou,h_china,h_china > e_liangyi > k_kuizhou > d_wuxi,2199
+c_luxi,c_chenxi_china,no,,province_path,c,99355,d_wuxi,h_china,h_china > e_liangyi > k_kuizhou > d_wuxi > c_luxi,2380
+c_lingxi,c_xizhou_qian_china,no,,province_path,c,99384,d_wuxi,h_china,h_china > e_liangyi > k_kuizhou > d_wuxi > c_lingxi,2379
+c_shangxi,c_xizhou_qian_china (second),no,,province_path,c,99403,d_wuxi,h_china,h_china > e_liangyi > k_kuizhou > d_wuxi > c_shangxi,2382
+c_tanyang,c_langxi_china,no,,province_path,c,99422,d_wuxi,h_china,h_china > e_liangyi > k_kuizhou > d_wuxi > c_tanyang,2383
+c_luyang,c_luyang_china,no,,province_path,c,99446,d_wuxi,h_china,h_china > e_liangyi > k_kuizhou > d_wuxi > c_luyang,2381
+c_yezhou,c_luyang_china (second),no,,province_path,c,99465,d_wuxi,h_china,h_china > e_liangyi > k_kuizhou > d_wuxi > c_yezhou,2384
+k_qianzhong,k_qianzhong_china,no,,province_path;reverse_capital_owner_of:c_juzhou;reverse_capital_owner_of:c_luodian;reverse_capital_owner_of:c_sie;reverse_capital_owner_of:c_siyuan;reverse_capital_owner_of:c_yinzhou_1,k,99486,e_liangyi,h_china,h_china > e_liangyi > k_qianzhong,2157
+d_luodian,d_luodian,yes,,province_path;reverse_capital_owner_of:c_luodian,d,99491,k_qianzhong,h_china,h_china > e_liangyi > k_qianzhong > d_luodian,2200
+c_luodian,c_luodian,yes,,province_path,c,99496,d_luodian,h_china,h_china > e_liangyi > k_qianzhong > d_luodian > c_luodian,2385
+c_yanchuan,c_wuhou_china,no,,province_path,c,99510,d_luodian,h_china,h_china > e_liangyi > k_qianzhong > d_luodian > c_yanchuan,2386
+c_yanzhou_3,c_zhuangzhou,no,,province_path,c,99524,d_luodian,h_china,h_china > e_liangyi > k_qianzhong > d_luodian > c_yanzhou_3,2387
+d_luoshi,d_luoshi,yes,,province_path;reverse_capital_owner_of:c_sie,d,99549,k_qianzhong,h_china,h_china > e_liangyi > k_qianzhong > d_luoshi,2201
+c_sie,c_siezhou_china,no,,province_path,c,99554,d_luoshi,h_china,h_china > e_liangyi > k_qianzhong > d_luoshi > c_sie,2390
+c_shunzhou,c_xizhou_dongchuan_china,no,,province_path,c,99578,d_luoshi,h_china,h_china > e_liangyi > k_qianzhong > d_luoshi > c_shunzhou,2389
+c_zongzhou,c_mangbu,no,,province_path,c,99597,d_luoshi,h_china,h_china > e_liangyi > k_qianzhong > d_luoshi > c_zongzhou,2391
+c_shaoqing,c_qianxi_china,no,,province_path,c,99616,d_luoshi,h_china,h_china > e_liangyi > k_qianzhong > d_luoshi > c_shaoqing,2388
+d_shimen,d_jianchang,no,,province_path;reverse_capital_owner_of:c_yinzhou_1,d,99641,k_qianzhong,h_china,h_china > e_liangyi > k_qianzhong > d_shimen,2202
+c_yinzhou_1,c_yanjin,no,,province_path,c,99646,d_shimen,h_china,h_china > e_liangyi > k_qianzhong > d_shimen > c_yinzhou_1,2394
+c_jingzhou_2,c_a_du,no,,province_path,c,99665,d_shimen,h_china,h_china > e_liangyi > k_qianzhong > d_shimen > c_jingzhou_2,2392
+c_quzhou_1,c_u_mung,no,,province_path,c,99681,d_shimen,h_china,h_china > e_liangyi > k_qianzhong > d_shimen > c_quzhou_1,2393
+d_zangke,d_zangke_china,no,,province_path;reverse_capital_owner_of:c_juzhou,d,99694,k_qianzhong,h_china,h_china > e_liangyi > k_qianzhong > d_zangke,2204
+c_juzhou,c_juzhou_china,no,,province_path,c,99699,d_zangke,h_china,h_china > e_liangyi > k_qianzhong > d_zangke > c_juzhou,2400
+c_yingzhou_4,c_dushang_china,no,,province_path,c,99723,d_zangke,h_china,h_china > e_liangyi > k_qianzhong > d_zangke > c_yingzhou_4,2402
+c_nanping,c_luanzhou_china (second),no,,province_path,c,99742,d_zangke,h_china,h_china > e_liangyi > k_qianzhong > d_zangke > c_nanping,2401
+c_huangzhou_1,c_liangzhou_huangzhou_china,no,,province_path,c,99766,d_zangke,h_china,h_china > e_liangyi > k_qianzhong > d_zangke > c_huangzhou_1,2399
+c_guzhou,c_liangzhou_huangzhou_china (second),no,,province_path,c,99780,d_zangke,h_china,h_china > e_liangyi > k_qianzhong > d_zangke > c_guzhou,2398
+d_xiyuan,d_baise,no,,province_path;reverse_capital_owner_of:c_siyuan,d,99800,k_qianzhong,h_china,h_china > e_liangyi > k_qianzhong > d_xiyuan,2203
+c_siyuan,c_anlong_china,no,,province_path,c,99805,d_xiyuan,h_china,h_china > e_liangyi > k_qianzhong > d_xiyuan > c_siyuan,2396
+c_guile,c_luanzhou_china,no,,province_path,c,99819,d_xiyuan,h_china,h_china > e_liangyi > k_qianzhong > d_xiyuan > c_guile,2395
+c_wulong,c_temo,no,,province_path,c,99838,d_xiyuan,h_china,h_china > e_liangyi > k_qianzhong > d_xiyuan > c_wulong,2397
+d_dali,d_yon_zon_mi,no,,province_path;reverse_capital_owner_of:c_dali,d,99865,k_dali,h_china,h_china > e_liangyi > k_dali > d_dali,2189
+c_dali,c_yon_zon_mi,no,,province_path,c,99870,d_dali,h_china,h_china > e_liangyi > k_dali > d_dali > c_dali,2339
+c_nongdong,c_lung_dung,no,,province_path,c,99889,d_dali,h_china,h_china > e_liangyi > k_dali > d_dali > c_nongdong,2340
+c_weichu,c_wo_lu,no,,province_path,c,99903,d_dali,h_china,h_china > e_liangyi > k_dali > d_dali > c_weichu,2341
+d_jianchuan,d_koksang,no,,province_path;reverse_capital_owner_of:c_jianchuan,d,99916,k_dali,h_china,h_china > e_liangyi > k_dali > d_jianchuan,2191
+c_jianchuan,c_yi_du,no,,province_path,c,99921,d_jianchuan,h_china,h_china > e_liangyi > k_dali > d_jianchuan > c_jianchuan,2345
+c_xiangcheng,c_kun_ming,no,,province_path,c,99940,d_jianchuan,h_china,h_china > e_liangyi > k_dali > d_jianchuan > c_xiangcheng,2346
+c_chengji,c_ddi_yi,no,,province_path,c,99956,d_jianchuan,h_china,h_china > e_liangyi > k_dali > d_jianchuan > c_chengji,2344
+d_huichuan,d_huichuan,yes,,province_path,d,99976,k_dali,h_china,h_china > e_liangyi > k_dali > d_huichuan,2190
+c_huichuan,c_huichuan,yes,,province_path,c,99979,d_huichuan,h_china,h_china > e_liangyi > k_dali > d_huichuan > c_huichuan,2342
+c_jianchang_1,c_jianchang,no,,province_path,c,99998,d_huichuan,h_china,h_china > e_liangyi > k_dali > d_huichuan > c_jianchang_1,2343
+d_yinsheng,d_kainan,no,,province_path;reverse_capital_owner_of:c_yinsheng,d,100013,k_dali,h_china,h_china > e_liangyi > k_dali > d_yinsheng,2194
+c_yinsheng,c_yinsheng,yes,,province_path,c,100018,d_yinsheng,h_china,h_china > e_liangyi > k_dali > d_yinsheng > c_yinsheng,2355
+c_buri,c_buri_yn,no,,province_path,c,100037,d_yinsheng,h_china,h_china > e_liangyi > k_dali > d_yinsheng > c_buri,2353
+c_weiyuan,c_in_yuan,no,,province_path,c,100056,d_yinsheng,h_china,h_china > e_liangyi > k_dali > d_yinsheng > c_weiyuan,2354
+d_tuodong,d_tuodong,yes,,province_path,d,100071,k_dali,h_china,h_china > e_liangyi > k_dali > d_tuodong,2193
+c_shanchan,c_tuodong,no,,province_path,c,100074,d_tuodong,h_china,h_china > e_liangyi > k_dali > d_tuodong > c_shanchan,2351
+c_shicheng,c_shicheng,yes,,province_path,c,100093,d_tuodong,h_china,h_china > e_liangyi > k_dali > d_tuodong > c_shicheng,2352
+c_dongchuan,c_dongchuan,yes,,province_path,c,100112,d_tuodong,h_china,h_china > e_liangyi > k_dali > d_tuodong > c_dongchuan,2350
+d_tonghai,d_tonghai,yes,,province_path,d,100129,k_dali,h_china,h_china > e_liangyi > k_dali > d_tonghai,2192
+c_tonghai,c_tonghai,yes,,province_path,c,100132,d_tonghai,h_china,h_china > e_liangyi > k_dali > d_tonghai > c_tonghai,2348
+c_zuining,c_ni_jiao,no,,province_path,c,100156,d_tonghai,h_china,h_china > e_liangyi > k_dali > d_tonghai > c_zuining,2349
+c_muze,c_goje,no,,province_path,c,100175,d_tonghai,h_china,h_china > e_liangyi > k_dali > d_tonghai > c_muze,2347
+e_lingnan,e_lingnan,yes,,province_path;reverse_capital_owner_of:c_gaozhou;reverse_capital_owner_of:c_guangzhou_1;reverse_capital_owner_of:c_guizhou_1;reverse_capital_owner_of:c_hai_dong;reverse_capital_owner_of:c_huizhou_1;reverse_capital_owner_of:c_lam_tay;reverse_capital_owner_of:c_nghe_an;reverse_capital_owner_of:c_rongzhou_2;reverse_capital_owner_of:c_thang_long;reverse_capital_owner_of:c_yazhou;reverse_capital_owner_of:c_yongzhou_1;reverse_capital_owner_of:c_zhaozhou_1,e,100198,h_china,h_china,h_china > e_lingnan,2135
+k_lingnan,k_lingnan_china & k_nanyue_china,no & no,,province_path;reverse_capital_owner_of:c_gaozhou;reverse_capital_owner_of:c_guangzhou_1;reverse_capital_owner_of:c_huizhou_1;reverse_capital_owner_of:c_yazhou,k,100205,e_lingnan,h_china,h_china > e_lingnan > k_lingnan,2160
+d_lingnan,d_lingnan_china,no,,province_path;reverse_capital_owner_of:c_guangzhou_1,d,100214,k_lingnan,h_china,h_china > e_lingnan > k_lingnan > d_lingnan,2212
+c_guangzhou_1,c_guangzhou_1,yes,,province_path,c,100223,d_lingnan,h_china,h_china > e_lingnan > k_lingnan > d_lingnan > c_guangzhou_1,2439
+c_duanzhou,c_hezhou_guangzhou_china,no,,province_path,c,100252,d_lingnan,h_china,h_china > e_lingnan > k_lingnan > d_lingnan > c_duanzhou,2437
+c_yingde,c_yingde,yes,,province_path,c,100271,d_lingnan,h_china,h_china > e_lingnan > k_lingnan > d_lingnan > c_yingde,2443
+c_kangzhou,c_fengzhou_gui_china,no,,province_path,c,100285,d_lingnan,h_china,h_china > e_lingnan > k_lingnan > d_lingnan > c_kangzhou,2440
+c_xinzhou_1,c_xinhui_china,no,,province_path,c,100309,d_lingnan,h_china,h_china > e_lingnan > k_lingnan > d_lingnan > c_xinzhou_1,2442
+c_shuangzhou,c_duanzhou_china,no,,province_path,c,100333,d_lingnan,h_china,h_china > e_lingnan > k_lingnan > d_lingnan > c_shuangzhou,2441
+c_chunzhou,c_nanenzhou_china (second),no,,province_path,c,100357,d_lingnan,h_china,h_china > e_lingnan > k_lingnan > d_lingnan > c_chunzhou,2436
+c_enzhou,c_nanenzhou_china,no,,province_path,c,100376,d_lingnan,h_china,h_china > e_lingnan > k_lingnan > d_lingnan > c_enzhou,2438
+d_huixun,d_chaoshan_china,no,,province_path;reverse_capital_owner_of:c_huizhou_1,d,100396,k_lingnan,h_china,h_china > e_lingnan > k_lingnan > d_huixun,2211
+c_huizhou_1,c_waizao,no,,province_path,c,100401,d_huixun,h_china,h_china > e_lingnan > k_lingnan > d_huixun > c_huizhou_1,2432
+c_xunzhou,c_xunzhou_china,no,,province_path,c,100435,d_huixun,h_china,h_china > e_lingnan > k_lingnan > d_huixun > c_xunzhou,2435
+c_chaozhou,c_chaozhou_china,no,,province_path,c,100464,d_huixun,h_china,h_china > e_lingnan > k_lingnan > d_huixun > c_chaozhou,2430
+c_meizhou_1,c_haka_china,no,,province_path,c,100493,d_huixun,h_china,h_china > e_lingnan > k_lingnan > d_huixun > c_meizhou_1,2433
+c_dongguan,c_dongguan,yes,,province_path,c,100512,d_huixun,h_china,h_china > e_lingnan > k_lingnan > d_huixun > c_dongguan,2431
+c_shaozhou_1,c_shaoguan_guang_china,no,,province_path,c,100531,d_huixun,h_china,h_china > e_lingnan > k_lingnan > d_huixun > c_shaozhou_1,2434
+d_gaoliang,d_gaolei_china,no,,province_path;reverse_capital_owner_of:c_gaozhou,d,100561,k_lingnan,h_china,h_china > e_lingnan > k_lingnan > d_gaoliang,2210
+c_gaozhou,c_gaozhou_china,no,,province_path,c,100566,d_gaoliang,h_china,h_china > e_lingnan > k_lingnan > d_gaoliang > c_gaozhou,2427
+c_leizhou,c_leizhou_china,no,,province_path,c,100585,d_gaoliang,h_china,h_china > e_lingnan > k_lingnan > d_gaoliang > c_leizhou,2428
+c_luozhou,c_huazhou_china,no,,province_path,c,100604,d_gaoliang,h_china,h_china > e_lingnan > k_lingnan > d_gaoliang > c_luozhou,2429
+d_qiongguan,d_qiongya_china,no,,province_path;reverse_capital_owner_of:c_yazhou,d,100629,k_lingnan,h_china,h_china > e_lingnan > k_lingnan > d_qiongguan,2213
+c_yazhou,c_yazhou,yes,,province_path,c,100634,d_qiongguan,h_china,h_china > e_lingnan > k_lingnan > d_qiongguan > c_yazhou,2447
+c_danzhou_1,c_zhenzhou_zhuyajun_china (second),no,,province_path,c,100653,d_qiongguan,h_china,h_china > e_lingnan > k_lingnan > d_qiongguan > c_danzhou_1,2444
+c_yazhou_1,c_zhenzhou_zhuyajun_china,no,,province_path,c,100672,d_qiongguan,h_china,h_china > e_lingnan > k_lingnan > d_qiongguan > c_yazhou_1,2448
+c_wanan,c_wananzhou,no,,province_path,c,100691,d_qiongguan,h_china,h_china > e_lingnan > k_lingnan > d_qiongguan > c_wanan,2446
+c_lidong,c_yazhou (second),no,,province_path,c,100710,d_qiongguan,h_china,h_china > e_lingnan > k_lingnan > d_qiongguan > c_lidong,2445
+k_lingxi,k_guangxi & k_guangnanxi,no & no,,province_path;reverse_capital_owner_of:c_guizhou_1;reverse_capital_owner_of:c_rongzhou_2;reverse_capital_owner_of:c_yongzhou_1;reverse_capital_owner_of:c_zhaozhou_1,k,100732,e_lingnan,h_china,h_china > e_lingnan > k_lingxi,2161
+d_guiguan,d_guiguan_china,no,,province_path;reverse_capital_owner_of:c_guizhou_1,d,100737,k_lingxi,h_china,h_china > e_lingnan > k_lingxi > d_guiguan,2214
+c_guizhou_1,c_guilin_china,no,,province_path,c,100742,d_guiguan,h_china,h_china > e_lingnan > k_lingxi > d_guiguan > c_guizhou_1,2449
+c_liuzhou,c_liuzhou_china,no,,province_path,c,100766,d_guiguan,h_china,h_china > e_lingnan > k_lingxi > d_guiguan > c_liuzhou,2450
+c_rongshui,c_rongshui_china,no,,province_path,c,100790,d_guiguan,h_china,h_china > e_lingnan > k_lingxi > d_guiguan > c_rongshui,2452
+c_xiangshan,c_xiangzhou_laibin_china,no,,province_path,c,100809,d_guiguan,h_china,h_china > e_lingnan > k_lingxi > d_guiguan > c_xiangshan,2453
+c_qingyuan,c_shukunzhou_china,no,,province_path,c,100828,d_guiguan,h_china,h_china > e_lingnan > k_lingxi > d_guiguan > c_qingyuan,2451
+d_jingjiang,d_guiguan_china (second),no,,province_path;reverse_capital_owner_of:c_zhaozhou_1,d,100848,k_lingxi,h_china,h_china > e_lingnan > k_lingxi > d_jingjiang,2215
+c_zhaozhou_1,c_zhaozhou_pingle_china,no,,province_path,c,100853,d_jingjiang,h_china,h_china > e_lingnan > k_lingxi > d_jingjiang > c_zhaozhou_1,2456
+c_wuzhou_1,c_changwu_china,no,,province_path,c,100872,d_jingjiang,h_china,h_china > e_lingnan > k_lingxi > d_jingjiang > c_wuzhou_1,2455
+c_gongzhou,c_guancheng_china,no,,province_path,c,100891,d_jingjiang,h_china,h_china > e_lingnan > k_lingxi > d_jingjiang > c_gongzhou,2454
+d_rongguan,d_rongguan_china,no,,province_path;reverse_capital_owner_of:c_rongzhou_2,d,100911,k_lingxi,h_china,h_china > e_lingnan > k_lingxi > d_rongguan,2216
+c_rongzhou_2,c_rongzhou_gui_china,no,,province_path,c,100916,d_rongguan,h_china,h_china > e_lingnan > k_lingxi > d_rongguan > c_rongzhou_2,2459
+c_tengzhou,c_tengzhou_gui_china,no,,province_path,c,100940,d_rongguan,h_china,h_china > e_lingnan > k_lingxi > d_rongguan > c_tengzhou,2460
+c_lianzhou_1,c_lianzhou_gui_china,no,,province_path,c,100959,d_rongguan,h_china,h_china > e_lingnan > k_lingxi > d_rongguan > c_lianzhou_1,2458
+c_baizhou,c_yulinzhou_china (second),no,,province_path,c,100978,d_rongguan,h_china,h_china > e_lingnan > k_lingxi > d_rongguan > c_baizhou,2457
+c_yulin,c_yulinzhou_china,no,,province_path,c,100997,d_rongguan,h_china,h_china > e_lingnan > k_lingxi > d_rongguan > c_yulin,2461
+d_yongguan,d_yongguan_china,no,,province_path;reverse_capital_owner_of:c_yongzhou_1,d,101017,k_lingxi,h_china,h_china > e_lingnan > k_lingxi > d_yongguan,2217
+c_yongzhou_1,c_nanning_china,no,,province_path,c,101022,d_yongguan,h_china,h_china > e_lingnan > k_lingxi > d_yongguan > c_yongzhou_1,2469
+c_binzhou_1,c_binzhou_gui_china,no,,province_path,c,101046,d_yongguan,h_china,h_china > e_lingnan > k_lingxi > d_yongguan > c_binzhou_1,2462
+c_hengzhou_1,c_hengzhou_gui_china,no,,province_path,c,101060,d_yongguan,h_china,h_china > e_lingnan > k_lingxi > d_yongguan > c_hengzhou_1,2463
+c_qinzhou_2,c_qinzhou_gui_china,no,,province_path,c,101074,d_yongguan,h_china,h_china > e_lingnan > k_lingxi > d_yongguan > c_qinzhou_2,2464
+c_rangzhou,c_luolong_china,no,,province_path,c,101093,d_yongguan,h_china,h_china > e_lingnan > k_lingxi > d_yongguan > c_rangzhou,2465
+c_xunzhou_2,c_xunzhou_gui_china,no,,province_path,c,101112,d_yongguan,h_china,h_china > e_lingnan > k_lingxi > d_yongguan > c_xunzhou_2,2468
+c_tianzhou,c_baise_china,no,,province_path,c,101131,d_yongguan,h_china,h_china > e_lingnan > k_lingxi > d_yongguan > c_tianzhou,2467
+c_shukunzhou,c_shukunzhou_china (second),no,,province_path,c,101145,d_yongguan,h_china,h_china > e_lingnan > k_lingxi > d_yongguan > c_shukunzhou,2466
+k_viet,k_viet,yes,,province_path;reverse_capital_owner_of:c_hai_dong;reverse_capital_owner_of:c_lam_tay;reverse_capital_owner_of:c_nghe_an;reverse_capital_owner_of:c_thang_long,k,101166,e_lingnan,h_china,h_china > e_lingnan > k_viet,2162
+d_hai_dong,d_hai_dong,yes,,province_path;reverse_capital_owner_of:c_hai_dong,d,101175,k_viet,h_china,h_china > e_lingnan > k_viet > d_hai_dong,2218
+c_hai_dong,c_tan_an,no,,province_path,c,101180,d_hai_dong,h_china,h_china > e_lingnan > k_viet > d_hai_dong > c_hai_dong,2471
+c_binh_nguyen,c_con_linh,no,,province_path,c,101211,d_hai_dong,h_china,h_china > e_lingnan > k_viet > d_hai_dong > c_binh_nguyen,2470
+d_nghe_an,d_nghe_an,yes,,province_path;reverse_capital_owner_of:c_nghe_an,d,101245,k_viet,h_china,h_china > e_lingnan > k_viet > d_nghe_an,2220
+c_nghe_an,c_viet_thuong,no,,province_path,c,101254,d_nghe_an,h_china,h_china > e_lingnan > k_viet > d_nghe_an > c_nghe_an,2475
+c_sam_nuea,c_ma_nam,no,,province_path,c,101298,d_nghe_an,h_china,h_china > e_lingnan > k_viet > d_nghe_an > c_sam_nuea,2476
+c_nam_dinh,c_truong_an,no,,province_path,c,101312,d_nghe_an,h_china,h_china > e_lingnan > k_viet > d_nghe_an > c_nam_dinh,2474
+d_lam_tay,d_lam_tay,yes,,province_path;reverse_capital_owner_of:c_lam_tay,d,101357,k_viet,h_china,h_china > e_lingnan > k_viet > d_lam_tay,2219
+c_lam_tay,c_tam_dai,no,,province_path,c,101362,d_lam_tay,h_china,h_china > e_lingnan > k_viet > d_lam_tay > c_lam_tay,2472
+c_quoc_oai,c_phu_hoa,no,,province_path,c,101394,d_lam_tay,h_china,h_china > e_lingnan > k_viet > d_lam_tay > c_quoc_oai,2473
+d_thang_long,d_thang_long,yes,,province_path;reverse_capital_owner_of:c_thang_long,d,101431,k_viet,h_china,h_china > e_lingnan > k_viet > d_thang_long,2221
+c_thang_long,c_thanh_long,no,,province_path,c,101440,d_thang_long,h_china,h_china > e_lingnan > k_viet > d_thang_long > c_thang_long,2478
+c_long_hung,c_nam_sac,no,,province_path,c,101475,d_thang_long,h_china,h_china > e_lingnan > k_viet > d_thang_long > c_long_hung,2477
+e_minister_chancellor,e_minister_chancellor,yes,,reverse_capital_owner_of:c_jingzhao,e,101513,h_china,h_china,h_china > e_minister_chancellor,2137
+e_minister_censor,e_minister_censor,yes,,reverse_capital_owner_of:c_jingzhao,e,101528,h_china,h_china,h_china > e_minister_censor,2136
+e_minister_grand_marshal,e_minister_grand_marshal,yes,,reverse_capital_owner_of:c_jingzhao,e,101543,h_china,h_china,h_china > e_minister_grand_marshal,2138
+e_minister_of_personnel,e_minister_of_personnel,yes,,reverse_capital_owner_of:c_jingzhao,e,101558,h_china,h_china,h_china > e_minister_of_personnel,2140
+e_minister_of_revenue,e_minister_of_revenue,yes,,reverse_capital_owner_of:c_jingzhao,e,101573,h_china,h_china,h_china > e_minister_of_revenue,2141
+e_minister_of_rites,e_minister_of_rites,yes,,reverse_capital_owner_of:c_jingzhao,e,101588,h_china,h_china,h_china > e_minister_of_rites,2142
+e_minister_of_war,e_minister_of_war,yes,,reverse_capital_owner_of:c_jingzhao,e,101603,h_china,h_china,h_china > e_minister_of_war,2143
+e_minister_of_justice,e_minister_of_justice,yes,,reverse_capital_owner_of:c_jingzhao,e,101618,h_china,h_china,h_china > e_minister_of_justice,2139
+e_minister_of_works,e_minister_of_works,yes,,reverse_capital_owner_of:c_jingzhao,e,101633,h_china,h_china,h_china > e_minister_of_works,2144
+e_suvarnabhumi,e_burma,no,,province_path;reverse_capital_owner_of:c_THAI_phetchaburi;reverse_capital_owner_of:c_chiang_rung;reverse_capital_owner_of:c_haripunjaya;reverse_capital_owner_of:c_lop_buri;reverse_capital_owner_of:c_luang_prabang;reverse_capital_owner_of:c_pagan;reverse_capital_owner_of:c_sriksetra;reverse_capital_owner_of:c_sukhothai;reverse_capital_owner_of:c_takon;reverse_capital_owner_of:c_thaton;reverse_capital_owner_of:c_vaisali,e,101649,,e_suvarnabhumi,e_suvarnabhumi,1880
+k_pagan,k_pagan,yes,,province_path;reverse_capital_owner_of:c_pagan;reverse_capital_owner_of:c_sriksetra;reverse_capital_owner_of:c_takon;reverse_capital_owner_of:c_thaton;reverse_capital_owner_of:c_vaisali,k,101652,e_suvarnabhumi,e_suvarnabhumi,e_suvarnabhumi > k_pagan,1882
+d_pagan,d_pagan,yes,,province_path;reverse_capital_owner_of:c_pagan,d,101665,k_pagan,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_pagan,1892
+c_pagan,c_pagan,yes,,province_path,c,101670,d_pagan,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_pagan > c_pagan,1927
+c_ava,c_maingmaw,no,,province_path,c,101704,d_pagan,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_pagan > c_ava,1924
+c_kyaukse,c_kyaukse,yes,,province_path,c,101723,d_pagan,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_pagan > c_kyaukse,1925
+c_minbu,c_minbu,yes,,province_path,c,101747,d_pagan,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_pagan > c_minbu,1926
+c_sagaing,c_myinmu,no,,province_path,c,101771,d_pagan,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_pagan > c_sagaing,1928
+c_yamethin,c_yamethin,yes,,province_path,c,101790,d_pagan,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_pagan > c_yamethin,1929
+d_tagaung,d_tagaung,yes,,province_path;reverse_capital_owner_of:c_takon,d,101811,k_pagan,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_tagaung,1895
+c_takon,c_takon,yes,,province_path,c,101816,d_tagaung,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_tagaung > c_takon,1942
+c_madaya,c_madaya,yes,,province_path,c,101840,d_tagaung,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_tagaung > c_madaya,1941
+c_hanlan,c_maukkadaw,no,,province_path,c,101859,d_tagaung,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_tagaung > c_hanlan,1939
+c_kale,c_kale,yes,,province_path,c,101878,d_tagaung,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_tagaung > c_kale,1940
+d_sriksetra,d_sriksetra,yes,,province_path;reverse_capital_owner_of:c_sriksetra,d,101899,k_pagan,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_sriksetra,1894
+c_sriksetra,c_sriksetra,yes,,province_path,c,101904,d_sriksetra,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_sriksetra > c_sriksetra,1937
+c_magwe,c_magwe,yes,,province_path,c,101928,d_sriksetra,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_sriksetra > c_magwe,1936
+c_hinthada,c_henzada,no,,province_path,c,101942,d_sriksetra,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_sriksetra > c_hinthada,1935
+c_toungoo,c_toungoo,yes,,province_path,c,101956,d_sriksetra,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_sriksetra > c_toungoo,1938
+d_arakan,d_arakan,yes,,province_path;reverse_capital_owner_of:c_vaisali,d,101977,k_pagan,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_arakan,1890
+c_vaisali,c_vaisali,yes,,province_path,c,101982,d_arakan,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_arakan > c_vaisali,1920
+c_ramu,c_ramu,yes,,province_path,c,102019,d_arakan,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_arakan > c_ramu,1917
+c_thabeik_taung,c_thabeik_taung,yes,,province_path,c,102033,d_arakan,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_arakan > c_thabeik_taung,1919
+c_sandoway,c_sandoway,yes,,province_path,c,102047,d_arakan,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_arakan > c_sandoway,1918
+d_ramannadesa,d_thaton,no,,province_path;reverse_capital_owner_of:c_thaton,d,102068,k_pagan,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_ramannadesa,1893
+c_thaton,c_thaton,yes,,province_path,c,102073,d_ramannadesa,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_ramannadesa > c_thaton,1934
+c_sittaung,c_sittaung,yes,,province_path,c,102097,d_ramannadesa,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_ramannadesa > c_sittaung,1933
+c_pegu,c_pegu,yes,,province_path,c,102111,d_ramannadesa,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_ramannadesa > c_pegu,1932
+c_dagon,c_dagon,yes,,province_path,c,102130,d_ramannadesa,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_ramannadesa > c_dagon,1930
+c_kusumi,c_kusima,no,,province_path,c,102154,d_ramannadesa,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_ramannadesa > c_kusumi,1931
+d_mongnai,d_mongnai,yes,,province_path,d,102175,k_pagan,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_mongnai,1891
+c_mongnai,c_mongnai,yes,,province_path,c,102178,d_mongnai,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_mongnai > c_mongnai,1922
+c_hsenwi,c_hsenwi,yes,,province_path,c,102194,d_mongnai,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_mongnai > c_hsenwi,1921
+c_nyaungshwe,c_yawnghwe,no,,province_path,c,102214,d_mongnai,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_mongnai > c_nyaungshwe,1923
+d_yongchang,d_yongchang,yes,,province_path,d,102236,k_pagan,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_yongchang,1897
+c_yongchang_yongchang,c_yongchang,no,,province_path,c,102239,d_yongchang,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_yongchang > c_yongchang_yongchang,1950
+c_yongchang_jingmadian,c_hopang,no,,province_path,c,102255,d_yongchang,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_yongchang > c_yongchang_jingmadian,1949
+c_moeng_laem,c_manglon,no,,province_path,c,102271,d_yongchang,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_yongchang > c_moeng_laem,1948
+d_tengchong,d_mang_shuea,no,,province_path,d,102292,k_pagan,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_tengchong,1896
+c_momauk,c_bhamo,no,,province_path,c,102295,d_tengchong,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_tengchong > c_momauk,1943
+c_myitkyina,c_myitkyina,yes,,province_path,c,102311,d_tengchong,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_tengchong > c_myitkyina,1945
+c_monyin,c_homalin,no,,province_path,c,102327,d_tengchong,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_tengchong > c_monyin,1944
+c_putao,c_putao,yes,,province_path,c,102347,d_tengchong,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_tengchong > c_putao,1947
+c_nandian,c_mongyang,no,,province_path,c,102363,d_tengchong,e_suvarnabhumi,e_suvarnabhumi > k_pagan > d_tengchong > c_nandian,1946
+k_dvaravati,k_lavapura,no,,province_path;reverse_capital_owner_of:c_THAI_phetchaburi;reverse_capital_owner_of:c_chiang_rung;reverse_capital_owner_of:c_haripunjaya;reverse_capital_owner_of:c_lop_buri;reverse_capital_owner_of:c_luang_prabang;reverse_capital_owner_of:c_sukhothai,k,102389,e_suvarnabhumi,e_suvarnabhumi,e_suvarnabhumi > k_dvaravati,1881
+d_lop_buri,d_lop_buri,yes,,province_path;reverse_capital_owner_of:c_lop_buri,d,102393,k_dvaravati,e_suvarnabhumi,e_suvarnabhumi > k_dvaravati > d_lop_buri,1885
+c_lop_buri,c_lavapura,no,,province_path,c,102398,d_lop_buri,e_suvarnabhumi,e_suvarnabhumi > k_dvaravati > d_lop_buri > c_lop_buri,1902
+c_khu_bua,c_khu_bua,yes,,province_path,c,102414,d_lop_buri,e_suvarnabhumi,e_suvarnabhumi > k_dvaravati > d_lop_buri > c_khu_bua,1901
+c_nakhon_pathom,c_nakhon_pathom,yes,,province_path,c,102430,d_lop_buri,e_suvarnabhumi,e_suvarnabhumi > k_dvaravati > d_lop_buri > c_nakhon_pathom,1903
+d_muang_sua,d_muang_sua,yes,,province_path;reverse_capital_owner_of:c_luang_prabang,d,102452,k_dvaravati,e_suvarnabhumi,e_suvarnabhumi > k_dvaravati > d_muang_sua,1886
+c_luang_prabang,c_luang_prabang,yes,,province_path,c,102457,d_muang_sua,e_suvarnabhumi,e_suvarnabhumi > k_dvaravati > d_muang_sua > c_luang_prabang,1905
+c_chiang_khaeng,c_chiang_khong,no,,province_path,c,102477,d_muang_sua,e_suvarnabhumi,e_suvarnabhumi > k_dvaravati > d_muang_sua > c_chiang_khaeng,1904
+c_nan_asia,c_nan,no,,province_path,c,102495,d_muang_sua,e_suvarnabhumi,e_suvarnabhumi > k_dvaravati > d_muang_sua > c_nan_asia,1906
+c_ngoenyang,c_chiang_saen,no,,province_path,c,102511,d_muang_sua,e_suvarnabhumi,e_suvarnabhumi > k_dvaravati > d_muang_sua > c_ngoenyang,1907
+d_sukhothai,d_sukhothai,yes,,province_path;reverse_capital_owner_of:c_sukhothai,d,102528,k_dvaravati,e_suvarnabhumi,e_suvarnabhumi > k_dvaravati > d_sukhothai,1888
+c_chakangrao,c_chakangrao,yes,,province_path,c,102533,d_sukhothai,e_suvarnabhumi,e_suvarnabhumi > k_dvaravati > d_sukhothai > c_chakangrao,1910
+c_phetchabun,c_phetchabun,yes,,province_path,c,102549,d_sukhothai,e_suvarnabhumi,e_suvarnabhumi > k_dvaravati > d_sukhothai > c_phetchabun,1912
+c_sukhothai,c_sukhothai,yes,,province_path,c,102569,d_sukhothai,e_suvarnabhumi,e_suvarnabhumi > k_dvaravati > d_sukhothai > c_sukhothai,1913
+c_lampang,c_lampang,yes,,province_path,c,102589,d_sukhothai,e_suvarnabhumi,e_suvarnabhumi > k_dvaravati > d_sukhothai > c_lampang,1911
+d_tun_sun,d_pribpri,no,,province_path;reverse_capital_owner_of:c_THAI_phetchaburi,d,102609,k_dvaravati,e_suvarnabhumi,e_suvarnabhumi > k_dvaravati > d_tun_sun,1889
+c_THAI_phetchaburi,c_pribpri,no,,province_path,c,102614,d_tun_sun,e_suvarnabhumi,e_suvarnabhumi > k_dvaravati > d_tun_sun > c_THAI_phetchaburi,1914
+c_THAI_tenasserim,c_tanangsi,no,,province_path,c,102639,d_tun_sun,e_suvarnabhumi,e_suvarnabhumi > k_dvaravati > d_tun_sun > c_THAI_tenasserim,1915
+c_thanbyuzayat,c_rew,no,,province_path,c,102658,d_tun_sun,e_suvarnabhumi,e_suvarnabhumi > k_dvaravati > d_tun_sun > c_thanbyuzayat,1916
+d_haripunjaya,d_haripunjaya,yes,,province_path;reverse_capital_owner_of:c_haripunjaya,d,102675,k_dvaravati,e_suvarnabhumi,e_suvarnabhumi > k_dvaravati > d_haripunjaya,1884
+c_hlaingbwe,c_ban_tak,no,,province_path,c,102679,d_haripunjaya,e_suvarnabhumi,e_suvarnabhumi > k_dvaravati > d_haripunjaya > c_hlaingbwe,1899
+c_haripunjaya,c_haripunjaya,yes,,province_path,c,102699,d_haripunjaya,e_suvarnabhumi,e_suvarnabhumi > k_dvaravati > d_haripunjaya > c_haripunjaya,1898
+c_mae_hong_son,c_hot,no,,province_path,c,102719,d_haripunjaya,e_suvarnabhumi,e_suvarnabhumi > k_dvaravati > d_haripunjaya > c_mae_hong_son,1900
+d_sipsongpanna,d_chiang_hung,no,,province_path;reverse_capital_owner_of:c_chiang_rung,d,102736,k_dvaravati,e_suvarnabhumi,e_suvarnabhumi > k_dvaravati > d_sipsongpanna,1887
+c_chiang_rung,c_chiang_hung,no,,province_path,c,102745,d_sipsongpanna,e_suvarnabhumi,e_suvarnabhumi > k_dvaravati > d_sipsongpanna > c_chiang_rung,1908
+c_moeng_long,c_phongsali,no,,province_path,c,102781,d_sipsongpanna,e_suvarnabhumi,e_suvarnabhumi > k_dvaravati > d_sipsongpanna > c_moeng_long,1909
+k_siam,k_siam,yes,,reverse_capital_owner_of:c_sukhothai,k,102809,e_suvarnabhumi,e_suvarnabhumi,e_suvarnabhumi > k_siam,1883
+e_brunei,e_brunei,yes,,reverse_capital_owner_of:c_BOR_brunei,e,102840,,e_brunei,e_brunei,634
+k_brunei,k_brunei,yes,,reverse_capital_owner_of:c_BOR_brunei,k,102872,e_brunei,e_brunei,e_brunei > k_brunei,635
+e_kambuja,e_kambuja,yes,,province_path;reverse_capital_owner_of:c_angkor;reverse_capital_owner_of:c_indrapura,e,102906,,e_kambuja,e_kambuja,1122
+k_funan,k_chenla,no,,province_path;reverse_capital_owner_of:c_angkor,k,102910,e_kambuja,e_kambuja,e_kambuja > k_funan,1125
+d_baigaur,d_baigaur,yes,,province_path,d,102914,k_funan,e_kambuja,e_kambuja > k_funan > d_baigaur,1132
+c_ca_mau,c_prey_rusey,no,,province_path,c,102917,d_baigaur,e_kambuja,e_kambuja > k_funan > d_baigaur > c_ca_mau,1160
+c_binh_dai,c_sap,no,,province_path,c,102933,d_baigaur,e_kambuja,e_kambuja > k_funan > d_baigaur > c_binh_dai,1159
+c_baigaur,c_baigaur,yes,,province_path,c,102949,d_baigaur,e_kambuja,e_kambuja > k_funan > d_baigaur > c_baigaur,1158
+d_vyadhapura,d_vyadhapura,yes,,province_path,d,102970,k_funan,e_kambuja,e_kambuja > k_funan > d_vyadhapura,1134
+c_binh_long,c_prey_rodum,no,,province_path,c,102973,d_vyadhapura,e_kambuja,e_kambuja > k_funan > d_vyadhapura > c_binh_long,1164
+c_vyadhapura,c_kiri_vong,no,,province_path,c,102989,d_vyadhapura,e_kambuja,e_kambuja > k_funan > d_vyadhapura > c_vyadhapura,1166
+c_kracheh_nokor,c_tbong_khmum,no,,province_path,c,103009,d_vyadhapura,e_kambuja,e_kambuja > k_funan > d_vyadhapura > c_kracheh_nokor,1165
+d_angkor,d_aninditapura,no,,province_path,d,103026,k_funan,e_kambuja,e_kambuja > k_funan > d_angkor,1130
+c_angkor,c_aninditapura,no,,province_path,c,103029,d_angkor,e_kambuja,e_kambuja > k_funan > d_angkor > c_angkor,1149
+c_dong_si_mahosot,c_prachinburi,no,,province_path,c,103045,d_angkor,e_kambuja,e_kambuja > k_funan > d_angkor > c_dong_si_mahosot,1150
+c_sambhupura,c_sambhupura,yes,,province_path,c,103061,d_angkor,e_kambuja,e_kambuja > k_funan > d_angkor > c_sambhupura,1153
+c_prea_vihear,c_lingapura,no,,province_path,c,103078,d_angkor,e_kambuja,e_kambuja > k_funan > d_angkor > c_prea_vihear,1152
+c_koh_ker,c_sambor_prei_kuk,no,,province_path,c,103098,d_angkor,e_kambuja,e_kambuja > k_funan > d_angkor > c_koh_ker,1151
+d_ratanakiri,d_sambhupura,no,,province_path,d,103111,k_funan,e_kambuja,e_kambuja > k_funan > d_ratanakiri,1133
+c_ratanakiri,c_mondul_kiri,no,,province_path,c,103114,d_ratanakiri,e_kambuja,e_kambuja > k_funan > d_ratanakiri > c_ratanakiri,1162
+c_stung_treng,c_phnom_preah_theat,no,,province_path,c,103130,d_ratanakiri,e_kambuja,e_kambuja > k_funan > d_ratanakiri > c_stung_treng,1163
+c_pleiku,c_dagar,no,,province_path,c,103146,d_ratanakiri,e_kambuja,e_kambuja > k_funan > d_ratanakiri > c_pleiku,1161
+d_angkor_borey,d_dviradapura,no,,province_path,d,103163,k_funan,e_kambuja,e_kambuja > k_funan > d_angkor_borey,1131
+c_angkor_borey,c_angkor_borei,no,,province_path,c,103166,d_angkor_borey,e_kambuja,e_kambuja > k_funan > d_angkor_borey > c_angkor_borey,1154
+c_botum_sakor,c_koh_kong,no,,province_path,c,103186,d_angkor_borey,e_kambuja,e_kambuja > k_funan > d_angkor_borey > c_botum_sakor,1155
+c_pursat,c_pursat,yes,,province_path,c,103202,d_angkor_borey,e_kambuja,e_kambuja > k_funan > d_angkor_borey > c_pursat,1157
+c_mueang_phra_rot,c_phra_rot,no,,province_path,c,103222,d_angkor_borey,e_kambuja,e_kambuja > k_funan > d_angkor_borey > c_mueang_phra_rot,1156
+k_chenla,k_isana,no,,province_path,k,103244,e_kambuja,e_kambuja,e_kambuja > k_chenla,1124
+d_phonsavan,d_sekong,no,,province_path,d,103247,k_chenla,e_kambuja,e_kambuja > k_chenla > d_phonsavan,1129
+c_sanasomboon,c_sekong,no,,province_path,c,103250,d_phonsavan,e_kambuja,e_kambuja > k_chenla > d_phonsavan > c_sanasomboon,1147
+c_vien_chan,c_xiangkhouang,no,,province_path,c,103270,d_phonsavan,e_kambuja,e_kambuja > k_chenla > d_phonsavan > c_vien_chan,1148
+c_salo_tai,c_mahasay,no,,province_path,c,103294,d_phonsavan,e_kambuja,e_kambuja > k_chenla > d_phonsavan > c_salo_tai,1146
+d_mukdahan,d_canasapura,no,,province_path,d,103315,k_chenla,e_kambuja,e_kambuja > k_chenla > d_mukdahan,1128
+c_canasha,c_canasapura,no,,province_path,c,103318,d_mukdahan,e_kambuja,e_kambuja > k_chenla > d_mukdahan > c_canasha,1141
+c_ku_kaeo,c_nong_kong_kaeo,no,,province_path,c,103334,d_mukdahan,e_kambuja,e_kambuja > k_chenla > d_mukdahan > c_ku_kaeo,1142
+c_mukdahan,c_mukdahan,yes,,province_path,c,103358,d_mukdahan,e_kambuja,e_kambuja > k_chenla > d_mukdahan > c_mukdahan,1144
+c_ubon_ratchathani,c_shrestapura,no,,province_path,c,103374,d_mukdahan,e_kambuja,e_kambuja > k_chenla > d_mukdahan > c_ubon_ratchathani,1145
+c_muang_fa_daet,c_fa_daet,no,,province_path,c,103390,d_mukdahan,e_kambuja,e_kambuja > k_chenla > d_mukdahan > c_muang_fa_daet,1143
+k_champa,k_champa,yes,,province_path;reverse_capital_owner_of:c_indrapura,k,103408,e_kambuja,e_kambuja,e_kambuja > k_champa,1123
+d_indrapura,d_indrapura,yes,,province_path,d,103412,k_champa,e_kambuja,e_kambuja > k_champa > d_indrapura,1126
+c_indrapura,c_indrapura,yes,,province_path,c,103419,d_indrapura,e_kambuja,e_kambuja > k_champa > d_indrapura > c_indrapura,1135
+c_simhapura,c_simhapura,yes,,province_path,c,103458,d_indrapura,e_kambuja,e_kambuja > k_champa > d_indrapura > c_simhapura,1137
+c_ma_linh,c_melhi,no,,province_path,c,103480,d_indrapura,e_kambuja,e_kambuja > k_champa > d_indrapura > c_ma_linh,1136
+d_vijaya,d_vijaya,yes,,province_path,d,103501,k_champa,e_kambuja,e_kambuja > k_champa > d_vijaya,1127
+c_vijaya,c_vijaya,yes,,province_path,c,103508,d_vijaya,e_kambuja,e_kambuja > k_champa > d_vijaya > c_vijaya,1140
+c_kauthara,c_kauthara,yes,,province_path,c,103539,d_vijaya,e_kambuja,e_kambuja > k_champa > d_vijaya > c_kauthara,1138
+c_panduranga,c_panduranga,yes,,province_path,c,103555,d_vijaya,e_kambuja,e_kambuja > k_champa > d_vijaya > c_panduranga,1139
+e_nusantara,e_nusantara,yes,,province_path;reverse_capital_owner_of:c_BOR_banjar;reverse_capital_owner_of:c_BOR_brunei;reverse_capital_owner_of:c_BOR_martapura;reverse_capital_owner_of:c_BOR_sambas;reverse_capital_owner_of:c_BOR_santubong;reverse_capital_owner_of:c_IDO_galiyao;reverse_capital_owner_of:c_IDO_sonba_i;reverse_capital_owner_of:c_PHI_butuan;reverse_capital_owner_of:c_PHI_cagayan_valley;reverse_capital_owner_of:c_PHI_lanao;reverse_capital_owner_of:c_PHI_panay;reverse_capital_owner_of:c_PHI_pangasinan;reverse_capital_owner_of:c_PHI_taytay;reverse_capital_owner_of:c_PHI_tondo;reverse_capital_owner_of:c_SuMa_banggai;reverse_capital_owner_of:c_SuMa_gorontalo;reverse_capital_owner_of:c_SuMa_konawe;reverse_capital_owner_of:c_SuMa_luwu;reverse_capital_owner_of:c_SuMa_seram;reverse_capital_owner_of:c_SuMa_ternate;reverse_capital_owner_of:c_hoanya;reverse_capital_owner_of:c_sran;reverse_capital_owner_of:c_ucinaa,e,103575,,e_nusantara,e_nusantara,1274
+k_lusung,k_luzon,no,,province_path;reverse_capital_owner_of:c_PHI_cagayan_valley;reverse_capital_owner_of:c_PHI_pangasinan;reverse_capital_owner_of:c_PHI_taytay;reverse_capital_owner_of:c_PHI_tondo,k,103580,e_nusantara,e_nusantara,e_nusantara > k_lusung,1277
+d_PHI_tondo,d_tondo,no,,province_path;reverse_capital_owner_of:c_PHI_tondo,d,103585,k_lusung,e_nusantara,e_nusantara > k_lusung > d_PHI_tondo,1289
+c_PHI_tondo,c_tondo,no,,province_path,c,103590,d_PHI_tondo,e_nusantara,e_nusantara > k_lusung > d_PHI_tondo > c_PHI_tondo,1334
+c_PHI_kalilayan,c_tayabas,no,,province_path,c,103620,d_PHI_tondo,e_nusantara,e_nusantara > k_lusung > d_PHI_tondo > c_PHI_kalilayan,1331
+c_PHI_ma-i,c_mait_ph,no,,province_path,c,103645,d_PHI_tondo,e_nusantara,e_nusantara > k_lusung > d_PHI_tondo > c_PHI_ma-i,1332
+c_PHI_ibalong,c_albay,no,,province_path,c,103670,d_PHI_tondo,e_nusantara,e_nusantara > k_lusung > d_PHI_tondo > c_PHI_ibalong,1330
+c_PHI_masbate,c_masbat,no,,province_path,c,103700,d_PHI_tondo,e_nusantara,e_nusantara > k_lusung > d_PHI_tondo > c_PHI_masbate,1333
+d_PHI_ilocana,d_pangasinan,no,,province_path;reverse_capital_owner_of:c_PHI_pangasinan,d,103721,k_lusung,e_nusantara,e_nusantara > k_lusung > d_PHI_ilocana,1287
+c_PHI_pangasinan,c_binalatongan,no,,province_path,c,103726,d_PHI_ilocana,e_nusantara,e_nusantara > k_lusung > d_PHI_ilocana > c_PHI_pangasinan,1326
+c_PHI_samtoy,c_laoag,no,,province_path,c,103751,d_PHI_ilocana,e_nusantara,e_nusantara > k_lusung > d_PHI_ilocana > c_PHI_samtoy,1327
+c_PHI_ivatan,c_bolo_ph,no,,province_path,c,103771,d_PHI_ilocana,e_nusantara,e_nusantara > k_lusung > d_PHI_ilocana > c_PHI_ivatan,1325
+c_PHI_igorot,c_lagawe,no,,province_path,c,103791,d_PHI_ilocana,e_nusantara,e_nusantara > k_lusung > d_PHI_ilocana > c_PHI_igorot,1324
+d_PHI_cagayan,d_cagayan_valley,no,,province_path;reverse_capital_owner_of:c_PHI_cagayan_valley,d,103812,k_lusung,e_nusantara,e_nusantara > k_lusung > d_PHI_cagayan,1286
+c_PHI_cagayan_valley,c_bayombong,no,,province_path,c,103817,d_PHI_cagayan,e_nusantara,e_nusantara > k_lusung > d_PHI_cagayan > c_PHI_cagayan_valley,1322
+c_PHI_kasiguranin,c_kasiguran,no,,province_path,c,103837,d_PHI_cagayan,e_nusantara,e_nusantara > k_lusung > d_PHI_cagayan > c_PHI_kasiguranin,1323
+d_PHI_sandao,d_PHI_sandao,yes,,province_path;reverse_capital_owner_of:c_PHI_taytay,d,103858,k_lusung,e_nusantara,e_nusantara > k_lusung > d_PHI_sandao,1288
+c_PHI_taytay,c_taytay,no,,province_path,c,103863,d_PHI_sandao,e_nusantara,e_nusantara > k_lusung > d_PHI_sandao > c_PHI_taytay,1329
+c_PHI_south_palawan,c_ipolot,no,,province_path,c,103883,d_PHI_sandao,e_nusantara,e_nusantara > k_lusung > d_PHI_sandao > c_PHI_south_palawan,1328
+k_kabisay-an,k_bisaya,no,,province_path;reverse_capital_owner_of:c_PHI_butuan;reverse_capital_owner_of:c_PHI_lanao;reverse_capital_owner_of:c_PHI_panay,k,103905,e_nusantara,e_nusantara,e_nusantara > k_kabisay-an,1275
+d_PHI_visayas,d_panay,no,,province_path;reverse_capital_owner_of:c_PHI_panay,d,103910,k_kabisay-an,e_nusantara,e_nusantara > k_kabisay-an > d_PHI_visayas,1284
+c_PHI_panay,c_oton,no,,province_path,c,103915,d_PHI_visayas,e_nusantara,e_nusantara > k_kabisay-an > d_PHI_visayas > c_PHI_panay,1316
+c_PHI_buglas,c_tanghay,no,,province_path,c,103940,d_PHI_visayas,e_nusantara,e_nusantara > k_kabisay-an > d_PHI_visayas > c_PHI_buglas,1315
+c_PHI_bool_and_cebu,c_sugbu,no,,province_path,c,103965,d_PHI_visayas,e_nusantara,e_nusantara > k_kabisay-an > d_PHI_visayas > c_PHI_bool_and_cebu,1314
+c_PHI_tandaya,c_abuyog,no,,province_path,c,103990,d_PHI_visayas,e_nusantara,e_nusantara > k_kabisay-an > d_PHI_visayas > c_PHI_tandaya,1318
+c_PHI_samar,c_tiayban,no,,province_path,c,104010,d_PHI_visayas,e_nusantara,e_nusantara > k_kabisay-an > d_PHI_visayas > c_PHI_samar,1317
+d_PHI_maguindanao,d_kotabatu,no,,province_path;reverse_capital_owner_of:c_PHI_lanao,d,104031,k_kabisay-an,e_nusantara,e_nusantara > k_kabisay-an > d_PHI_maguindanao,1283
+c_PHI_lanao,c_masiu,no,,province_path,c,104036,d_PHI_maguindanao,e_nusantara,e_nusantara > k_kabisay-an > d_PHI_maguindanao > c_PHI_lanao,1310
+c_PHI_cotabato,c_ilianen,no,,province_path,c,104061,d_PHI_maguindanao,e_nusantara,e_nusantara > k_kabisay-an > d_PHI_maguindanao > c_PHI_cotabato,1309
+c_PHI_zamboanga,c_samboangan,no,,province_path,c,104081,d_PHI_maguindanao,e_nusantara,e_nusantara > k_kabisay-an > d_PHI_maguindanao > c_PHI_zamboanga,1313
+c_PHI_maguindanao,c_kotabatu,no,,province_path,c,104101,d_PHI_maguindanao,e_nusantara,e_nusantara > k_kabisay-an > d_PHI_maguindanao > c_PHI_maguindanao,1311
+c_PHI_sulu,c_PHI_sulu,yes,,province_path,c,104126,d_PHI_maguindanao,e_nusantara,e_nusantara > k_kabisay-an > d_PHI_maguindanao > c_PHI_sulu,1312
+d_PHI_butuan,d_kalagan,no,,province_path;reverse_capital_owner_of:c_PHI_butuan,d,104152,k_kabisay-an,e_nusantara,e_nusantara > k_kabisay-an > d_PHI_butuan,1282
+c_PHI_butuan,c_butuan,no,,province_path,c,104157,d_PHI_butuan,e_nusantara,e_nusantara > k_kabisay-an > d_PHI_butuan > c_PHI_butuan,1305
+c_PHI_calagan,c_tandag,no,,province_path,c,104182,d_PHI_butuan,e_nusantara,e_nusantara > k_kabisay-an > d_PHI_butuan > c_PHI_calagan,1306
+c_PHI_mandaya,c_dabaw,no,,province_path,c,104207,d_PHI_butuan,e_nusantara,e_nusantara > k_kabisay-an > d_PHI_butuan > c_PHI_mandaya,1307
+c_PHI_sarangani,c_sarangani,no,,province_path,c,104227,d_PHI_butuan,e_nusantara,e_nusantara > k_kabisay-an > d_PHI_butuan > c_PHI_sarangani,1308
+k_liuqiu,k_liuqiu,yes,,province_path;reverse_capital_owner_of:c_hoanya,k,104249,e_nusantara,e_nusantara,e_nusantara > k_liuqiu,1276
+d_liuqiu,d_liuqiu,yes,,province_path;reverse_capital_owner_of:c_hoanya,d,104254,k_liuqiu,e_nusantara,e_nusantara > k_liuqiu > d_liuqiu,1285
+c_hoanya,c_middag,no,,province_path,c,104259,d_liuqiu,e_nusantara,e_nusantara > k_liuqiu > d_liuqiu > c_hoanya,1320
+c_siraya,c_takao,no,,province_path,c,104283,d_liuqiu,e_nusantara,e_nusantara > k_liuqiu > d_liuqiu > c_siraya,1321
+c_amis,c_amis,yes,,province_path,c,104302,d_liuqiu,e_nusantara,e_nusantara > k_liuqiu > d_liuqiu > c_amis,1319
+k_tanjungnagara,k_tanjungnagara,yes,,province_path;reverse_capital_owner_of:c_BOR_banjar;reverse_capital_owner_of:c_BOR_brunei;reverse_capital_owner_of:c_BOR_martapura;reverse_capital_owner_of:c_BOR_sambas;reverse_capital_owner_of:c_BOR_santubong,k,104324,e_nusantara,e_nusantara,e_nusantara > k_tanjungnagara,1281
+d_BOR_tanjungpura,d_BOR_tanjungpura,yes,,province_path;reverse_capital_owner_of:c_BOR_sambas,d,104329,k_tanjungnagara,e_nusantara,e_nusantara > k_tanjungnagara > d_BOR_tanjungpura,1304
+c_BOR_sambas,c_bengkayang,no,,province_path,c,104334,d_BOR_tanjungpura,e_nusantara,e_nusantara > k_tanjungnagara > d_BOR_tanjungpura > c_BOR_sambas,1384
+c_BOR_sukadana,c_sukadana,no,,province_path,c,104359,d_BOR_tanjungpura,e_nusantara,e_nusantara > k_tanjungnagara > d_BOR_tanjungpura > c_BOR_sukadana,1386
+c_BOR_sintang,c_sintang,no,,province_path,c,104379,d_BOR_tanjungpura,e_nusantara,e_nusantara > k_tanjungnagara > d_BOR_tanjungpura > c_BOR_sintang,1385
+c_BOR_waringin,c_tayapura,no,,province_path,c,104394,d_BOR_tanjungpura,e_nusantara,e_nusantara > k_tanjungnagara > d_BOR_tanjungpura > c_BOR_waringin,1387
+d_BOR_barune,d_BOR_barune,yes,,province_path;reverse_capital_owner_of:c_BOR_brunei,d,104415,k_tanjungnagara,e_nusantara,e_nusantara > k_tanjungnagara > d_BOR_barune,1300
+c_BOR_brunei,c_BOR_brunei,yes,,province_path,c,104420,d_BOR_barune,e_nusantara,e_nusantara > k_tanjungnagara > d_BOR_barune > c_BOR_brunei,1367
+c_BOR_kudat,c_tomborungan,no,,province_path,c,104445,d_BOR_barune,e_nusantara,e_nusantara > k_tanjungnagara > d_BOR_barune > c_BOR_kudat,1368
+c_BOR_lahad_datu,c_kinabatangan,no,,province_path,c,104470,d_BOR_barune,e_nusantara,e_nusantara > k_tanjungnagara > d_BOR_barune > c_BOR_lahad_datu,1369
+c_BOR_menjelutung,c_tarakan,no,,province_path,c,104490,d_BOR_barune,e_nusantara,e_nusantara > k_tanjungnagara > d_BOR_barune > c_BOR_menjelutung,1370
+c_BOR_nabawan,c_koningau,no,,province_path,c,104505,d_BOR_barune,e_nusantara,e_nusantara > k_tanjungnagara > d_BOR_barune > c_BOR_nabawan,1371
+d_BOR_santubong,d_BOR_santubong,yes,,province_path;reverse_capital_owner_of:c_BOR_santubong,d,104521,k_tanjungnagara,e_nusantara,e_nusantara > k_tanjungnagara > d_BOR_santubong,1303
+c_BOR_santubong,c_sarawak,no,,province_path,c,104526,d_BOR_santubong,e_nusantara,e_nusantara > k_tanjungnagara > d_BOR_santubong > c_BOR_santubong,1382
+c_BOR_iban,c_melanau,no,,province_path,c,104551,d_BOR_santubong,e_nusantara,e_nusantara > k_tanjungnagara > d_BOR_santubong > c_BOR_iban,1380
+c_BOR_rajang,c_kapit,no,,province_path,c,104576,d_BOR_santubong,e_nusantara,e_nusantara > k_tanjungnagara > d_BOR_santubong > c_BOR_rajang,1381
+c_BOR_tanah_taman,c_seberaung,no,,province_path,c,104591,d_BOR_santubong,e_nusantara,e_nusantara > k_tanjungnagara > d_BOR_santubong > c_BOR_tanah_taman,1383
+d_BOR_nan_sarunai,d_BOR_nan_sarunai,yes,,province_path;reverse_capital_owner_of:c_BOR_banjar,d,104607,k_tanjungnagara,e_nusantara,e_nusantara > k_tanjungnagara > d_BOR_nan_sarunai,1302
+c_BOR_banjar,c_banjarmasin,no,,province_path,c,104612,d_BOR_nan_sarunai,e_nusantara,e_nusantara > k_tanjungnagara > d_BOR_nan_sarunai > c_BOR_banjar,1376
+c_BOR_tabalung,c_paser,no,,province_path,c,104637,d_BOR_nan_sarunai,e_nusantara,e_nusantara > k_tanjungnagara > d_BOR_nan_sarunai > c_BOR_tabalung,1378
+c_BOR_taiao,c_tanah_bumbu,no,,province_path,c,104657,d_BOR_nan_sarunai,e_nusantara,e_nusantara > k_tanjungnagara > d_BOR_nan_sarunai > c_BOR_taiao,1379
+c_BOR_sampit,c_baamang,no,,province_path,c,104677,d_BOR_nan_sarunai,e_nusantara,e_nusantara > k_tanjungnagara > d_BOR_nan_sarunai > c_BOR_sampit,1377
+d_BOR_kutai,d_BOR_kutai,yes,,province_path;reverse_capital_owner_of:c_BOR_martapura,d,104698,k_tanjungnagara,e_nusantara,e_nusantara > k_tanjungnagara > d_BOR_kutai,1301
+c_BOR_martapura,c_samarenda,no,,province_path,c,104703,d_BOR_kutai,e_nusantara,e_nusantara > k_tanjungnagara > d_BOR_kutai > c_BOR_martapura,1375
+c_BOR_kutai_utara,c_sangata,no,,province_path,c,104728,d_BOR_kutai,e_nusantara,e_nusantara > k_tanjungnagara > d_BOR_kutai > c_BOR_kutai_utara,1374
+c_BOR_berau,c_BOR_berau,yes,,province_path,c,104748,d_BOR_kutai,e_nusantara,e_nusantara > k_tanjungnagara > d_BOR_kutai > c_BOR_berau,1372
+c_BOR_kutai_jauh,c_belaga,no,,province_path,c,104768,d_BOR_kutai,e_nusantara,e_nusantara > k_tanjungnagara > d_BOR_kutai > c_BOR_kutai_jauh,1373
+k_sulawesi,k_sulawesi,yes,,province_path;reverse_capital_owner_of:c_SuMa_banggai;reverse_capital_owner_of:c_SuMa_gorontalo;reverse_capital_owner_of:c_SuMa_konawe;reverse_capital_owner_of:c_SuMa_luwu,k,104785,e_nusantara,e_nusantara,e_nusantara > k_sulawesi,1280
+d_SuMa_luwu,d_SuMa_luwu,yes,,province_path;reverse_capital_owner_of:c_SuMa_luwu,d,104790,k_sulawesi,e_nusantara,e_nusantara > k_sulawesi > d_SuMa_luwu,1297
+c_SuMa_luwu,c_burau,no,,province_path,c,104795,d_SuMa_luwu,e_nusantara,e_nusantara > k_sulawesi > d_SuMa_luwu > c_SuMa_luwu,1358
+c_SuMa_siang,c_makassar,no,,province_path,c,104820,d_SuMa_luwu,e_nusantara,e_nusantara > k_sulawesi > d_SuMa_luwu > c_SuMa_siang,1360
+c_SuMa_ajatappareng,c_toraja,no,,province_path,c,104845,d_SuMa_luwu,e_nusantara,e_nusantara > k_sulawesi > d_SuMa_luwu > c_SuMa_ajatappareng,1357
+c_SuMa_sampaga,c_mamuju,no,,province_path,c,104865,d_SuMa_luwu,e_nusantara,e_nusantara > k_sulawesi > d_SuMa_luwu > c_SuMa_sampaga,1359
+d_SuMa_konawe,d_SuMa_konawe,yes,,province_path;reverse_capital_owner_of:c_SuMa_konawe,d,104881,k_sulawesi,e_nusantara,e_nusantara > k_sulawesi > d_SuMa_konawe,1296
+c_SuMa_konawe,c_kendari,no,,province_path,c,104886,d_SuMa_konawe,e_nusantara,e_nusantara > k_sulawesi > d_SuMa_konawe > c_SuMa_konawe,1354
+c_SuMa_butun,c_muna,no,,province_path,c,104911,d_SuMa_konawe,e_nusantara,e_nusantara > k_sulawesi > d_SuMa_konawe > c_SuMa_butun,1353
+c_SuMa_moronene,c_bombana,no,,province_path,c,104936,d_SuMa_konawe,e_nusantara,e_nusantara > k_sulawesi > d_SuMa_konawe > c_SuMa_moronene,1355
+c_SuMa_tamboeko,c_marsaoleh,no,,province_path,c,104951,d_SuMa_konawe,e_nusantara,e_nusantara > k_sulawesi > d_SuMa_konawe > c_SuMa_tamboeko,1356
+d_SuMa_minahasa,d_gorontalo,no,,province_path;reverse_capital_owner_of:c_SuMa_gorontalo,d,104972,k_sulawesi,e_nusantara,e_nusantara > k_sulawesi > d_SuMa_minahasa,1298
+c_SuMa_gorontalo,c_hulondalo,no,,province_path,c,104977,d_SuMa_minahasa,e_nusantara,e_nusantara > k_sulawesi > d_SuMa_minahasa > c_SuMa_gorontalo,1362
+c_SuMa_wenang,c_manado,no,,province_path,c,105002,d_SuMa_minahasa,e_nusantara,e_nusantara > k_sulawesi > d_SuMa_minahasa > c_SuMa_wenang,1363
+c_SuMa_banawa,c_tinombo,no,,province_path,c,105022,d_SuMa_minahasa,e_nusantara,e_nusantara > k_sulawesi > d_SuMa_minahasa > c_SuMa_banawa,1361
+d_SuMa_tompotika,d_SuMa_tompotika,yes,,province_path;reverse_capital_owner_of:c_SuMa_banggai,d,105043,k_sulawesi,e_nusantara,e_nusantara > k_sulawesi > d_SuMa_tompotika,1299
+c_SuMa_banggai,c_banggai,no,,province_path,c,105048,d_SuMa_tompotika,e_nusantara,e_nusantara > k_sulawesi > d_SuMa_tompotika > c_SuMa_banggai,1364
+c_SuMa_mori,c_poso,no,,province_path,c,105068,d_SuMa_tompotika,e_nusantara,e_nusantara > k_sulawesi > d_SuMa_tompotika > c_SuMa_mori,1366
+c_SuMa_banggai_utara,c_luwuk,no,,province_path,c,105088,d_SuMa_tompotika,e_nusantara,e_nusantara > k_sulawesi > d_SuMa_tompotika > c_SuMa_banggai_utara,1365
+k_maluku,k_maluku,yes,,province_path;reverse_capital_owner_of:c_IDO_galiyao;reverse_capital_owner_of:c_IDO_sonba_i;reverse_capital_owner_of:c_SuMa_seram;reverse_capital_owner_of:c_SuMa_ternate;reverse_capital_owner_of:c_sran,k,105110,e_nusantara,e_nusantara,e_nusantara > k_maluku,1278
+d_SuMa_halmahera,d_halmahera,no,,province_path;reverse_capital_owner_of:c_SuMa_ternate,d,105115,k_maluku,e_nusantara,e_nusantara > k_maluku > d_SuMa_halmahera,1293
+c_SuMa_ternate,c_tobelo,no,,province_path,c,105120,d_SuMa_halmahera,e_nusantara,e_nusantara > k_maluku > d_SuMa_halmahera > c_SuMa_ternate,1346
+c_SuMa_tidore,c_sawai,no,,province_path,c,105140,d_SuMa_halmahera,e_nusantara,e_nusantara > k_maluku > d_SuMa_halmahera > c_SuMa_tidore,1347
+c_SuMa_bacan,c_bajan,no,,province_path,c,105160,d_SuMa_halmahera,e_nusantara,e_nusantara > k_maluku > d_SuMa_halmahera > c_SuMa_bacan,1345
+d_SuMa_maluku,d_seram,no,,province_path;reverse_capital_owner_of:c_SuMa_seram,d,105181,k_maluku,e_nusantara,e_nusantara > k_maluku > d_SuMa_maluku,1294
+c_SuMa_seram,c_piru,no,,province_path,c,105186,d_SuMa_maluku,e_nusantara,e_nusantara > k_maluku > d_SuMa_maluku > c_SuMa_seram,1350
+c_SuMa_raja_ampat,c_waigeo,no,,province_path,c,105206,d_SuMa_maluku,e_nusantara,e_nusantara > k_maluku > d_SuMa_maluku > c_SuMa_raja_ampat,1349
+c_SuMa_buru-sula,c_buru,no,,province_path,c,105221,d_SuMa_maluku,e_nusantara,e_nusantara > k_maluku > d_SuMa_maluku > c_SuMa_buru-sula,1348
+d_IDO_lesser_sunda,d_nipa,no,,province_path;reverse_capital_owner_of:c_IDO_galiyao,d,105237,k_maluku,e_nusantara,e_nusantara > k_maluku > d_IDO_lesser_sunda,1290
+c_IDO_galiyao,c_wetar,no,,province_path,c,105242,d_IDO_lesser_sunda,e_nusantara,e_nusantara > k_maluku > d_IDO_lesser_sunda > c_IDO_galiyao,1335
+c_IDO_nusa_nipa,c_manggarai,no,,province_path,c,105262,d_IDO_lesser_sunda,e_nusantara,e_nusantara > k_maluku > d_IDO_lesser_sunda > c_IDO_nusa_nipa,1337
+c_IDO_humba,c_kambera,no,,province_path,c,105282,d_IDO_lesser_sunda,e_nusantara,e_nusantara > k_maluku > d_IDO_lesser_sunda > c_IDO_humba,1336
+d_IDO_timor,d_atoni,no,,province_path;reverse_capital_owner_of:c_IDO_sonba_i,d,105303,k_maluku,e_nusantara,e_nusantara > k_maluku > d_IDO_timor,1291
+c_IDO_sonba_i,c_amfoan,no,,province_path,c,105308,d_IDO_timor,e_nusantara,e_nusantara > k_maluku > d_IDO_timor > c_IDO_sonba_i,1339
+c_IDO_wehale,c_belu,no,,province_path,c,105333,d_IDO_timor,e_nusantara,e_nusantara > k_maluku > d_IDO_timor > c_IDO_wehale,1340
+c_IDO_barat_daya,c_wetar (second),no,,province_path,c,105358,d_IDO_timor,e_nusantara,e_nusantara > k_maluku > d_IDO_timor > c_IDO_barat_daya,1338
+d_papua,d_raja_ampat,no,,province_path;reverse_capital_owner_of:c_sran,d,105379,k_maluku,e_nusantara,e_nusantara > k_maluku > d_papua,1292
+c_sran,c_salawati (second),no,,province_path,c,105384,d_papua,e_nusantara,e_nusantara > k_maluku > d_papua > c_sran,1344
+c_kepala_burung,c_salawati,no,,province_path,c,105403,d_papua,e_nusantara,e_nusantara > k_maluku > d_papua > c_kepala_burung,1342
+c_papua_selatan,c_salawati (second),no,,province_path,c,105418,d_papua,e_nusantara,e_nusantara > k_maluku > d_papua > c_papua_selatan,1343
+c_aru,c_wetar (second),no,,province_path,c,105434,d_papua,e_nusantara,e_nusantara > k_maluku > d_papua > c_aru,1341
+k_ruucuu,k_ruucuu,yes,,province_path;reverse_capital_owner_of:c_ucinaa,k,105451,e_nusantara,e_nusantara,e_nusantara > k_ruucuu,1279
+d_ruucuu,d_ruucuu,yes,,province_path;reverse_capital_owner_of:c_ucinaa,d,105472,k_ruucuu,e_nusantara,e_nusantara > k_ruucuu > d_ruucuu,1295
+c_ucinaa,c_ucinaa,yes,,province_path,c,105483,d_ruucuu,e_nusantara,e_nusantara > k_ruucuu > d_ruucuu > c_ucinaa,1352
+c_amami,c_amami,yes,,province_path,c,105524,d_ruucuu,e_nusantara,e_nusantara > k_ruucuu > d_ruucuu > c_amami,1351
+e_japan,e_japan,yes,,province_path;reverse_capital_owner_of:c_aki;reverse_capital_owner_of:c_chikuzen;reverse_capital_owner_of:c_echizen;reverse_capital_owner_of:c_harima;reverse_capital_owner_of:c_ise;reverse_capital_owner_of:c_iyo;reverse_capital_owner_of:c_izumo;reverse_capital_owner_of:c_mino;reverse_capital_owner_of:c_musashi;reverse_capital_owner_of:c_omi;reverse_capital_owner_of:c_satsuma;reverse_capital_owner_of:c_shimosa;reverse_capital_owner_of:c_tanba;reverse_capital_owner_of:c_yamashiro,e,105538,,e_japan,e_japan,836
+k_yamato,k_yamato,yes,,province_path;reverse_capital_owner_of:c_aki;reverse_capital_owner_of:c_harima;reverse_capital_owner_of:c_iyo;reverse_capital_owner_of:c_izumo;reverse_capital_owner_of:c_tanba;reverse_capital_owner_of:c_yamashiro,k,105587,e_japan,e_japan,e_japan > k_yamato,839
+d_kinai,d_kinai,yes,,province_path;reverse_capital_owner_of:c_yamashiro,d,105604,k_yamato,e_japan,e_japan > k_yamato > d_kinai,849
+c_yamashiro,c_yamashiro,yes,,province_path,c,105613,d_kinai,e_japan,e_japan > k_yamato > d_kinai > c_yamashiro,896
+c_settsu,c_settsu,yes,,province_path,c,105628,d_kinai,e_japan,e_japan > k_yamato > d_kinai > c_settsu,895
+c_yamato,c_yamato,yes,,province_path,c,105648,d_kinai,e_japan,e_japan > k_yamato > d_kinai > c_yamato,897
+c_kawachi,c_kawachi,yes,,province_path,c,105673,d_kinai,e_japan,e_japan > k_yamato > d_kinai > c_kawachi,894
+d_nankaido,d_nankaido,yes,,province_path;reverse_capital_owner_of:c_iyo,d,105694,k_yamato,e_japan,e_japan > k_yamato > d_nankaido,850
+c_iyo,c_iyo,yes,,province_path,c,105703,d_nankaido,e_japan,e_japan > k_yamato > d_nankaido > c_iyo,900
+c_awa,c_awa,yes,,province_path,c,105733,d_nankaido,e_japan,e_japan > k_yamato > d_nankaido > c_awa,898
+c_sanuki,c_sanuki,yes,,province_path,c,105758,d_nankaido,e_japan,e_japan > k_yamato > d_nankaido > c_sanuki,902
+c_tosa,c_tosa,yes,,province_path,c,105778,d_nankaido,e_japan,e_japan > k_yamato > d_nankaido > c_tosa,903
+c_kii,c_kii,yes,,province_path,c,105808,d_nankaido,e_japan,e_japan > k_yamato > d_nankaido > c_kii,901
+c_awaji,c_awaji,yes,,province_path,c,105838,d_nankaido,e_japan,e_japan > k_yamato > d_nankaido > c_awaji,899
+d_east_sanindo,d_east_sanindo,yes,,province_path;reverse_capital_owner_of:c_tanba,d,105849,k_yamato,e_japan,e_japan > k_yamato > d_east_sanindo,847
+c_tanba,c_tanba,yes,,province_path,c,105858,d_east_sanindo,e_japan,e_japan > k_yamato > d_east_sanindo > c_tanba,888
+c_tajima,c_tajima,yes,,province_path,c,105878,d_east_sanindo,e_japan,e_japan > k_yamato > d_east_sanindo > c_tajima,887
+c_inaba,c_inaba,yes,,province_path,c,105898,d_east_sanindo,e_japan,e_japan > k_yamato > d_east_sanindo > c_inaba,886
+c_tango,c_tango,yes,,province_path,c,105918,d_east_sanindo,e_japan,e_japan > k_yamato > d_east_sanindo > c_tango,889
+d_west_sanindo,d_chugoku (second),no,,province_path;reverse_capital_owner_of:c_izumo,d,105934,k_yamato,e_japan,e_japan > k_yamato > d_west_sanindo,851
+c_izumo,c_izumo,yes,,province_path,c,105943,d_west_sanindo,e_japan,e_japan > k_yamato > d_west_sanindo > c_izumo,906
+c_iwami,c_iwami,yes,,province_path,c,105968,d_west_sanindo,e_japan,e_japan > k_yamato > d_west_sanindo > c_iwami,905
+c_hoki,c_hoki,yes,,province_path,c,105993,d_west_sanindo,e_japan,e_japan > k_yamato > d_west_sanindo > c_hoki,904
+c_oki,c_oki,yes,,province_path,c,106013,d_west_sanindo,e_japan,e_japan > k_yamato > d_west_sanindo > c_oki,907
+d_west_sanyodo,d_chugoku,no,,province_path;reverse_capital_owner_of:c_aki,d,106024,k_yamato,e_japan,e_japan > k_yamato > d_west_sanyodo,852
+c_aki,c_aki,yes,,province_path,c,106033,d_west_sanyodo,e_japan,e_japan > k_yamato > d_west_sanyodo > c_aki,908
+c_bingo,c_bingo,yes,,province_path,c,106058,d_west_sanyodo,e_japan,e_japan > k_yamato > d_west_sanyodo > c_bingo,909
+c_nagato,c_nagato,yes,,province_path,c,106083,d_west_sanyodo,e_japan,e_japan > k_yamato > d_west_sanyodo > c_nagato,910
+c_suo,c_suo,yes,,province_path,c,106108,d_west_sanyodo,e_japan,e_japan > k_yamato > d_west_sanyodo > c_suo,911
+d_east_sanyodo,d_east_sanyodo,yes,,province_path;reverse_capital_owner_of:c_harima,d,106134,k_yamato,e_japan,e_japan > k_yamato > d_east_sanyodo,848
+c_harima,c_harima,yes,,province_path,c,106143,d_east_sanyodo,e_japan,e_japan > k_yamato > d_east_sanyodo > c_harima,892
+c_bitchu,c_bitchu,yes,,province_path,c,106173,d_east_sanyodo,e_japan,e_japan > k_yamato > d_east_sanyodo > c_bitchu,890
+c_bizen,c_bizen,yes,,province_path,c,106193,d_east_sanyodo,e_japan,e_japan > k_yamato > d_east_sanyodo > c_bizen,891
+c_mimasaka,c_mimasaka,yes,,province_path,c,106208,d_east_sanyodo,e_japan,e_japan > k_yamato > d_east_sanyodo > c_mimasaka,893
+k_azuma,k_azuma,yes,,province_path;reverse_capital_owner_of:c_echizen;reverse_capital_owner_of:c_ise;reverse_capital_owner_of:c_mino;reverse_capital_owner_of:c_musashi;reverse_capital_owner_of:c_omi;reverse_capital_owner_of:c_shimosa,k,106230,e_japan,e_japan,e_japan > k_azuma,837
+d_east_bando,d_east_bando,yes,,province_path;reverse_capital_owner_of:c_shimosa,d,106240,k_azuma,e_japan,e_japan > k_azuma > d_east_bando,840
+c_shimosa,c_shimosa,yes,,province_path,c,106249,d_east_bando,e_japan,e_japan > k_azuma > d_east_bando > c_shimosa,855
+c_hitachi,c_hitachi,yes,,province_path,c,106274,d_east_bando,e_japan,e_japan > k_azuma > d_east_bando > c_hitachi,853
+c_kazusa,c_kazusa,yes,,province_path,c,106304,d_east_bando,e_japan,e_japan > k_azuma > d_east_bando > c_kazusa,854
+c_shimotsuke,c_shimotsuke,yes,,province_path,c,106324,d_east_bando,e_japan,e_japan > k_azuma > d_east_bando > c_shimotsuke,856
+d_west_bando,d_west_bando,yes,,province_path;reverse_capital_owner_of:c_musashi,d,106355,k_azuma,e_japan,e_japan > k_azuma > d_west_bando,844
+c_musashi,c_musashi,yes,,province_path,c,106364,d_west_bando,e_japan,e_japan > k_azuma > d_west_bando > c_musashi,874
+c_sagami,c_sagami,yes,,province_path,c,106394,d_west_bando,e_japan,e_japan > k_azuma > d_west_bando > c_sagami,875
+c_izu,c_izu,yes,,province_path,c,106414,d_west_bando,e_japan,e_japan > k_azuma > d_west_bando > c_izu,872
+c_kozuke,c_kozuke,yes,,province_path,c,106429,d_west_bando,e_japan,e_japan > k_azuma > d_west_bando > c_kozuke,873
+d_tokaido,d_tokaido,yes,,province_path;reverse_capital_owner_of:c_ise,d,106455,k_azuma,e_japan,e_japan > k_azuma > d_tokaido,842
+c_ise,c_ise,yes,,province_path,c,106464,d_tokaido,e_japan,e_japan > k_azuma > d_tokaido > c_ise,862
+c_owari,c_owari,yes,,province_path,c,106494,d_tokaido,e_japan,e_japan > k_azuma > d_tokaido > c_owari,864
+c_mikawa,c_mikawa,yes,,province_path,c,106514,d_tokaido,e_japan,e_japan > k_azuma > d_tokaido > c_mikawa,863
+c_suruga,c_suruga,yes,,province_path,c,106539,d_tokaido,e_japan,e_japan > k_azuma > d_tokaido > c_suruga,865
+c_totomi,c_totomi,yes,,province_path,c,106559,d_tokaido,e_japan,e_japan > k_azuma > d_tokaido > c_totomi,866
+d_tosando,d_chubu,no,,province_path;reverse_capital_owner_of:c_omi,d,106580,k_azuma,e_japan,e_japan > k_azuma > d_tosando,843
+c_omi,c_omi,yes,,province_path,c,106589,d_tosando,e_japan,e_japan > k_azuma > d_tosando > c_omi,870
+c_mino,c_mino,yes,,province_path,c,106614,d_tosando,e_japan,e_japan > k_azuma > d_tosando > c_mino,869
+c_hida,c_hida,yes,,province_path,c,106644,d_tosando,e_japan,e_japan > k_azuma > d_tosando > c_hida,867
+c_shinano,c_shinano,yes,,province_path,c,106664,d_tosando,e_japan,e_japan > k_azuma > d_tosando > c_shinano,871
+c_kai,c_kai,yes,,province_path,c,106689,d_tosando,e_japan,e_japan > k_azuma > d_tosando > c_kai,868
+d_hokurikudo,d_hokurikudo,yes,,province_path;reverse_capital_owner_of:c_echizen,d,106710,k_azuma,e_japan,e_japan > k_azuma > d_hokurikudo,841
+c_echizen,c_echizen,yes,,province_path,c,106719,d_hokurikudo,e_japan,e_japan > k_azuma > d_hokurikudo > c_echizen,858
+c_echigo,c_echigo,yes,,province_path,c,106749,d_hokurikudo,e_japan,e_japan > k_azuma > d_hokurikudo > c_echigo,857
+c_etchu,c_etchu,yes,,province_path,c,106784,d_hokurikudo,e_japan,e_japan > k_azuma > d_hokurikudo > c_etchu,859
+c_noto,c_noto,yes,,province_path,c,106799,d_hokurikudo,e_japan,e_japan > k_azuma > d_hokurikudo > c_noto,861
+c_kaga,c_kaga,yes,,province_path,c,106814,d_hokurikudo,e_japan,e_japan > k_azuma > d_hokurikudo > c_kaga,860
+k_tsukushi,k_tsukushi,yes,,province_path;reverse_capital_owner_of:c_chikuzen;reverse_capital_owner_of:c_satsuma,k,106831,e_japan,e_japan,e_japan > k_tsukushi,838
+d_north_saikaido,d_north_saikaido,yes,,province_path;reverse_capital_owner_of:c_chikuzen,d,106841,k_tsukushi,e_japan,e_japan > k_tsukushi > d_north_saikaido,845
+c_chikuzen,c_chikuzen,yes,,province_path,c,106851,d_north_saikaido,e_japan,e_japan > k_tsukushi > d_north_saikaido > c_chikuzen,879
+c_bungo,c_bungo,yes,,province_path,c,106876,d_north_saikaido,e_japan,e_japan > k_tsukushi > d_north_saikaido > c_bungo,876
+c_buzen,c_buzen,yes,,province_path,c,106906,d_north_saikaido,e_japan,e_japan > k_tsukushi > d_north_saikaido > c_buzen,877
+c_chikugo,c_chikugo,yes,,province_path,c,106926,d_north_saikaido,e_japan,e_japan > k_tsukushi > d_north_saikaido > c_chikugo,878
+c_hizen,c_hizen,yes,,province_path,c,106941,d_north_saikaido,e_japan,e_japan > k_tsukushi > d_north_saikaido > c_hizen,880
+c_tsushima,c_tsushima,yes,,province_path,c,106966,d_north_saikaido,e_japan,e_japan > k_tsukushi > d_north_saikaido > c_tsushima,881
+d_south_saikaido,d_south_saikaido,yes,,province_path;reverse_capital_owner_of:c_satsuma,d,106977,k_tsukushi,e_japan,e_japan > k_tsukushi > d_south_saikaido,846
+c_satsuma,c_satsuma,yes,,province_path,c,106986,d_south_saikaido,e_japan,e_japan > k_tsukushi > d_south_saikaido > c_satsuma,885
+c_higo,c_higo,yes,,province_path,c,107011,d_south_saikaido,e_japan,e_japan > k_tsukushi > d_south_saikaido > c_higo,882
+c_hyuga,c_hyuga,yes,,province_path,c,107046,d_south_saikaido,e_japan,e_japan > k_tsukushi > d_south_saikaido > c_hyuga,883
+c_osumi,c_osumi,yes,,province_path,c,107076,d_south_saikaido,e_japan,e_japan > k_tsukushi > d_south_saikaido > c_osumi,884
+k_chrysanthemum_throne,k_chrysanthemum_throne,yes,,reverse_capital_owner_of:c_yamashiro,k,107104,,k_chrysanthemum_throne,k_chrysanthemum_throne,3777
+e_goryeo,e_goryeo,yes,,province_path;reverse_capital_owner_of:c_chungju;reverse_capital_owner_of:c_gaeseong;reverse_capital_owner_of:c_gwangju;reverse_capital_owner_of:c_gyeongju;reverse_capital_owner_of:c_gyoju;reverse_capital_owner_of:c_haeju;reverse_capital_owner_of:c_jangjeong;reverse_capital_owner_of:c_jeonju;reverse_capital_owner_of:c_jinju;reverse_capital_owner_of:c_myeongju;reverse_capital_owner_of:c_naju;reverse_capital_owner_of:c_seogyeong;reverse_capital_owner_of:c_tamna,e,107279,,e_goryeo,e_goryeo,636
+d_gaeseong,d_gaeseong,yes,,province_path;reverse_capital_owner_of:c_gaeseong,d,107355,k_goguryeo,e_goryeo,e_goryeo > k_goguryeo > d_gaeseong,645
+c_gaeseong,c_gaeseong,yes,,province_path,c,107360,d_gaeseong,e_goryeo,e_goryeo > k_goguryeo > d_gaeseong > c_gaeseong,667
+c_gokju,c_gokju,yes,,province_path,c,107385,d_gaeseong,e_goryeo,e_goryeo > k_goguryeo > d_gaeseong > c_gokju,668
+c_pyeongju,c_pyeongju,yes,,province_path,c,107410,d_gaeseong,e_goryeo,e_goryeo > k_goguryeo > d_gaeseong > c_pyeongju,669
+d_haeju,d_haeju,yes,,province_path;reverse_capital_owner_of:c_haeju,d,107426,k_goguryeo,e_goryeo,e_goryeo > k_goguryeo > d_haeju,648
+c_haeju,c_haeju,yes,,province_path,c,107431,d_haeju,e_goryeo,e_goryeo > k_goguryeo > d_haeju > c_haeju,677
+c_hwangju,c_hwangju,yes,,province_path,c,107451,d_haeju,e_goryeo,e_goryeo > k_goguryeo > d_haeju > c_hwangju,678
+c_pungju,c_pungju,yes,,province_path,c,107471,d_haeju,e_goryeo,e_goryeo > k_goguryeo > d_haeju > c_pungju,679
+d_gyoju,d_gyoju,yes,,province_path;reverse_capital_owner_of:c_gyoju,d,107492,k_goguryeo,e_goryeo,e_goryeo > k_goguryeo > d_gyoju,647
+c_gyoju,c_gyoju,yes,,province_path,c,107497,d_gyoju,e_goryeo,e_goryeo > k_goguryeo > d_gyoju > c_gyoju,675
+c_inje,c_inje,yes,,province_path,c,107517,d_gyoju,e_goryeo,e_goryeo > k_goguryeo > d_gyoju > c_inje,676
+c_dongju,c_dongju,yes,,province_path,c,107532,d_gyoju,e_goryeo,e_goryeo > k_goguryeo > d_gyoju > c_dongju,674
+c_chunju,c_chunju,yes,,province_path,c,107557,d_gyoju,e_goryeo,e_goryeo > k_goguryeo > d_gyoju > c_chunju,673
+d_yukju,d_yukju,yes,,province_path;reverse_capital_owner_of:c_jangjeong,d,107578,k_goguryeo,e_goryeo,e_goryeo > k_goguryeo > d_yukju,649
+c_jangjeong,c_jangjeong,yes,,province_path,c,107583,d_yukju,e_goryeo,e_goryeo > k_goguryeo > d_yukju > c_jangjeong,681
+c_uiju,c_uiju,yes,,province_path,c,107603,d_yukju,e_goryeo,e_goryeo > k_goguryeo > d_yukju > c_uiju,683
+c_gwiju,c_gwiju,yes,,province_path,c,107618,d_yukju,e_goryeo,e_goryeo > k_goguryeo > d_yukju > c_gwiju,680
+c_taeju,c_taeju,yes,,province_path,c,107638,d_yukju,e_goryeo,e_goryeo > k_goguryeo > d_yukju > c_taeju,682
+d_bukgye,d_bukgye,yes,,province_path;reverse_capital_owner_of:c_seogyeong,d,107659,k_goguryeo,e_goryeo,e_goryeo > k_goguryeo > d_bukgye,644
+c_seogyeong,c_seogyeong,yes,,province_path,c,107664,d_bukgye,e_goryeo,e_goryeo > k_goguryeo > d_bukgye > c_seogyeong,664
+c_seongju,c_seongju,yes,,province_path,c,107689,d_bukgye,e_goryeo,e_goryeo > k_goguryeo > d_bukgye > c_seongju,665
+c_yeongwon,c_yeongwon,yes,,province_path,c,107714,d_bukgye,e_goryeo,e_goryeo > k_goguryeo > d_bukgye > c_yeongwon,666
+d_gwangju,d_gwangju,yes,,province_path;reverse_capital_owner_of:c_gwangju,d,107740,k_goguryeo,e_goryeo,e_goryeo > k_goguryeo > d_gwangju,646
+c_gwangju,c_gwangju,yes,,province_path,c,107745,d_gwangju,e_goryeo,e_goryeo > k_goguryeo > d_gwangju > c_gwangju,671
+c_yangju,c_yangju,yes,,province_path,c,107765,d_gwangju,e_goryeo,e_goryeo > k_goguryeo > d_gwangju > c_yangju,672
+c_dangseong,c_dangseong,yes,,province_path,c,107785,d_gwangju,e_goryeo,e_goryeo > k_goguryeo > d_gwangju > c_dangseong,670
+k_silla,k_silla,yes,,province_path;reverse_capital_owner_of:c_gyeongju;reverse_capital_owner_of:c_jinju;reverse_capital_owner_of:c_myeongju,k,107807,e_goryeo,e_goryeo,e_goryeo > k_silla,639
+d_gyeongju,d_gyeongju,yes,,province_path;reverse_capital_owner_of:c_gyeongju,d,107830,k_silla,e_goryeo,e_goryeo > k_silla > d_gyeongju,651
+c_gyeongju,c_gyeongju,yes,,province_path,c,107835,d_gyeongju,e_goryeo,e_goryeo > k_silla > d_gyeongju > c_gyeongju,690
+c_andong,c_andong,yes,,province_path,c,107855,d_gyeongju,e_goryeo,e_goryeo > k_silla > d_gyeongju > c_andong,689
+c_sangju,c_sangju,yes,,province_path,c,107875,d_gyeongju,e_goryeo,e_goryeo > k_silla > d_gyeongju > c_sangju,692
+c_ilseon,c_ilseon,yes,,province_path,c,107895,d_gyeongju,e_goryeo,e_goryeo > k_silla > d_gyeongju > c_ilseon,691
+d_jinju,d_jinju,yes,,province_path;reverse_capital_owner_of:c_jinju,d,107916,k_silla,e_goryeo,e_goryeo > k_silla > d_jinju,652
+c_jinju,c_jinju,yes,,province_path,c,107921,d_jinju,e_goryeo,e_goryeo > k_silla > d_jinju > c_jinju,695
+c_ulju,c_ulju,yes,,province_path,c,107941,d_jinju,e_goryeo,e_goryeo > k_silla > d_jinju > c_ulju,696
+c_hamyang,c_hamyang,yes,,province_path,c,107961,d_jinju,e_goryeo,e_goryeo > k_silla > d_jinju > c_hamyang,694
+c_guemju,c_guemju,yes,,province_path,c,107986,d_jinju,e_goryeo,e_goryeo > k_silla > d_jinju > c_guemju,693
+d_donggye,d_donggye,yes,,province_path;reverse_capital_owner_of:c_myeongju,d,108002,k_silla,e_goryeo,e_goryeo > k_silla > d_donggye,650
+c_myeongju,c_myeongju,yes,,province_path,c,108007,d_donggye,e_goryeo,e_goryeo > k_silla > d_donggye > c_myeongju,686
+c_goseong,c_goseong,yes,,province_path,c,108032,d_donggye,e_goryeo,e_goryeo > k_silla > d_donggye > c_goseong,685
+c_deungju,c_deungju,yes,,province_path,c,108057,d_donggye,e_goryeo,e_goryeo > k_silla > d_donggye > c_deungju,684
+c_wonju,c_wonju,yes,,province_path,c,108082,d_donggye,e_goryeo,e_goryeo > k_silla > d_donggye > c_wonju,688
+c_ulleong,c_ulleong,yes,,province_path,c,108112,d_donggye,e_goryeo,e_goryeo > k_silla > d_donggye > c_ulleong,687
+k_baekje,k_baekje,yes,,province_path;reverse_capital_owner_of:c_chungju;reverse_capital_owner_of:c_jeonju;reverse_capital_owner_of:c_naju;reverse_capital_owner_of:c_tamna,k,108124,e_goryeo,e_goryeo,e_goryeo > k_baekje,637
+d_chungju,d_chungju,yes,,province_path;reverse_capital_owner_of:c_chungju,d,108147,k_baekje,e_goryeo,e_goryeo > k_baekje > d_chungju,640
+c_chungju,c_chungju,yes,,province_path,c,108152,d_chungju,e_goryeo,e_goryeo > k_baekje > d_chungju > c_chungju,654
+c_hongju,c_hongju,yes,,province_path,c,108177,d_chungju,e_goryeo,e_goryeo > k_baekje > d_chungju > c_hongju,656
+c_gongju,c_gongju,yes,,province_path,c,108192,d_chungju,e_goryeo,e_goryeo > k_baekje > d_chungju > c_gongju,655
+c_cheongju,c_cheongju,yes,,province_path,c,108217,d_chungju,e_goryeo,e_goryeo > k_baekje > d_chungju > c_cheongju,653
+d_naju,d_naju,yes,,province_path;reverse_capital_owner_of:c_naju,d,108238,k_baekje,e_goryeo,e_goryeo > k_baekje > d_naju,642
+c_naju,c_naju,yes,,province_path,c,108243,d_naju,e_goryeo,e_goryeo > k_baekje > d_naju > c_naju,662
+c_jangheung,c_jangheung,yes,,province_path,c,108268,d_naju,e_goryeo,e_goryeo > k_baekje > d_naju > c_jangheung,661
+c_boseong,c_boseong,yes,,province_path,c,108288,d_naju,e_goryeo,e_goryeo > k_baekje > d_naju > c_boseong,660
+d_tamna,d_tamna,yes,,province_path;reverse_capital_owner_of:c_tamna,d,108309,k_baekje,e_goryeo,e_goryeo > k_baekje > d_tamna,643
+c_tamna,c_danluo,no,,province_path,c,108314,d_tamna,e_goryeo,e_goryeo > k_baekje > d_tamna > c_tamna,663
+d_jeonju,d_jeonju,yes,,province_path;reverse_capital_owner_of:c_jeonju,d,108330,k_baekje,e_goryeo,e_goryeo > k_baekje > d_jeonju,641
+c_jeonju,c_jeonju,yes,,province_path,c,108335,d_jeonju,e_goryeo,e_goryeo > k_baekje > d_jeonju > c_jeonju,657
+c_jillye,c_jillye,yes,,province_path,c,108355,d_jeonju,e_goryeo,e_goryeo > k_baekje > d_jeonju > c_jillye,658
+c_namwon,c_namwon,yes,,province_path,c,108375,d_jeonju,e_goryeo,e_goryeo > k_baekje > d_jeonju > c_namwon,659
+k_yongson_throne,k_yongson_throne,yes,,reverse_capital_owner_of:c_gaeseong,k,108398,,k_yongson_throne,k_yongson_throne,3778
+e_srivijaya,e_srivijaya,yes,,province_path;reverse_capital_owner_of:c_IDO_bali;reverse_capital_owner_of:c_JAV_mataram;reverse_capital_owner_of:c_JAV_sunda;reverse_capital_owner_of:c_MAL_pahang;reverse_capital_owner_of:c_MAL_patani;reverse_capital_owner_of:c_SUM_jambi;reverse_capital_owner_of:c_SUM_lambri;reverse_capital_owner_of:c_SUM_minangkabau;reverse_capital_owner_of:c_SUM_muara_takus;reverse_capital_owner_of:c_SUM_palembang;reverse_capital_owner_of:c_andamans;reverse_capital_owner_of:c_nias,e,108450,,e_srivijaya,e_srivijaya,1655
+k_yavakadvipa,k_yavakadvipa,yes,,province_path;reverse_capital_owner_of:c_IDO_bali;reverse_capital_owner_of:c_JAV_mataram;reverse_capital_owner_of:c_JAV_sunda,k,108455,e_srivijaya,e_srivijaya,e_srivijaya > k_yavakadvipa,1658
+d_JAV_mataram,d_JAV_mataram,yes,,province_path;reverse_capital_owner_of:c_JAV_mataram,d,108460,k_yavakadvipa,e_srivijaya,e_srivijaya > k_yavakadvipa > d_JAV_mataram,1669
+c_JAV_mataram,c_mataram,no,,province_path,c,108465,d_JAV_mataram,e_srivijaya,e_srivijaya > k_yavakadvipa > d_JAV_mataram > c_JAV_mataram,1714
+c_JAV_kalingga,c_panaraban,no,,province_path,c,108500,d_JAV_mataram,e_srivijaya,e_srivijaya > k_yavakadvipa > d_JAV_mataram > c_JAV_kalingga,1712
+c_JAV_janggala,c_kahuripan,no,,province_path,c,108530,d_JAV_mataram,e_srivijaya,e_srivijaya > k_yavakadvipa > d_JAV_mataram > c_JAV_janggala,1711
+c_JAV_lumajang,c_lumajang,no,,province_path,c,108565,d_JAV_mataram,e_srivijaya,e_srivijaya > k_yavakadvipa > d_JAV_mataram > c_JAV_lumajang,1713
+d_JAV_taruma,d_JAV_taruma,yes,,province_path;reverse_capital_owner_of:c_JAV_sunda,d,108591,k_yavakadvipa,e_srivijaya,e_srivijaya > k_yavakadvipa > d_JAV_taruma,1670
+c_JAV_sunda,c_pakuanpajajaran,no,,province_path,c,108596,d_JAV_taruma,e_srivijaya,e_srivijaya > k_yavakadvipa > d_JAV_taruma > c_JAV_sunda,1717
+c_JAV_galuh,c_galuh,no,,province_path,c,108631,d_JAV_taruma,e_srivijaya,e_srivijaya > k_yavakadvipa > d_JAV_taruma > c_JAV_galuh,1716
+c_JAV_cimanuk,c_pamanukan,no,,province_path,c,108661,d_JAV_taruma,e_srivijaya,e_srivijaya > k_yavakadvipa > d_JAV_taruma > c_JAV_cimanuk,1715
+d_IDO_bali,d_bali_sea,no,,province_path;reverse_capital_owner_of:c_IDO_bali,d,108682,k_yavakadvipa,e_srivijaya,e_srivijaya > k_yavakadvipa > d_IDO_bali,1668
+c_IDO_bali,c_bali_sea,no,,province_path,c,108687,d_IDO_bali,e_srivijaya,e_srivijaya > k_yavakadvipa > d_IDO_bali > c_IDO_bali,1708
+c_JAV_madura,c_JAV_madura,yes,,province_path,c,108707,d_IDO_bali,e_srivijaya,e_srivijaya > k_yavakadvipa > d_IDO_bali > c_JAV_madura,1710
+c_IDO_lombok_and_sumbawa,c_bima,no,,province_path,c,108727,d_IDO_bali,e_srivijaya,e_srivijaya > k_yavakadvipa > d_IDO_bali > c_IDO_lombok_and_sumbawa,1709
+k_malayadvipa,k_palembang,no,,province_path;reverse_capital_owner_of:c_SUM_jambi;reverse_capital_owner_of:c_SUM_lambri;reverse_capital_owner_of:c_SUM_minangkabau;reverse_capital_owner_of:c_SUM_muara_takus;reverse_capital_owner_of:c_SUM_palembang;reverse_capital_owner_of:c_andamans;reverse_capital_owner_of:c_nias,k,108750,e_srivijaya,e_srivijaya,e_srivijaya > k_malayadvipa,1657
+d_SUM_palembang,d_SUM_palembang,yes,,province_path;reverse_capital_owner_of:c_SUM_palembang,d,108755,k_malayadvipa,e_srivijaya,e_srivijaya > k_malayadvipa > d_SUM_palembang,1666
+c_SUM_palembang,c_palembang,no,,province_path,c,108760,d_SUM_palembang,e_srivijaya,e_srivijaya > k_malayadvipa > d_SUM_palembang > c_SUM_palembang,1701
+c_SUM_lampung,c_tulang_bawang,no,,province_path,c,108790,d_SUM_palembang,e_srivijaya,e_srivijaya > k_malayadvipa > d_SUM_palembang > c_SUM_lampung,1700
+c_SUM_bangka-belitung,c_bangka,no,,province_path,c,108820,d_SUM_palembang,e_srivijaya,e_srivijaya > k_malayadvipa > d_SUM_palembang > c_SUM_bangka-belitung,1698
+c_SUM_pasemah,c_sekala_brak,no,,province_path,c,108840,d_SUM_palembang,e_srivijaya,e_srivijaya > k_malayadvipa > d_SUM_palembang > c_SUM_pasemah,1702
+c_SUM_east_sumatra,c_cengal,no,,province_path,c,108860,d_SUM_palembang,e_srivijaya,e_srivijaya > k_malayadvipa > d_SUM_palembang > c_SUM_east_sumatra,1699
+d_SUM_jambi,d_SUM_jambi,yes,,province_path;reverse_capital_owner_of:c_SUM_jambi,d,108876,k_malayadvipa,e_srivijaya,e_srivijaya > k_malayadvipa > d_SUM_jambi,1664
+c_SUM_jambi,c_muaro_jambi,no,,province_path,c,108881,d_SUM_jambi,e_srivijaya,e_srivijaya > k_malayadvipa > d_SUM_jambi > c_SUM_jambi,1692
+c_SUM_dharmasraya,c_dharmasraya,no,,province_path,c,108911,d_SUM_jambi,e_srivijaya,e_srivijaya > k_malayadvipa > d_SUM_jambi > c_SUM_dharmasraya,1690
+c_SUM_indragiri,c_indragiri,no,,province_path,c,108931,d_SUM_jambi,e_srivijaya,e_srivijaya > k_malayadvipa > d_SUM_jambi > c_SUM_indragiri,1691
+c_SUM_lingga,c_lingga,no,,province_path,c,108951,d_SUM_jambi,e_srivijaya,e_srivijaya > k_malayadvipa > d_SUM_jambi > c_SUM_lingga,1694
+c_SUM_karang_brahi,c_merangin,no,,province_path,c,108971,d_SUM_jambi,e_srivijaya,e_srivijaya > k_malayadvipa > d_SUM_jambi > c_SUM_karang_brahi,1693
+d_SUM_riau,d_SUM_riau,yes,,province_path;reverse_capital_owner_of:c_SUM_muara_takus,d,108992,k_malayadvipa,e_srivijaya,e_srivijaya > k_malayadvipa > d_SUM_riau,1667
+c_SUM_muara_takus,c_darek,no,,province_path,c,108997,d_SUM_riau,e_srivijaya,e_srivijaya > k_malayadvipa > d_SUM_riau > c_SUM_muara_takus,1705
+c_SUM_kampar,c_siak,no,,province_path,c,109022,d_SUM_riau,e_srivijaya,e_srivijaya > k_malayadvipa > d_SUM_riau > c_SUM_kampar,1703
+c_SUM_rokan,c_rokan,no,,province_path,c,109042,d_SUM_riau,e_srivijaya,e_srivijaya > k_malayadvipa > d_SUM_riau > c_SUM_rokan,1707
+c_SUM_pekanbaru,c_kampar,no,,province_path,c,109062,d_SUM_riau,e_srivijaya,e_srivijaya > k_malayadvipa > d_SUM_riau > c_SUM_pekanbaru,1706
+c_SUM_meranti,c_pelalawan,no,,province_path,c,109077,d_SUM_riau,e_srivijaya,e_srivijaya > k_malayadvipa > d_SUM_riau > c_SUM_meranti,1704
+d_SUM_aceh,d_SUM_aceh,yes,,province_path;reverse_capital_owner_of:c_SUM_lambri,d,109093,k_malayadvipa,e_srivijaya,e_srivijaya > k_malayadvipa > d_SUM_aceh,1663
+c_SUM_lambri,c_lamuri,no,,province_path,c,109098,d_SUM_aceh,e_srivijaya,e_srivijaya > k_malayadvipa > d_SUM_aceh > c_SUM_lambri,1687
+c_SUM_barus,c_barus,no,,province_path,c,109123,d_SUM_aceh,e_srivijaya,e_srivijaya > k_malayadvipa > d_SUM_aceh > c_SUM_barus,1686
+c_SUM_panai,c_panai,no,,province_path,c,109148,d_SUM_aceh,e_srivijaya,e_srivijaya > k_malayadvipa > d_SUM_aceh > c_SUM_panai,1688
+c_SUM_perlak,c_perlak,no,,province_path,c,109173,d_SUM_aceh,e_srivijaya,e_srivijaya > k_malayadvipa > d_SUM_aceh > c_SUM_perlak,1689
+d_SUM_minangkabau,d_SUM_minangkabau,yes,,province_path;reverse_capital_owner_of:c_SUM_minangkabau,d,109199,k_malayadvipa,e_srivijaya,e_srivijaya > k_malayadvipa > d_SUM_minangkabau,1665
+c_SUM_minangkabau,c_pariaman,no,,province_path,c,109204,d_SUM_minangkabau,e_srivijaya,e_srivijaya > k_malayadvipa > d_SUM_minangkabau > c_SUM_minangkabau,1696
+c_SUM_bengkulu,c_sungai_serut,no,,province_path,c,109224,d_SUM_minangkabau,e_srivijaya,e_srivijaya > k_malayadvipa > d_SUM_minangkabau > c_SUM_bengkulu,1695
+c_SUM_riak_nan_berbedur,c_inderapura,no,,province_path,c,109239,d_SUM_minangkabau,e_srivijaya,e_srivijaya > k_malayadvipa > d_SUM_minangkabau > c_SUM_riak_nan_berbedur,1697
+d_nias,d_mentawai,no,,province_path;reverse_capital_owner_of:c_nias,d,109255,k_malayadvipa,e_srivijaya,e_srivijaya > k_malayadvipa > d_nias,1662
+c_nias,c_nias,yes,,province_path,c,109259,d_nias,e_srivijaya,e_srivijaya > k_malayadvipa > d_nias > c_nias,1685
+c_mentawai,c_mentawai_islands,no,,province_path,c,109274,d_nias,e_srivijaya,e_srivijaya > k_malayadvipa > d_nias > c_mentawai,1684
+d_handumans,d_hantuman,no,,province_path;reverse_capital_owner_of:c_andamans,d,109295,k_malayadvipa,e_srivijaya,e_srivijaya > k_malayadvipa > d_handumans,1661
+c_andamans,c_jarawa,no,,province_path,c,109299,d_handumans,e_srivijaya,e_srivijaya > k_malayadvipa > d_handumans > c_andamans,1682
+c_nakkavaram,c_nakkavaram,yes,,province_path,c,109312,d_handumans,e_srivijaya,e_srivijaya > k_malayadvipa > d_handumans > c_nakkavaram,1683
+k_hujung_medini,k_langkasuka,no,,province_path;reverse_capital_owner_of:c_MAL_pahang;reverse_capital_owner_of:c_MAL_patani,k,109325,e_srivijaya,e_srivijaya,e_srivijaya > k_hujung_medini,1656
+d_MAL_langkasuka,d_langkasuka,no,,province_path;reverse_capital_owner_of:c_MAL_patani,d,109330,k_hujung_medini,e_srivijaya,e_srivijaya > k_hujung_medini > d_MAL_langkasuka,1659
+c_MAL_patani,c_narathiwat,no,,province_path,c,109335,d_MAL_langkasuka,e_srivijaya,e_srivijaya > k_hujung_medini > d_MAL_langkasuka > c_MAL_patani,1673
+c_MAL_kelantan,c_kelantan,no,,province_path,c,109355,d_MAL_langkasuka,e_srivijaya,e_srivijaya > k_hujung_medini > d_MAL_langkasuka > c_MAL_kelantan,1672
+c_MAL_kedah,c_kedah,no,,province_path,c,109375,d_MAL_langkasuka,e_srivijaya,e_srivijaya > k_hujung_medini > d_MAL_langkasuka > c_MAL_kedah,1671
+c_THAI_tambralinga,c_tambralinga,no,,province_path,c,109400,d_MAL_langkasuka,e_srivijaya,e_srivijaya > k_hujung_medini > d_MAL_langkasuka > c_THAI_tambralinga,1675
+c_THAI_takua_pa,c_takola,no,,province_path,c,109425,d_MAL_langkasuka,e_srivijaya,e_srivijaya > k_hujung_medini > d_MAL_langkasuka > c_THAI_takua_pa,1674
+d_MAL_pahang,d_pahang,no,,province_path;reverse_capital_owner_of:c_MAL_pahang,d,109451,k_hujung_medini,e_srivijaya,e_srivijaya > k_hujung_medini > d_MAL_pahang,1660
+c_MAL_pahang,c_pekan,no,,province_path,c,109456,d_MAL_pahang,e_srivijaya,e_srivijaya > k_hujung_medini > d_MAL_pahang > c_MAL_pahang,1679
+c_MAL_gelanggi,c_temerloh,no,,province_path,c,109481,d_MAL_pahang,e_srivijaya,e_srivijaya > k_hujung_medini > d_MAL_pahang > c_MAL_gelanggi,1677
+c_MAL_johor,c_ujong_tanah,no,,province_path,c,109506,d_MAL_pahang,e_srivijaya,e_srivijaya > k_hujung_medini > d_MAL_pahang > c_MAL_johor,1678
+c_riau,c_natuna,no,,province_path,c,109526,d_MAL_pahang,e_srivijaya,e_srivijaya > k_hujung_medini > d_MAL_pahang > c_riau,1681
+c_MAL_gangganegara,c_klang,no,,province_path,c,109538,d_MAL_pahang,e_srivijaya,e_srivijaya > k_hujung_medini > d_MAL_pahang > c_MAL_gangganegara,1676
+c_MAL_semantan,c_raub,no,,province_path,c,109558,d_MAL_pahang,e_srivijaya,e_srivijaya > k_hujung_medini > d_MAL_pahang > c_MAL_semantan,1680
+e_andong,e_jurchen_china,no,,province_path;reverse_capital_owner_of:c_BAL_changchun;reverse_capital_owner_of:c_BAL_dazhou;reverse_capital_owner_of:c_BAL_delizhen;reverse_capital_owner_of:c_BAL_dongpyeong_yizhou;reverse_capital_owner_of:c_BAL_east_amnok;reverse_capital_owner_of:c_BAL_makhil;reverse_capital_owner_of:c_BAL_namhae;reverse_capital_owner_of:c_BAL_ningzhou;reverse_capital_owner_of:c_BAL_solbin;reverse_capital_owner_of:c_BAL_yongcheon;reverse_capital_owner_of:c_LIAO_chaoyang;reverse_capital_owner_of:c_LIAO_dading;reverse_capital_owner_of:c_LIAO_linhuang;reverse_capital_owner_of:c_LIAO_shenyang;reverse_capital_owner_of:c_SW_huangtouguo;reverse_capital_owner_of:c_SW_jiqin_hari;reverse_capital_owner_of:c_SW_lingxiguo;reverse_capital_owner_of:c_SW_pibeihe;reverse_capital_owner_of:c_SW_puyuzhou;reverse_capital_owner_of:c_SW_suihua;reverse_capital_owner_of:c_SW_zhongcheziguo,e,109579,,e_andong,e_andong,187
+k_balhae,k_balhae,yes,,province_path;reverse_capital_owner_of:c_BAL_changchun;reverse_capital_owner_of:c_BAL_east_amnok;reverse_capital_owner_of:c_BAL_makhil;reverse_capital_owner_of:c_BAL_namhae;reverse_capital_owner_of:c_BAL_yongcheon;reverse_capital_owner_of:c_LIAO_shenyang,k,109589,e_andong,e_andong,e_andong > k_balhae,188
+d_BAL_parhae,d_balhae_china,no,,province_path;reverse_capital_owner_of:c_BAL_yongcheon,d,109601,k_balhae,e_andong,e_andong > k_balhae > d_BAL_parhae,196
+c_BAL_yongcheon,c_huhan_china,no,,province_path,c,109616,d_BAL_parhae,e_andong,e_andong > k_balhae > d_BAL_parhae > c_BAL_yongcheon,231
+c_BAL_west_hyeondeok,c_xianzhou_sumo_china,no,,province_path,c,109657,d_BAL_parhae,e_andong,e_andong > k_balhae > d_BAL_parhae > c_BAL_west_hyeondeok,229
+c_BAL_east_hyeondeok,c_baishan_china,no,,province_path,c,109693,d_BAL_parhae,e_andong,e_andong > k_balhae > d_BAL_parhae > c_BAL_east_hyeondeok,228
+c_BAL_dongju,c_tongzhou_bohai_china,no,,province_path,c,109723,d_BAL_parhae,e_andong,e_andong > k_balhae > d_BAL_parhae > c_BAL_dongju,227
+c_BAL_yeongju,c_mudan_china,no,,province_path,c,109753,d_BAL_parhae,e_andong,e_andong > k_balhae > d_BAL_parhae > c_BAL_yeongju,230
+d_BAL_moe_su,d_sumo_china,no,,province_path;reverse_capital_owner_of:c_BAL_makhil,d,109779,k_balhae,e_andong,e_andong > k_balhae > d_BAL_moe_su,195
+c_BAL_makhil,c_udger_china,no,,province_path,c,109784,d_BAL_moe_su,e_andong,e_andong > k_balhae > d_BAL_moe_su > c_BAL_makhil,224
+c_BAL_west_makhil,c_achu_china,no,,province_path,c,109815,d_BAL_moe_su,e_andong,e_andong > k_balhae > d_BAL_moe_su > c_BAL_west_makhil,226
+c_BAL_sokju,c_sumozhou_china (second),no,,province_path,c,109841,d_BAL_moe_su,e_andong,e_andong > k_balhae > d_BAL_moe_su > c_BAL_sokju,225
+d_BAL_buyeo,d_xianping_china,no,,province_path;reverse_capital_owner_of:c_BAL_changchun,d,109867,k_balhae,e_andong,e_andong > k_balhae > d_BAL_buyeo,194
+c_BAL_changchun,c_fuyu_china,no,,province_path,c,109877,d_BAL_buyeo,e_andong,e_andong > k_balhae > d_BAL_buyeo > c_BAL_changchun,220
+c_BAL_fuzhou,c_xianping_china,no,,province_path,c,109912,d_BAL_buyeo,e_andong,e_andong > k_balhae > d_BAL_buyeo > c_BAL_fuzhou,221
+c_BAL_yizhou,c_huanglong_china,no,,province_path,c,109947,d_BAL_buyeo,e_andong,e_andong > k_balhae > d_BAL_buyeo > c_BAL_yizhou,223
+c_BAL_xinzhou,c_sumozhou_china,no,,province_path,c,109967,d_BAL_buyeo,e_andong,e_andong > k_balhae > d_BAL_buyeo > c_BAL_xinzhou,222
+d_BAL_amnok_jangryeong,d_gewu_china,no,,province_path;reverse_capital_owner_of:c_BAL_east_amnok,d,109983,k_balhae,e_andong,e_andong > k_balhae > d_BAL_amnok_jangryeong,193
+c_BAL_east_amnok,c_hwando_china,no,,province_path,c,109993,d_BAL_amnok_jangryeong,e_andong,e_andong > k_balhae > d_BAL_amnok_jangryeong > c_BAL_east_amnok,216
+c_BAL_west_amnok,c_pozhuo_china,no,,province_path,c,110033,d_BAL_amnok_jangryeong,e_andong,e_andong > k_balhae > d_BAL_amnok_jangryeong > c_BAL_west_amnok,218
+c_BAL_east_jangryeong,c_changling_china,no,,province_path,c,110063,d_BAL_amnok_jangryeong,e_andong,e_andong > k_balhae > d_BAL_amnok_jangryeong > c_BAL_east_jangryeong,217
+c_BAL_west_jangryeong,c_changling_china (second),no,,province_path,c,110094,d_BAL_amnok_jangryeong,e_andong,e_andong > k_balhae > d_BAL_amnok_jangryeong > c_BAL_west_jangryeong,219
+d_BAL_southern_balhae,d_okjeo_china,no,,province_path;reverse_capital_owner_of:c_BAL_namhae,d,110120,k_balhae,e_andong,e_andong > k_balhae > d_BAL_southern_balhae,197
+c_BAL_namhae,c_nanhai_okjeo_china,no,,province_path,c,110130,d_BAL_southern_balhae,e_andong,e_andong > k_balhae > d_BAL_southern_balhae > c_BAL_namhae,233
+c_BAL_fengzhou,c_helan_china,no,,province_path,c,110161,d_BAL_southern_balhae,e_andong,e_andong > k_balhae > d_BAL_southern_balhae > c_BAL_fengzhou,232
+c_BAL_southyongwon,c_helan_china (second),no,,province_path,c,110186,d_BAL_southern_balhae,e_andong,e_andong > k_balhae > d_BAL_southern_balhae > c_BAL_southyongwon,235
+c_BAL_northyongwon,c_longyuan_china,no,,province_path,c,110217,d_BAL_southern_balhae,e_andong,e_andong > k_balhae > d_BAL_southern_balhae > c_BAL_northyongwon,234
+d_LIAO_dongjing,d_liaodong_china,no,,province_path;reverse_capital_owner_of:c_LIAO_shenyang,d,110243,k_balhae,e_andong,e_andong > k_balhae > d_LIAO_dongjing,198
+c_LIAO_shenyang,c_liaodong_china,no,,province_path,c,110252,d_LIAO_dongjing,e_andong,e_andong > k_balhae > d_LIAO_dongjing > c_LIAO_shenyang,238
+c_LIAO_yinzhou,c_shenzhou_liao_china,no,,province_path,c,110282,d_LIAO_dongjing,e_andong,e_andong > k_balhae > d_LIAO_dongjing > c_LIAO_yinzhou,239
+c_LIAO_zhenzhou,c_jilizhou_china,no,,province_path,c,110307,d_LIAO_dongjing,e_andong,e_andong > k_balhae > d_LIAO_dongjing > c_LIAO_zhenzhou,240
+c_LIAO_diezhou,c_anshi_china,no,,province_path,c,110332,d_LIAO_dongjing,e_andong,e_andong > k_balhae > d_LIAO_dongjing > c_LIAO_diezhou,236
+c_LIAO_guidezhou,c_guidezhou_china,no,,province_path,c,110357,d_LIAO_dongjing,e_andong,e_andong > k_balhae > d_LIAO_dongjing > c_LIAO_guidezhou,237
+k_shiwei,k_shiwei,yes,,province_path;reverse_capital_owner_of:c_SW_huangtouguo;reverse_capital_owner_of:c_SW_jiqin_hari;reverse_capital_owner_of:c_SW_lingxiguo;reverse_capital_owner_of:c_SW_pibeihe;reverse_capital_owner_of:c_SW_puyuzhou;reverse_capital_owner_of:c_SW_suihua;reverse_capital_owner_of:c_SW_zhongcheziguo,k,110384,e_andong,e_andong,e_andong > k_shiwei,192
+d_SW_qingxingan,d_SW_qingxingan,yes,,province_path;reverse_capital_owner_of:c_SW_huangtouguo,d,110389,k_shiwei,e_andong,e_andong > k_shiwei > d_SW_qingxingan,213
+c_SW_huangtouguo,c_SW_huangtouguo,yes,,province_path,c,110394,d_SW_qingxingan,e_andong,e_andong > k_shiwei > d_SW_qingxingan > c_SW_huangtouguo,300
+c_SW_xinghuangtou,c_SW_xinghuangtou,yes,,province_path,c,110414,d_SW_qingxingan,e_andong,e_andong > k_shiwei > d_SW_qingxingan > c_SW_xinghuangtou,303
+c_SW_nabeiguo,c_SW_nabeiguo,yes,,province_path,c,110429,d_SW_qingxingan,e_andong,e_andong > k_shiwei > d_SW_qingxingan > c_SW_nabeiguo,302
+c_SW_xingnabei,c_SW_xingnabei,yes,,province_path,c,110454,d_SW_qingxingan,e_andong,e_andong > k_shiwei > d_SW_qingxingan > c_SW_xingnabei,304
+c_SW_luotuoguo,c_SW_luotuoguo,yes,,province_path,c,110469,d_SW_qingxingan,e_andong,e_andong > k_shiwei > d_SW_qingxingan > c_SW_luotuoguo,301
+d_SW_lingxiguo,d_SW_lingxiguo,yes,,province_path;reverse_capital_owner_of:c_SW_lingxiguo,d,110495,k_shiwei,e_andong,e_andong > k_shiwei > d_SW_lingxiguo,211
+c_SW_lingxiguo,c_SW_lingxiguo,yes,,province_path,c,110500,d_SW_lingxiguo,e_andong,e_andong > k_shiwei > d_SW_lingxiguo > c_SW_lingxiguo,294
+c_SW_heiheguo,c_SW_heiheguo,yes,,province_path,c,110520,d_SW_lingxiguo,e_andong,e_andong > k_shiwei > d_SW_lingxiguo > c_SW_heiheguo,293
+c_SW_powoguo,c_SW_powoguo,yes,,province_path,c,110540,d_SW_lingxiguo,e_andong,e_andong > k_shiwei > d_SW_lingxiguo > c_SW_powoguo,295
+d_SW_ruzheguo,d_SW_ruzheguo,yes,,province_path;reverse_capital_owner_of:c_SW_jiqin_hari,d,110566,k_shiwei,e_andong,e_andong > k_shiwei > d_SW_ruzheguo,214
+c_SW_jiqin_hari,c_SW_jiqin_hari,yes,,province_path,c,110571,d_SW_ruzheguo,e_andong,e_andong > k_shiwei > d_SW_ruzheguo > c_SW_jiqin_hari,306
+c_SW_ruzhejiang,c_SW_ruzhejiang,yes,,province_path,c,110596,d_SW_ruzheguo,e_andong,e_andong > k_shiwei > d_SW_ruzheguo > c_SW_ruzhejiang,307
+c_SW_dongruzhe,c_SW_dongruzhe,yes,,province_path,c,110616,d_SW_ruzheguo,e_andong,e_andong > k_shiwei > d_SW_ruzheguo > c_SW_dongruzhe,305
+d_SW_puyudao,d_SW_puyudao,yes,,province_path;reverse_capital_owner_of:c_SW_puyuzhou,d,110637,k_shiwei,e_andong,e_andong > k_shiwei > d_SW_puyudao,212
+c_SW_puyuzhou,c_SW_puyuzhou,yes,,province_path,c,110642,d_SW_puyudao,e_andong,e_andong > k_shiwei > d_SW_puyudao > c_SW_puyuzhou,298
+c_SW_damoguo,c_SW_damoguo,yes,,province_path,c,110667,d_SW_puyudao,e_andong,e_andong > k_shiwei > d_SW_puyudao > c_SW_damoguo,296
+c_SW_shanbeiguo,c_SW_shanbeiguo,yes,,province_path,c,110692,d_SW_puyudao,e_andong,e_andong > k_shiwei > d_SW_puyudao > c_SW_shanbeiguo,299
+c_SW_heilonghean,c_SW_heilonghean,yes,,province_path,c,110717,d_SW_puyudao,e_andong,e_andong > k_shiwei > d_SW_puyudao > c_SW_heilonghean,297
+d_SW_sushenguo,d_SW_sushenguo,yes,,province_path;reverse_capital_owner_of:c_SW_suihua,d,110738,k_shiwei,e_andong,e_andong > k_shiwei > d_SW_sushenguo,215
+c_SW_suihua,c_SW_suihua,yes,,province_path,c,110743,d_SW_sushenguo,e_andong,e_andong > k_shiwei > d_SW_sushenguo > c_SW_suihua,312
+c_SW_heilonglin,c_SW_heilonglin,yes,,province_path,c,110768,d_SW_sushenguo,e_andong,e_andong > k_shiwei > d_SW_sushenguo > c_SW_heilonglin,310
+c_SW_lupingyuan,c_SW_lupingyuan,yes,,province_path,c,110783,d_SW_sushenguo,e_andong,e_andong > k_shiwei > d_SW_sushenguo > c_SW_lupingyuan,311
+c_SW_fancao,c_SW_fancao,yes,,province_path,c,110803,d_SW_sushenguo,e_andong,e_andong > k_shiwei > d_SW_sushenguo > c_SW_fancao,308
+c_SW_gonghejiang,c_SW_gonghejiang,yes,,province_path,c,110823,d_SW_sushenguo,e_andong,e_andong > k_shiwei > d_SW_sushenguo > c_SW_gonghejiang,309
+d_SW_heicheziguo,d_SW_heicheziguo,yes,,province_path;reverse_capital_owner_of:c_SW_zhongcheziguo,d,110839,k_shiwei,e_andong,e_andong > k_shiwei > d_SW_heicheziguo,210
+c_SW_zhongcheziguo,c_SW_zhongcheziguo,yes,,province_path,c,110844,d_SW_heicheziguo,e_andong,e_andong > k_shiwei > d_SW_heicheziguo > c_SW_zhongcheziguo,292
+c_SW_hulunbuir,c_SW_hulunbuir,yes,,province_path,c,110870,d_SW_heicheziguo,e_andong,e_andong > k_shiwei > d_SW_heicheziguo > c_SW_hulunbuir,291
+d_SW_dashiweiguo,d_SW_dashiweiguo,yes,,province_path;reverse_capital_owner_of:c_SW_pibeihe,d,110897,k_shiwei,e_andong,e_andong > k_shiwei > d_SW_dashiweiguo,209
+c_SW_pibeihe,c_SW_pibeihe,yes,,province_path,c,110902,d_SW_dashiweiguo,e_andong,e_andong > k_shiwei > d_SW_dashiweiguo > c_SW_pibeihe,288
+c_SW_mengwuo,c_SW_mengwuo,yes,,province_path,c,110922,d_SW_dashiweiguo,e_andong,e_andong > k_shiwei > d_SW_dashiweiguo > c_SW_mengwuo,287
+c_SW_heiergun,c_SW_heiergun,yes,,province_path,c,110947,d_SW_dashiweiguo,e_andong,e_andong > k_shiwei > d_SW_dashiweiguo > c_SW_heiergun,286
+c_SW_ergunia,c_SW_ergunia,yes,,province_path,c,110967,d_SW_dashiweiguo,e_andong,e_andong > k_shiwei > d_SW_dashiweiguo > c_SW_ergunia,284
+c_SW_hailar,c_SW_hailar,yes,,province_path,c,110987,d_SW_dashiweiguo,e_andong,e_andong > k_shiwei > d_SW_dashiweiguo > c_SW_hailar,285
+k_luzhen,k_luzhen,yes,,province_path;reverse_capital_owner_of:c_BAL_dazhou;reverse_capital_owner_of:c_BAL_delizhen;reverse_capital_owner_of:c_BAL_dongpyeong_yizhou;reverse_capital_owner_of:c_BAL_ningzhou;reverse_capital_owner_of:c_BAL_solbin,k,111010,e_andong,e_andong,e_andong > k_luzhen,190
+d_BAL_dongpyeong,d_BAL_dongpyeong,yes,,province_path;reverse_capital_owner_of:c_BAL_dongpyeong_yizhou,d,111015,k_luzhen,e_andong,e_andong > k_luzhen > d_BAL_dongpyeong,203
+c_BAL_dongpyeong_yizhou,c_BAL_dongpyeong_yizhou,yes,,province_path,c,111025,d_BAL_dongpyeong,e_andong,e_andong > k_luzhen > d_BAL_dongpyeong > c_BAL_dongpyeong_yizhou,259
+c_BAL_jixi,c_BAL_jixi,yes,,province_path,c,111050,d_BAL_dongpyeong,e_andong,e_andong > k_luzhen > d_BAL_dongpyeong > c_BAL_jixi,260
+d_BAL_cheolli,d_BAL_cheolli,yes,,province_path;reverse_capital_owner_of:c_BAL_delizhen,d,111071,k_luzhen,e_andong,e_andong > k_luzhen > d_BAL_cheolli,202
+c_BAL_delizhen,c_BAL_delizhen,yes,,province_path,c,111081,d_BAL_cheolli,e_andong,e_andong > k_luzhen > d_BAL_cheolli > c_BAL_delizhen,256
+c_BAL_huligai,c_BAL_huligai,yes,,province_path,c,111106,d_BAL_cheolli,e_andong,e_andong > k_luzhen > d_BAL_cheolli > c_BAL_huligai,257
+c_BAL_west_cheolli,c_BAL_west_cheolli,yes,,province_path,c,111126,d_BAL_cheolli,e_andong,e_andong > k_luzhen > d_BAL_cheolli > c_BAL_west_cheolli,258
+d_BAL_hoewon,d_BAL_hoewon,yes,,province_path;reverse_capital_owner_of:c_BAL_dazhou,d,111147,k_luzhen,e_andong,e_andong > k_luzhen > d_BAL_hoewon,204
+c_BAL_dazhou,c_BAL_dazhou,yes,,province_path,c,111157,d_BAL_hoewon,e_andong,e_andong > k_luzhen > d_BAL_hoewon > c_BAL_dazhou,262
+c_BAL_ilanshan,c_BAL_ilanshan,yes,,province_path,c,111187,d_BAL_hoewon,e_andong,e_andong > k_luzhen > d_BAL_hoewon > c_BAL_ilanshan,264
+c_BAL_south_hoewon,c_BAL_south_hoewon,yes,,province_path,c,111202,d_BAL_hoewon,e_andong,e_andong > k_luzhen > d_BAL_hoewon > c_BAL_south_hoewon,265
+c_BAL_central_hoewon,c_BAL_central_hoewon,yes,,province_path,c,111227,d_BAL_hoewon,e_andong,e_andong > k_luzhen > d_BAL_hoewon > c_BAL_central_hoewon,261
+c_BAL_east_hoewon,c_BAL_east_hoewon,yes,,province_path,c,111252,d_BAL_hoewon,e_andong,e_andong > k_luzhen > d_BAL_hoewon > c_BAL_east_hoewon,263
+d_BAL_yeojintang,d_BAL_yeojintang,yes,,province_path;reverse_capital_owner_of:c_BAL_solbin,d,111273,k_luzhen,e_andong,e_andong > k_luzhen > d_BAL_yeojintang,205
+c_BAL_solbin,c_BAL_solbin,yes,,province_path,c,111285,d_BAL_yeojintang,e_andong,e_andong > k_luzhen > d_BAL_yeojintang > c_BAL_solbin,269
+c_BAL_jeongni,c_BAL_jeongni,yes,,province_path,c,111320,d_BAL_yeojintang,e_andong,e_andong > k_luzhen > d_BAL_yeojintang > c_BAL_jeongni,267
+c_BAL_anbyeon,c_BAL_anbyeon,yes,,province_path,c,111355,d_BAL_yeojintang,e_andong,e_andong > k_luzhen > d_BAL_yeojintang > c_BAL_anbyeon,266
+c_BAL_north_anbyeon,c_BAL_north_anbyeon,yes,,province_path,c,111385,d_BAL_yeojintang,e_andong,e_andong > k_luzhen > d_BAL_yeojintang > c_BAL_north_anbyeon,268
+d_BAL_anwon,d_BAL_anwon,yes,,province_path;reverse_capital_owner_of:c_BAL_ningzhou,d,111411,k_luzhen,e_andong,e_andong > k_luzhen > d_BAL_anwon,201
+c_BAL_ningzhou,c_BAL_ningzhou,yes,,province_path,c,111421,d_BAL_anwon,e_andong,e_andong > k_luzhen > d_BAL_anwon > c_BAL_ningzhou,253
+c_BAL_supin,c_BAL_supin,yes,,province_path,c,111451,d_BAL_anwon,e_andong,e_andong > k_luzhen > d_BAL_anwon > c_BAL_supin,255
+c_BAL_north_anwon,c_BAL_north_anwon,yes,,province_path,c,111475,d_BAL_anwon,e_andong,e_andong > k_luzhen > d_BAL_anwon > c_BAL_north_anwon,254
+c_BAL_heuksu_anwon,c_BAL_heuksu_anwon,yes,,province_path,c,111500,d_BAL_anwon,e_andong,e_andong > k_luzhen > d_BAL_anwon > c_BAL_heuksu_anwon,252
+k_raole,k_liao_zhongjing,no,,province_path;reverse_capital_owner_of:c_LIAO_chaoyang;reverse_capital_owner_of:c_LIAO_dading,k,111516,e_andong,e_andong,e_andong > k_raole,191
+d_liaoxi,d_liaoxi_china,no,,province_path;reverse_capital_owner_of:c_LIAO_chaoyang,d,111521,k_raole,e_andong,e_andong > k_raole > d_liaoxi,207
+c_LIAO_chaoyang,c_xingzhong_liaoxi_china,no,,province_path,c,111524,d_liaoxi,e_andong,e_andong > k_raole > d_liaoxi > c_LIAO_chaoyang,276
+c_lnj_liaoxi,c_ruizhou_liaoxi_china,no,,province_path,c,111548,d_liaoxi,e_andong,e_andong > k_raole > d_liaoxi > c_lnj_liaoxi,280
+c_lnj_liaoxibei,c_lizhou_liaoxi_china,no,,province_path,c,111567,d_liaoxi,e_andong,e_andong > k_raole > d_liaoxi > c_lnj_liaoxibei,281
+c_LIAO_jinzhou,c_yingzhou_liaoxi_china,no,,province_path,c,111591,d_liaoxi,e_andong,e_andong > k_raole > d_liaoxi > c_LIAO_jinzhou,277
+c_LIAO_liaozhou,c_yizhou_liaoxi_china,no,,province_path,c,111610,d_liaoxi,e_andong,e_andong > k_raole > d_liaoxi > c_LIAO_liaozhou,278
+c_LIAO_xianzhou,c_liaoxi_china,no,,province_path,c,111630,d_liaoxi,e_andong,e_andong > k_raole > d_liaoxi > c_LIAO_xianzhou,279
+e_amur,e_tunguse,no,,province_path;reverse_capital_owner_of:c_eman_boli;reverse_capital_owner_of:c_eman_murkonno;reverse_capital_owner_of:c_eman_nurgan;reverse_capital_owner_of:c_eman_tudali;reverse_capital_owner_of:c_eman_turma;reverse_capital_owner_of:c_eman_yerenhe;reverse_capital_owner_of:c_korehari;reverse_capital_owner_of:c_kusunkotan;reverse_capital_owner_of:c_nushiro;reverse_capital_owner_of:c_simenas;reverse_capital_owner_of:c_uskes,e,111653,,e_amur,e_amur,2
+k_amur,k_amur,yes,,province_path;reverse_capital_owner_of:c_eman_boli;reverse_capital_owner_of:c_eman_murkonno;reverse_capital_owner_of:c_eman_nurgan;reverse_capital_owner_of:c_eman_tudali;reverse_capital_owner_of:c_eman_turma;reverse_capital_owner_of:c_eman_yerenhe,k,111658,e_amur,e_amur,e_amur > k_amur,3
+d_eman_boli,d_eman_boli,yes,,province_path;reverse_capital_owner_of:c_eman_boli,d,111663,k_amur,e_amur,e_amur > k_amur > d_eman_boli,7
+c_eman_boli,c_eman_boli,yes,,province_path,c,111668,d_eman_boli,e_amur,e_amur > k_amur > d_eman_boli > c_eman_boli,21
+c_eman_molihewen,c_eman_molihewen,yes,,province_path,c,111693,d_eman_boli,e_amur,e_amur > k_amur > d_eman_boli > c_eman_molihewen,24
+c_eman_mohean,c_eman_mohean,yes,,province_path,c,111718,d_eman_boli,e_amur,e_amur > k_amur > d_eman_boli > c_eman_mohean,23
+c_eman_choripi,c_eman_choripi,yes,,province_path,c,111738,d_eman_boli,e_amur,e_amur > k_amur > d_eman_boli > c_eman_choripi,22
+d_eman_sikhotebei,d_eman_sikhotebei,yes,,province_path;reverse_capital_owner_of:c_eman_yerenhe,d,111759,k_amur,e_amur,e_amur > k_amur > d_eman_sikhotebei,11
+c_eman_yerenhe,c_eman_yerenhe,yes,,province_path,c,111765,d_eman_sikhotebei,e_amur,e_amur > k_amur > d_eman_sikhotebei > c_eman_yerenhe,38
+c_eman_wuguihai,c_eman_wuguihai,yes,,province_path,c,111785,d_eman_sikhotebei,e_amur,e_amur > k_amur > d_eman_sikhotebei > c_eman_wuguihai,37
+c_eman_heishuiyang,c_eman_heishuiyang,yes,,province_path,c,111805,d_eman_sikhotebei,e_amur,e_amur > k_amur > d_eman_sikhotebei > c_eman_heishuiyang,36
+c_eman_beihean,c_eman_beihean,yes,,province_path,c,111825,d_eman_sikhotebei,e_amur,e_amur > k_amur > d_eman_sikhotebei > c_eman_beihean,35
+d_eman_samagero,d_eman_samagero,yes,,province_path;reverse_capital_owner_of:c_eman_tudali,d,111841,k_amur,e_amur,e_amur > k_amur > d_eman_samagero,10
+c_eman_tudali,c_eman_tudali,yes,,province_path,c,111846,d_eman_samagero,e_amur,e_amur > k_amur > d_eman_samagero > c_eman_tudali,33
+c_eman_yam_alin,c_eman_yam_alin,yes,,province_path,c,111866,d_eman_samagero,e_amur,e_amur > k_amur > d_eman_samagero > c_eman_yam_alin,34
+c_eman_khadul,c_eman_khadul,yes,,province_path,c,111886,d_eman_samagero,e_amur,e_amur > k_amur > d_eman_samagero > c_eman_khadul,32
+c_eman_kerin,c_eman_kerin,yes,,province_path,c,111906,d_eman_samagero,e_amur,e_amur > k_amur > d_eman_samagero > c_eman_kerin,31
+d_eman_nivkhia,d_eman_nivkhia,yes,,province_path;reverse_capital_owner_of:c_eman_nurgan,d,111922,k_amur,e_amur,e_amur > k_amur > d_eman_nivkhia,9
+c_eman_nurgan,c_eman_nurgan,yes,,province_path,c,111927,d_eman_nivkhia,e_amur,e_amur > k_amur > d_eman_nivkhia > c_eman_nurgan,29
+c_eman_amgun,c_eman_amgun,yes,,province_path,c,111952,d_eman_nivkhia,e_amur,e_amur > k_amur > d_eman_nivkhia > c_eman_amgun,28
+c_eman_tugur,c_eman_tugur,yes,,province_path,c,111972,d_eman_nivkhia,e_amur,e_amur > k_amur > d_eman_nivkhia > c_eman_tugur,30
+d_eman_amar,d_eman_amar,yes,,province_path;reverse_capital_owner_of:c_eman_murkonno,d,111993,k_amur,e_amur,e_amur > k_amur > d_eman_amar,6
+c_eman_murkonno,c_eman_murkonno,yes,,province_path,c,111998,d_eman_amar,e_amur,e_amur > k_amur > d_eman_amar > c_eman_murkonno,17
+c_eman_urmi,c_eman_urmi,yes,,province_path,c,112023,d_eman_amar,e_amur,e_amur > k_amur > d_eman_amar > c_eman_urmi,19
+c_eman_vanda,c_eman_vanda,yes,,province_path,c,112038,d_eman_amar,e_amur,e_amur > k_amur > d_eman_amar > c_eman_vanda,20
+c_eman_nimen,c_eman_nimen,yes,,province_path,c,112058,d_eman_amar,e_amur,e_amur > k_amur > d_eman_amar > c_eman_nimen,18
+d_eman_bureya,d_eman_bureya,yes,,province_path;reverse_capital_owner_of:c_eman_turma,d,112079,k_amur,e_amur,e_amur > k_amur > d_eman_bureya,8
+c_eman_turma,c_eman_turma,yes,,province_path,c,112084,d_eman_bureya,e_amur,e_amur > k_amur > d_eman_bureya > c_eman_turma,26
+c_eman_birija,c_eman_birija,yes,,province_path,c,112104,d_eman_bureya,e_amur,e_amur > k_amur > d_eman_bureya > c_eman_birija,25
+c_eman_urehokto,c_eman_urehokto,yes,,province_path,c,112119,d_eman_bureya,e_amur,e_amur > k_amur > d_eman_bureya > c_eman_urehokto,27
+k_aynumosir,k_ezo,no,,province_path;reverse_capital_owner_of:c_kusunkotan;reverse_capital_owner_of:c_simenas;reverse_capital_owner_of:c_uskes,k,112136,e_amur,e_amur,e_amur > k_aynumosir,4
+d_sahaliyan,d_sahaliyan,yes,,province_path;reverse_capital_owner_of:c_kusunkotan,d,112154,k_aynumosir,e_amur,e_amur > k_aynumosir > d_sahaliyan,13
+c_kusunkotan,c_kusunkotan,yes,,province_path,c,112167,d_sahaliyan,e_amur,e_amur > k_aynumosir > d_sahaliyan > c_kusunkotan,43
+c_pogibi,c_pogibi,yes,,province_path,c,112209,d_sahaliyan,e_amur,e_amur > k_aynumosir > d_sahaliyan > c_pogibi,44
+c_tarayka,c_tarayka,yes,,province_path,c,112253,d_sahaliyan,e_amur,e_amur > k_aynumosir > d_sahaliyan > c_tarayka,45
+d_menas,d_higashiezo,no,,province_path;reverse_capital_owner_of:c_simenas,d,112296,k_aynumosir,e_amur,e_amur > k_aynumosir > d_menas,12
+c_simenas,c_kushiro,no,,province_path,c,112310,d_menas,e_amur,e_amur > k_aynumosir > d_menas > c_simenas,41
+c_menas,c_tokachi,no,,province_path,c,112360,d_menas,e_amur,e_amur > k_aynumosir > d_menas > c_menas,40
+c_soya,c_kitami,no,,province_path,c,112400,d_menas,e_amur,e_amur > k_aynumosir > d_menas > c_soya,42
+c_chupka,c_chishima,no,,province_path,c,112450,d_menas,e_amur,e_amur > k_aynumosir > d_menas > c_chupka,39
+d_sum,d_sum,yes,,province_path;reverse_capital_owner_of:c_uskes,d,112481,k_aynumosir,e_amur,e_amur > k_aynumosir > d_sum,14
+c_uskes,c_oshima,no,,province_path,c,112495,d_sum,e_amur,e_amur > k_aynumosir > d_sum > c_uskes,49
+c_ioci,c_shiribeshi,no,,province_path,c,112544,d_sum,e_amur,e_amur > k_aynumosir > d_sum > c_ioci,46
+c_iskar,c_ishikari,no,,province_path,c,112593,d_sum,e_amur,e_amur > k_aynumosir > d_sum > c_iskar,47
+c_sum,c_hidaka,no,,province_path,c,112642,d_sum,e_amur,e_amur > k_aynumosir > d_sum > c_sum,48
+k_hitakami,k_hitakami,yes,,province_path;reverse_capital_owner_of:c_korehari;reverse_capital_owner_of:c_nushiro,k,112694,e_amur,e_amur,e_amur > k_hitakami,5
+d_hitakami,d_mutsu,no,,province_path;reverse_capital_owner_of:c_korehari,d,112708,k_hitakami,e_amur,e_amur > k_hitakami > d_hitakami,15
+c_korehari,c_korehari,yes,,province_path,c,112721,d_hitakami,e_amur,e_amur > k_hitakami > d_hitakami > c_korehari,53
+c_iwase,c_iwase,yes,,province_path,c,112758,d_hitakami,e_amur,e_amur > k_hitakami > d_hitakami > c_iwase,52
+c_isawa,c_isawa,yes,,province_path,c,112783,d_hitakami,e_amur,e_amur > k_hitakami > d_hitakami > c_isawa,50
+c_tsugaru,c_tsugaru,yes,,province_path,c,112812,d_hitakami,e_amur,e_amur > k_hitakami > d_hitakami > c_tsugaru,54
+c_iwaki,c_iwaki,yes,,province_path,c,112849,d_hitakami,e_amur,e_amur > k_hitakami > d_hitakami > c_iwaki,51
+d_nushiro,d_dewa,no,,province_path;reverse_capital_owner_of:c_nushiro,d,112870,k_hitakami,e_amur,e_amur > k_hitakami > d_nushiro,16
+c_nushiro,c_nushiro,yes,,province_path,c,112883,d_nushiro,e_amur,e_amur > k_hitakami > d_nushiro > c_nushiro,55
+c_tokisara,c_tokisara,yes,,province_path,c,112937,d_nushiro,e_amur,e_amur > k_hitakami > d_nushiro > c_tokisara,56
+k_xia,k_xia_china,no,,province_path;reverse_capital_owner_of:c_langshan;reverse_capital_owner_of:c_lingzhou;reverse_capital_owner_of:c_tiande;reverse_capital_owner_of:c_xiazhou,k,112973,e_xi_xia,e_xi_xia,e_xi_xia > k_xia,2165
+k_zhengyi,,,added_by_mask,reverse_capital_owner_of:c_fuzhou,k,551,,k_zhengyi,k_zhengyi,
+d_confucius,,,added_by_mask,reverse_capital_owner_of:c_yanzhou,d,1985,,d_confucius,d_confucius,
+d_zhengyi,,,added_by_mask,reverse_capital_owner_of:c_fuzhou,d,2007,,d_zhengyi,d_zhengyi,
+d_shangqing,,,added_by_mask,reverse_capital_owner_of:c_fuzhou,d,2026,,d_shangqing,d_shangqing,
+d_kambuja_devaraja,,,added_by_mask,reverse_capital_owner_of:c_angkor,d,2045,,d_kambuja_devaraja,d_kambuja_devaraja,
+e_ruucuu,,,added_by_mask,reverse_capital_owner_of:c_ucinaa,e,2282,,e_ruucuu,e_ruucuu,
+e_blue_horde,,,added_by_mask,reverse_capital_owner_of:c_yamashiro,e,2469,,e_blue_horde,e_blue_horde,
+e_omnod_dalai_khanate,,,added_by_mask,reverse_capital_owner_of:c_angkor,e,2655,,e_omnod_dalai_khanate,e_omnod_dalai_khanate,
+e_liao,,,added_by_mask,reverse_capital_owner_of:c_LIAO_linhuang,e,2792,,e_liao,e_liao,
+e_great_yuan,,,added_by_mask,reverse_capital_owner_of:c_youzhou,e,2865,,e_great_yuan,e_great_yuan,
+e_huang_qi,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,e,2879,,e_huang_qi,e_huang_qi,
+e_shang,,,added_by_mask,reverse_capital_owner_of:c_bozhou,e,2889,,e_shang,e_shang,
+e_tang,,,added_by_mask,reverse_capital_owner_of:c_henan,e,2899,,e_tang,e_tang,
+e_zhao,,,added_by_mask,reverse_capital_owner_of:c_zhaozhou,e,2910,,e_zhao,e_zhao,
+e_han,,,added_by_mask,reverse_capital_owner_of:c_henan,e,2920,,e_han,e_han,
+e_shu,,,added_by_mask,reverse_capital_owner_of:c_chengdu,e,2931,,e_shu,e_shu,
+e_yuan,,,added_by_mask,reverse_capital_owner_of:c_youzhou,e,2941,,e_yuan,e_yuan,
+e_wu,,,added_by_mask,reverse_capital_owner_of:c_jiangning,e,2963,,e_wu,e_wu,
+e_min,,,added_by_mask,reverse_capital_owner_of:c_fuzhou,e,2973,,e_min,e_min,
+e_yin,,,added_by_mask,reverse_capital_owner_of:c_jian_an,e,2983,,e_yin,e_yin,
+e_wei,,,added_by_mask,reverse_capital_owner_of:c_yunzhou,e,2993,,e_wei,e_wei,
+e_qin,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,e,3003,,e_qin,e_qin,
+e_wei3,,,added_by_mask,reverse_capital_owner_of:c_yunzhou,e,3013,,e_wei3,e_wei3,
+e_sima,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,e,3023,,e_sima,e_sima,
+e_liu_song,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,e,3033,,e_liu_song,e_liu_song,
+e_southern_qi,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,e,3043,,e_southern_qi,e_southern_qi,
+e_southern_liang,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,e,3053,,e_southern_liang,e_southern_liang,
+e_southern_chen,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,e,3063,,e_southern_chen,e_southern_chen,
+e_sui,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,e,3073,,e_sui,e_sui,
+e_tang1,,,added_by_mask,reverse_capital_owner_of:c_henan,e,3083,,e_tang1,e_tang1,
+e_liang,,,added_by_mask,reverse_capital_owner_of:c_henan,e,3097,,e_liang,e_liang,
+e_later_tang,,,added_by_mask,reverse_capital_owner_of:c_henan,e,3111,,e_later_tang,e_later_tang,
+e_later_jin,,,added_by_mask,reverse_capital_owner_of:c_henan,e,3125,,e_later_jin,e_later_jin,
+e_later_han,,,added_by_mask,reverse_capital_owner_of:c_henan,e,3139,,e_later_han,e_later_han,
+e_later_zhou,,,added_by_mask,reverse_capital_owner_of:c_henan,e,3153,,e_later_zhou,e_later_zhou,
+e_song,,,added_by_mask,reverse_capital_owner_of:c_bianzhou,e,3167,,e_song,e_song,
+e_nanzhao,,,added_by_mask,reverse_capital_owner_of:c_dali,e,3184,,e_nanzhao,e_nanzhao,
+e_majapahit,,,added_by_mask,reverse_capital_owner_of:c_JAV_janggala,e,3396,,e_majapahit,e_majapahit,
+k_tsongkha,,,added_by_mask,reverse_capital_owner_of:c_shanzhou,k,3448,,k_tsongkha,k_tsongkha,
+k_chiang_hung,,,added_by_mask,reverse_capital_owner_of:c_luang_prabang,k,3502,,k_chiang_hung,k_chiang_hung,
+d_weisheng,,,added_by_mask,reverse_capital_owner_of:c_dengzhou,d,3935,,d_weisheng,d_weisheng,
+d_anyuan,,,added_by_mask,reverse_capital_owner_of:c_anzhou,d,3941,,d_anyuan,d_anyuan,
+d_baosai,,,added_by_mask,reverse_capital_owner_of:c_yanzhou_3,d,3946,,d_baosai,d_baosai,
+d_jianxiong,,,added_by_mask,reverse_capital_owner_of:c_jinzhou_1,d,3952,,d_jianxiong,d_jianxiong,
+d_zhaowu,,,added_by_mask,reverse_capital_owner_of:c_xingzhou,d,3958,,d_zhaowu,d_zhaowu,
+d_weirong,,,added_by_mask,reverse_capital_owner_of:c_maowun,d,3964,,d_weirong,d_weirong,
+d_yongqing,,,added_by_mask,reverse_capital_owner_of:c_beizhou,d,3970,,d_yongqing,d_yongqing,
+d_yongan,,,added_by_mask,reverse_capital_owner_of:c_jian_an,d,3976,,d_yongan,d_yongan,
+d_majin,,,added_by_mask,reverse_capital_owner_of:c_seogyeong,d,3982,,d_majin,d_majin,
+d_tajiuud,,,added_by_mask,reverse_capital_owner_of:c_EM_shilka,d,4014,,d_tajiuud,d_tajiuud,
+e_mongolia,,,added_by_mask,province_path;reverse_capital_owner_of:c_EM_jiangbian;reverse_capital_owner_of:c_EM_kizilkhentii;reverse_capital_owner_of:c_EM_shilka;reverse_capital_owner_of:c_EM_yujuelu;reverse_capital_owner_of:c_em_dadaels;reverse_capital_owner_of:c_em_hepung;reverse_capital_owner_of:c_em_zhen;reverse_capital_owner_of:c_gobi_dorngovi;reverse_capital_owner_of:c_gobi_ongi_gol,e,38588,,e_mongolia,e_mongolia,
+k_mongolia,,,added_by_mask,province_path;reverse_capital_owner_of:c_EM_jiangbian;reverse_capital_owner_of:c_EM_kizilkhentii;reverse_capital_owner_of:c_EM_shilka;reverse_capital_owner_of:c_EM_yujuelu,k,38609,e_mongolia,e_mongolia,e_mongolia > k_mongolia,
+d_ogrash,,,added_by_mask,province_path,d,38753,k_mongolia,e_mongolia,e_mongolia > k_mongolia > d_ogrash,
+c_EM_khaldun,,,added_by_mask,province_path,c,38838,d_ogrash,e_mongolia,e_mongolia > k_mongolia > d_ogrash > c_EM_khaldun,
+d_khiyat_china,,,added_by_mask,province_path;reverse_capital_owner_of:c_EM_kizilkhentii,d,38866,k_mongolia,e_mongolia,e_mongolia > k_mongolia > d_khiyat_china,
+c_EM_kizilkhentii,,,added_by_mask,province_path,c,38873,d_khiyat_china,e_mongolia,e_mongolia > k_mongolia > d_khiyat_china > c_EM_kizilkhentii,
+c_EM_doodonon,,,added_by_mask,province_path,c,38892,d_khiyat_china,e_mongolia,e_mongolia > k_mongolia > d_khiyat_china > c_EM_doodonon,
+c_EM_khoyorgol,,,added_by_mask,province_path,c,38912,d_khiyat_china,e_mongolia,e_mongolia > k_mongolia > d_khiyat_china > c_EM_khoyorgol,
+d_EM_onon,,,added_by_mask,province_path;reverse_capital_owner_of:c_EM_jiangbian,d,38935,k_mongolia,e_mongolia,e_mongolia > k_mongolia > d_EM_onon,
+c_EM_jiangbian,,,added_by_mask,province_path,c,38942,d_EM_onon,e_mongolia,e_mongolia > k_mongolia > d_EM_onon > c_EM_jiangbian,
+c_EM_ononum,,,added_by_mask,province_path,c,38972,d_EM_onon,e_mongolia,e_mongolia > k_mongolia > d_EM_onon > c_EM_ononum,
+d_EM_yujuelu,,,added_by_mask,province_path;reverse_capital_owner_of:c_EM_yujuelu,d,38994,k_mongolia,e_mongolia,e_mongolia > k_mongolia > d_EM_yujuelu,
+c_EM_yujuelu,,,added_by_mask,province_path,c,39001,d_EM_yujuelu,e_mongolia,e_mongolia > k_mongolia > d_EM_yujuelu > c_EM_yujuelu,
+c_EM_tsetsen,,,added_by_mask,province_path,c,39026,d_EM_yujuelu,e_mongolia,e_mongolia > k_mongolia > d_EM_yujuelu > c_EM_tsetsen,
+c_EM_urtolgod,,,added_by_mask,province_path,c,39046,d_EM_yujuelu,e_mongolia,e_mongolia > k_mongolia > d_EM_yujuelu > c_EM_urtolgod,
+d_EM_wajiezi,,,added_by_mask,province_path;reverse_capital_owner_of:c_EM_shilka,d,39067,k_mongolia,e_mongolia,e_mongolia > k_mongolia > d_EM_wajiezi,
+c_EM_shilka,,,added_by_mask,province_path,c,39074,d_EM_wajiezi,e_mongolia,e_mongolia > k_mongolia > d_EM_wajiezi > c_EM_shilka,
+c_SW_talbai,,,added_by_mask,province_path,c,39094,d_EM_wajiezi,e_mongolia,e_mongolia > k_mongolia > d_EM_wajiezi > c_SW_talbai,
+c_EM_khiltsaiz,,,added_by_mask,province_path,c,39114,d_EM_wajiezi,e_mongolia,e_mongolia > k_mongolia > d_EM_wajiezi > c_EM_khiltsaiz,
+k_kerait,,,added_by_mask,province_path,k,39519,e_mongolia,e_mongolia,e_mongolia > k_kerait,
+d_ovorkhangai,,,added_by_mask,province_path,d,39526,k_kerait,e_mongolia,e_mongolia > k_kerait > d_ovorkhangai,
+c_gobi_gurvan_saikhan,,,added_by_mask,province_path,c,39649,d_ovorkhangai,e_mongolia,e_mongolia > k_kerait > d_ovorkhangai > c_gobi_gurvan_saikhan,
+k_gobi,,,added_by_mask,province_path;reverse_capital_owner_of:c_em_dadaels;reverse_capital_owner_of:c_em_hepung;reverse_capital_owner_of:c_em_zhen;reverse_capital_owner_of:c_gobi_dorngovi;reverse_capital_owner_of:c_gobi_ongi_gol,k,40486,e_mongolia,e_mongolia,e_mongolia > k_gobi,
+d_em_tataria,,,added_by_mask,province_path;reverse_capital_owner_of:c_em_zhen,d,40493,k_gobi,e_mongolia,e_mongolia > k_gobi > d_em_tataria,
+c_em_zhen,,,added_by_mask,province_path,c,40500,d_em_tataria,e_mongolia,e_mongolia > k_gobi > d_em_tataria > c_em_zhen,
+c_em_gobidada,,,added_by_mask,province_path,c,40525,d_em_tataria,e_mongolia,e_mongolia > k_gobi > d_em_tataria > c_em_gobidada,
+c_em_dutulun,,,added_by_mask,province_path,c,40550,d_em_tataria,e_mongolia,e_mongolia > k_gobi > d_em_tataria > c_em_dutulun,
+c_em_kherulendada,,,added_by_mask,province_path,c,40570,d_em_tataria,e_mongolia,e_mongolia > k_gobi > d_em_tataria > c_em_kherulendada,
+d_em_wuguguo,,,added_by_mask,province_path;reverse_capital_owner_of:c_em_hepung,d,40591,k_gobi,e_mongolia,e_mongolia > k_gobi > d_em_wuguguo,
+c_em_hepung,,,added_by_mask,province_path,c,40598,d_em_wuguguo,e_mongolia,e_mongolia > k_gobi > d_em_wuguguo > c_em_hepung,
+c_em_karakopi,,,added_by_mask,province_path,c,40623,d_em_wuguguo,e_mongolia,e_mongolia > k_gobi > d_em_wuguguo > c_em_karakopi,
+c_em_akhulun,,,added_by_mask,province_path,c,40643,d_em_wuguguo,e_mongolia,e_mongolia > k_gobi > d_em_wuguguo > c_em_akhulun,
+c_em_khartereg,,,added_by_mask,province_path,c,40663,d_em_wuguguo,e_mongolia,e_mongolia > k_gobi > d_em_wuguguo > c_em_khartereg,
+d_gobi_dadaels,,,added_by_mask,province_path;reverse_capital_owner_of:c_em_dadaels,d,40684,k_gobi,e_mongolia,e_mongolia > k_gobi > d_gobi_dadaels,
+c_em_dadaels,,,added_by_mask,province_path,c,40691,d_gobi_dadaels,e_mongolia,e_mongolia > k_gobi > d_gobi_dadaels > c_em_dadaels,
+c_gobi_ulaantatar,,,added_by_mask,province_path,c,40711,d_gobi_dadaels,e_mongolia,e_mongolia > k_gobi > d_gobi_dadaels > c_gobi_ulaantatar,
+d_gobi_shatuoguo,,,added_by_mask,province_path;reverse_capital_owner_of:c_gobi_dorngovi,d,40732,k_gobi,e_mongolia,e_mongolia > k_gobi > d_gobi_shatuoguo,
+c_gobi_dorngovi,,,added_by_mask,province_path,c,40739,d_gobi_shatuoguo,e_mongolia,e_mongolia > k_gobi > d_gobi_shatuoguo > c_gobi_dorngovi,
+c_gobi_sonkhot,,,added_by_mask,province_path,c,40754,d_gobi_shatuoguo,e_mongolia,e_mongolia > k_gobi > d_gobi_shatuoguo > c_gobi_sonkhot,
+c_gobi_maominggan,,,added_by_mask,province_path,c,40769,d_gobi_shatuoguo,e_mongolia,e_mongolia > k_gobi > d_gobi_shatuoguo > c_gobi_maominggan,
+c_gobi_abga,,,added_by_mask,province_path,c,40784,d_gobi_shatuoguo,e_mongolia,e_mongolia > k_gobi > d_gobi_shatuoguo > c_gobi_abga,
+c_gobi_abakhai,,,added_by_mask,province_path,c,40799,d_gobi_shatuoguo,e_mongolia,e_mongolia > k_gobi > d_gobi_shatuoguo > c_gobi_abakhai,
+d_gobi_ongi,,,added_by_mask,province_path;reverse_capital_owner_of:c_gobi_ongi_gol,d,40815,k_gobi,e_mongolia,e_mongolia > k_gobi > d_gobi_ongi,
+c_gobi_ongi_gol,,,added_by_mask,province_path,c,40822,d_gobi_ongi,e_mongolia,e_mongolia > k_gobi > d_gobi_ongi > c_gobi_ongi_gol,
+c_gobi_ulaan_nuur,,,added_by_mask,province_path,c,40837,d_gobi_ongi,e_mongolia,e_mongolia > k_gobi > d_gobi_ongi > c_gobi_ulaan_nuur,
+c_gobi_ulaan_govi,,,added_by_mask,province_path,c,40852,d_gobi_ongi,e_mongolia,e_mongolia > k_gobi > d_gobi_ongi > c_gobi_ulaan_govi,
+e_great_liao,,,added_by_mask,province_path;reverse_capital_owner_of:c_LIAO_dading;reverse_capital_owner_of:c_LIAO_linhuang;reverse_capital_owner_of:c_LIAO_ulagaian;reverse_capital_owner_of:c_LIAO_wuzhou;reverse_capital_owner_of:c_lxj_huanzhou;reverse_capital_owner_of:c_seogyeong,e,42898,,e_great_liao,e_great_liao,
+k_liao_zhongjing,,,added_by_mask,reverse_capital_owner_of:c_LIAO_dading,k,42947,e_great_liao,e_great_liao,e_great_liao > k_liao_zhongjing,
+d_hejes_china,,,added_by_mask,province_path;reverse_capital_owner_of:c_LIAO_ulagaian,d,43384,k_khitan,e_great_liao,e_great_liao > k_khitan > d_hejes_china,
+d_laamp_shunkan,,,added_by_mask,reverse_capital_owner_of:c_amami,d,75275,,d_laamp_shunkan,d_laamp_shunkan,
+d_laamp_takaoka,,,added_by_mask,reverse_capital_owner_of:c_nakhon_pathom,d,75289,,d_laamp_takaoka,d_laamp_takaoka,
+d_laamp_yoshitsune,,,added_by_mask,reverse_capital_owner_of:c_isawa,d,75303,,d_laamp_yoshitsune,d_laamp_yoshitsune,
+d_laamp_miyoshi_kiyotsura,,,added_by_mask,reverse_capital_owner_of:c_yamashiro,d,75317,,d_laamp_miyoshi_kiyotsura,d_laamp_miyoshi_kiyotsura,
+d_laamp_hiei_wayfarers,,,added_by_mask,reverse_capital_owner_of:c_yamashiro,d,75331,,d_laamp_hiei_wayfarers,d_laamp_hiei_wayfarers,
+d_laamp_northern_blades,,,added_by_mask,reverse_capital_owner_of:c_korehari,d,75345,,d_laamp_northern_blades,d_laamp_northern_blades,
+d_laamp_band_of_the_inland_sea,,,added_by_mask,reverse_capital_owner_of:c_chikuzen,d,75359,,d_laamp_band_of_the_inland_sea,d_laamp_band_of_the_inland_sea,
+d_nf_tang_li,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,d,76874,,d_nf_tang_li,d_nf_tang_li,
+d_nf_tang_yan,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,d,76889,,d_nf_tang_yan,d_nf_tang_yan,
+d_nf_tang_lu,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,d,76904,,d_nf_tang_lu,d_nf_tang_lu,
+d_nf_tang_du,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,d,76919,,d_nf_tang_du,d_nf_tang_du,
+d_nf_tang_yuan,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,d,76934,,d_nf_tang_yuan,d_nf_tang_yuan,
+d_nf_tang_wang,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,d,76949,,d_nf_tang_wang,d_nf_tang_wang,
+d_nf_tang_ma,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,d,76964,,d_nf_tang_ma,d_nf_tang_ma,
+d_nf_tang_cui,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,d,76979,,d_nf_tang_cui,d_nf_tang_cui,
+d_nf_tang_zhang,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,d,76994,,d_nf_tang_zhang,d_nf_tang_zhang,
+d_nf_tang_feng,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,d,77009,,d_nf_tang_feng,d_nf_tang_feng,
+d_nf_tang_liu,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,d,77024,,d_nf_tang_liu,d_nf_tang_liu,
+d_nf_tang_xiao,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,d,77039,,d_nf_tang_xiao,d_nf_tang_xiao,
+d_nf_tang_wei,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,d,77054,,d_nf_tang_wei,d_nf_tang_wei,
+d_nf_tang_chen,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,d,77069,,d_nf_tang_chen,d_nf_tang_chen,
+d_nf_tang_pei,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,d,77084,,d_nf_tang_pei,d_nf_tang_pei,
+d_nf_tang_tang,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,d,77099,,d_nf_tang_tang,d_nf_tang_tang,
+d_nf_tang_gao,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,d,77114,,d_nf_tang_gao,d_nf_tang_gao,
+d_nf_tang_li3,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,d,77129,,d_nf_tang_li3,d_nf_tang_li3,
+d_nf_tang_shi,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,d,77144,,d_nf_tang_shi,d_nf_tang_shi,
+d_nf_tang_tuoba,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,d,77159,,d_nf_tang_tuoba,d_nf_tang_tuoba,
+d_nf_tang_meng,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,d,77174,,d_nf_tang_meng,d_nf_tang_meng,
+d_nf_tang_li2,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,d,77189,,d_nf_tang_li2,d_nf_tang_li2,
+d_nf_tang_yang,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,d,77204,,d_nf_tang_yang,d_nf_tang_yang,
+d_nf_tang_qian,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,d,77219,,d_nf_tang_qian,d_nf_tang_qian,
+d_nf_tang_liu2,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,d,77264,,d_nf_tang_liu2,d_nf_tang_liu2,
+d_nf_tang_duong,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,d,77279,,d_nf_tang_duong,d_nf_tang_duong,
+d_nf_tang_cao,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,d,77294,,d_nf_tang_cao,d_nf_tang_cao,
+d_nf_song_zhao,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,d,77309,,d_nf_song_zhao,d_nf_song_zhao,
+d_nf_japan_tachibana,,,added_by_mask,reverse_capital_owner_of:c_yamato,d,77324,,d_nf_japan_tachibana,d_nf_japan_tachibana,
+d_nf_japan_taira,,,added_by_mask,reverse_capital_owner_of:c_yamato,d,77339,,d_nf_japan_taira,d_nf_japan_taira,
+d_nf_japan_minamoto,,,added_by_mask,reverse_capital_owner_of:c_yamato,d,77354,,d_nf_japan_minamoto,d_nf_japan_minamoto,
+d_nf_japan_fujiwara_oshu,,,added_by_mask,reverse_capital_owner_of:c_yamato,d,77369,,d_nf_japan_fujiwara_oshu,d_nf_japan_fujiwara_oshu,
+d_nf_japan_fujiwara_nanke,,,added_by_mask,reverse_capital_owner_of:c_yamato,d,77384,,d_nf_japan_fujiwara_nanke,d_nf_japan_fujiwara_nanke,
+d_nf_japan_fujiwara_hokke,,,added_by_mask,reverse_capital_owner_of:c_yamato,d,77399,,d_nf_japan_fujiwara_hokke,d_nf_japan_fujiwara_hokke,
+d_nf_japan_fujiwara_shikike,,,added_by_mask,reverse_capital_owner_of:c_yamato,d,77414,,d_nf_japan_fujiwara_shikike,d_nf_japan_fujiwara_shikike,
+d_nf_japan_fujiwara_kyoke,,,added_by_mask,reverse_capital_owner_of:c_yamato,d,77429,,d_nf_japan_fujiwara_kyoke,d_nf_japan_fujiwara_kyoke,
+d_nf_japan_yamato,,,added_by_mask,reverse_capital_owner_of:c_yamato,d,77444,,d_nf_japan_yamato,d_nf_japan_yamato,
+d_nf_japan_shogunate_hojo,,,added_by_mask,reverse_capital_owner_of:c_yamato,d,77459,,d_nf_japan_shogunate_hojo,d_nf_japan_shogunate_hojo,
+d_laamp_tokiyuki1337,,,added_by_mask,reverse_capital_owner_of:c_shinano,d,77949,,d_laamp_tokiyuki1337,d_laamp_tokiyuki1337,
+d_laamp_Fan1171,,,added_by_mask,reverse_capital_owner_of:c_suzhou,d,78118,,d_laamp_Fan1171,d_laamp_Fan1171,
+d_laamp_Minamoto1171,,,added_by_mask,reverse_capital_owner_of:c_shinano,d,78144,,d_laamp_Minamoto1171,d_laamp_Minamoto1171,
+d_laamp_Benkei1171,,,added_by_mask,reverse_capital_owner_of:c_yamashiro,d,78196,,d_laamp_Benkei1171,d_laamp_Benkei1171,
+d_laamp_Zhao1211,,,added_by_mask,reverse_capital_owner_of:c_quanzhou,d,78287,,d_laamp_Zhao1211,d_laamp_Zhao1211,
+d_laamp_Marco1286,,,added_by_mask,reverse_capital_owner_of:c_youzhou,d,78326,,d_laamp_Marco1286,d_laamp_Marco1286,
+d_laamp_hanshantong1337,,,added_by_mask,reverse_capital_owner_of:c_yingzhou,d,78430,,d_laamp_hanshantong1337,d_laamp_hanshantong1337,
+d_laamp_mingyuzhen1337,,,added_by_mask,reverse_capital_owner_of:c_chengdu,d,78443,,d_laamp_mingyuzhen1337,d_laamp_mingyuzhen1337,
+d_laamp_youliang1337,,,added_by_mask,reverse_capital_owner_of:c_yuezhou,d,78456,,d_laamp_youliang1337,d_laamp_youliang1337,
+d_laamp_fangguo1337,,,added_by_mask,reverse_capital_owner_of:c_taizhou,d,78469,,d_laamp_fangguo1337,d_laamp_fangguo1337,
+d_laamp_shicheng1337,,,added_by_mask,reverse_capital_owner_of:c_haizhou,d,78482,,d_laamp_shicheng1337,d_laamp_shicheng1337,
+d_laamp_xuanji,,,added_by_mask,reverse_capital_owner_of:c_jingzhao,d,78543,,d_laamp_xuanji,d_laamp_xuanji,
+d_laamp_ding_hui,,,added_by_mask,reverse_capital_owner_of:c_weizhou,d,78557,,d_laamp_ding_hui,d_laamp_ding_hui,
+d_laamp_liang_zhu_quanzhong,,,added_by_mask,reverse_capital_owner_of:c_bianzhou,d,78571,,d_laamp_liang_zhu_quanzhong,d_laamp_liang_zhu_quanzhong,
+d_laamp_liangshan_band,,,added_by_mask,reverse_capital_owner_of:c_qiongzhou,d,78585,,d_laamp_liangshan_band,d_laamp_liangshan_band,
+d_laamp_frontier_guardians,,,added_by_mask,reverse_capital_owner_of:c_taiyuan,d,78599,,d_laamp_frontier_guardians,d_laamp_frontier_guardians,
+d_laamp_companions_of_caodong,,,added_by_mask,reverse_capital_owner_of:c_bianzhou,d,78613,,d_laamp_companions_of_caodong,d_laamp_companions_of_caodong,
+d_laamp_disciples_of_chongyang,,,added_by_mask,reverse_capital_owner_of:c_dengzhou,d,78629,,d_laamp_disciples_of_chongyang,d_laamp_disciples_of_chongyang,
+d_laamp_wandering_lute,,,added_by_mask,reverse_capital_owner_of:c_jizhou,d,78643,,d_laamp_wandering_lute,d_laamp_wandering_lute,
+d_laamp_dawn_company,,,added_by_mask,reverse_capital_owner_of:c_haozhou,d,78657,,d_laamp_dawn_company,d_laamp_dawn_company,
+d_laamp_eastern_sculptors,,,added_by_mask,reverse_capital_owner_of:c_yuezhou,d,78671,,d_laamp_eastern_sculptors,d_laamp_eastern_sculptors,
+c_nf_huang_9EC4,,,added_by_mask,reverse_capital_owner_of:c_caozhou,c,78685,,c_nf_huang_9EC4,c_nf_huang_9EC4,
+c_nf_qin_79E6_4,,,added_by_mask,reverse_capital_owner_of:c_yangzhou,c,78700,,c_nf_qin_79E6_4,c_nf_qin_79E6_4,
+c_nf_xia_liang,,,added_by_mask,reverse_capital_owner_of:c_xingqing,c,78715,,c_nf_xia_liang,c_nf_xia_liang,
+h_india,,,added_by_mask,province_path;reverse_capital_owner_of:c_charaideo;reverse_capital_owner_of:c_harikela;reverse_capital_owner_of:c_kundina;reverse_capital_owner_of:c_manipur;reverse_capital_owner_of:c_rima,h,81244,,h_india,h_india,
+e_himalaya,,,added_by_mask,province_path;reverse_capital_owner_of:c_rima,e,81270,h_india,h_india,h_india > e_himalaya,
+k_lhomon,,,added_by_mask,province_path;reverse_capital_owner_of:c_rima,k,81937,e_himalaya,h_india,h_india > e_himalaya > k_lhomon,
+d_dzayul,,,added_by_mask,province_path;reverse_capital_owner_of:c_rima,d,82210,k_lhomon,h_india,h_india > e_himalaya > k_lhomon > d_dzayul,
+c_rima,,,added_by_mask,province_path,c,82215,d_dzayul,h_india,h_india > e_himalaya > k_lhomon > d_dzayul > c_rima,
+c_golag,,,added_by_mask,province_path,c,82237,d_dzayul,h_india,h_india > e_himalaya > k_lhomon > d_dzayul > c_golag,
+c_tezu,,,added_by_mask,province_path,c,82275,d_dzayul,h_india,h_india > e_himalaya > k_lhomon > d_dzayul > c_tezu,
+e_bengal,,,added_by_mask,province_path,e,84787,h_india,h_india,h_india > e_bengal,
+k_bengal_east,,,added_by_mask,province_path,k,84808,e_bengal,h_india,h_india > e_bengal > k_bengal_east,
+d_vanga,,,added_by_mask,province_path,d,84813,k_bengal_east,h_india,h_india > e_bengal > k_bengal_east > d_vanga,
+c_karmanta,,,added_by_mask,province_path,c,84879,d_vanga,h_india,h_india > e_bengal > k_bengal_east > d_vanga > c_karmanta,
+d_chattogram,,,added_by_mask,province_path,d,84909,k_bengal_east,h_india,h_india > e_bengal > k_bengal_east > d_chattogram,
+c_chatigama,,,added_by_mask,province_path,c,84912,d_chattogram,h_india,h_india > e_bengal > k_bengal_east > d_chattogram > c_chatigama,
+c_samatata,,,added_by_mask,province_path,c,84930,d_chattogram,h_india,h_india > e_bengal > k_bengal_east > d_chattogram > c_samatata,
+e_pragjyotisha,,,added_by_mask,province_path;reverse_capital_owner_of:c_charaideo;reverse_capital_owner_of:c_harikela;reverse_capital_owner_of:c_kundina;reverse_capital_owner_of:c_manipur,e,86291,h_india,h_india,h_india > e_pragjyotisha,
+k_chutia,,,added_by_mask,reverse_capital_owner_of:c_kundina,k,86314,e_pragjyotisha,h_india,h_india > e_pragjyotisha > k_chutia,
+k_ahom,,,added_by_mask,reverse_capital_owner_of:c_charaideo,k,86321,e_pragjyotisha,h_india,h_india > e_pragjyotisha > k_ahom,
+d_ahom,,,added_by_mask,reverse_capital_owner_of:c_charaideo,d,86326,k_ahom,h_india,h_india > e_pragjyotisha > k_ahom > d_ahom,
+k_kamarupa,,,added_by_mask,province_path,k,86334,e_pragjyotisha,h_india,h_india > e_pragjyotisha > k_kamarupa,
+d_sutiya,,,added_by_mask,province_path,d,86399,k_kamarupa,h_india,h_india > e_pragjyotisha > k_kamarupa > d_sutiya,
+c_charaideo,,,added_by_mask,province_path,c,86426,d_sutiya,h_india,h_india > e_pragjyotisha > k_kamarupa > d_sutiya > c_charaideo,
+c_kundina,,,added_by_mask,province_path,c,86448,d_sutiya,h_india,h_india > e_pragjyotisha > k_kamarupa > d_sutiya > c_kundina,
+k_manipur,,,added_by_mask,province_path;reverse_capital_owner_of:c_manipur,k,86552,e_pragjyotisha,h_india,h_india > e_pragjyotisha > k_manipur,
+d_manipur,,,added_by_mask,province_path,d,86557,k_manipur,h_india,h_india > e_pragjyotisha > k_manipur > d_manipur,
+c_manipur,,,added_by_mask,province_path,c,86560,d_manipur,h_india,h_india > e_pragjyotisha > k_manipur > d_manipur > c_manipur,
+k_tripura,,,added_by_mask,province_path;reverse_capital_owner_of:c_harikela,k,86579,e_pragjyotisha,h_india,h_india > e_pragjyotisha > k_tripura,
+d_tripura,,,added_by_mask,province_path;reverse_capital_owner_of:c_harikela,d,86584,k_tripura,h_india,h_india > e_pragjyotisha > k_tripura > d_tripura,
+c_harikela,,,added_by_mask,province_path,c,86589,d_tripura,h_india,h_india > e_pragjyotisha > k_tripura > d_tripura > c_harikela,
+e_tibet,,,added_by_mask,province_path;reverse_capital_owner_of:c_barkam;reverse_capital_owner_of:c_batang;reverse_capital_owner_of:c_chakla;reverse_capital_owner_of:c_jone;reverse_capital_owner_of:c_qamdo,e,89403,,e_tibet,e_tibet,
+k_kham,,,added_by_mask,province_path;reverse_capital_owner_of:c_batang;reverse_capital_owner_of:c_qamdo,k,90041,e_tibet,e_tibet,e_tibet > k_kham,
+d_qamdo,,,added_by_mask,province_path;reverse_capital_owner_of:c_qamdo,d,90046,k_kham,e_tibet,e_tibet > k_kham > d_qamdo,
+c_qamdo,,,added_by_mask,province_path,c,90051,d_qamdo,e_tibet,e_tibet > k_kham > d_qamdo > c_qamdo,
+d_boyul,,,added_by_mask,province_path,d,90163,k_kham,e_tibet,e_tibet > k_kham > d_boyul,
+c_baxoi,,,added_by_mask,province_path,c,90196,d_boyul,e_tibet,e_tibet > k_kham > d_boyul > c_baxoi,
+c_zogang,,,added_by_mask,province_path,c,90212,d_boyul,e_tibet,e_tibet > k_kham > d_boyul > c_zogang,
+d_batang,,,added_by_mask,province_path;reverse_capital_owner_of:c_batang,d,90494,k_kham,e_tibet,e_tibet > k_kham > d_batang,
+c_batang,,,added_by_mask,province_path,c,90499,d_batang,e_tibet,e_tibet > k_kham > d_batang > c_batang,
+c_markam,,,added_by_mask,province_path,c,90521,d_batang,e_tibet,e_tibet > k_kham > d_batang > c_markam,
+c_deqen,,,added_by_mask,province_path,c,90537,d_batang,e_tibet,e_tibet > k_kham > d_batang > c_deqen,
+c_gyaitang,,,added_by_mask,province_path,c,90553,d_batang,e_tibet,e_tibet > k_kham > d_batang > c_gyaitang,
+d_litang,,,added_by_mask,province_path,d,90577,k_kham,e_tibet,e_tibet > k_kham > d_litang,
+c_lenggu,,,added_by_mask,province_path,c,90598,d_litang,e_tibet,e_tibet > k_kham > d_litang > c_lenggu,
+c_muli,,,added_by_mask,province_path,c,90631,d_litang,e_tibet,e_tibet > k_kham > d_litang > c_muli,
+k_gyalrong,,,added_by_mask,province_path;reverse_capital_owner_of:c_barkam;reverse_capital_owner_of:c_chakla;reverse_capital_owner_of:c_jone,k,91231,e_tibet,e_tibet,e_tibet > k_gyalrong,
+d_gyalrong,,,added_by_mask,province_path;reverse_capital_owner_of:c_barkam,d,91242,k_gyalrong,e_tibet,e_tibet > k_gyalrong > d_gyalrong,
+c_barkam,,,added_by_mask,province_path,c,91253,d_gyalrong,e_tibet,e_tibet > k_gyalrong > d_gyalrong > c_barkam,
+c_ngawa,,,added_by_mask,province_path,c,91290,d_gyalrong,e_tibet,e_tibet > k_gyalrong > d_gyalrong > c_ngawa,
+c_maowun,,,added_by_mask,province_path,c,91328,d_gyalrong,e_tibet,e_tibet > k_gyalrong > d_gyalrong > c_maowun,
+c_sungqu,,,added_by_mask,province_path,c,91367,d_gyalrong,e_tibet,e_tibet > k_gyalrong > d_gyalrong > c_sungqu,
+c_zoige,,,added_by_mask,province_path,c,91394,d_gyalrong,e_tibet,e_tibet > k_gyalrong > d_gyalrong > c_zoige,
+c_quqen,,,added_by_mask,province_path,c,91420,d_gyalrong,e_tibet,e_tibet > k_gyalrong > d_gyalrong > c_quqen,
+d_chakla,,,added_by_mask,province_path;reverse_capital_owner_of:c_chakla,d,91471,k_gyalrong,e_tibet,e_tibet > k_gyalrong > d_chakla,
+c_chakla,,,added_by_mask,province_path,c,91480,d_chakla,e_tibet,e_tibet > k_gyalrong > d_chakla > c_chakla,
+c_lhagang,,,added_by_mask,province_path,c,91512,d_chakla,e_tibet,e_tibet > k_gyalrong > d_chakla > c_lhagang,
+c_dawu,,,added_by_mask,province_path,c,91538,d_chakla,e_tibet,e_tibet > k_gyalrong > d_chakla > c_dawu,
+d_gainlho,,,added_by_mask,province_path;reverse_capital_owner_of:c_jone,d,91835,k_gyalrong,e_tibet,e_tibet > k_gyalrong > d_gainlho,
+c_jone,,,added_by_mask,province_path,c,91844,d_gainlho,e_tibet,e_tibet > k_gyalrong > d_gainlho > c_jone,
+c_tewo,,,added_by_mask,province_path,c,91905,d_gainlho,e_tibet,e_tibet > k_gyalrong > d_gainlho > c_tewo,
+e_xi_xia,,,added_by_mask,province_path;reverse_capital_owner_of:c_langshan;reverse_capital_owner_of:c_lingzhou;reverse_capital_owner_of:c_tiande;reverse_capital_owner_of:c_xiazhou,e,112968,,e_xi_xia,e_xi_xia,
+d_shuofang,,,added_by_mask,province_path;reverse_capital_owner_of:c_lingzhou,d,113058,k_xia,e_xi_xia,e_xi_xia > k_xia > d_shuofang,
+c_lingzhou,,,added_by_mask,province_path,c,113063,d_shuofang,e_xi_xia,e_xi_xia > k_xia > d_shuofang > c_lingzhou,
+c_huaiyuan,,,added_by_mask,province_path,c,113087,d_shuofang,e_xi_xia,e_xi_xia > k_xia > d_shuofang > c_huaiyuan,
+c_weizhou_3,,,added_by_mask,province_path,c,113119,d_shuofang,e_xi_xia,e_xi_xia > k_xia > d_shuofang > c_weizhou_3,
+c_wulan,,,added_by_mask,province_path,c,113133,d_shuofang,e_xi_xia,e_xi_xia > k_xia > d_shuofang > c_wulan,
+c_xiongzhou,,,added_by_mask,province_path,c,113152,d_shuofang,e_xi_xia,e_xi_xia > k_xia > d_shuofang > c_xiongzhou,
+c_huizhou,,,added_by_mask,province_path,c,113176,d_shuofang,e_xi_xia,e_xi_xia > k_xia > d_shuofang > c_huizhou,
+d_xiasui,,,added_by_mask,province_path;reverse_capital_owner_of:c_xiazhou,d,113201,k_xia,e_xi_xia,e_xi_xia > k_xia > d_xiasui,
+c_xiazhou,,,added_by_mask,province_path,c,113206,d_xiasui,e_xi_xia,e_xi_xia > k_xia > d_xiasui > c_xiazhou,
+c_suizhou,,,added_by_mask,province_path,c,113230,d_xiasui,e_xi_xia,e_xi_xia > k_xia > d_xiasui > c_suizhou,
+c_yinzhou,,,added_by_mask,province_path,c,113249,d_xiasui,e_xi_xia,e_xi_xia > k_xia > d_xiasui > c_yinzhou,
+c_wuyuan,,,added_by_mask,province_path,c,113268,d_xiasui,e_xi_xia,e_xi_xia > k_xia > d_xiasui > c_wuyuan,
+c_youzhou_2,,,added_by_mask,province_path,c,113292,d_xiasui,e_xi_xia,e_xi_xia > k_xia > d_xiasui > c_youzhou_2,
+c_quye,,,added_by_mask,province_path,c,113316,d_xiasui,e_xi_xia,e_xi_xia > k_xia > d_xiasui > c_quye,
+d_tiande,,,added_by_mask,province_path;reverse_capital_owner_of:c_tiande,d,113334,k_xia,e_xi_xia,e_xi_xia > k_xia > d_tiande,
+c_tiande,,,added_by_mask,province_path,c,113339,d_tiande,e_xi_xia,e_xi_xia > k_xia > d_tiande > c_tiande,
+c_lxj_fengzhou,,,added_by_mask,province_path,c,113353,d_tiande,e_xi_xia,e_xi_xia > k_xia > d_tiande > c_lxj_fengzhou,
+d_langshan,,,added_by_mask,province_path;reverse_capital_owner_of:c_langshan,d,113373,k_xia,e_xi_xia,e_xi_xia > k_xia > d_langshan,
+c_langshan,,,added_by_mask,province_path,c,113378,d_langshan,e_xi_xia,e_xi_xia > k_xia > d_langshan > c_langshan,
+c_keyimen,,,added_by_mask,province_path,c,113397,d_langshan,e_xi_xia,e_xi_xia > k_xia > d_langshan > c_keyimen,
+c_hequ,,,added_by_mask,province_path,c,113411,d_langshan,e_xi_xia,e_xi_xia > k_xia > d_langshan > c_hequ,
+d_xiutu,,,added_by_mask,province_path,d,113431,k_xia,e_xi_xia,e_xi_xia > k_xia > d_xiutu,
+c_tengger,,,added_by_mask,province_path,c,113454,d_xiutu,e_xi_xia,e_xi_xia > k_xia > d_xiutu > c_tengger,
