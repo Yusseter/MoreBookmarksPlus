@@ -335,7 +335,7 @@ impassable_mountains = RANGE { 14039 14081 }
 #Empty provinces from Rajas port over or they were already empty in Rajas. When emptying provinces make sure to remove the 'name' in definitions to prevent an error report
 
 impassable_mountains = LIST { 399 416 420 3222 4024 4056 4071 4224 4415 4512 4884 5802 6304 7108 7113 7117 7267 7268 8153 8162 8167 8168 9040 9041 }
-impassable_mountains = LIST { 9069 9074 9084 9171 9184 9185 9193 9227 9236 9295 9360 9394 9468 11512 12001 12035 12773 12783 12799 12888 12946 13430 13450 13503 }
+impassable_mountains = LIST { 9069 9074 9084 9171 9184 9185 9193 9227 9236 9295 9360 9394 9468 11512 12001 12035 12799 12888 12946 13430 13450 13503 }
 impassable_mountains = LIST { 13504 13615 }
 impassable_mountains = RANGE { 13881 13884 }
 impassable_mountains = LIST { 13886 13887 13914 }
@@ -354,8 +354,10 @@ impassable_mountains = LIST { 12794 12809 14196 14197 }
 
 # TECH PLACEHOLDER PROVINCES BEGIN
 # Added from final preserve_old_ids staging. Only IDs not already impassable in default.map are included.
-impassable_mountains = RANGE { 12774 12782 }
-impassable_mountains = RANGE { 12784 12793 }
+impassable_mountains = RANGE { 12774 12776 }
+impassable_mountains = RANGE { 12778 12779 }
+impassable_mountains = LIST { 12784 }
+impassable_mountains = RANGE { 12786 12793 }
 impassable_mountains = RANGE { 12795 12798 }
 impassable_mountains = RANGE { 12800 12808 }
 impassable_mountains = LIST { 12826 }
