@@ -1,4 +1,4 @@
-﻿# CK3 Harita Birlesim Hafizasi
+# CK3 Harita Birlesim Hafizasi
 
 ## Calisma Kurali
 
@@ -3711,3 +3711,737 @@ Yeni raporlar:
   - kalan agir zorluklar:
     - `11585 Khabaungkyo -> 9595 Swa` hala `review:high_overlap`; bu `c_toungoo` subtree shuffle vakasi olarak ayrik tutuluyor
     - kalan `e_bengal` satirlarinin buyuk cogu artik gercek `merge/shared_target` veya `not_primary_target_source` sinifinda
+
+## 2026-04-17 title_relation_master_manuel anlami ve dogrulama
+
+- Son `title_relation_master_manuel` turunda kritik anlam kuralı netlesti:
+  - `title_relation_master_manuel.csv` icindeki `mod_title_id` alani yalnizca orijinal modda gercekten var olan title id tasir
+  - authoritative kaynak:
+    - `F:\Storage\Codding\git\Crusader Kings III\Leviathonlx MoreBookmarks-Plus\BookmarksGit\common\landed_titles\00_landed_titles.txt`
+  - current/Yusseter repo title id'leri bu kolona fallback olarak yazilmaz
+
+- Bu kurali bozan yanlis ara deneme kayda gecirildi:
+  - onceki bozuk yeniden-yazimda, orijinal mod title id current repoda yoksa ama `source_title_id` current repoda varsa, o `source_title_id` yanlislikla `mod_title_id` olarak yazildi
+  - bu semantik olarak yanlisti; cunku kolonun anlami `current title` degil, `orijinal mod counterpart` olmaliydi
+
+- Kanit ornegi:
+  - `source_title_id = b_youxi`
+  - `works/map_data_sources/title_relation_master.csv` tarafinda gercek mod/canonical karsiligi `b_youxi_china`
+  - Leviathon orijinal mod `00_landed_titles.txt` icinde `b_youxi_china` var
+  - Leviathon orijinal modda `b_youxi` yok
+  - bu nedenle `mod_title_id = b_youxi` yazimi acik hata kabul edildi
+
+- Kullanici duzgun ve bozuk surumu ayri dosyalarda sabitledi:
+  - dogru ana dosya:
+    - `title_relation_master_manuel.csv`
+  - bozuk ara surum:
+    - `title_relation_master_manuel_bozuk.csv`
+
+- Sonraki dogru kontrol kuralı:
+  - `title_relation_master_manuel.csv` ile `works/map_data_sources/title_relation_master.csv` tutarliligi kontrol edilir
+  - dolu `mod_title_id` degerlerinin tamami Leviathon orijinal mod `00_landed_titles.txt` icinde fiilen mevcut olmali
+  - Yusseter/current landed_titles varligi burada yeterli kabul edilmez
+
+- Son dogrulama sonucu:
+  - `title_relation_master_manuel.csv` ile `works/map_data_sources/title_relation_master.csv` farki: `0`
+  - dolu `mod_title_id` satiri: `1541`
+  - Leviathon orijinal mod `00_landed_titles.txt` icinde bulunmayan `mod_title_id`: `0`
+  - `title_relation_master_manuel.csv` ile `title_relation_master_manuel_bozuk.csv` farki: `412` satir
+
+- Sonuc:
+  - mevcut `title_relation_master_manuel.csv` dogru ve kullanilacak surum
+  - `title_relation_master_manuel_bozuk.csv` yanlis fallback mantigiyla uretilmis bozuk surum olarak tutuluyor
+  - bu turda ana dosyanin ustune tekrar yazilmadi; cunku dogru surum zaten geri gelmisti
+
+- Sync yorumu netlestirildi:
+  - mevcut `title_relation_master_manuel.csv`, kendi amaci bakimindan Leviathon orijinal mod `00_landed_titles.txt` ile sync icinde kabul edilir
+  - bunun anlami:
+    - dolu `mod_title_id` alanlarinin hepsi gercek Leviathon title id'leridir
+  - bunun anlami DEGIL:
+    - Leviathon tarafindaki tum dogu title rename/silme/merge backlog'u tamamen cozuldu
+  - yani dosya semantik olarak dogru ve senkron, ama tum tarihsel merge problemi bitmis sayilmaz
+
+- Bundan sonraki kural:
+  - `title_relation_master_manuel.csv` icine current/Yusseter title id fallback'i yazilmayacak
+  - `mod_title_id` sadece orijinal mod counterpart olacak
+  - current projedeki bugunku karsilik gerekiyorsa ayri rapor veya ayri kolon mantigi ile tutulacak
+
+## 2026-04-17 title_relation_master_manuel repo compare ve bozuk rebuild notlari
+
+- Bu baslikta iki repo rolu netlestirildi:
+  - degismemis/orijinal mod kaynak repo:
+    - `F:\Storage\Codding\git\Crusader Kings III\Leviathonlx MoreBookmarks-Plus\BookmarksGit`
+  - bizim proje repo:
+    - `F:\Storage\Codding\git\Crusader Kings III\Yusseter MoreBookmarksPlus\BookmarksGit`
+
+- Son title-relation turunda Leviathon repo tarafinda su yardimci araclar olusturuldu:
+  - `works/tools/refresh_title_relation_manual.py`
+  - `works/tools/compare_landed_titles_blocks.py`
+  - `works/tools/rebuild_title_relation_manual_from_repo_compare.py`
+
+- Bu araclarla ilk repo-karsilastirma raporlari uretildi:
+  - `works/analysis/generated/title_relation_mapping/repo_refresh/title_manual_refresh_summary.md`
+  - `works/analysis/generated/title_relation_mapping/repo_block_compare/landed_titles_block_compare_summary.md`
+  - `works/analysis/generated/title_relation_mapping/repo_block_compare/shared_changed_titles.csv`
+  - `works/analysis/generated/title_relation_mapping/repo_block_compare/source_only_block_titles.csv`
+  - `works/analysis/generated/title_relation_mapping/repo_block_compare/mod_only_block_titles.csv`
+  - `works/analysis/generated/title_relation_mapping/repo_current_rebuild/title_relation_manual_rebuild_summary.md`
+  - `works/analysis/generated/title_relation_mapping/repo_current_rebuild/original_mod_to_current_title_map.csv`
+
+- Repo block compare sonucu:
+  - ortak block: `17087`
+  - birebir ayni block: `16143`
+  - icerik farki olan ortak block: `944`
+  - sadece Yusseter/current repoda olan block: `2707`
+  - sadece Leviathon/orijinal modda olan block: `1479`
+- Bu karsilastirma, landed_titles merge/backlog takibi icin halen faydali kabul edilir.
+
+- Ilk manual refresh/rewriting turunda iki kolonlu temiz CSV yeniden yazim denemesi yapildi ve su sayilar raporlandi:
+  - toplam satir: `3776`
+  - dolu `mod_title_id`: `1541`
+  - gecersiz mod id: `0`
+  - semantic remap: `0`
+- Bu tur daha cok format/refresh seviyesindeydi; `mod_title_id` anlami sonradan kullanici tarafindan daha sert sekilde netlestirildi.
+
+- Sonraki rebuild denemesinde semantik hata yapildi:
+  - yanlis kural:
+    - orijinal mod title id current projede yoksa ama `source_title_id` current projede varsa, `mod_title_id` o current/source title'a cevrildi
+  - bu nedenle `mod_title_id` kolonu yanlislikla `current Yusseter title id` tasimaya basladi
+  - bu yanlis tur sonunda raporlanan sayilar:
+    - islenen dolu mod eslesmesi: `1541`
+    - aynen korunan: `1129`
+    - current title adina cevrilen: `407`
+    - bosaltilan: `5`
+- Bu deneme, bugunku anlamiyla authoritative kabul edilmez.
+
+- Bu yanlis rebuild'in cikti durumu:
+  - bozuk surum kullanici tarafinda acikca su dosyada saklandi:
+    - `title_relation_master_manuel_bozuk.csv`
+  - bozulmadan onceki dogru surum ise su dosyada korunuyor:
+    - `title_relation_master_manuel.csv`
+
+- Bozuk rebuild'in tipik hata kaniti:
+  - `source_title_id = b_youxi`
+  - current Yusseter tarafta `b_youxi` var
+  - ama Leviathon orijinal mod tarafinda gercek mod counterpart `b_youxi_china`
+  - Leviathon tarafinda `b_youxi` yok
+  - yani `mod_title_id = b_youxi` yazmak yanlis; bu kolonun anlami current title degil, orijinal mod counterpart olmali
+
+- Kullanici tarafindan son dogru recovery akisi:
+  - `title_relation_master_manuel_bozuk.csv` yanlis surum olarak ayrildi
+  - `title_relation_master_manuel.csv` dogru/pre-broken surum olarak birakildi
+  - ondan sonra ana dosya tekrar bozulmadi; once sadece dogrulama yapildi
+
+- Ana dosya icin son kesin dogrulama sayilari:
+  - `title_relation_master_manuel.csv` ile `works/map_data_sources/title_relation_master.csv` farki: `0`
+  - Leviathon orijinal mod `00_landed_titles.txt` icinde bulunmayan dolu `mod_title_id`: `0`
+  - `title_relation_master_manuel.csv` ile `title_relation_master_manuel_bozuk.csv` farki: `412` satir
+  - dolu `mod_title_id` toplamı: `1541`
+
+- Son yorum:
+  - su an kullanilacak authoritative dosya `title_relation_master_manuel.csv`
+  - `title_relation_master_manuel_bozuk.csv` sadece yanlis fallback mantigini belgeleyen bozuk ara surum
+  - `title_relation_master_manuel.csv` kendi amaci bakimindan Leviathon orijinal mod `00_landed_titles.txt` ile sync kabul edilir
+  - ama bu sync, Leviathon tarafindaki tum dogu title rename/silme/merge backlog'unun tamamen bitmis oldugu anlamina gelmez
+
+- Bundan sonraki title manual kuralı:
+  - `mod_title_id` kolonuna current/Yusseter title id fallback'i yazilmayacak
+  - bu kolonda sadece Leviathon/orijinal modda gercekten bulunan counterpart tutulacak
+  - current projedeki bugunku karsilik bilgisi lazimsa ayri rapor veya ayri alan mantigi kullanilacak
+
+## 2026-04-17 title_relation_master_manuel diff flag kolonu
+
+- `title_relation_master_manuel.csv` icindeki 3. kolon artik `mod_title_id_differs`.
+- Kural:
+  - `mod_title_id` doluysa ve `source_title_id != mod_title_id` ise 3. kolon `yes`
+  - ayni veya bos satirlarda 3. kolon bos kalir
+- Bu turdaki `mod_title_id_differs = yes` satiri: `443`
+- `works/tools/refresh_title_relation_manual.py` ve `works/tools/rebuild_title_relation_manual_from_repo_compare.py` bu kolonu koruyacak sekilde guncellendi.
+
+## 2026-04-17 title_relation_master_manuel yes cleanup
+
+- `title_relation_master_manuel.csv` icinde `mod_title_id` bos olan bazi satirlarda yanlislikla `source_title_id, yes,` formu olusmustu.
+- Bu turda kural netlestirildi:
+  - `yes/no` degeri sadece `is_same_title_id` mantiginda anlamlidir
+  - `mod_title_id` bos ise satir `source_title_id, ,` biciminde kalmali
+- Kullanici istegi geregi bu duzeltmede dosyanin `virgul + bosluk` duzeni korunarak sadece yanlis `mod_title_id = yes` metni silindi.
+- Bu turda temizlenen satir sayisi: `2229`
+
+## 2026-04-19 title_relation_master_manuel manuel mapping validator
+
+- Kullanici `title_relation_master_manuel.csv` icinde barony (`b_`) disindaki butun satirlari manuel olarak doldurdugunu belirtti.
+- Kullanici, onceki otomatik/heuristic mappinglerde benim yaptigim hatalari `title_relation_master_manuel_before_manuel.csv` icinde `#(Yusseter not: HATALI!)` ile isaretledi.
+- Cikarilan ana ders:
+  - title eslestirmede isim benzerligi tek basina kanit degildir
+  - `same id/name` bile semantik esdegerlik garantisi degildir
+  - asil kontrol zinciri tier, landed_titles parent chain, source/mod varligi, descendant/province baglami ve manuel karar olmalidir
+- Kullanici tarafindan verilen kritik hata ornekleri:
+  - `c_luzhou_2 -> c_luzhou_jin_china` yanlis; dogru baglam `c_luzhou_dongchuan_china`
+  - `d_dongchuan -> d_dongchuan` tek basina eksik/yaniltici; placeholder + asil temsil icin `d_dongchuan & d_dongchuan_china` gibi dusunulmeli
+  - `c_puzhou -> c_puzhou_china` yanlis
+  - `c_puzhou_2 -> c_puzhou_china` yanlis; dogru baglam `c_puzhou_liang_china`
+  - `c_LIAO_xianzhou -> c_xianzhou_china` yanlis; dogru baglam `c_liaoxi_china`
+  - `c_aru -> c_aru` yanlis semantik eslesme; karsilik yoksa `*there_is_no*`, gerekirse en yakin aday ayri manuel kararla yazilmali
+- Yeni kabul edilen manuel tablo kurallari:
+  - `source_title_id` Yusseter/current `common/landed_titles/00_landed_titles.txt` icinde bulunmali
+  - `mod_title_id` icindeki her gercek token Leviathon/orijinal mod `common/landed_titles/00_landed_titles.txt` icinde bulunmali
+  - `source_title_id` ve `mod_title_id` tokenlari ayni tier olmalidir
+  - `source_title_id == mod_title_id` ise ilgili `is_same_title_id` tokeni `yes`; degilse `no` olmalidir
+  - `mod_title_id` icinde `&` varsa `is_same_title_id` de token bazinda ayni sayida `yes/no` tasimalidir
+  - `*there_is_no*` gercek mod title yok anlamina gelir
+  - ayni `mod_title_id` birden fazla farkli `source_title_id` icin kullaniliyorsa normalde hatadir
+  - ayni `mod_title_id` tekrar kullanimi ancak tekrar eden kullanimlarda `(second)` varsa kabul edilebilir
+  - `(second)` history/title rewrite asamasinda tek global replace degil, gerekirse ayri hedef history block uretme sinyalidir
+  - `&` ile yazilan coklu `mod_title_id` donor gibi ele alinacak; history/script rewrite tarafinda her donor source target'a baglanacak, coa/localization icin ayni otomatik kural kullanilmayacak
+- Bu kurallari statik kontrol etmek icin yeni read-only validator eklendi:
+  - `works/tools/validate_title_relation_manual.py`
+- Validator canli tabloyu degistirmez; sadece rapor uretir.
+- Uretilen rapor klasoru:
+  - `works/analysis/generated/title_relation_manual_validation/`
+- Ana raporlar:
+  - `title_relation_manual_validation_summary.md`
+  - `title_relation_manual_validation_flags.csv`
+  - `title_relation_manual_token_detail.csv`
+  - `title_relation_manual_duplicate_mod_usage.csv`
+  - `title_relation_manual_parent_context_report.csv`
+  - `title_relation_manual_same_id_context_report.csv`
+  - `title_relation_manual_source_coverage.csv`
+  - `title_relation_manual_marked_bad_regression.csv`
+  - `title_relation_manual_high_signal_errors.csv`
+- Ilk validator sonucu:
+  - manual rows: `3777`
+  - master source ids: `3776`
+  - errors: `121`
+  - warnings: `581`
+  - info blank barony rows: `1719`
+  - marked bad regression status: `60 cleared`
+- Error dagilimi:
+  - `duplicate_mod_title_without_second`: `75`
+  - `invalid_is_same_value`: `14`
+  - `source_title_missing_in_yusseter_landed_titles`: `9`
+  - `mod_title_missing_in_leviathon_landed_titles`: `8`
+  - `is_same_token_count_mismatch`: `8`
+  - `is_same_value_incorrect`: `4`
+  - `blank_is_same_title_id`: `2`
+  - `tier_mismatch`: `1`
+- Warning dagilimi:
+  - `parent_mapping_mismatch`: `578`
+  - `source_title_duplicate_in_landed_titles`: `2`
+  - `source_title_extra_in_manual_vs_master`: `1`
+- Onemli yorum:
+  - `#(Yusseter not: HATALI!)` ile isaretlenen eski hatali mappinglerden mevcut manuel tabloda aynen kalan bulunmadi (`60 cleared`)
+  - kalan `121` error dogrudan incelenebilir aktif kontrol havuzudur
+  - `parent_mapping_mismatch` sayisi yuksek oldugu icin bu sinif otomatik hata degil, baglam-review uyarisi olarak ele alinmalidir
+  - `b_` satirlarindaki bos mappingler bu turda bilerek info seviyesinde tutuldu, cunku kullanici barony disindaki satirlari manuel doldurdugunu soyledi
+
+## 2026-04-19 title_relation high-signal cleanup sonrasi
+
+- Kullanici `title_relation_manual_high_signal_errors.csv` raporundaki hatalara gore `title_relation_master_manuel.csv` dosyasini manuel olarak duzeltti.
+- Kullanici ayrica `common/landed_titles/00_landed_titles.txt` icinde su landed_titles duzeltmelerini yaptigini bildirdi:
+  - `d_tohchen_china` -> `d_LIAO_zhongjing`
+  - `d_hiyaxu_china` -> `d_yanyun_yuyi`
+  - `c_yeongwon` icine `b_Goryeo_Bukgye_Maengju` eklendi
+  - `c_myeongju` icine `b_Goryeo_Donggye_Myeongju` eklendi
+  - `c_deungju` icine `b_Goryeo_Donggye_Deungju`, `b_Goryeo_Donggye_Uiju`, `b_Goryeo_Donggye_Hwaju` eklendi
+  - `c_nakkavaram` icine `b_muot` eklendi
+  - `c_riau` icine `b_siantan` eklendi
+  - `k_xia_china` -> `k_xia`
+- `works/tools/validate_title_relation_manual.py` tekrar calistirildi.
+- Guncel validator sonucu:
+  - manual rows: `3777`
+  - source landed title ids: `17433`
+  - mod landed title ids: `18927`
+  - master source ids: `3776`
+  - errors: `75`
+  - warnings: `584`
+  - `title_relation_manual_high_signal_errors.csv` satir sayisi: `0`
+- Guncel error dagilimi:
+  - `duplicate_mod_title_without_second`: `75`
+- Guncel warning dagilimi:
+  - `parent_mapping_mismatch`: `581`
+  - `source_title_duplicate_in_landed_titles`: `2`
+  - `source_title_extra_in_manual_vs_master`: `1`
+- `#(Yusseter not: HATALI!)` regression raporu halen temiz:
+  - `cleared: 60`
+- Pratik sonuc:
+  - high-signal mekanik hatalar kapandi
+  - kalan aktif hata havuzu artik duplicate mod title / `(second)` isaretleme meselesi
+  - parent mismatch raporu halen baglam-review uyarisi olarak duruyor, otomatik hata kabul edilmemeli
+- `common/landed_titles/00_landed_titles.txt` degistigi icin proje kuralina gore `test_files/common/landed_titles/00_landed_titles.txt` canli dosyayla senkronlandi.
+- Senkron sonrasi SHA256:
+  - `common/landed_titles/00_landed_titles.txt`: `9648D1918282B9BFB64FD6EAA2ADFE9D6C4DF3E2D688167B2CF0040E47AF5394`
+  - `test_files/common/landed_titles/00_landed_titles.txt`: `9648D1918282B9BFB64FD6EAA2ADFE9D6C4DF3E2D688167B2CF0040E47AF5394`
+  - hash match: `yes`
+
+## 2026-04-19 Mask Tabanli Dogu Title Scope Cikarimi
+
+- Onceki title kapsam problemi netlesti: `title_relation_master.csv` dogu source seti root-list bazli oldugu icin `e_mongolia > k_gobi > d_gobi_dadaels > c_em_dadaels` gibi mask icindeki dogu title'lari kapsam disi kalabiliyordu.
+- Yeni kural:
+  - Dogu title kapsami elle root listesinden degil, `works/map_data_sources/provinces_birlesim_dogu 2026-04-19.png` icindeki non-black RGB'lerden cikarilacak.
+  - RGB -> province id eslesmesi `map_data/definition.csv` uzerinden yapilacak.
+  - Province id -> title hiyerarsisi current `common/landed_titles/00_landed_titles.txt` icindeki `province = <id>` baglarindan cikarilacak.
+  - Hiyerarsi cikarilirken `b_` barony title'lari ana comparison dosyasina dahil edilmeyecek.
+  - Dahil edilen title bloklarindaki `capital = c_*` county referanslari da mask scope'a eklenecek.
+- Yeni arac eklendi:
+  - `works/tools/build_east_title_scope_from_province_mask.py`
+- Bu arac mevcut `title_relation_master_manuel.csv` dosyasini degistirmiyor; ayri rapor uretiyor.
+- Uretilen cikti klasoru:
+  - `works/analysis/generated/title_relation_manual_validation/mask_east_scope/`
+- Ana comparison dosyasi:
+  - `works/analysis/generated/title_relation_manual_validation/mask_east_scope/title_relation_master_manuel_mask_east_scope.csv`
+- Diger raporlar:
+  - `mask_east_scope_titles.csv`
+  - `mask_east_scope_provinces.csv`
+  - `mask_east_scope_unmatched_rgb.csv`
+  - `mask_east_scope_unbound_provinces.csv`
+  - `mask_east_scope_summary.md`
+- Ilk calistirma sonucu:
+  - non-black mask RGB: `4813`
+  - definition ile eslesen mask province: `4813`
+  - unmatched RGB: `0`
+  - landed_titles baglantisi olmayan/unbound province: `1978`
+  - mask tabanli non-barony title: `1222`
+  - manual CSV non-barony title: `1098`
+  - `added_by_mask`: `158`
+  - `removed_by_mask`: `34`
+  - degismeyen: `1064`
+- `c_em_dadaels` yeni algoritmayla dogru sekilde `added_by_mask` olarak yakalandi.
+- `c_em_dadaels` path'i:
+  - `e_mongolia > k_gobi > d_gobi_dadaels > c_em_dadaels`
+- Bu sonuc, onceki `eksik yok` yorumunun sadece eski `title_relation_master.csv` source setine gore gecerli oldugunu; live mask tabanli dogu kapsaminda eksikler oldugunu gosterdi.
+
+## 2026-04-20 Mask Scope Manual-Like Cikti
+
+- `works/tools/build_east_title_scope_from_province_mask.py` genisletildi.
+- Artik detayli comparison dosyasina ek olarak manual tablo mantigina yakin dort kolonlu bir dosya uretiyor:
+  - `works/analysis/generated/title_relation_manual_validation/mask_east_scope/title_relation_master_manuel_mask_scope_manual_like.csv`
+- Bu dosya `title_relation_master_manuel.csv` dosyasini degistirmez.
+- Kolonlar:
+  - `source_title_id`
+  - `mod_title_id`
+  - `is_same_title_id`
+  - `mask_scope_change`
+- Satir mantigi:
+  - mevcut manual non-barony satirlarinin sirasi korunur
+  - mask kapsaminda da kalanlarda `mask_scope_change` bos kalir
+  - mevcut manualde olup mask kapsaminda olmayanlarda `removed_by_mask` yazilir
+  - mask kapsaminda olup manualde olmayan title'lar dosyanin en altina eklenir ve `added_by_mask` yazilir
+  - `b_` barony title'lari bu dosyaya dahil edilmez
+- Son calistirma sayilari degismedi:
+  - mask tabanli non-barony title: `1222`
+  - manual CSV non-barony title: `1098`
+  - `added_by_mask`: `158`
+  - `removed_by_mask`: `34`
+  - degismeyen: `1064`
+
+## 2026-04-20 Reverse Capital Scope Duzeltmesi
+
+- Mask tabanli title scope algoritmasinda eksik kural tespit edildi:
+  - mask kapsamindaki bir `c_*` county, baska bir title tarafindan `capital = c_*` olarak kullaniliyorsa, o capital owner title ve parent zinciri de dogu scope'a dahil edilmeli.
+- Ornek problem:
+  - `c_BOR_brunei` mask kapsaminda ve current hiyerarside `e_nusantara > k_tanjungnagara > d_BOR_barune > c_BOR_brunei` altinda.
+  - Ama `e_brunei` ve `k_brunei` sadece `capital = c_BOR_brunei` uzerinden bu county'ye bagliydi.
+  - Onceki algoritma reverse capital bakmadigi icin `e_brunei` ve `k_brunei` hatali olarak `removed_by_mask` gorunuyordu.
+- `works/tools/build_east_title_scope_from_province_mask.py` icine reverse capital kurali eklendi:
+  - `included c_* -> capital_owners_by_county[c_*] -> owner title + ancestors`
+  - reason etiketi: `reverse_capital_owner_of:<county>`
+- Yeniden uretilen raporlarda duzelen ornekler:
+  - `e_brunei` artik `removed_by_mask` degil, reason: `reverse_capital_owner_of:c_BOR_brunei`
+  - `k_brunei` artik `removed_by_mask` degil, reason: `reverse_capital_owner_of:c_BOR_brunei`
+  - `e_minister_of_revenue` artik `removed_by_mask` degil, reason: `reverse_capital_owner_of:c_jingzhao`
+- Reverse capital sonrasi guncel sayilar:
+  - mask tabanli non-barony title: `1388`
+  - manual CSV non-barony title: `1098`
+  - `added_by_mask`: `309`
+  - `removed_by_mask`: `19`
+  - degismeyen: `1079`
+  - manual-like toplam satir: `1407`
+
+## 2026-04-20 Forward Capital Kurali Kaldirildi
+
+- Kullanici kuralin yanlis yorumlandigini netlestirdi:
+  - Istenen kural `title scope'taysa capital county de scope'tadir` degil.
+  - Istenen kural yalnizca `capital county scope'taysa, bu county'yi capital kullanan title da scope'tadir`.
+- Bu nedenle `works/tools/build_east_title_scope_from_province_mask.py` icindeki forward capital kurali kaldirildi.
+- Kalan dogru capital kurali:
+  - `included c_* -> capital_owners_by_county[c_*] -> owner title + ancestors`
+  - reason etiketi: `reverse_capital_owner_of:<county>`
+- Bu duzeltme sonrasi:
+  - `c_delhi`, artik sadece `h_india capital = c_delhi` oldugu icin otomatik eklenmiyor.
+  - `e_red_horde` ve `e_black_horde` gibi `capital = c_delhi` kaynakli fazla title'lar manual-like scope dosyasindan cikti.
+  - `e_brunei` ve `k_brunei` scope'ta kalmaya devam ediyor; cunku `c_BOR_brunei` gercek `province_path` ile mask kapsaminda ve bu title'lar `capital = c_BOR_brunei` kullaniyor.
+  - `e_minister_of_revenue` scope'ta kalmaya devam ediyor; cunku `c_jingzhao` gercek `province_path` ile mask kapsaminda ve bu title `capital = c_jingzhao` kullaniyor.
+- Forward capital kaldirildiktan sonraki guncel sayilar:
+  - mask tabanli non-barony title: `1327`
+  - manual CSV non-barony title: `1098`
+  - `added_by_mask`: `250`
+  - `removed_by_mask`: `21`
+  - degismeyen: `1077`
+  - manual-like toplam satir: `1348`
+
+## 2026-04-20 Landed Titles County Source Audit
+
+- Kullanici `00_landed_titles.txt` uretiminde kaynak secimi hatasi olabilecegini `c_yumen` ornegiyle tespit etti.
+- Ornek:
+  - current `common/landed_titles/00_landed_titles.txt` icinde `c_yumen` current blok vanilla `02_china.txt` ile birebir ayni.
+  - Leviathon mod kaynak `c_yumen` blogu farkli barony isimleri/kurgusu tasiyor.
+  - `b_jinshan = province 9491`.
+  - `definition.csv` icinde `9491` RGB: `51,144,173`, name: `Chijin`.
+  - Bu RGB `provinces_birlesim_dogu 2026-04-19.png` icinde yok, `provinces_modlu_kalan.png` icinde var.
+  - Yani `c_yumen` icin beklenen kaynak `mod`, ama current blok `vanilla_exact`.
+- Bu sinifi toplu yakalamak icin yeni arac eklendi:
+  - `works/tools/audit_landed_title_county_source_from_map.py`
+- Audit mantigi:
+  - current `00_landed_titles.txt` icindeki her `c_*` county blogu parse edilir.
+  - county altindaki `province = <id>` degerleri `definition.csv` ile RGB'ye cevrilir.
+  - RGB'ler `provinces_birlesim_dogu 2026-04-19.png` ve `provinces_modlu_kalan.png` maskeleriyle siniflandirilir.
+  - county icindeki province'ler tamamen dogu maskesindeyse `expected_source = vanilla`.
+  - tamamen mod kalan maskesindeyse `expected_source = mod`.
+  - karisik veya belirsiz durumlar `mixed/unknown/manual_review` olur.
+  - current county block, vanilla landed_titles klasorundeki county block ve Leviathon mod landed_titles klasorundeki county block ile normalize edilerek karsilastirilir.
+- Uretilen rapor klasoru:
+  - `works/analysis/generated/landed_titles_source_audit/`
+- Uretilen dosyalar:
+  - `county_source_audit.csv`
+  - `county_source_high_signal_mismatches.csv`
+  - `county_source_manual_review.csv`
+  - `county_source_province_detail.csv`
+  - `county_source_audit_summary.md`
+- Ilk calistirma sonucu:
+  - county rows: `3610`
+  - province rows: `11551`
+  - high-signal mismatch: `33`
+  - manual/review rows: `287`
+- Audit status dagilimi:
+  - `ok`: `3287`
+  - `review:expected_vanilla_source_not_exact`: `240`
+  - `manual_review:mixed`: `29`
+  - `mismatch:expected_mod_current_vanilla`: `24`
+  - `manual_review:unknown`: `16`
+  - `mismatch:expected_vanilla_current_mod`: `9`
+  - `skip:no_provinces`: `3`
+  - `review:expected_mod_source_not_exact`: `2`
+- `c_yumen` raporda beklenen sekilde yakalandi:
+  - `audit_status = mismatch:expected_mod_current_vanilla`
+  - `expected_source = mod`
+  - `current_block_source = vanilla_exact`
+  - `province_sources = mod_kalan | mod_kalan | mod_kalan`
+  - vanilla best match: `02_china.txt:2833`, similarity `1.000000`
+  - mod best match: Leviathon `00_landed_titles.txt:99436`, similarity `0.625954`
+
+## 2026-04-21 County Source Fix Plan Raporu
+
+- `works/tools/audit_landed_title_county_source_from_map.py` genisletildi.
+- Arac artik county source audit raporlarina ek olarak uygulanacak/uygulanmayacak adaylari ayiran fix plan da uretiyor.
+- Yeni uretilen dosyalar:
+  - `works/analysis/generated/landed_titles_source_audit/county_source_fix_plan.csv`
+  - `works/analysis/generated/landed_titles_source_audit/county_source_fix_plan_summary.md`
+- `county_source_fix_plan.csv` kolonlari:
+  - `county_id`
+  - `action`
+  - `expected_source`
+  - `current_block_source`
+  - `source_block_path`
+  - `confidence`
+  - `reason`
+- Action kurallari:
+  - `no_action`: mevcut county block beklenen kaynak sinifiyla uyumlu.
+  - `replace_with_mod_block`: province maskesine gore beklenen kaynak `mod`, current block `vanilla_exact`, Leviathon mod kaynakta ayni county icin kaynak block mevcut.
+  - `replace_with_vanilla_block`: province maskesine gore beklenen kaynak `vanilla`, current block `mod_exact`; bu ters yon adaylari otomatik uygulanmadan once manuel kontrol gerektirir.
+  - `manual_review`: mixed/unknown/review durumlari veya beklenen kaynak blocku bulunamayan mismatch durumlari.
+- 2026-04-21 yeniden calistirma sonucu:
+  - county rows: `3610`
+  - province rows: `11551`
+  - high-signal mismatch: `33`
+  - audit `ok`: `3204`
+  - audit `review:expected_vanilla_source_not_exact`: `245`
+  - audit `review:expected_mod_source_not_exact`: `80`
+  - audit `manual_review:mixed`: `29`
+  - audit `mismatch:expected_mod_current_vanilla`: `24`
+  - audit `manual_review:unknown`: `16`
+  - audit `mismatch:expected_vanilla_current_mod`: `9`
+  - audit `skip:no_provinces`: `3`
+- Fix plan action dagilimi:
+  - `no_action`: `3204`
+  - `manual_review`: `383`
+  - `replace_with_mod_block`: `14`
+  - `replace_with_vanilla_block`: `9`
+- `replace_with_mod_block` adaylari:
+  - `c_liangzhou`
+  - `c_fanhe`
+  - `c_kuozhou`
+  - `c_qilin`
+  - `c_yalong`
+  - `c_ganzhou`
+  - `c_yumen`
+  - `c_shazhou`
+  - `c_guazhou`
+  - `c_zhenfan`
+  - `c_alxa`
+  - `c_wentugaole`
+  - `c_heihe`
+  - `c_mazongshan`
+- `replace_with_vanilla_block` adaylari:
+  - `c_golag`
+  - `c_zogang`
+  - `c_gyaitang`
+  - `c_lenggu`
+  - `c_sungqu`
+  - `c_zoige`
+  - `c_quqen`
+  - `c_lhagang`
+  - `c_tewo`
+- Not:
+  - Bu turda `common/landed_titles/00_landed_titles.txt` veya `test_files/common/landed_titles/00_landed_titles.txt` degistirilmedi.
+  - Bir sonraki guvenli uygulama adimi yalnizca `replace_with_mod_block` satirlarini, kullanici onayi sonrasinda, current county blocklari Leviathon mod kaynak blocklariyla degistirmek olmali.
+  - `replace_with_vanilla_block` ters yon adaylari ozellikle Tibet/Himalaya gibi sinir/mod-canonical ihtimali olan bolgelerde manuel kontrol edilmeden uygulanmamali.
+
+## 2026-04-21 County Source Replace With Mod Block Uygulamasi
+
+- `works/tools/apply_county_source_fix_plan.py` eklendi.
+- Bu arac:
+  - `county_source_fix_plan.csv` icinden varsayilan olarak yalnizca `action = replace_with_mod_block` satirlarini alir.
+  - `--apply` verilmezse sadece preview raporu uretir.
+  - `--apply` verilirse hem `common/landed_titles/00_landed_titles.txt` hem `test_files/common/landed_titles/00_landed_titles.txt` icindeki ilgili county blocklarini ayni kaynak block ile degistirir.
+  - source blocklari `source_block_path` kolonundaki Leviathon mod landed_titles path/line bilgisinden alir.
+  - source block indentation'i target county indentation'ina uyarlar.
+- Dry-run preview sonucu:
+  - dosya: `works/analysis/generated/landed_titles_source_audit/county_source_replace_with_mod_block_preview.csv`
+  - preview rows: `14`
+  - status: `ok = 14`
+  - current/test blocklari uygulama oncesi ayniydi: `current_equals_test_before = yes` for `14`
+- `--apply` ile uygulanan county blocklari:
+  - `c_liangzhou`
+  - `c_fanhe`
+  - `c_kuozhou`
+  - `c_qilin`
+  - `c_yalong`
+  - `c_ganzhou`
+  - `c_yumen`
+  - `c_shazhou`
+  - `c_guazhou`
+  - `c_zhenfan`
+  - `c_alxa`
+  - `c_wentugaole`
+  - `c_heihe`
+  - `c_mazongshan`
+- Apply raporu:
+  - `works/analysis/generated/landed_titles_source_audit/county_source_replace_with_mod_block_apply_report.csv`
+  - applied rows: `14`
+  - apply report status: `ok = 14`
+- Uygulama sonrasi live/test landed_titles hash esitlendi:
+  - `common/landed_titles/00_landed_titles.txt` SHA256: `E3230CB8C5B77E98017673A53D5E342DAF4D65C97CBF8682AF34CA8064791E15`
+  - `test_files/common/landed_titles/00_landed_titles.txt` SHA256: `E3230CB8C5B77E98017673A53D5E342DAF4D65C97CBF8682AF34CA8064791E15`
+- County source audit tekrar calistirildi.
+- Uygulama sonrasi audit ozeti:
+  - county rows: `3610`
+  - province rows: `11551`
+  - high-signal mismatch: `19`
+  - audit `ok`: `3218`
+  - audit `review:expected_vanilla_source_not_exact`: `245`
+  - audit `review:expected_mod_source_not_exact`: `80`
+  - audit `manual_review:mixed`: `29`
+  - audit `manual_review:unknown`: `16`
+  - audit `mismatch:expected_mod_current_vanilla`: `10`
+  - audit `mismatch:expected_vanilla_current_mod`: `9`
+  - audit `skip:no_provinces`: `3`
+- Fix plan action dagilimi uygulama sonrasinda:
+  - `no_action`: `3218`
+  - `manual_review`: `383`
+  - `replace_with_vanilla_block`: `9`
+  - `replace_with_mod_block`: `0`
+- `c_yumen` artik temiz:
+  - `audit_status = ok`
+  - `expected_source = mod`
+  - `current_block_source = mod_exact`
+  - `province_ids = 9491 9487 9492`
+  - `province_sources = mod_kalan | mod_kalan | mod_kalan`
+  - `mod_exact = yes`
+  - `mod_similarity = 1.000000`
+- `works/tools/validate_east_mapping_pipeline.ps1` uygulama sonrasinda exit code `0` ile calisti, fakat mevcut repo durumunda validation finding kaldi:
+  - `landed_titles live/test hash match = yes`
+  - `validation errors = 6`
+  - `validation warnings = 0`
+  - `missing playable province titles = 1`
+- Kalan validator hatalari uygulanan 14 county source replacement kapsaminda degil:
+  - `b_muot`: non-land province ID `12781`
+  - `b_siantan`: non-land province ID `12782`
+  - `b_Goryeo_Donggye_Uiju`: non-land province ID `12777`
+  - `b_Goryeo_Bukgye_Maengju`: non-land province ID `12780`
+  - `b_Goryeo_Donggye_Hwaju`: non-land province ID `12785`
+  - missing playable province title: province `12154`, expected title `b_dingzhou_anxi`
+- Not:
+  - Bu turda `replace_with_vanilla_block` satirlari uygulanmadi.
+  - Kalan 10 `mismatch:expected_mod_current_vanilla` satiri mod kaynakta ayni county id ile block bulunamadigi icin manual review sinifinda kaldi.
+  - Siradaki teknik is ya kalan validator hatalarini ayri ele almak ya da county source audit icin higher-tier `d_/k_/e_/h_` rollup raporu uretmek olmali.
+
+## 2026-04-21 Default Map Impassable Range Split
+
+- `map_data/default.map` ve `test_files/map_data/default.map` birlikte guncellendi.
+- `TECH PLACEHOLDER PROVINCES` icindeki iki impassable range split edildi:
+  - eski: `RANGE { 12774 12782 }`
+  - eski: `RANGE { 12784 12793 }`
+  - yeni: `RANGE { 12774 12776 }`
+  - yeni: `RANGE { 12778 12779 }`
+  - yeni: `LIST { 12784 }`
+  - yeni: `RANGE { 12786 12793 }`
+- Boylece baronylerde kullanilan su province ID'ler artik `impassable_mountains` icinde kalmiyor:
+  - `12777`
+  - `12780`
+  - `12781`
+  - `12782`
+  - `12785`
+- Canli dosyada daha once yapilmis olan `12773` ve `12783` impassable list cikarimi `test_files` tarafina da tasindi; iki `default.map` dosyasinin ilgili diff'i esitlendi.
+- `works/tools/validate_east_mapping_pipeline.ps1` tekrar calistirildi.
+- Validator sonucu:
+  - `landed_titles live/test hash match = yes`
+  - `validation errors = 1`
+  - `validation warnings = 0`
+  - `missing playable province titles = 1`
+- Kapanan hatalar:
+  - `b_muot`: non-land province ID `12781`
+  - `b_siantan`: non-land province ID `12782`
+  - `b_Goryeo_Donggye_Uiju`: non-land province ID `12777`
+  - `b_Goryeo_Bukgye_Maengju`: non-land province ID `12780`
+  - `b_Goryeo_Donggye_Hwaju`: non-land province ID `12785`
+- Kalan tek validator hatasi:
+  - province `12154`, expected landed title `b_dingzhou_anxi`
+
+## 2026-04-21 Province 12154 Missing Title Fix
+
+- Kalan validator hatasi `12154 -> b_dingzhou_anxi` cozuldu.
+- Kaynak durum:
+  - `map_data/definition.csv` ve `test_files/map_data/definition.csv` icinde province `12154` adi `b_dingzhou_anxi`.
+  - `common/landed_titles/00_landed_titles.txt` ve `test_files/common/landed_titles/00_landed_titles.txt` icinde `c_dingzhou` altinda bu province daha once `b_anxi` title id'si ile duruyordu.
+  - Baska bir `b_anxi` zaten `c_guazhou` altinda province `9482` icin kullaniliyor.
+- Uygulanan duzeltme:
+  - `c_dingzhou` altindaki `province = 12154` barony title id'si `b_anxi` -> `b_dingzhou_anxi` olarak rename edildi.
+  - Degisiklik hem live landed_titles hem `test_files` landed_titles icin yapildi.
+  - `localization/replace/english/z_MB_titles_l_english.yml` icine `b_dingzhou_anxi: "Ānxī"` eklendi.
+  - `c_guazhou` altindaki `b_anxi = { #Guazhou }` korunarak birakildi.
+- Son validator sonucu:
+  - `landed_titles live/test hash match = yes`
+  - `missing playable province titles = 0`
+  - `validation errors = 0`
+  - `validation warnings = 0`
+- Son landed_titles SHA256:
+  - `common/landed_titles/00_landed_titles.txt`: `A45AF6C4719A7886FBE5119409339AFA467EA9CCFC9B77B36BB19AD647F48FFA`
+  - `test_files/common/landed_titles/00_landed_titles.txt`: `A45AF6C4719A7886FBE5119409339AFA467EA9CCFC9B77B36BB19AD647F48FFA`
+
+## 2026-04-21 County Source Manual Worklist CSV
+
+- County source audit `b_dingzhou_anxi` rename sonrasi tekrar calistirildi.
+- Yeni audit ozeti:
+  - county rows: `3610`
+  - high signal mismatches: `19`
+  - manual/review rows: `370`
+- Sadece CSV ureten yeni arac eklendi:
+  - `works/tools/build_county_source_manual_worklist.py`
+- Uretilen dosya:
+  - `works/analysis/generated/landed_titles_source_audit/county_source_manual_worklist.csv`
+- CSV kolonlari:
+  - `county_id`
+  - `action_suggestion`
+  - `audit_status`
+  - `current_parent`
+  - `current_line`
+  - `expected_source`
+  - `current_block_source`
+  - `province_ids`
+  - `province_names`
+  - `source_file`
+  - `similarity`
+  - `reason`
+- CSV icerigi:
+  - `no_action` satirlari dahil edilmedi.
+  - toplam rows: `392`
+  - `replace_with_vanilla_block`: `9`
+  - `manual_review`: `383`
+- Audit status dagilimi:
+  - `manual_review:mixed`: `29`
+  - `manual_review:unknown`: `16`
+  - `mismatch:expected_mod_current_vanilla`: `10`
+  - `mismatch:expected_vanilla_current_mod`: `9`
+  - `review:expected_mod_source_not_exact`: `80`
+  - `review:expected_vanilla_source_not_exact`: `245`
+  - `skip:no_provinces`: `3`
+- Not:
+  - `c_dingzhou` validator hatasi olarak kapandi, fakat county source worklist'te `review:expected_vanilla_source_not_exact` olarak kaldi.
+  - `c_dingzhou` satiri artik `province_names = b_dingzhou_anxi | b_dingzhou_wangdu` gosteriyor.
+
+## 2026-04-21 County Source Manual Worklist Sadelestirme
+
+- Kullanici manuel duzenleme icin onceki CSV'nin okunabilir olmadigini belirtti.
+- `works/tools/build_county_source_manual_worklist.py` sade 4 kolonlu cikti verecek sekilde guncellendi.
+- Yeni `county_source_manual_worklist.csv` kolonlari:
+  - `county_id`
+  - `current_source`
+  - `expected_source`
+  - `status`
+- `current_source`, fix plan icindeki `current_block_source` alanindan geliyor.
+- `expected_source`, fix plan icindeki `expected_source` alanindan geliyor.
+- Uzun audit durumlari kisa `status` degerlerine indirildi:
+  - `mismatch:*` -> `mismatch`
+  - `review:*` -> `review`
+  - `manual_review:mixed` -> `mixed`
+  - `manual_review:unknown` -> `unknown`
+  - `skip:*` -> `skip`
+- CSV tekrar uretildi:
+  - toplam rows: `392`
+  - `mismatch`: `19`
+  - `review`: `325`
+  - `mixed`: `29`
+  - `unknown`: `16`
+  - `skip`: `3`
+- `no_action` satirlari halen CSV'ye dahil degil.
+
+## 2026-04-21 Leviathon Cultural Names Controlled Merge
+
+- Leviathon kaynak dosya:
+  - `F:\Storage\Codding\git\Crusader Kings III\Leviathonlx MoreBookmarks-Plus\BookmarksGit\common\landed_titles\00_landed_titles.txt`
+- Hedef dosyalar:
+  - `common/landed_titles/00_landed_titles.txt`
+  - `test_files/common/landed_titles/00_landed_titles.txt`
+- Dogrudan `Namelist_script.py` calistirilmadi; onun yerine path bazli controlled merge araci eklendi:
+  - `works/tools/merge_landed_titles_cultural_names_from_source.py`
+- Arac yalnizca ayni title path'teki mevcut `cultural_names` bloklarinda Leviathon'da olup hedefte eksik olan su key/value satirlarini ekler:
+  - `name_list_persian_turkish_anatolian`
+  - `name_list_turkish`
+- Karsilastirma key bazli degil, key+value bazli yapildi. Bu nedenle `b_cratea` gibi kaynakta ayni key'in iki farkli value ile tekrarlandigi bloklarda iki value da korundu:
+  - `cn_krateia`
+  - `cn_gerede`
+- Dry-run/apply raporlari:
+  - `works/analysis/generated/landed_titles_cultural_names_merge/cultural_names_missing_from_source.csv`
+  - `works/analysis/generated/landed_titles_cultural_names_merge/cultural_names_apply_live.csv`
+  - `works/analysis/generated/landed_titles_cultural_names_merge/cultural_names_apply_test.csv`
+  - `works/analysis/generated/landed_titles_cultural_names_merge/cultural_names_postcheck_live.csv`
+  - `works/analysis/generated/landed_titles_cultural_names_merge/cultural_names_postcheck_test.csv`
+- Uygulanan satir sayisi:
+  - live landed_titles: `528`
+  - test_files landed_titles: `528`
+- Eklenen key dagilimi:
+  - `name_list_persian_turkish_anatolian`: `265`
+  - `name_list_turkish`: `263`
+- Postcheck sonucu:
+  - live will_add: `0`
+  - test will_add: `0`
+- Son landed_titles SHA256:
+  - `common/landed_titles/00_landed_titles.txt`: `6737B09C139DE6FCEA45BE1BB90ECDE367589991785A5D7D7A2B7C77F5A0290C`
+  - `test_files/common/landed_titles/00_landed_titles.txt`: `6737B09C139DE6FCEA45BE1BB90ECDE367589991785A5D7D7A2B7C77F5A0290C`
+- `works/tools/validate_east_mapping_pipeline.ps1` tekrar calistirildi:
+  - `landed_titles live/test hash match = yes`
+  - `missing playable province titles = 0`
+  - `validation errors = 0`
+  - `validation warnings = 0`
+- County source audit ve sade manual worklist tekrar uretildi.
+- Cultural names merge sonrasi fix plan dagilimi:
+  - `no_action`: `3296`
+  - `manual_review`: `305`
+  - `replace_with_vanilla_block`: `9`
+- Sade `county_source_manual_worklist.csv` son dagilim:
+  - toplam rows: `314`
+  - `mismatch`: `19`
+  - `review`: `247`
+  - `mixed`: `29`
+  - `unknown`: `16`
+  - `skip`: `3`
